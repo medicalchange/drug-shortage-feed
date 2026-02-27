@@ -9,6 +9,7 @@ loadEnv();
 const DATA_DIR = path.resolve('data');
 const SEED_FILE = path.join(DATA_DIR, 'seed-cache.json');
 const META_FILE = path.join(DATA_DIR, 'seed-meta.json');
+const HISTORY_LIMIT = 14;
 
 function toIso(value) {
   const d = new Date(value);
@@ -52,8 +53,17 @@ async function readJson(filePath, fallback) {
   }
 }
 
+function buildHistory(previousMeta, nextEntry) {
+  const existing = Array.isArray(previousMeta?.addedHistory) ? previousMeta.addedHistory : [];
+  return [nextEntry, ...existing].slice(0, HISTORY_LIMIT);
+}
+
 async function main() {
-  const previousSeed = await readJson(SEED_FILE, []);
+  const [previousSeed, previousMeta] = await Promise.all([
+    readJson(SEED_FILE, []),
+    readJson(META_FILE, {})
+  ]);
+
   const all = await fetchAllShortages();
   const seed = buildSeed(all);
   const previousCondensed = toCondensedRows(Array.isArray(previousSeed) ? previousSeed : []);
@@ -61,17 +71,30 @@ async function main() {
   const previousNames = new Set(previousCondensed.map((row) => row.drug.toLowerCase()));
   const addedDrugs = currentCondensed.filter((row) => !previousNames.has(row.drug.toLowerCase()));
 
-  const meta = {
-    refreshedAt: new Date().toISOString(),
-    count: seed.length,
+  const refreshedAt = new Date().toISOString();
+  const historyEntry = {
+    refreshedAt,
     addedDrugsCount: addedDrugs.length,
     addedDrugs
+  };
+
+  const meta = {
+    refreshedAt,
+    count: seed.length,
+    addedDrugsCount: addedDrugs.length,
+    addedDrugs,
+    addedHistory: buildHistory(previousMeta, historyEntry)
   };
 
   await writeJson(SEED_FILE, seed);
   await writeJson(META_FILE, meta);
 
-  console.log(JSON.stringify(meta));
+  console.log(JSON.stringify({
+    refreshedAt: meta.refreshedAt,
+    count: meta.count,
+    addedDrugsCount: meta.addedDrugsCount,
+    historyCount: meta.addedHistory.length
+  }));
 }
 
 main().catch((error) => {

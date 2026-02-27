@@ -52,6 +52,7 @@ Optional:
     - `source` (`seed-cache`)
     - `addedDrugsCount` (number of newly added drugs since prior seed refresh)
     - `addedDrugs` (list of those newly added drugs with doses + ETA)
+    - `addedHistory` (last 14 refreshes with added-drug snapshots)
   - Intended for public website consumption.
 
 ### Common query params
