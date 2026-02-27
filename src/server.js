@@ -17,6 +17,8 @@ const PORT = Number(process.env.PORT || 8080);
 const PUBLIC_DIR = path.resolve('public');
 
 let isSyncInProgress = false;
+let syncStartedAt = 0;
+const STALE_SYNC_MS = 10 * 60 * 1000;
 
 async function ensureCacheWarm() {
   const cached = await loadCache();
@@ -171,11 +173,18 @@ async function serveStatic(res, pathname) {
 }
 
 async function syncShortages() {
+  // Recover from stale in-memory lock (e.g., long-hung upstream call).
+  if (isSyncInProgress && Date.now() - syncStartedAt > STALE_SYNC_MS) {
+    isSyncInProgress = false;
+    syncStartedAt = 0;
+  }
+
   if (isSyncInProgress) {
     return { skipped: true, reason: 'sync already in progress' };
   }
 
   isSyncInProgress = true;
+  syncStartedAt = Date.now();
   try {
     const [state, previousCache] = await Promise.all([loadState(), loadCache()]);
     const latest = await fetchAllShortages();
@@ -210,6 +219,7 @@ async function syncShortages() {
     };
   } finally {
     isSyncInProgress = false;
+    syncStartedAt = 0;
   }
 }
 
