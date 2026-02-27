@@ -18,10 +18,14 @@ import {
 loadEnv();
 const PORT = Number(process.env.PORT || 8080);
 const PUBLIC_DIR = path.resolve('public');
+const SEED_SNAPSHOT_TTL_MS = 60 * 1000;
+const CONDENSED_RESPONSE_TTL_MS = 5 * 60 * 1000;
 
 let isSyncInProgress = false;
 let syncStartedAt = 0;
 const STALE_SYNC_MS = 10 * 60 * 1000;
+let seedSnapshot = { loadedAt: 0, seed: [], seedMeta: {} };
+const condensedResponseCache = new Map();
 
 async function ensureCacheWarm() {
   const cached = await loadCache();
@@ -86,6 +90,30 @@ function sendFile(res, status, contentType, content) {
     'Access-Control-Allow-Origin': '*'
   });
   res.end(content);
+}
+
+function getCondensedCacheKey(searchParams) {
+  const status = (searchParams.get('status') || '').trim().toLowerCase();
+  const type = (searchParams.get('type') || '').trim().toLowerCase();
+  const resolved = (searchParams.get('resolved') || '').trim().toLowerCase();
+  const requireEta = (searchParams.get('require_eta') || '').trim().toLowerCase();
+  const limit = getSafeLimit(searchParams, 500, 5000);
+  return JSON.stringify({ status, type, resolved, requireEta, limit });
+}
+
+async function getSeedSnapshot() {
+  const now = Date.now();
+  if (now - seedSnapshot.loadedAt < SEED_SNAPSHOT_TTL_MS) {
+    return seedSnapshot;
+  }
+
+  const [seed, seedMeta] = await Promise.all([loadSeedCache(), loadSeedMeta()]);
+  seedSnapshot = {
+    loadedAt: now,
+    seed,
+    seedMeta
+  };
+  return seedSnapshot;
 }
 
 async function serveStatic(res, pathname) {
@@ -206,18 +234,35 @@ async function handler(req, res) {
     }
 
     if (req.method === 'GET' && pathname === '/api/shortages/condensed') {
+      const key = getCondensedCacheKey(url.searchParams);
+      const cached = condensedResponseCache.get(key);
+      if (cached && Date.now() - cached.ts < CONDENSED_RESPONSE_TTL_MS) {
+        sendJson(res, 200, cached.payload);
+        return;
+      }
+
       // Serve daytime requests from nightly seed snapshot for stability.
-      const [seed, seedMeta] = await Promise.all([loadSeedCache(), loadSeedMeta()]);
+      const { seed, seedMeta } = await getSeedSnapshot();
       const safeLimit = getSafeLimit(url.searchParams, 500, 5000);
       const filtered = filterRecords(seed, url.searchParams);
       const condensed = toCondensedRows(filtered);
-      sendJson(res, 200, {
+      const payload = {
         count: condensed.length,
         refreshedAt: seedMeta.refreshedAt || null,
         source: 'seed-cache',
         addedDrugsCount: Number(seedMeta.addedDrugsCount || 0),
         addedDrugs: Array.isArray(seedMeta.addedDrugs) ? seedMeta.addedDrugs : [],
         results: condensed.slice(0, safeLimit)
+      };
+
+      condensedResponseCache.set(key, { ts: Date.now(), payload });
+      if (condensedResponseCache.size > 25) {
+        const firstKey = condensedResponseCache.keys().next().value;
+        if (firstKey) condensedResponseCache.delete(firstKey);
+      }
+
+      sendJson(res, 200, {
+        ...payload
       });
       return;
     }
