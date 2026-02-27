@@ -72,11 +72,25 @@ function toDoseValues(value) {
     .filter(Boolean);
 }
 
+function normalizeDrugName(value) {
+  let out = String(value || '').trim();
+  if (!out) return 'Unnamed product';
+
+  // Remove everything before first "-" (brand/manufacturer prefix), e.g. "APO-RAMIPRIL" -> "RAMIPRIL".
+  if (out.includes('-')) {
+    out = out.replace(/^[^-]+-\s*/, '');
+  }
+
+  // Remove leading "APO" prefix with optional space/hyphen if still present.
+  out = out.replace(/^APO[\s-]+/i, '');
+  return out.trim() || 'Unnamed product';
+}
+
 function toCondensedRows(records) {
   const grouped = new Map();
 
   for (const item of records) {
-    const drug = String(item.brandName || 'Unnamed product').trim();
+    const drug = normalizeDrugName(item.brandName || 'Unnamed product');
     const doses = toDoseValues(item.strength);
     const eta = item.expectedBackInStockDate ? new Date(item.expectedBackInStockDate) : null;
     const etaTs = eta && !Number.isNaN(eta.getTime()) ? eta.getTime() : null;
