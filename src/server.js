@@ -60,6 +60,48 @@ function filterRecords(records, query) {
   return out;
 }
 
+function getSafeLimit(query, fallback = 100, max = 500) {
+  const limit = Number(query.get('limit') || fallback);
+  return Number.isFinite(limit) ? Math.min(Math.max(limit, 1), max) : fallback;
+}
+
+function toDoseValues(value) {
+  return String(value || '')
+    .split(/\r?\n/)
+    .map((v) => v.trim())
+    .filter(Boolean);
+}
+
+function toCondensedRows(records) {
+  const grouped = new Map();
+
+  for (const item of records) {
+    const drug = String(item.brandName || 'Unnamed product').trim();
+    const doses = toDoseValues(item.strength);
+    const eta = item.expectedBackInStockDate ? new Date(item.expectedBackInStockDate) : null;
+    const etaTs = eta && !Number.isNaN(eta.getTime()) ? eta.getTime() : null;
+
+    if (!grouped.has(drug)) {
+      grouped.set(drug, { drug, doses: new Set(), expectedBackInStockDate: null, etaTs: null });
+    }
+
+    const row = grouped.get(drug);
+    doses.forEach((d) => row.doses.add(d));
+    if (etaTs !== null && (row.etaTs === null || etaTs < row.etaTs)) {
+      row.etaTs = etaTs;
+      row.expectedBackInStockDate = new Date(etaTs).toISOString();
+    }
+  }
+
+  return [...grouped.values()]
+    .sort((a, b) => a.drug.localeCompare(b.drug))
+    .map((row) => ({
+      drug: row.drug,
+      doses: [...row.doses].sort(),
+      expectedBackInStockDate: row.expectedBackInStockDate
+    }));
+}
+
 function sendJson(res, status, body) {
   res.writeHead(status, {
     'Content-Type': 'application/json; charset=utf-8',
@@ -170,8 +212,7 @@ async function handler(req, res) {
 
     if (req.method === 'GET' && pathname === '/api/shortages') {
       const cached = await ensureCacheWarm();
-      const limit = Number(url.searchParams.get('limit') || 100);
-      const safeLimit = Number.isFinite(limit) ? Math.min(Math.max(limit, 1), 500) : 100;
+      const safeLimit = getSafeLimit(url.searchParams, 100, 500);
       const filtered = filterRecords(cached, url.searchParams);
       sendJson(res, 200, { count: filtered.length, results: filtered.slice(0, safeLimit) });
       return;
@@ -181,11 +222,19 @@ async function handler(req, res) {
       const cache = await ensureCacheWarm();
       const state = await loadState();
       const newSet = new Set(state.lastNewIds || []);
-      const limit = Number(url.searchParams.get('limit') || 100);
-      const safeLimit = Number.isFinite(limit) ? Math.min(Math.max(limit, 1), 500) : 100;
+      const safeLimit = getSafeLimit(url.searchParams, 100, 500);
       const onlyNew = cache.filter((item) => newSet.has(item.id));
       const filtered = filterRecords(onlyNew, url.searchParams).slice(0, safeLimit);
       sendJson(res, 200, { lastSyncAt: state.lastSyncAt, count: filtered.length, results: filtered });
+      return;
+    }
+
+    if (req.method === 'GET' && pathname === '/api/shortages/condensed') {
+      const cached = await ensureCacheWarm();
+      const safeLimit = getSafeLimit(url.searchParams, 500, 2000);
+      const filtered = filterRecords(cached, url.searchParams);
+      const condensed = toCondensedRows(filtered);
+      sendJson(res, 200, { count: condensed.length, results: condensed.slice(0, safeLimit) });
       return;
     }
 
