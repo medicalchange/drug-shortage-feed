@@ -2,7 +2,7 @@ function getConfig() {
   return {
     apiBaseUrl: process.env.HPS_API_BASE_URL || 'https://healthproductshortages.ca/api/v1',
     pageSize: Number(process.env.HPS_PAGE_SIZE || 100),
-    maxRecords: Number(process.env.HPS_MAX_RECORDS || 5000)
+    maxRecords: Number(process.env.HPS_MAX_RECORDS || 2000)
   };
 }
 
@@ -46,8 +46,7 @@ function normalizeReport(item) {
     updatedDate: normalizeDate(item.updated_date),
     postedDate: normalizeDate(item.created_at || item.created_date || item.post_date),
     updatedAt: normalizeDate(item.updated_at),
-    updateDate: normalizeDate(item.updated_date || item.updated_at),
-    raw: item
+    updateDate: normalizeDate(item.updated_date || item.updated_at)
   };
 }
 
