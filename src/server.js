@@ -4,6 +4,7 @@ import path from 'node:path';
 import { URL } from 'node:url';
 import { loadEnv } from './env.js';
 import { fetchAllShortages } from './fdaShortages.js';
+import { toCondensedRows } from './condense.js';
 import {
   buildNewRecords,
   loadCache,
@@ -67,67 +68,6 @@ function filterRecords(records, query) {
 function getSafeLimit(query, fallback = 100, max = 500) {
   const limit = Number(query.get('limit') || fallback);
   return Number.isFinite(limit) ? Math.min(Math.max(limit, 1), max) : fallback;
-}
-
-function toDoseValues(value) {
-  return String(value || '')
-    .split(/\r?\n/)
-    .map((v) => v.trim())
-    .filter(Boolean);
-}
-
-function normalizeDrugName(value) {
-  let out = String(value || '').trim();
-  if (!out) return 'Unnamed product';
-
-  // Remove everything before first "-" (brand/manufacturer prefix), e.g. "APO-RAMIPRIL" -> "RAMIPRIL".
-  if (out.includes('-')) {
-    out = out.replace(/^[^-]+-\s*/, '');
-  }
-
-  // Remove leading manufacturer prefixes if still present.
-  while (/^(APO|JAMP|SANDOZ|ACT)[\s-]+/i.test(out)) {
-    out = out.replace(/^(APO|JAMP|SANDOZ|ACT)[\s-]+/i, '');
-  }
-  return out.trim() || 'Unnamed product';
-}
-
-function isDisplayableDrugName(name) {
-  const value = String(name || '').trim();
-  if (!value) return false;
-  if (/^\d/.test(value)) return false;
-  return value.length > 3;
-}
-
-function toCondensedRows(records) {
-  const grouped = new Map();
-
-  for (const item of records) {
-    const drug = normalizeDrugName(item.brandName || 'Unnamed product');
-    if (!isDisplayableDrugName(drug)) continue;
-    const doses = toDoseValues(item.strength);
-    const eta = item.expectedBackInStockDate ? new Date(item.expectedBackInStockDate) : null;
-    const etaTs = eta && !Number.isNaN(eta.getTime()) ? eta.getTime() : null;
-
-    if (!grouped.has(drug)) {
-      grouped.set(drug, { drug, doses: new Set(), expectedBackInStockDate: null, etaTs: null });
-    }
-
-    const row = grouped.get(drug);
-    doses.forEach((d) => row.doses.add(d));
-    if (etaTs !== null && (row.etaTs === null || etaTs < row.etaTs)) {
-      row.etaTs = etaTs;
-      row.expectedBackInStockDate = new Date(etaTs).toISOString();
-    }
-  }
-
-  return [...grouped.values()]
-    .sort((a, b) => a.drug.localeCompare(b.drug))
-    .map((row) => ({
-      drug: row.drug,
-      doses: [...row.doses].sort(),
-      expectedBackInStockDate: row.expectedBackInStockDate
-    }));
 }
 
 function sendJson(res, status, body) {
@@ -275,6 +215,8 @@ async function handler(req, res) {
         count: condensed.length,
         refreshedAt: seedMeta.refreshedAt || null,
         source: 'seed-cache',
+        addedDrugsCount: Number(seedMeta.addedDrugsCount || 0),
+        addedDrugs: Array.isArray(seedMeta.addedDrugs) ? seedMeta.addedDrugs : [],
         results: condensed.slice(0, safeLimit)
       });
       return;
