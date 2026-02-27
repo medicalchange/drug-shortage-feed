@@ -59,30 +59,38 @@
       return;
     }
 
-    const rows = items
-      .slice(0, config.limit)
-      .map((item) => {
-        const name = item.brandName || 'Unnamed product';
-        const company = item.companyName || 'Unknown company';
-        const updated = fmtDate(item.updateDate || item.updatedDate || item.postedDate);
-        const reportType = item.type || 'shortage';
-        const strength = item.strength ? String(item.strength).replace(/\r?\n/g, ', ') : 'n/a';
-        const pack = item.packageQuantity ? String(item.packageQuantity).replace(/\r?\n/g, ', ') : 'n/a';
-        const eta = fmtDate(item.expectedBackInStockDate);
+    const grouped = new Map();
+    for (const item of items) {
+      const name = (item.brandName || 'Unnamed product').trim();
+      const doses = (item.strength ? String(item.strength) : '')
+        .split(/\r?\n/)
+        .map((v) => v.trim())
+        .filter(Boolean);
+      const eta = item.expectedBackInStockDate ? new Date(item.expectedBackInStockDate) : null;
+      const etaTs = eta && !Number.isNaN(eta.getTime()) ? eta.getTime() : null;
 
-        return `
-          <li class="ds-item">
-            <h4>${escapeHtml(name)}</h4>
-            <p><strong>Company:</strong> ${escapeHtml(company)}</p>
-            <p><strong>Type:</strong> ${escapeHtml(reportType)}</p>
-            <p><strong>Status:</strong> ${escapeHtml(item.status || 'Unknown')}</p>
-            <p><strong>DIN:</strong> ${escapeHtml(item.din || 'n/a')}</p>
-            <p><strong>Dose/Strength:</strong> ${escapeHtml(strength)}</p>
-            <p><strong>Pack Size:</strong> ${escapeHtml(pack)}</p>
-            <p><strong>Expected Back In Stock:</strong> ${escapeHtml(eta)}</p>
-            <p><strong>Updated:</strong> ${escapeHtml(updated)}</p>
-          </li>
-        `;
+      if (!grouped.has(name)) {
+        grouped.set(name, {
+          name,
+          doses: new Set(),
+          earliestEtaTs: etaTs
+        });
+      }
+
+      const current = grouped.get(name);
+      doses.forEach((d) => current.doses.add(d));
+      if (etaTs !== null && (current.earliestEtaTs === null || etaTs < current.earliestEtaTs)) {
+        current.earliestEtaTs = etaTs;
+      }
+    }
+
+    const rows = [...grouped.values()]
+      .sort((a, b) => a.name.localeCompare(b.name))
+      .slice(0, config.limit)
+      .map((entry) => {
+        const doseText = entry.doses.size ? [...entry.doses].sort().join(', ') : 'n/a';
+        const etaText = entry.earliestEtaTs ? fmtDate(new Date(entry.earliestEtaTs).toISOString()) : 'n/a';
+        return `<li class="ds-line"><strong>${escapeHtml(entry.name)}</strong> | Dose(s): ${escapeHtml(doseText)} | Expected back: ${escapeHtml(etaText)}</li>`;
       })
       .join('');
 
@@ -103,9 +111,7 @@
       .ds-card { border: 1px solid #d5dde8; border-radius: 10px; padding: 14px; background: #fff; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif; }
       .ds-card h3 { margin: 0 0 10px; font-size: 18px; }
       .ds-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
-      .ds-item { border: 1px solid #eef2f7; border-radius: 8px; padding: 10px; }
-      .ds-item h4 { margin: 0 0 6px; font-size: 15px; }
-      .ds-item p { margin: 3px 0; font-size: 13px; }
+      .ds-line { border: 1px solid #eef2f7; border-radius: 8px; padding: 10px; font-size: 13px; line-height: 1.35; }
     `;
     document.head.appendChild(style);
   }
