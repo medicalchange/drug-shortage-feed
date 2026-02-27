@@ -88,11 +88,19 @@ function normalizeDrugName(value) {
   return out.trim() || 'Unnamed product';
 }
 
+function isDisplayableDrugName(name) {
+  const value = String(name || '').trim();
+  if (!value) return false;
+  if (/^\d/.test(value)) return false;
+  return value.length > 3;
+}
+
 function toCondensedRows(records) {
   const grouped = new Map();
 
   for (const item of records) {
     const drug = normalizeDrugName(item.brandName || 'Unnamed product');
+    if (!isDisplayableDrugName(drug)) continue;
     const doses = toDoseValues(item.strength);
     const eta = item.expectedBackInStockDate ? new Date(item.expectedBackInStockDate) : null;
     const etaTs = eta && !Number.isNaN(eta.getTime()) ? eta.getTime() : null;
