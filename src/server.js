@@ -81,8 +81,10 @@ function normalizeDrugName(value) {
     out = out.replace(/^[^-]+-\s*/, '');
   }
 
-  // Remove leading "APO" prefix with optional space/hyphen if still present.
-  out = out.replace(/^APO[\s-]+/i, '');
+  // Remove leading manufacturer prefixes if still present.
+  while (/^(APO|JAMP|SANDOZ)[\s-]+/i.test(out)) {
+    out = out.replace(/^(APO|JAMP|SANDOZ)[\s-]+/i, '');
+  }
   return out.trim() || 'Unnamed product';
 }
 
