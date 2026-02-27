@@ -18,6 +18,14 @@ const PUBLIC_DIR = path.resolve('public');
 
 let isSyncInProgress = false;
 
+async function ensureCacheWarm() {
+  const cached = await loadCache();
+  if (cached.length > 0) return cached;
+
+  await syncShortages();
+  return loadCache();
+}
+
 function isActiveStatus(value) {
   return String(value || '').toLowerCase().includes('active');
 }
@@ -161,7 +169,7 @@ async function handler(req, res) {
     }
 
     if (req.method === 'GET' && pathname === '/api/shortages') {
-      const cached = await loadCache();
+      const cached = await ensureCacheWarm();
       const limit = Number(url.searchParams.get('limit') || 100);
       const safeLimit = Number.isFinite(limit) ? Math.min(Math.max(limit, 1), 500) : 100;
       const filtered = filterRecords(cached, url.searchParams);
@@ -170,8 +178,8 @@ async function handler(req, res) {
     }
 
     if (req.method === 'GET' && pathname === '/api/shortages/new') {
+      const cache = await ensureCacheWarm();
       const state = await loadState();
-      const cache = await loadCache();
       const newSet = new Set(state.lastNewIds || []);
       const limit = Number(url.searchParams.get('limit') || 100);
       const safeLimit = Number.isFinite(limit) ? Math.min(Math.max(limit, 1), 500) : 100;
