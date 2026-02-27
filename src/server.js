@@ -82,8 +82,8 @@ function normalizeDrugName(value) {
   }
 
   // Remove leading manufacturer prefixes if still present.
-  while (/^(APO|JAMP|SANDOZ)[\s-]+/i.test(out)) {
-    out = out.replace(/^(APO|JAMP|SANDOZ)[\s-]+/i, '');
+  while (/^(APO|JAMP|SANDOZ|ACT)[\s-]+/i.test(out)) {
+    out = out.replace(/^(APO|JAMP|SANDOZ|ACT)[\s-]+/i, '');
   }
   return out.trim() || 'Unnamed product';
 }
