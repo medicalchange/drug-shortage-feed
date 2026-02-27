@@ -4,6 +4,7 @@ import path from 'node:path';
 const DATA_DIR = path.resolve('data');
 const STATE_FILE = path.join(DATA_DIR, 'state.json');
 const CACHE_FILE = path.join(DATA_DIR, 'shortages-cache.json');
+const SEED_CACHE_FILE = path.join(DATA_DIR, 'seed-cache.json');
 
 const defaultState = {
   lastSyncAt: null,
@@ -38,7 +39,11 @@ export async function saveState(state) {
 }
 
 export async function loadCache() {
-  return readJson(CACHE_FILE, []);
+  const cache = await readJson(CACHE_FILE, []);
+  if (Array.isArray(cache) && cache.length > 0) return cache;
+
+  const seed = await readJson(SEED_CACHE_FILE, []);
+  return Array.isArray(seed) ? seed : [];
 }
 
 export async function saveCache(records) {
