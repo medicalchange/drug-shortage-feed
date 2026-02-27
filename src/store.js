@@ -53,7 +53,7 @@ export async function loadSeedCache() {
 }
 
 export async function loadSeedMeta() {
-  return readJson(SEED_META_FILE, { refreshedAt: null, count: 0 });
+  return readJson(SEED_META_FILE, { refreshedAt: null, count: 0, addedDrugsCount: 0, addedDrugs: [] });
 }
 
 export async function saveCache(records) {

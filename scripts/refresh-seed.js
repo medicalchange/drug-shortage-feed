@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { loadEnv } from '../src/env.js';
 import { fetchAllShortages } from '../src/fdaShortages.js';
+import { toCondensedRows } from '../src/condense.js';
 
 loadEnv();
 
@@ -42,12 +43,29 @@ async function writeJson(filePath, value) {
   await fs.writeFile(filePath, `${JSON.stringify(value, null, 2)}\n`, 'utf-8');
 }
 
+async function readJson(filePath, fallback) {
+  try {
+    const content = await fs.readFile(filePath, 'utf-8');
+    return JSON.parse(content);
+  } catch {
+    return fallback;
+  }
+}
+
 async function main() {
+  const previousSeed = await readJson(SEED_FILE, []);
   const all = await fetchAllShortages();
   const seed = buildSeed(all);
+  const previousCondensed = toCondensedRows(Array.isArray(previousSeed) ? previousSeed : []);
+  const currentCondensed = toCondensedRows(seed);
+  const previousNames = new Set(previousCondensed.map((row) => row.drug.toLowerCase()));
+  const addedDrugs = currentCondensed.filter((row) => !previousNames.has(row.drug.toLowerCase()));
+
   const meta = {
     refreshedAt: new Date().toISOString(),
-    count: seed.length
+    count: seed.length,
+    addedDrugsCount: addedDrugs.length,
+    addedDrugs
   };
 
   await writeJson(SEED_FILE, seed);
