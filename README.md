@@ -1,93 +1,112 @@
 # Canada Drug Shortage Feed Service
 
-This service pulls shortage/discontinuation reports from `healthproductshortages.ca/api/v1`, tracks what is new or newly updated between syncs, and exposes endpoints your med-info website can render.
+This service pulls shortage reports from `healthproductshortages.ca/api/v1` and serves a stable, condensed feed for your public website.
 
-## Source review
+Current production model:
+- Overnight: refresh seed snapshot from Health Canada API.
+- Daytime: serve condensed results from seed snapshot (fast + stable).
+- Public page displays one line per drug with dose(s) and expected back-in-stock date.
 
-The page you shared (`/blog/61`) documents the authenticated API:
+## Data Source
 
-- `POST /api/v1/login` returns `auth-token` in response headers.
-- `GET /api/v1/search` returns paginated report data (`total`, `limit`, `offset`, `data`).
+- `POST /api/v1/login` -> returns `auth-token` header.
+- `GET /api/v1/search` -> paginated shortage/discontinuation report data.
 
-## Required environment variables
+Reference docs page:
+- `https://healthproductshortages.ca/blog/61`
 
-- `HPS_EMAIL` - your API account email
-- `HPS_PASSWORD` - your API account password
+## Environment Variables
 
-Optional filters:
+Required:
+- `HPS_EMAIL`
+- `HPS_PASSWORD`
 
+Optional:
+- `HPS_API_BASE_URL` (default: `https://healthproductshortages.ca/api/v1`)
+- `HPS_PAGE_SIZE` (default: `100`)
+- `HPS_MAX_RECORDS` (default: `2000`)
 - `HPS_TERM`
 - `HPS_DIN`
 - `HPS_REPORT_ID`
 - `HPS_FILTER_STATUS`
-- `HPS_API_BASE_URL` (default: `https://healthproductshortages.ca/api/v1`)
-- `HPS_PAGE_SIZE` (default: `100`)
-- `HPS_MAX_RECORDS` (default: `5000`)
 
-## Endpoints
+## API Endpoints
+
+- `GET /healthz`
+  - Service health.
 
 - `POST /api/shortages/sync`
-  - Authenticates, fetches latest paged search results, updates cache/state.
-  - Returns `newRecords` for this sync run.
+  - On-demand full sync from Health Canada API to runtime cache.
+  - Primarily for operational/admin use.
+
 - `GET /api/shortages`
-  - Returns cached records.
+  - Full normalized records from runtime cache.
+
 - `GET /api/shortages/new`
-  - Returns records flagged as new/updated in the most recent sync.
-- `GET /healthz`
-  - Health check.
+  - New/updated records since previous sync run.
 
-## Run
+- `GET /api/shortages/condensed`
+  - Seed-snapshot based, grouped one-line-ready output.
+  - Includes metadata:
+    - `refreshedAt` (seed refresh timestamp)
+    - `source` (`seed-cache`)
+  - Intended for public website consumption.
 
-Create a local `.env` file (recommended) from `.env.example` and set credentials:
+### Common query params
+
+- `status=active`
+- `type=shortage`
+- `resolved=false`
+- `require_eta=true`
+- `limit=...`
+
+## Seed Snapshot Files
+
+- `data/seed-cache.json` -> fallback/stable source for condensed daytime feed.
+- `data/seed-meta.json` -> metadata (`refreshedAt`, `count`).
+
+Runtime-only files:
+- `data/shortages-cache.json`
+- `data/state.json`
+
+## Nightly Refresh Workflow
+
+GitHub Actions workflow:
+- `.github/workflows/sync-shortages.yml`
+
+It runs nightly at `08:00 UTC` and updates:
+- `data/seed-cache.json`
+- `data/seed-meta.json`
+
+It commits and pushes changes automatically when data changed.
+
+### Required GitHub Secrets
+
+In repo `medicalchange/drug-shortage-feed` add:
+- `HPS_EMAIL`
+- `HPS_PASSWORD`
+
+## Local Run
+
+Create `.env`:
 
 ```bash
 cp .env.example .env
 ```
 
-Then run:
+Start server:
 
 ```bash
 npm start
 ```
 
-Then open: `http://localhost:8080`
+## Med-info Integration
 
-## Add to your med-info website
+Public page uses condensed endpoint and shows refresh timestamp:
+- `https://medicalchange.github.io/med-info/shortages/`
 
-```html
-<div id="drug-shortage-widget"></div>
-<script src="https://YOUR-SHORTAGE-SERVICE/shortage-widget.js"></script>
-<script>
-  window.DrugShortageWidget.init({
-    apiBaseUrl: 'https://YOUR-SHORTAGE-SERVICE',
-    mountSelector: '#drug-shortage-widget',
-    mode: 'new',
-    statusFilter: 'active',
-    typeFilter: 'shortage',
-    resolvedFilter: 'false',
-    requireEta: false,
-    limit: 20,
-    title: 'Active Canada Drug Shortages'
-  });
-</script>
+Example request used by page:
+
+```text
+GET /api/shortages/condensed?status=active&type=shortage&resolved=false&require_eta=true&limit=1000
 ```
-
-API filters:
-
-- `status=active`
-- `type=shortage`
-- `resolved=false`
-- `require_eta=true` (only records with expected back-in-stock date)
-
-## Scheduling
-
-Run sync every 6 hours:
-
-```bash
-0 */6 * * * curl -X POST https://YOUR-SHORTAGE-SERVICE/api/shortages/sync
-```
-
-## Notes
-
-- Data is stored in `data/state.json` and `data/shortages-cache.json`.
-- `mode: 'new'` shows the latest newly detected/updated reports from the most recent sync.
