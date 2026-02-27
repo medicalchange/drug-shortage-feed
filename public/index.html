@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Health Product Shortages Widget Demo</title>
+  </head>
+  <body>
+    <main style="max-width: 900px; margin: 40px auto;">
+      <h1>Med-Info Canada Drug Shortage Feed</h1>
+      <p>Uses <code>healthproductshortages.ca/api/v1</code> via your API account credentials.</p>
+      <button id="sync">Sync Latest Data</button>
+      <div id="drug-shortage-widget" style="margin-top: 16px;"></div>
+    </main>
+
+    <script src="/shortage-widget.js"></script>
+    <script>
+      async function syncThenRender() {
+        const response = await fetch('/api/shortages/sync', { method: 'POST' });
+        if (!response.ok) {
+          const payload = await response.json();
+          throw new Error(payload.error || 'Sync failed');
+        }
+
+        await window.DrugShortageWidget.init({
+          apiBaseUrl: '',
+          mountSelector: '#drug-shortage-widget',
+          mode: 'new',
+          statusFilter: 'active',
+          typeFilter: 'shortage',
+          resolvedFilter: 'false',
+          requireEta: false,
+          limit: 15,
+          title: 'Active Canada Drug Shortages (New/Updated)'
+        });
+      }
+
+      document.getElementById('sync').addEventListener('click', () => {
+        syncThenRender().catch((error) => {
+          document.getElementById('drug-shortage-widget').innerHTML =
+            '<div style="border:1px solid #d5dde8;padding:12px;border-radius:8px;">' +
+            'Sync failed: ' +
+            String(error.message) +
+            '</div>';
+        });
+      });
+
+      syncThenRender().catch(() => {});
+    </script>
+  </body>
+</html>

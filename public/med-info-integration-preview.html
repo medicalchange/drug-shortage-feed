@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Med Info Integration Preview</title>
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        margin: 28px;
+        color: #1f2328;
+        background: #fff;
+      }
+      .link-columns {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(260px, 1fr));
+        gap: 1.25rem;
+        margin-top: 1rem;
+      }
+      .link-card {
+        border: 1px solid #d5d9df;
+        border-radius: 10px;
+        padding: 1rem 1.1rem;
+        background: #fafbfc;
+      }
+      .link-card h2 {
+        margin-top: 0;
+        margin-bottom: 0.4rem;
+        font-size: 1.1rem;
+      }
+      .section-updated {
+        margin: 0 0 0.75rem;
+        color: #5f6670;
+        font-size: 0.92rem;
+      }
+      .link-card ul {
+        margin: 0;
+      }
+
+      .ds-card {
+        border: 1px solid #d5dde8;
+        border-radius: 10px;
+        padding: 14px;
+        background: #fff;
+      }
+      .ds-card h3 {
+        margin: 0 0 10px;
+        font-size: 18px;
+      }
+      .ds-list {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: grid;
+        gap: 10px;
+      }
+      .ds-item {
+        border: 1px solid #eef2f7;
+        border-radius: 8px;
+        padding: 10px;
+      }
+      .ds-item h4 {
+        margin: 0 0 6px;
+        font-size: 15px;
+      }
+      .ds-item p {
+        margin: 3px 0;
+        font-size: 13px;
+      }
+
+      @media (max-width: 560px) {
+        .link-columns {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="link-columns">
+      <section class="link-card">
+        <h2>For Clinicians</h2>
+        <p class="section-updated"><strong>Last updated:</strong> February 26, 2026</p>
+        <ul>
+          <li>Abnormal CBC in Adults - PBSG</li>
+          <li>GLP-1 Side-effects</li>
+          <li>Why isn't cefadroxil used more often</li>
+          <li>Iron Deficiency Anemia (2026)</li>
+        </ul>
+      </section>
+
+      <section class="link-card">
+        <h2>For Patients</h2>
+        <p class="section-updated"><strong>Last updated:</strong> February 26, 2026</p>
+        <ul>
+          <li>Counselling Options</li>
+          <li>Is a statin right for you</li>
+          <li>Asthma Action Plan</li>
+          <li>The Portfolio Diet</li>
+        </ul>
+      </section>
+
+      <section class="link-card">
+        <h2>Active Drug Shortages (Canada)</h2>
+        <div id="drug-shortage-widget">
+          <div class="ds-card">
+            <h3>Active Canada Drug Shortages</h3>
+            <ul class="ds-list">
+              <li class="ds-item">
+                <h4>Sample Drug A</h4>
+                <p><strong>Company:</strong> Sample Pharma Inc.</p>
+                <p><strong>Type:</strong> shortage</p>
+                <p><strong>Status:</strong> Active shortage</p>
+                <p><strong>DIN:</strong> 01234567</p>
+                <p><strong>Updated:</strong> 2/26/2026</p>
+              </li>
+              <li class="ds-item">
+                <h4>Sample Drug B</h4>
+                <p><strong>Company:</strong> Example Therapeutics</p>
+                <p><strong>Type:</strong> shortage</p>
+                <p><strong>Status:</strong> Active shortage</p>
+                <p><strong>DIN:</strong> 07654321</p>
+                <p><strong>Updated:</strong> 2/25/2026</p>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
