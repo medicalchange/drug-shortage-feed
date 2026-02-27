@@ -1,0 +1,14 @@
+name: Sync Shortages Cache
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger sync endpoint
+        run: |
+          curl -fsS -X POST https://drug-shortage-feed.onrender.com/api/shortages/sync
