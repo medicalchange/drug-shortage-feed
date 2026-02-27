@@ -1,14 +1,41 @@
-name: Sync Shortages Cache
+name: Refresh Seed Cache (Nightly)
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    # 08:00 UTC ~= overnight North America
+    - cron: '0 8 * * *'
   workflow_dispatch:
 
 jobs:
-  sync:
+  refresh:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Trigger sync endpoint
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Refresh seed files
+        env:
+          HPS_EMAIL: ${{ secrets.HPS_EMAIL }}
+          HPS_PASSWORD: ${{ secrets.HPS_PASSWORD }}
+          HPS_MAX_RECORDS: '5000'
         run: |
-          curl -fsS -X POST https://drug-shortage-feed.onrender.com/api/shortages/sync
+          node scripts/refresh-seed.js
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/seed-cache.json data/seed-meta.json
+          git commit -m "Nightly seed refresh"
+          git push
