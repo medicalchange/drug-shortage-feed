@@ -7,6 +7,8 @@ import { fetchAllShortages } from './fdaShortages.js';
 import {
   buildNewRecords,
   loadCache,
+  loadSeedCache,
+  loadSeedMeta,
   loadState,
   saveCache,
   saveState
@@ -264,11 +266,17 @@ async function handler(req, res) {
     }
 
     if (req.method === 'GET' && pathname === '/api/shortages/condensed') {
-      const cached = await ensureCacheWarm();
-      const safeLimit = getSafeLimit(url.searchParams, 500, 2000);
-      const filtered = filterRecords(cached, url.searchParams);
+      // Serve daytime requests from nightly seed snapshot for stability.
+      const [seed, seedMeta] = await Promise.all([loadSeedCache(), loadSeedMeta()]);
+      const safeLimit = getSafeLimit(url.searchParams, 500, 5000);
+      const filtered = filterRecords(seed, url.searchParams);
       const condensed = toCondensedRows(filtered);
-      sendJson(res, 200, { count: condensed.length, results: condensed.slice(0, safeLimit) });
+      sendJson(res, 200, {
+        count: condensed.length,
+        refreshedAt: seedMeta.refreshedAt || null,
+        source: 'seed-cache',
+        results: condensed.slice(0, safeLimit)
+      });
       return;
     }
 

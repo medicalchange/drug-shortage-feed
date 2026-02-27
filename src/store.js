@@ -5,6 +5,7 @@ const DATA_DIR = path.resolve('data');
 const STATE_FILE = path.join(DATA_DIR, 'state.json');
 const CACHE_FILE = path.join(DATA_DIR, 'shortages-cache.json');
 const SEED_CACHE_FILE = path.join(DATA_DIR, 'seed-cache.json');
+const SEED_META_FILE = path.join(DATA_DIR, 'seed-meta.json');
 
 const defaultState = {
   lastSyncAt: null,
@@ -44,6 +45,15 @@ export async function loadCache() {
 
   const seed = await readJson(SEED_CACHE_FILE, []);
   return Array.isArray(seed) ? seed : [];
+}
+
+export async function loadSeedCache() {
+  const seed = await readJson(SEED_CACHE_FILE, []);
+  return Array.isArray(seed) ? seed : [];
+}
+
+export async function loadSeedMeta() {
+  return readJson(SEED_META_FILE, { refreshedAt: null, count: 0 });
 }
 
 export async function saveCache(records) {
