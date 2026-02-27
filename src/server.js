@@ -252,6 +252,7 @@ async function handler(req, res) {
         source: 'seed-cache',
         addedDrugsCount: Number(seedMeta.addedDrugsCount || 0),
         addedDrugs: Array.isArray(seedMeta.addedDrugs) ? seedMeta.addedDrugs : [],
+        addedHistory: Array.isArray(seedMeta.addedHistory) ? seedMeta.addedHistory : [],
         results: condensed.slice(0, safeLimit)
       };
 
