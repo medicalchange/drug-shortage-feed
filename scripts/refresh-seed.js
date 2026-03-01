@@ -9,6 +9,7 @@ loadEnv();
 const DATA_DIR = path.resolve('data');
 const SEED_FILE = path.join(DATA_DIR, 'seed-cache.json');
 const META_FILE = path.join(DATA_DIR, 'seed-meta.json');
+const CONDENSED_FILE = path.join(DATA_DIR, 'condensed-shortages.json');
 const HISTORY_LIMIT = 14;
 
 function toIso(value) {
@@ -86,12 +87,26 @@ async function main() {
     addedHistory: buildHistory(previousMeta, historyEntry)
   };
 
-  await writeJson(SEED_FILE, seed);
-  await writeJson(META_FILE, meta);
+  const condensedPayload = {
+    count: currentCondensed.length,
+    refreshedAt,
+    source: 'github-static-seed',
+    addedDrugsCount: meta.addedDrugsCount,
+    addedDrugs: meta.addedDrugs,
+    addedHistory: meta.addedHistory,
+    results: currentCondensed
+  };
+
+  await Promise.all([
+    writeJson(SEED_FILE, seed),
+    writeJson(META_FILE, meta),
+    writeJson(CONDENSED_FILE, condensedPayload)
+  ]);
 
   console.log(JSON.stringify({
     refreshedAt: meta.refreshedAt,
     count: meta.count,
+    condensedCount: condensedPayload.count,
     addedDrugsCount: meta.addedDrugsCount,
     historyCount: meta.addedHistory.length
   }));
