@@ -1,17 +1,14 @@
 {
-  "refreshedAt": "2026-03-01T02:21:54.393Z",
+  "refreshedAt": "2026-03-01T09:00:08.493Z",
   "count": 590,
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "MS CONTIN",
-      "doses": [
-        "60MG"
-      ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-01T09:00:08.493Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-03-01T02:21:54.393Z",
       "addedDrugsCount": 1,

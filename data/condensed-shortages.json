@@ -1,10 +1,29 @@
 {
-  "count": 330,
-  "refreshedAt": "2026-02-27T02:35:00.000Z",
+  "count": 329,
+  "refreshedAt": "2026-03-01T09:00:08.493Z",
   "source": "github-static-seed",
   "addedDrugsCount": 0,
   "addedDrugs": [],
-  "addedHistory": [],
+  "addedHistory": [
+    {
+      "refreshedAt": "2026-03-01T09:00:08.493Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
+    {
+      "refreshedAt": "2026-03-01T02:21:54.393Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "MS CONTIN",
+          "doses": [
+            "60MG"
+          ],
+          "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+        }
+      ]
+    }
+  ],
   "results": [
     {
       "drug": "ABACAVIR / LAMIVUDINE",
@@ -1449,6 +1468,13 @@
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
+      "drug": "MS CONTIN",
+      "doses": [
+        "60MG"
+      ],
+      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+    },
+    {
       "drug": "MYCOBUTIN",
       "doses": [
         "150MG"
@@ -2122,13 +2148,6 @@
       "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
     },
     {
-      "drug": "SPIRIVA",
-      "doses": [
-        "18MCG"
-      ],
-      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
-    },
-    {
       "drug": "SPIRONOLACTONE",
       "doses": [
         "100MG",
@@ -2312,13 +2331,6 @@
         "300MG"
       ],
       "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-    },
-    {
-      "drug": "TRANEXAMIC ACID INJECTION",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-02-13T05:00:00.000Z"
     },
     {
       "drug": "TRAVOPROST-TIMOP PQ",
