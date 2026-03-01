@@ -1,10 +1,10 @@
 # Canada Drug Shortage Feed Service
 
-This service pulls shortage reports from `healthproductshortages.ca/api/v1` and serves a stable, condensed feed for your public website.
+This service pulls shortage reports from `healthproductshortages.ca/api/v1` and publishes a stable, condensed nightly snapshot for your public website.
 
 Current production model:
-- Overnight: refresh seed snapshot from Health Canada API.
-- Daytime: serve condensed results from seed snapshot (fast + stable).
+- Overnight: refresh snapshot from Health Canada API via GitHub Actions.
+- Daytime: public site reads static JSON from this repo (no backend runtime required).
 - Public page displays one line per drug with dose(s) and expected back-in-stock date.
 
 ## Data Source
@@ -30,64 +30,38 @@ Optional:
 - `HPS_REPORT_ID`
 - `HPS_FILTER_STATUS`
 
-## API Endpoints
+## Nightly Static Files
 
-- `GET /healthz`
-  - Service health.
+Generated and committed by workflow:
+- `data/seed-cache.json` -> filtered active shortage seed data.
+- `data/seed-meta.json` -> metadata (`refreshedAt`, `count`, additions).
+- `data/condensed-shortages.json` -> one-line-ready public payload used by website.
 
-- `POST /api/shortages/sync`
-  - On-demand full sync from Health Canada API to runtime cache.
-  - Primarily for operational/admin use.
-
-- `GET /api/shortages`
-  - Full normalized records from runtime cache.
-
-- `GET /api/shortages/new`
-  - New/updated records since previous sync run.
-
-- `GET /api/shortages/condensed`
-  - Seed-snapshot based, grouped one-line-ready output.
-  - Includes metadata:
-    - `refreshedAt` (seed refresh timestamp)
-    - `source` (`seed-cache`)
-    - `addedDrugsCount` (number of newly added drugs since prior seed refresh)
-    - `addedDrugs` (list of those newly added drugs with doses + ETA)
-    - `addedHistory` (last 14 refreshes with added-drug snapshots)
-  - Intended for public website consumption.
-
-### Common query params
-
-- `status=active`
-- `type=shortage`
-- `resolved=false`
-- `require_eta=true`
-- `limit=...`
-
-## Seed Snapshot Files
-
-- `data/seed-cache.json` -> fallback/stable source for condensed daytime feed.
-- `data/seed-meta.json` -> metadata (`refreshedAt`, `count`).
-
-Runtime-only files:
-- `data/shortages-cache.json`
-- `data/state.json`
+`data/condensed-shortages.json` contains:
+- `count`
+- `refreshedAt`
+- `source`
+- `addedDrugsCount`
+- `addedDrugs`
+- `addedHistory` (last 14 refreshes)
+- `results`
 
 ## Nightly Refresh Workflow
 
 GitHub Actions workflow:
 - `.github/workflows/sync-shortages.yml`
 
-It runs nightly at `08:00 UTC` and updates:
-- `data/seed-cache.json`
-- `data/seed-meta.json`
-
-It commits and pushes changes automatically when data changed.
+Runs nightly at `08:00 UTC` and commits updated files when changed.
 
 ### Required GitHub Secrets
 
 In repo `medicalchange/drug-shortage-feed` add:
 - `HPS_EMAIL`
 - `HPS_PASSWORD`
+
+## Optional Runtime API
+
+A Node server still exists (`src/server.js`) for optional runtime/admin use, but public website reads static snapshot JSON by default.
 
 ## Local Run
 
@@ -97,7 +71,7 @@ Create `.env`:
 cp .env.example .env
 ```
 
-Start server:
+Start server (optional):
 
 ```bash
 npm start
@@ -105,11 +79,5 @@ npm start
 
 ## Med-info Integration
 
-Public page uses condensed endpoint and shows refresh timestamp:
-- `https://medicalchange.github.io/med-info/shortages/`
-
-Example request used by page:
-
-```text
-GET /api/shortages/condensed?status=active&type=shortage&resolved=false&require_eta=true&limit=1000
-```
+Public site can read this static URL directly:
+- `https://cdn.jsdelivr.net/gh/medicalchange/drug-shortage-feed@main/data/condensed-shortages.json`

@@ -3,6 +3,7 @@ data/*.json
 !data/
 !data/seed-cache.json
 !data/seed-meta.json
+!data/condensed-shortages.json
 .DS_Store
 
 .env
