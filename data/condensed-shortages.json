@@ -1,19 +1,193 @@
 {
-  "count": 330,
-  "refreshedAt": "2026-03-02T10:31:41.714Z",
+  "count": 339,
+  "refreshedAt": "2026-03-03T10:06:47.764Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 12,
   "addedDrugs": [
     {
-      "drug": "ALENDRONATE / VITAMIN D3",
+      "drug": "AZACITIDINE FOR INJECTION",
       "doses": [
-        "2800UNIT",
-        "70MG"
+        "100MG"
       ],
       "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+    },
+    {
+      "drug": "CARVEDILOL",
+      "doses": [
+        "6.25MG"
+      ],
+      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+    },
+    {
+      "drug": "DILANTIN",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
+    },
+    {
+      "drug": "DONEPEZIL TABLETS",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+    },
+    {
+      "drug": "IMIPRAMINE",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+    },
+    {
+      "drug": "LETROZOLE TABLETS",
+      "doses": [
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
+      "drug": "LEUCOVORIN",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
+      "drug": "OLANZAPINE FC",
+      "doses": [
+        "10MG",
+        "15MG",
+        "20MG",
+        "5MG",
+        "7.5MG"
+      ],
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
+      "drug": "ONDANSETRON ODT",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
+    },
+    {
+      "drug": "POSACONAZOLE",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+    },
+    {
+      "drug": "TESTOSTERONE GEL",
+      "doses": [
+        "1%"
+      ],
+      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+    },
+    {
+      "drug": "ZOLPIDEM ODT",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-03T10:06:47.764Z",
+      "addedDrugsCount": 12,
+      "addedDrugs": [
+        {
+          "drug": "AZACITIDINE FOR INJECTION",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+        },
+        {
+          "drug": "CARVEDILOL",
+          "doses": [
+            "6.25MG"
+          ],
+          "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+        },
+        {
+          "drug": "DILANTIN",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
+        },
+        {
+          "drug": "DONEPEZIL TABLETS",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+        },
+        {
+          "drug": "IMIPRAMINE",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+        },
+        {
+          "drug": "LETROZOLE TABLETS",
+          "doses": [
+            "2.5MG"
+          ],
+          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+        },
+        {
+          "drug": "LEUCOVORIN",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "OLANZAPINE FC",
+          "doses": [
+            "10MG",
+            "15MG",
+            "20MG",
+            "5MG",
+            "7.5MG"
+          ],
+          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+        },
+        {
+          "drug": "ONDANSETRON ODT",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
+        },
+        {
+          "drug": "POSACONAZOLE",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+        },
+        {
+          "drug": "TESTOSTERONE GEL",
+          "doses": [
+            "1%"
+          ],
+          "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+        },
+        {
+          "drug": "ZOLPIDEM ODT",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-02T10:31:41.714Z",
       "addedDrugsCount": 1,
@@ -118,7 +292,7 @@
         "5%",
         "800MG"
       ],
-      "expectedBackInStockDate": "2026-03-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR OINTMENT",
@@ -145,15 +319,6 @@
       "drug": "ALENDRONATE / VITAMIN D3",
       "doses": [
         "2800UNIT",
-        "70MG"
-      ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
-    },
-    {
-      "drug": "ALENDRONATE/VITAMIN D3",
-      "doses": [
-        "2800UNIT",
-        "5600UNIT",
         "70MG"
       ],
       "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
@@ -285,7 +450,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
     },
     {
       "drug": "ATOMOXETINE",
@@ -302,7 +467,14 @@
         "20MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-10T04:00:00.000Z"
+    },
+    {
+      "drug": "AZACITIDINE FOR INJECTION",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
     },
     {
       "drug": "AZITHROMYCIN FOR INJECTION, USP",
@@ -466,6 +638,13 @@
       "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
+      "drug": "CARVEDILOL",
+      "doses": [
+        "6.25MG"
+      ],
+      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+    },
+    {
       "drug": "CEFADROXIL",
       "doses": [
         "500MG"
@@ -529,7 +708,7 @@
       "doses": [
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2026-03-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-14T04:00:00.000Z"
     },
     {
       "drug": "CINACALCET",
@@ -574,7 +753,7 @@
       "doses": [
         "1%"
       ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
     },
     {
       "drug": "CLINDAMYCIN IV INFUSION",
@@ -602,7 +781,7 @@
       "doses": [
         "0.05%"
       ],
-      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "CLOBETASOL SPRAY",
@@ -622,10 +801,9 @@
     {
       "drug": "CODEINE",
       "doses": [
-        "15MG",
-        "30MG"
+        "15MG"
       ],
-      "expectedBackInStockDate": "2026-02-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-02-28T05:00:00.000Z"
     },
     {
       "drug": "COLISTIMETHATE FOR INJECTION USP",
@@ -633,13 +811,6 @@
         "150MG"
       ],
       "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
-    },
-    {
-      "drug": "CORTEF",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-03-02T05:00:00.000Z"
     },
     {
       "drug": "COTRIDIN",
@@ -691,10 +862,9 @@
     {
       "drug": "DASATINIB",
       "doses": [
-        "100MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "DAUNORUBICIN HYDROCHLORIDE INJECTION",
@@ -800,6 +970,13 @@
       "expectedBackInStockDate": "2025-12-12T05:00:00.000Z"
     },
     {
+      "drug": "DILANTIN",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
+    },
+    {
       "drug": "DILTIAZ CD",
       "doses": [
         "180MG"
@@ -837,6 +1014,13 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-02-17T05:00:00.000Z"
+    },
+    {
+      "drug": "DONEPEZIL TABLETS",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
     },
     {
       "drug": "DORZOLAMIDE",
@@ -1138,8 +1322,16 @@
       "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
     },
     {
+      "drug": "IMIPRAMINE",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+    },
+    {
       "drug": "INDAPAMIDE",
       "doses": [
+        "1.25MG",
         "2.5MG"
       ],
       "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
@@ -1228,8 +1420,7 @@
     {
       "drug": "LANSOPRAZOLE",
       "doses": [
-        "15MG",
-        "30MG"
+        "15MG"
       ],
       "expectedBackInStockDate": "2026-01-30T05:00:00.000Z"
     },
@@ -1257,6 +1448,20 @@
       "expectedBackInStockDate": "2025-12-31T05:00:00.000Z"
     },
     {
+      "drug": "LETROZOLE TABLETS",
+      "doses": [
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
+      "drug": "LEUCOVORIN",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
       "drug": "LEVETIRACETAM",
       "doses": [
         "1000MG",
@@ -1264,7 +1469,7 @@
         "500MG",
         "750MG"
       ],
-      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
     },
     {
       "drug": "LEVOCARB",
@@ -1349,9 +1554,10 @@
     {
       "drug": "LOSARTAN",
       "doses": [
+        "100MG",
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
     },
     {
       "drug": "LOSARTAN HCT",
@@ -1403,7 +1609,7 @@
       "doses": [
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2026-01-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-01T05:00:00.000Z"
     },
     {
       "drug": "METHYLENE BLUE INJECTION USP",
@@ -1473,7 +1679,7 @@
       "doses": [
         "0.1%"
       ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "MONTELUKAST",
@@ -1482,7 +1688,7 @@
         "4MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "MOXIFLOXACIN",
@@ -1576,7 +1782,7 @@
       "doses": [
         "0.3MG"
       ],
-      "expectedBackInStockDate": "2026-04-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
     },
     {
       "drug": "NOVAMOXIN",
@@ -1623,6 +1829,17 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-02-28T05:00:00.000Z"
+    },
+    {
+      "drug": "OLANZAPINE FC",
+      "doses": [
+        "10MG",
+        "15MG",
+        "20MG",
+        "5MG",
+        "7.5MG"
+      ],
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "OLANZAPINE ODT",
@@ -1696,6 +1913,13 @@
       "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
+      "drug": "ONDANSETRON ODT",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
+    },
+    {
       "drug": "OPTIMYXIN",
       "doses": [
         "0.025MG",
@@ -1753,7 +1977,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-03-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-14T04:00:00.000Z"
     },
     {
       "drug": "PEGASYS",
@@ -1797,6 +2021,13 @@
         "267MG"
       ],
       "expectedBackInStockDate": "2026-01-23T05:00:00.000Z"
+    },
+    {
+      "drug": "POSACONAZOLE",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
     },
     {
       "drug": "PREDNISOLONE",
@@ -2044,7 +2275,7 @@
       "doses": [
         "0.25MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "ROSUVASTATIN",
@@ -2083,13 +2314,6 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-02-06T05:00:00.000Z"
-    },
-    {
-      "drug": "SCOPOLAMINE HYDROBROMIDE INJECTION",
-      "doses": [
-        "0.4MG"
-      ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
     },
     {
       "drug": "SEASONALE",
@@ -2285,6 +2509,13 @@
       "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
     },
     {
+      "drug": "TESTOSTERONE GEL",
+      "doses": [
+        "1%"
+      ],
+      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+    },
+    {
       "drug": "TICAGRELOR",
       "doses": [
         "90MG"
@@ -2324,7 +2555,7 @@
       "doses": [
         "28MG"
       ],
-      "expectedBackInStockDate": "2026-03-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-03T05:00:00.000Z"
     },
     {
       "drug": "TOLTERODINE",
@@ -2470,7 +2701,7 @@
       "doses": [
         "75MG"
       ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "VIAGRA",
@@ -2478,7 +2709,7 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-03-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-05T05:00:00.000Z"
     },
     {
       "drug": "VISIONBLUE",
@@ -2514,7 +2745,7 @@
         "10MG",
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
     },
     {
       "drug": "YESAFILI",
@@ -2542,7 +2773,14 @@
       "doses": [
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2027-07-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2028-01-03T05:00:00.000Z"
+    },
+    {
+      "drug": "ZOLPIDEM ODT",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "ZYMAR",
