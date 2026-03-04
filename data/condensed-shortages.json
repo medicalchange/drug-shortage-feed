@@ -1,99 +1,87 @@
 {
-  "count": 339,
-  "refreshedAt": "2026-03-03T10:06:47.764Z",
+  "count": 338,
+  "refreshedAt": "2026-03-04T10:01:46.218Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 12,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "AZACITIDINE FOR INJECTION",
+      "drug": "(WITHOUT PRESERVATIVE)",
       "doses": [
-        "100MG"
+        "10MG"
       ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
     },
     {
-      "drug": "CARVEDILOL",
+      "drug": "ESTRADIOL DERM 75",
       "doses": [
-        "6.25MG"
+        "75MCG"
       ],
       "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
     },
     {
-      "drug": "DILANTIN",
+      "drug": "ESTRADOT 100",
       "doses": [
-        "100MG"
+        "100MCG"
       ],
-      "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
-      "drug": "DONEPEZIL TABLETS",
+      "drug": "FESOTERODINE FUMARATE",
       "doses": [
-        "10MG"
+        "8MG"
       ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
     },
     {
-      "drug": "IMIPRAMINE",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
-    },
-    {
-      "drug": "LETROZOLE TABLETS",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-    },
-    {
-      "drug": "LEUCOVORIN",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "OLANZAPINE FC",
-      "doses": [
-        "10MG",
-        "15MG",
-        "20MG",
-        "5MG",
-        "7.5MG"
-      ],
-      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-    },
-    {
-      "drug": "ONDANSETRON ODT",
+      "drug": "TRANDOLAPRIL",
       "doses": [
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
-    },
-    {
-      "drug": "POSACONAZOLE",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
-    },
-    {
-      "drug": "TESTOSTERONE GEL",
-      "doses": [
-        "1%"
-      ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
-    },
-    {
-      "drug": "ZOLPIDEM ODT",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-04T10:01:46.218Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "(WITHOUT PRESERVATIVE)",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
+        },
+        {
+          "drug": "ESTRADIOL DERM 75",
+          "doses": [
+            "75MCG"
+          ],
+          "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+        },
+        {
+          "drug": "ESTRADOT 100",
+          "doses": [
+            "100MCG"
+          ],
+          "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+        },
+        {
+          "drug": "FESOTERODINE FUMARATE",
+          "doses": [
+            "8MG"
+          ],
+          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+        },
+        {
+          "drug": "TRANDOLAPRIL",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-03T10:06:47.764Z",
       "addedDrugsCount": 12,
@@ -223,6 +211,13 @@
   ],
   "results": [
     {
+      "drug": "(WITHOUT PRESERVATIVE)",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
+    },
+    {
       "drug": "ABACAVIR / LAMIVUDINE",
       "doses": [
         "300MG",
@@ -271,13 +266,6 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2027-01-01T05:00:00.000Z"
-    },
-    {
-      "drug": "ACETYLCYSTEINE SOLUTION",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-01-30T05:00:00.000Z"
     },
     {
       "drug": "ACETYLCYSTEINE SOLUTION USP",
@@ -425,9 +413,9 @@
     {
       "drug": "APIXABAN SDZ",
       "doses": [
-        "2.5MG"
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-01-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
     },
     {
       "drug": "ARIPIPRAZOLE",
@@ -549,7 +537,7 @@
       "doses": [
         "0.2%"
       ],
-      "expectedBackInStockDate": "2026-01-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
     },
     {
       "drug": "BRIMONIDINE-TIMOP",
@@ -654,9 +642,9 @@
     {
       "drug": "CEFAZOLIN FOR INJECTION USP",
       "doses": [
-        "1G"
+        "10G"
       ],
-      "expectedBackInStockDate": "2026-02-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "CEFIXIME",
@@ -895,7 +883,7 @@
       "doses": [
         "10MCG"
       ],
-      "expectedBackInStockDate": "2026-02-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "DESONIDE",
@@ -1063,7 +1051,7 @@
       "doses": [
         "0.5MG"
       ],
-      "expectedBackInStockDate": "2026-02-13T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-02-28T05:00:00.000Z"
     },
     {
       "drug": "EDOXABAN",
@@ -1150,18 +1138,18 @@
       "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
     },
     {
-      "drug": "ESTRADOT 25",
+      "drug": "ESTRADIOL DERM 75",
       "doses": [
-        "25MCG"
+        "75MCG"
       ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
     },
     {
-      "drug": "ESTRADOT 37.5",
+      "drug": "ESTRADOT 100",
       "doses": [
-        "37.5MCG"
+        "100MCG"
       ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "ESTRADOT 50",
@@ -1205,6 +1193,13 @@
         "600MCG"
       ],
       "expectedBackInStockDate": "2026-03-10T04:00:00.000Z"
+    },
+    {
+      "drug": "FESOTERODINE FUMARATE",
+      "doses": [
+        "8MG"
+      ],
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
     },
     {
       "drug": "FINASTERIDE",
@@ -1761,7 +1756,7 @@
       "doses": [
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2026-01-23T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "NAROPIN",
@@ -1887,7 +1882,7 @@
       "doses": [
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-01T04:00:00.000Z"
     },
     {
       "drug": "OMEPRAZOLE",
@@ -1911,13 +1906,6 @@
         "8MG"
       ],
       "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
-      "drug": "ONDANSETRON ODT",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
     },
     {
       "drug": "OPTIMYXIN",
@@ -2007,20 +1995,6 @@
         "4MG"
       ],
       "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-    },
-    {
-      "drug": "PHENYTOIN SODIUM",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-01-15T05:00:00.000Z"
-    },
-    {
-      "drug": "PIRFENIDONE TABLETS",
-      "doses": [
-        "267MG"
-      ],
-      "expectedBackInStockDate": "2026-01-23T05:00:00.000Z"
     },
     {
       "drug": "POSACONAZOLE",
@@ -2243,10 +2217,9 @@
     {
       "drug": "RIVAROXABAN",
       "doses": [
-        "10MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "RIVASTIGMINE",
@@ -2593,6 +2566,13 @@
         "300MG"
       ],
       "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+    },
+    {
+      "drug": "TRANDOLAPRIL",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
       "drug": "TRAVOPROST-TIMOP PQ",
