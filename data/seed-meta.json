@@ -1,45 +1,124 @@
 {
-  "refreshedAt": "2026-03-04T10:01:46.218Z",
-  "count": 601,
-  "addedDrugsCount": 5,
+  "refreshedAt": "2026-03-05T10:08:37.779Z",
+  "count": 605,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "(WITHOUT PRESERVATIVE)",
+      "drug": "BENAZEPRIL",
       "doses": [
-        "10MG"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
-      "drug": "ESTRADIOL DERM 75",
+      "drug": "DORZO-TIMOP",
       "doses": [
-        "75MCG"
+        "20MG",
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
-      "drug": "ESTRADOT 100",
+      "drug": "LATANOPROST",
       "doses": [
-        "100MCG"
+        "50MCG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
-      "drug": "FESOTERODINE FUMARATE",
+      "drug": "LATANOPROST/TIMOLOL",
       "doses": [
-        "8MG"
+        "50MCG",
+        "5MG"
       ],
-      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
-      "drug": "TRANDOLAPRIL",
+      "drug": "LEVOCARB CR",
       "doses": [
-        "4MG"
+        "100MG",
+        "25MG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
+      "drug": "SEROQUEL XR",
+      "doses": [
+        "200MG",
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+    },
+    {
+      "drug": "VERAP",
+      "doses": [
+        "120MG",
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-05T10:08:37.779Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "BENAZEPRIL",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+        },
+        {
+          "drug": "DORZO-TIMOP",
+          "doses": [
+            "20MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        },
+        {
+          "drug": "LATANOPROST",
+          "doses": [
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        },
+        {
+          "drug": "LATANOPROST/TIMOLOL",
+          "doses": [
+            "50MCG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+        },
+        {
+          "drug": "LEVOCARB CR",
+          "doses": [
+            "100MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+        },
+        {
+          "drug": "SEROQUEL XR",
+          "doses": [
+            "200MG",
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+        },
+        {
+          "drug": "VERAP",
+          "doses": [
+            "120MG",
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-04T10:01:46.218Z",
       "addedDrugsCount": 5,
