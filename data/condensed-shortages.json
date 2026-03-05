@@ -1,46 +1,125 @@
 {
-  "count": 338,
-  "refreshedAt": "2026-03-04T10:01:46.218Z",
+  "count": 342,
+  "refreshedAt": "2026-03-05T10:08:37.779Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 5,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "(WITHOUT PRESERVATIVE)",
+      "drug": "BENAZEPRIL",
       "doses": [
-        "10MG"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
-      "drug": "ESTRADIOL DERM 75",
+      "drug": "DORZO-TIMOP",
       "doses": [
-        "75MCG"
+        "20MG",
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
-      "drug": "ESTRADOT 100",
+      "drug": "LATANOPROST",
       "doses": [
-        "100MCG"
+        "50MCG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
-      "drug": "FESOTERODINE FUMARATE",
+      "drug": "LATANOPROST/TIMOLOL",
       "doses": [
-        "8MG"
+        "50MCG",
+        "5MG"
       ],
-      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
-      "drug": "TRANDOLAPRIL",
+      "drug": "LEVOCARB CR",
       "doses": [
-        "4MG"
+        "100MG",
+        "25MG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
+      "drug": "SEROQUEL XR",
+      "doses": [
+        "200MG",
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+    },
+    {
+      "drug": "VERAP",
+      "doses": [
+        "120MG",
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-05T10:08:37.779Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "BENAZEPRIL",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+        },
+        {
+          "drug": "DORZO-TIMOP",
+          "doses": [
+            "20MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        },
+        {
+          "drug": "LATANOPROST",
+          "doses": [
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        },
+        {
+          "drug": "LATANOPROST/TIMOLOL",
+          "doses": [
+            "50MCG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+        },
+        {
+          "drug": "LEVOCARB CR",
+          "doses": [
+            "100MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+        },
+        {
+          "drug": "SEROQUEL XR",
+          "doses": [
+            "200MG",
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+        },
+        {
+          "drug": "VERAP",
+          "doses": [
+            "120MG",
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-04T10:01:46.218Z",
       "addedDrugsCount": 5,
@@ -472,6 +551,13 @@
       "expectedBackInStockDate": "2026-03-15T04:00:00.000Z"
     },
     {
+      "drug": "BENAZEPRIL",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+    },
+    {
       "drug": "BETADERM LOTION 0.1%",
       "doses": [
         "0.1%"
@@ -674,7 +760,7 @@
         "250MG",
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-03-02T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-10T04:00:00.000Z"
     },
     {
       "drug": "CHLORTHALIDONE",
@@ -784,7 +870,7 @@
         "300MG",
         "75MG"
       ],
-      "expectedBackInStockDate": "2026-02-03T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-01T05:00:00.000Z"
     },
     {
       "drug": "CODEINE",
@@ -1011,18 +1097,19 @@
       "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
     },
     {
+      "drug": "DORZO-TIMOP",
+      "doses": [
+        "20MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
       "drug": "DORZOLAMIDE",
       "doses": [
         "20MG"
       ],
       "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-    },
-    {
-      "drug": "DOXY CAP 100MG",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
     },
     {
       "drug": "DOXY TABS 100MG",
@@ -1224,13 +1311,6 @@
       "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
     },
     {
-      "drug": "FOLIC ACID",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-02-05T05:00:00.000Z"
-    },
-    {
       "drug": "FOLIC ACID INJECTION, USP",
       "doses": [
         "5MG"
@@ -1389,7 +1469,7 @@
       "doses": [
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-01-26T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "KIT FOR THE PREPARATION OF TECHNETIUM (99MTC) PYROPHOSPHATE INJECTION",
@@ -1418,6 +1498,21 @@
         "15MG"
       ],
       "expectedBackInStockDate": "2026-01-30T05:00:00.000Z"
+    },
+    {
+      "drug": "LATANOPROST",
+      "doses": [
+        "50MCG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+    },
+    {
+      "drug": "LATANOPROST/TIMOLOL",
+      "doses": [
+        "50MCG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "LAYLAA 28",
@@ -1475,6 +1570,14 @@
         "25MG"
       ],
       "expectedBackInStockDate": "2025-09-30T04:00:00.000Z"
+    },
+    {
+      "drug": "LEVOCARB CR",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "LEVOFLOXACIN",
@@ -1639,13 +1742,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    },
-    {
-      "drug": "MIDAMOR",
-      "doses": [
-        "5.0MG"
-      ],
-      "expectedBackInStockDate": "2026-01-08T05:00:00.000Z"
     },
     {
       "drug": "MIRTAZAPINE",
@@ -2204,7 +2300,7 @@
       "doses": [
         "35MG"
       ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "RISPERIDONE",
@@ -2306,12 +2402,21 @@
       "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
     },
     {
+      "drug": "SEROQUEL XR",
+      "doses": [
+        "200MG",
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+    },
+    {
       "drug": "SERTRALINE",
       "doses": [
         "100MG",
+        "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-11T04:00:00.000Z"
     },
     {
       "drug": "SILODOSIN",
@@ -2400,10 +2505,9 @@
     {
       "drug": "SUMATRIPTAN",
       "doses": [
-        "100MG",
-        "50MG"
+        "100MG"
       ],
-      "expectedBackInStockDate": "2026-02-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-10T04:00:00.000Z"
     },
     {
       "drug": "SUMATRIPTAN DF",
@@ -2682,6 +2786,14 @@
         "75MG"
       ],
       "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
+      "drug": "VERAP",
+      "doses": [
+        "120MG",
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
     {
       "drug": "VIAGRA",
