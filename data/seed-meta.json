@@ -1,60 +1,14 @@
 {
-  "refreshedAt": "2026-03-06T09:59:08.988Z",
-  "count": 610,
-  "addedDrugsCount": 7,
-  "addedDrugs": [
-    {
-      "drug": "HYDROMORPHONE",
-      "doses": [
-        "8MG"
-      ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "drug": "MAGNESIUM SULFATE INJECTION, USP",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-04-01T04:00:00.000Z"
-    },
-    {
-      "drug": "MIRVALA 28",
-      "doses": [
-        "0.0300MG",
-        "0.1500MG"
-      ],
-      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-    },
-    {
-      "drug": "PERINDOPRIL",
-      "doses": [
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
-      "drug": "PRAMIPEXOLE",
-      "doses": [
-        "1.5MG"
-      ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "drug": "PRAZO",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-    },
-    {
-      "drug": "ZADITEN",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
-    }
-  ],
+  "refreshedAt": "2026-03-07T08:59:46.627Z",
+  "count": 609,
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-07T08:59:46.627Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-03-06T09:59:08.988Z",
       "addedDrugsCount": 7,
