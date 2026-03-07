@@ -1,5 +1,89 @@
 [
   {
+    "id": "shortage:276979",
+    "reportId": 276979,
+    "type": "shortage",
+    "brandName": "APO-BRIVARACETAM",
+    "status": "active_confirmed",
+    "din": "02538709",
+    "strength": "75MG",
+    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-07T02:52:04.000Z",
+    "updateDate": "2026-03-07T02:52:04.000Z",
+    "postedDate": "2026-01-30T01:33:15.000Z"
+  },
+  {
+    "id": "shortage:275601",
+    "reportId": 275601,
+    "type": "shortage",
+    "brandName": "APO-BRIVARACETAM",
+    "status": "active_confirmed",
+    "din": "02538687",
+    "strength": "25MG",
+    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-07T02:51:54.000Z",
+    "updateDate": "2026-03-07T02:51:54.000Z",
+    "postedDate": "2026-01-09T00:58:43.000Z"
+  },
+  {
+    "id": "shortage:269095",
+    "reportId": 269095,
+    "type": "shortage",
+    "brandName": "DANTROLENE SODIUM FOR INJECTION, USP",
+    "status": "active_confirmed",
+    "din": "02529998",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-03-18T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-07T01:22:00.000Z",
+    "updateDate": "2026-03-07T01:22:00.000Z",
+    "postedDate": "2025-10-09T23:48:48.000Z"
+  },
+  {
+    "id": "shortage:277142",
+    "reportId": 277142,
+    "type": "shortage",
+    "brandName": "OCTASA",
+    "status": "active_confirmed",
+    "din": "02465752",
+    "strength": "800MG",
+    "expectedBackInStockDate": "2026-02-23T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-07T00:09:11.000Z",
+    "updateDate": "2026-03-07T00:09:11.000Z",
+    "postedDate": "2026-02-03T18:40:27.000Z"
+  },
+  {
+    "id": "shortage:276559",
+    "reportId": 276559,
+    "type": "shortage",
+    "brandName": "APO-SITAGLIPTIN/METFORMIN XR",
+    "status": "active_confirmed",
+    "din": "02506297",
+    "strength": "1000MG\r\n100MG",
+    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-06T20:38:46.000Z",
+    "updateDate": "2026-03-06T20:38:46.000Z",
+    "postedDate": "2026-01-24T01:24:22.000Z"
+  },
+  {
+    "id": "shortage:277297",
+    "reportId": 277297,
+    "type": "shortage",
+    "brandName": "ACETYLCYSTEINE SOLUTION USP",
+    "status": "active_confirmed",
+    "din": "02538431",
+    "strength": "200MG",
+    "expectedBackInStockDate": "2026-05-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-06T18:37:42.000Z",
+    "updateDate": "2026-03-06T18:37:42.000Z",
+    "postedDate": "2026-02-05T20:56:14.000Z"
+  },
+  {
     "id": "shortage:279893",
     "reportId": 279893,
     "type": "shortage",
@@ -2562,20 +2646,6 @@
     "postedDate": "2026-02-27T02:54:41.000Z"
   },
   {
-    "id": "shortage:279162",
-    "reportId": 279162,
-    "type": "shortage",
-    "brandName": "MYA",
-    "status": "active_confirmed",
-    "din": "02415380",
-    "strength": "0.02MG\r\n3.00MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-27T02:52:06.000Z",
-    "updateDate": "2026-02-27T02:52:06.000Z",
-    "postedDate": "2026-02-27T02:51:53.000Z"
-  },
-  {
     "id": "shortage:277450",
     "reportId": 277450,
     "type": "shortage",
@@ -4298,48 +4368,6 @@
     "postedDate": "2025-11-07T01:10:43.000Z"
   },
   {
-    "id": "shortage:276559",
-    "reportId": 276559,
-    "type": "shortage",
-    "brandName": "APO-SITAGLIPTIN/METFORMIN XR",
-    "status": "active_confirmed",
-    "din": "02506297",
-    "strength": "1000MG\r\n100MG",
-    "expectedBackInStockDate": "2026-03-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-13T00:59:54.000Z",
-    "updateDate": "2026-02-13T00:59:54.000Z",
-    "postedDate": "2026-01-24T01:24:22.000Z"
-  },
-  {
-    "id": "shortage:275601",
-    "reportId": 275601,
-    "type": "shortage",
-    "brandName": "APO-BRIVARACETAM",
-    "status": "active_confirmed",
-    "din": "02538687",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-03-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-13T00:55:46.000Z",
-    "updateDate": "2026-02-13T00:55:46.000Z",
-    "postedDate": "2026-01-09T00:58:43.000Z"
-  },
-  {
-    "id": "shortage:276979",
-    "reportId": 276979,
-    "type": "shortage",
-    "brandName": "APO-BRIVARACETAM",
-    "status": "active_confirmed",
-    "din": "02538709",
-    "strength": "75MG",
-    "expectedBackInStockDate": "2026-03-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-13T00:55:44.000Z",
-    "updateDate": "2026-02-13T00:55:44.000Z",
-    "postedDate": "2026-01-30T01:33:15.000Z"
-  },
-  {
     "id": "shortage:277955",
     "reportId": 277955,
     "type": "shortage",
@@ -4970,20 +4998,6 @@
     "postedDate": "2025-12-04T20:49:16.000Z"
   },
   {
-    "id": "shortage:277297",
-    "reportId": 277297,
-    "type": "shortage",
-    "brandName": "ACETYLCYSTEINE SOLUTION USP",
-    "status": "active_confirmed",
-    "din": "02538431",
-    "strength": "200MG",
-    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-05T20:57:20.000Z",
-    "updateDate": "2026-02-05T20:57:20.000Z",
-    "postedDate": "2026-02-05T20:56:14.000Z"
-  },
-  {
     "id": "shortage:266187",
     "reportId": 266187,
     "type": "shortage",
@@ -5136,20 +5150,6 @@
     "updatedDate": "2026-02-03T20:24:25.000Z",
     "updateDate": "2026-02-03T20:24:25.000Z",
     "postedDate": "2025-09-02T04:05:03.000Z"
-  },
-  {
-    "id": "shortage:277142",
-    "reportId": 277142,
-    "type": "shortage",
-    "brandName": "OCTASA",
-    "status": "active_confirmed",
-    "din": "02465752",
-    "strength": "800MG",
-    "expectedBackInStockDate": "2026-02-23T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-03T18:54:53.000Z",
-    "updateDate": "2026-02-03T18:54:53.000Z",
-    "postedDate": "2026-02-03T18:40:27.000Z"
   },
   {
     "id": "shortage:275766",
@@ -7124,20 +7124,6 @@
     "updatedDate": "2025-10-29T17:56:58.000Z",
     "updateDate": "2025-10-29T17:56:58.000Z",
     "postedDate": "2024-08-01T00:48:52.000Z"
-  },
-  {
-    "id": "shortage:269095",
-    "reportId": 269095,
-    "type": "shortage",
-    "brandName": "DANTROLENE SODIUM FOR INJECTION, USP",
-    "status": "active_confirmed",
-    "din": "02529998",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-03-01T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-10-24T09:00:02.000Z",
-    "updateDate": "2025-10-24T09:00:02.000Z",
-    "postedDate": "2025-10-09T23:48:48.000Z"
   },
   {
     "id": "shortage:236799",
