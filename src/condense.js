@@ -9,12 +9,10 @@ export function normalizeDrugName(value) {
   let out = String(value || '').trim();
   if (!out) return 'Unnamed product';
 
-  if (out.includes('-')) {
-    out = out.replace(/^[^-]+-\s*/, '');
-  }
 
-  while (/^(APO|JAMP|SANDOZ|ACT)[\s-]+/i.test(out)) {
-    out = out.replace(/^(APO|JAMP|SANDOZ|ACT)[\s-]+/i, '');
+  // Strip known manufacturer prefixes without chopping actual drug names.
+  while (/^(APO|ACT|ACH|AURO|GLN|JAMP|MINT|MYL|MYLAN|NAT|PDP|PMS|PMSC|RIVA|SANDOZ|SPC|TARO|TEVA)[\s-]+/i.test(out)) {
+    out = out.replace(/^(APO|ACT|ACH|AURO|GLN|JAMP|MINT|MYL|MYLAN|NAT|PDP|PMS|PMSC|RIVA|SANDOZ|SPC|TARO|TEVA)[\s-]+/i, '');
   }
 
   return out.trim() || 'Unnamed product';
