@@ -1,9 +1,14 @@
 {
-  "refreshedAt": "2026-03-08T09:00:24.937Z",
+  "refreshedAt": "2026-03-09T10:31:21.033Z",
   "count": 609,
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-09T10:31:21.033Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-03-08T09:00:24.937Z",
       "addedDrugsCount": 0,
