@@ -1,5 +1,5 @@
 {
-  "count": 357,
+  "count": 355,
   "refreshedAt": "2026-03-08T09:00:24.937Z",
   "source": "github-static-seed",
   "addedDrugsCount": 0,
@@ -300,22 +300,6 @@
     }
   ],
   "results": [
-    {
-      "drug": "AA-LEVOCARB CR",
-      "doses": [
-        "100MG",
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-    },
-    {
-      "drug": "AA-VERAP",
-      "doses": [
-        "120MG",
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
-    },
     {
       "drug": "ABACAVIR / LAMIVUDINE",
       "doses": [
@@ -911,9 +895,10 @@
     {
       "drug": "CLOPIDOGREL",
       "doses": [
-        "300MG"
+        "300MG",
+        "75MG"
       ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-01T05:00:00.000Z"
     },
     {
       "drug": "CODEINE",
@@ -1606,6 +1591,14 @@
       "expectedBackInStockDate": "2025-09-30T04:00:00.000Z"
     },
     {
+      "drug": "LEVOCARB CR",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
       "drug": "LEVOFLOXACIN",
       "doses": [
         "250MG",
@@ -1715,27 +1708,6 @@
       "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
     },
     {
-      "drug": "M-CLOPIDOGREL",
-      "doses": [
-        "75MG"
-      ],
-      "expectedBackInStockDate": "2026-03-01T05:00:00.000Z"
-    },
-    {
-      "drug": "M-METHOTREXATE",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2026-03-01T05:00:00.000Z"
-    },
-    {
-      "drug": "M-PROGESTERONE",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-03-01T05:00:00.000Z"
-    },
-    {
       "drug": "MAEVE",
       "doses": [
         "0.35MG"
@@ -1762,6 +1734,13 @@
         "1.5G"
       ],
       "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
+      "drug": "METHOTREXATE",
+      "doses": [
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2026-03-01T05:00:00.000Z"
     },
     {
       "drug": "METHYLENE BLUE INJECTION USP",
@@ -2301,7 +2280,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-01T05:00:00.000Z"
     },
     {
       "drug": "PROGESTERONE INJECTION, USP",
@@ -2921,6 +2900,14 @@
         "75MG"
       ],
       "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
+      "drug": "VERAP",
+      "doses": [
+        "120MG",
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
     {
       "drug": "VIAGRA",
