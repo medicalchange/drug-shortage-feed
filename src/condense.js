@@ -11,8 +11,8 @@ export function normalizeDrugName(value) {
 
 
   // Strip known manufacturer prefixes without chopping actual drug names.
-  while (/^(APO|ACT|ACH|AURO|GLN|JAMP|MINT|MYL|MYLAN|NAT|PDP|PMS|PMSC|RIVA|SANDOZ|SPC|TARO|TEVA)[\s-]+/i.test(out)) {
-    out = out.replace(/^(APO|ACT|ACH|AURO|GLN|JAMP|MINT|MYL|MYLAN|NAT|PDP|PMS|PMSC|RIVA|SANDOZ|SPC|TARO|TEVA)[\s-]+/i, '');
+  while (/^(AA|APO|ACT|ACH|AURO|GLN|JAMP|M|MINT|MYL|MYLAN|NAT|PDP|PMS|PMSC|RIVA|SANDOZ|SPC|TARO|TEVA)[\s-]+/i.test(out)) {
+    out = out.replace(/^(AA|APO|ACT|ACH|AURO|GLN|JAMP|M|MINT|MYL|MYLAN|NAT|PDP|PMS|PMSC|RIVA|SANDOZ|SPC|TARO|TEVA)[\s-]+/i, '');
   }
 
   return out.trim() || 'Unnamed product';
