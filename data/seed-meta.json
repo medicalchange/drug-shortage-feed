@@ -1,76 +1,14 @@
 {
-  "refreshedAt": "2026-03-10T10:07:05.080Z",
-  "count": 622,
-  "addedDrugsCount": 9,
-  "addedDrugs": [
-    {
-      "drug": "ALFACALCIDOL",
-      "doses": [
-        "1MCG"
-      ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
-    },
-    {
-      "drug": "AMINOPHYLLINE INJ 25MG/ML",
-      "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-04-02T04:00:00.000Z"
-    },
-    {
-      "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
-      "doses": [
-        "1%",
-        "5%"
-      ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-    },
-    {
-      "drug": "CANAGLIFLOZIN",
-      "doses": [
-        "100MG",
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-03-16T04:00:00.000Z"
-    },
-    {
-      "drug": "CLARUS",
-      "doses": [
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2026-03-24T04:00:00.000Z"
-    },
-    {
-      "drug": "DILANTIN INFATABS",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
-    },
-    {
-      "drug": "ESTRADIOL DERM 50",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
-    },
-    {
-      "drug": "NAPROXEN/ESOMEPRAZOLE MR",
-      "doses": [
-        "20MG",
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "drug": "TEMOZOLOMIDE",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-    }
-  ],
+  "refreshedAt": "2026-03-11T10:08:52.403Z",
+  "count": 623,
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-11T10:08:52.403Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-03-10T10:07:05.080Z",
       "addedDrugsCount": 9,
