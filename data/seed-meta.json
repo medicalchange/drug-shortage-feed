@@ -1,9 +1,30 @@
 {
-  "refreshedAt": "2026-03-11T10:08:52.403Z",
-  "count": 623,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-03-12T10:17:14.445Z",
+  "count": 630,
+  "addedDrugsCount": 1,
+  "addedDrugs": [
+    {
+      "drug": "MIDAZOLAM INJECTION",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-12T10:17:14.445Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "MIDAZOLAM INJECTION",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-11T10:08:52.403Z",
       "addedDrugsCount": 0,
