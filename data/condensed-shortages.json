@@ -1,10 +1,31 @@
 {
-  "count": 358,
-  "refreshedAt": "2026-03-11T10:08:52.403Z",
+  "count": 359,
+  "refreshedAt": "2026-03-12T10:17:14.445Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 1,
+  "addedDrugs": [
+    {
+      "drug": "MIDAZOLAM INJECTION",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-12T10:17:14.445Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "MIDAZOLAM INJECTION",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-11T10:08:52.403Z",
       "addedDrugsCount": 0,
@@ -559,7 +580,7 @@
         "30MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-09-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "AMPICILLIN",
@@ -755,7 +776,7 @@
         "0.2%",
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
     },
     {
       "drug": "BRIMONIDINE/TIMOLOL",
@@ -768,6 +789,7 @@
     {
       "drug": "BRIVARACETAM",
       "doses": [
+        "100MG",
         "25MG",
         "50MG",
         "75MG"
@@ -1047,7 +1069,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "DASATINIB",
@@ -1065,7 +1087,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-02-09T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-23T04:00:00.000Z"
     },
     {
       "drug": "DESMOPRESSIN",
@@ -1300,7 +1322,7 @@
       "doses": [
         "0.5MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "ERIBULIN",
@@ -1872,7 +1894,6 @@
         "10MG",
         "20MG",
         "30MG",
-        "50MG",
         "60MG",
         "80MG"
       ],
@@ -1883,7 +1904,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "METOPROLOL-L",
@@ -1892,6 +1913,13 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "drug": "MIDAZOLAM INJECTION",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
     },
     {
       "drug": "MIOCHOL-E",
@@ -1913,7 +1941,7 @@
         "0.0300MG",
         "0.1500MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "MIRVALA 28",
@@ -2113,6 +2141,7 @@
       "doses": [
         "10MG",
         "15MG",
+        "2.5MG",
         "20MG"
       ],
       "expectedBackInStockDate": "2026-02-28T05:00:00.000Z"
@@ -2405,7 +2434,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-02-28T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "PROPRANOLOL",
@@ -2487,7 +2516,7 @@
         "0.5MG",
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
     {
       "drug": "RECOMBIVAX HB",
@@ -2510,7 +2539,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "RISEDRONATE",
@@ -2663,7 +2692,7 @@
         "1000MG",
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "SODIUM BICARBONATE INJECTION, USP",
@@ -2768,7 +2797,7 @@
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "TERIFLUNOMIDE",
@@ -2869,7 +2898,7 @@
       "doses": [
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "TRAMADOL ER",
@@ -2892,7 +2921,7 @@
         "0.004%",
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "TRAZODONE",
@@ -2974,7 +3003,7 @@
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "VALSARTAN",
