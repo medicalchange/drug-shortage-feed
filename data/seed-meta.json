@@ -1,17 +1,126 @@
 {
-  "refreshedAt": "2026-03-12T10:17:14.445Z",
-  "count": 630,
-  "addedDrugsCount": 1,
+  "refreshedAt": "2026-03-13T10:00:12.856Z",
+  "count": 634,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "MIDAZOLAM INJECTION",
+      "drug": "ADACEL",
       "doses": [
-        "5MG"
+        "2.5MCG",
+        "2LF",
+        "3MCG",
+        "5LF",
+        "5MCG"
       ],
-      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+    },
+    {
+      "drug": "CLOBAZAM",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+    },
+    {
+      "drug": "FEBUXOSTAT",
+      "doses": [
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
+    },
+    {
+      "drug": "LORAZEPAM",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+    },
+    {
+      "drug": "SITAGLIPTIN MALATE / METFORMIN",
+      "doses": [
+        "50MG",
+        "850MG"
+      ],
+      "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
+    },
+    {
+      "drug": "TRAMADOL/ACETAMINOPHEN",
+      "doses": [
+        "325MG",
+        "37.5MG"
+      ],
+      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+    },
+    {
+      "drug": "YF-VAX",
+      "doses": [
+        "109648PFU"
+      ],
+      "expectedBackInStockDate": "2026-04-23T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-13T10:00:12.856Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "ADACEL",
+          "doses": [
+            "2.5MCG",
+            "2LF",
+            "3MCG",
+            "5LF",
+            "5MCG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        },
+        {
+          "drug": "CLOBAZAM",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+        },
+        {
+          "drug": "FEBUXOSTAT",
+          "doses": [
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
+        },
+        {
+          "drug": "LORAZEPAM",
+          "doses": [
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+        },
+        {
+          "drug": "SITAGLIPTIN MALATE / METFORMIN",
+          "doses": [
+            "50MG",
+            "850MG"
+          ],
+          "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
+        },
+        {
+          "drug": "TRAMADOL/ACETAMINOPHEN",
+          "doses": [
+            "325MG",
+            "37.5MG"
+          ],
+          "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+        },
+        {
+          "drug": "YF-VAX",
+          "doses": [
+            "109648PFU"
+          ],
+          "expectedBackInStockDate": "2026-04-23T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-12T10:17:14.445Z",
       "addedDrugsCount": 1,
