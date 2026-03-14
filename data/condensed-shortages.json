@@ -1,66 +1,31 @@
 {
-  "count": 360,
-  "refreshedAt": "2026-03-13T10:00:12.856Z",
+  "count": 357,
+  "refreshedAt": "2026-03-14T09:05:40.833Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 7,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "ADACEL",
+      "drug": "KIT FOR THE PREPARATION OF TECHNETIUM TC 99M SESTAMIBI INJECTION",
       "doses": [
-        "2.5MCG",
-        "2LF",
-        "3MCG",
-        "5LF",
-        "5MCG"
+        "1MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-    },
-    {
-      "drug": "CLOBAZAM",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
-    },
-    {
-      "drug": "FEBUXOSTAT",
-      "doses": [
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
-    },
-    {
-      "drug": "LORAZEPAM",
-      "doses": [
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
-    },
-    {
-      "drug": "SITAGLIPTIN MALATE / METFORMIN",
-      "doses": [
-        "50MG",
-        "850MG"
-      ],
-      "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
-    },
-    {
-      "drug": "TRAMADOL/ACETAMINOPHEN",
-      "doses": [
-        "325MG",
-        "37.5MG"
-      ],
-      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
-    },
-    {
-      "drug": "YF-VAX",
-      "doses": [
-        "109648PFU"
-      ],
-      "expectedBackInStockDate": "2026-04-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-23T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-14T09:05:40.833Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "KIT FOR THE PREPARATION OF TECHNETIUM TC 99M SESTAMIBI INJECTION",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-03-23T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-13T10:00:12.856Z",
       "addedDrugsCount": 7,
@@ -496,19 +461,6 @@
       "refreshedAt": "2026-03-01T09:00:08.493Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-03-01T02:21:54.393Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "MS CONTIN",
-          "doses": [
-            "60MG"
-          ],
-          "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -540,13 +492,6 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
-      "drug": "ACETAMINOPHEN TABLETS USP 325 MG",
-      "doses": [
-        "325MG"
-      ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
     },
     {
       "drug": "ACETAMINOPHEN TABLETS USP 500 MG",
@@ -708,13 +653,6 @@
         "2G"
       ],
       "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
-    },
-    {
-      "drug": "ANAFRANIL",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "ANASTROZOLE",
@@ -905,10 +843,9 @@
       "doses": [
         "100MG",
         "25MG",
-        "50MG",
-        "75MG"
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "BROMFENAC",
@@ -1024,14 +961,6 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-    },
-    {
-      "drug": "CHLORTHALIDONE",
-      "doses": [
-        "12.5MG",
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
     },
     {
       "drug": "CHOLESTYRAMINE-ODAN",
@@ -1210,13 +1139,6 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-03-23T04:00:00.000Z"
-    },
-    {
-      "drug": "DESMOPRESSIN",
-      "doses": [
-        "0.1MG"
-      ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
     },
     {
       "drug": "DESMOPRESSIN SPRAY",
@@ -1582,7 +1504,7 @@
         "10MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "FOLIC ACID INJECTION, USP",
@@ -1747,6 +1669,13 @@
         "12MG"
       ],
       "expectedBackInStockDate": "2025-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "KIT FOR THE PREPARATION OF TECHNETIUM TC 99M SESTAMIBI INJECTION",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-03-23T04:00:00.000Z"
     },
     {
       "drug": "LACOSAMIDE",
@@ -2586,8 +2515,6 @@
     {
       "drug": "QUINAPRIL",
       "doses": [
-        "20MG",
-        "40MG",
         "5MG"
       ],
       "expectedBackInStockDate": "2026-01-31T05:00:00.000Z"
