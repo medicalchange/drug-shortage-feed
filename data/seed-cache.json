@@ -1,5 +1,61 @@
 [
   {
+    "id": "shortage:279197",
+    "reportId": 279197,
+    "type": "shortage",
+    "brandName": "GABAPENTIN",
+    "status": "active_confirmed",
+    "din": "02432072",
+    "strength": "600MG",
+    "expectedBackInStockDate": "2026-04-10T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-14T00:50:47.000Z",
+    "updateDate": "2026-03-14T00:50:47.000Z",
+    "postedDate": "2026-03-02T08:43:35.000Z"
+  },
+  {
+    "id": "shortage:279872",
+    "reportId": 279872,
+    "type": "shortage",
+    "brandName": "APO-BRIVARACETAM",
+    "status": "active_confirmed",
+    "din": "02538695",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-03-20T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-13T22:35:42.000Z",
+    "updateDate": "2026-03-13T22:35:42.000Z",
+    "postedDate": "2026-03-06T01:16:38.000Z"
+  },
+  {
+    "id": "shortage:273269",
+    "reportId": 273269,
+    "type": "shortage",
+    "brandName": "CYESTRA-35",
+    "status": "active_confirmed",
+    "din": "02290308",
+    "strength": "2MG\r\n0.035MG",
+    "expectedBackInStockDate": "2026-03-05T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-13T20:04:32.000Z",
+    "updateDate": "2026-03-13T20:04:32.000Z",
+    "postedDate": "2025-12-04T20:44:11.000Z"
+  },
+  {
+    "id": "shortage:279185",
+    "reportId": 279185,
+    "type": "shortage",
+    "brandName": "KIT FOR THE PREPARATION OF TECHNETIUM TC 99M SESTAMIBI INJECTION",
+    "status": "active_confirmed",
+    "din": "02329794",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-03-23T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-13T16:27:46.000Z",
+    "updateDate": "2026-03-13T16:27:46.000Z",
+    "postedDate": "2026-02-27T22:00:54.000Z"
+  },
+  {
     "id": "shortage:280448",
     "reportId": 280448,
     "type": "shortage",
@@ -686,20 +742,6 @@
     "postedDate": "2026-01-24T01:24:22.000Z"
   },
   {
-    "id": "shortage:272629",
-    "reportId": 272629,
-    "type": "shortage",
-    "brandName": "ACETAMINOPHEN TABLETS USP 325 MG",
-    "status": "active_confirmed",
-    "din": "02362422",
-    "strength": "325MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-11T22:42:09.000Z",
-    "updateDate": "2026-03-11T22:42:09.000Z",
-    "postedDate": "2025-11-28T00:39:10.000Z"
-  },
-  {
     "id": "shortage:271038",
     "reportId": 271038,
     "type": "shortage",
@@ -924,20 +966,6 @@
     "postedDate": "2026-02-20T01:20:15.000Z"
   },
   {
-    "id": "shortage:276141",
-    "reportId": 276141,
-    "type": "shortage",
-    "brandName": "ANAFRANIL",
-    "status": "active_confirmed",
-    "din": "00402591",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-03-27T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-11T20:36:36.000Z",
-    "updateDate": "2026-03-11T20:36:36.000Z",
-    "postedDate": "2026-01-15T20:53:15.000Z"
-  },
-  {
     "id": "shortage:279174",
     "reportId": 279174,
     "type": "shortage",
@@ -1050,20 +1078,6 @@
     "postedDate": "2026-02-20T01:13:57.000Z"
   },
   {
-    "id": "shortage:278048",
-    "reportId": 278048,
-    "type": "shortage",
-    "brandName": "APO-FLUOXETINE",
-    "status": "active_confirmed",
-    "din": "02216353",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-11T20:31:42.000Z",
-    "updateDate": "2026-03-11T20:31:42.000Z",
-    "postedDate": "2026-02-13T01:39:41.000Z"
-  },
-  {
     "id": "shortage:275151",
     "reportId": 275151,
     "type": "shortage",
@@ -1076,20 +1090,6 @@
     "updatedDate": "2026-03-11T20:31:20.000Z",
     "updateDate": "2026-03-11T20:31:20.000Z",
     "postedDate": "2026-01-03T03:46:23.000Z"
-  },
-  {
-    "id": "shortage:278451",
-    "reportId": 278451,
-    "type": "shortage",
-    "brandName": "APO-DESMOPRESSIN",
-    "status": "active_confirmed",
-    "din": "02284030",
-    "strength": "0.1MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-11T20:30:45.000Z",
-    "updateDate": "2026-03-11T20:30:45.000Z",
-    "postedDate": "2026-02-20T01:27:52.000Z"
   },
   {
     "id": "shortage:275601",
@@ -2198,20 +2198,6 @@
     "postedDate": "2026-02-11T01:52:47.000Z"
   },
   {
-    "id": "shortage:276979",
-    "reportId": 276979,
-    "type": "shortage",
-    "brandName": "APO-BRIVARACETAM",
-    "status": "active_confirmed",
-    "din": "02538709",
-    "strength": "75MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-07T02:52:04.000Z",
-    "updateDate": "2026-03-07T02:52:04.000Z",
-    "postedDate": "2026-01-30T01:33:15.000Z"
-  },
-  {
     "id": "shortage:269095",
     "reportId": 269095,
     "type": "shortage",
@@ -2308,20 +2294,6 @@
     "updatedDate": "2026-03-06T01:18:53.000Z",
     "updateDate": "2026-03-06T01:18:53.000Z",
     "postedDate": "2026-03-06T01:18:37.000Z"
-  },
-  {
-    "id": "shortage:279872",
-    "reportId": 279872,
-    "type": "shortage",
-    "brandName": "APO-BRIVARACETAM",
-    "status": "active_confirmed",
-    "din": "02538695",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-06T01:16:52.000Z",
-    "updateDate": "2026-03-06T01:16:52.000Z",
-    "postedDate": "2026-03-06T01:16:38.000Z"
   },
   {
     "id": "shortage:279869",
@@ -3878,20 +3850,6 @@
     "postedDate": "2026-03-02T09:26:41.000Z"
   },
   {
-    "id": "shortage:279197",
-    "reportId": 279197,
-    "type": "shortage",
-    "brandName": "GABAPENTIN",
-    "status": "active_confirmed",
-    "din": "02432072",
-    "strength": "600MG",
-    "expectedBackInStockDate": "2026-03-27T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-02T08:48:23.000Z",
-    "updateDate": "2026-03-02T08:48:23.000Z",
-    "postedDate": "2026-03-02T08:43:35.000Z"
-  },
-  {
     "id": "shortage:255257",
     "reportId": 255257,
     "type": "shortage",
@@ -4060,20 +4018,6 @@
     "postedDate": "2026-02-23T23:11:47.000Z"
   },
   {
-    "id": "shortage:237391",
-    "reportId": 237391,
-    "type": "shortage",
-    "brandName": "PMS-QUINAPRIL",
-    "status": "active_confirmed",
-    "din": "02340585",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-03-11T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-26T23:50:42.000Z",
-    "updateDate": "2026-02-26T23:50:42.000Z",
-    "postedDate": "2024-09-12T20:09:06.000Z"
-  },
-  {
     "id": "shortage:279111",
     "reportId": 279111,
     "type": "shortage",
@@ -4086,20 +4030,6 @@
     "updatedDate": "2026-02-26T23:50:23.000Z",
     "updateDate": "2026-02-26T23:50:23.000Z",
     "postedDate": "2026-02-26T23:50:16.000Z"
-  },
-  {
-    "id": "shortage:257028",
-    "reportId": 257028,
-    "type": "shortage",
-    "brandName": "PMS-QUINAPRIL",
-    "status": "active_confirmed",
-    "din": "02340577",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-03-11T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-26T23:50:06.000Z",
-    "updateDate": "2026-02-26T23:50:06.000Z",
-    "postedDate": "2025-05-12T17:10:06.000Z"
   },
   {
     "id": "shortage:279103",
@@ -4982,20 +4912,6 @@
     "updatedDate": "2026-02-16T20:31:08.000Z",
     "updateDate": "2026-02-16T20:31:08.000Z",
     "postedDate": "2026-02-09T20:17:58.000Z"
-  },
-  {
-    "id": "shortage:273269",
-    "reportId": 273269,
-    "type": "shortage",
-    "brandName": "CYESTRA-35",
-    "status": "active_confirmed",
-    "din": "02290308",
-    "strength": "2MG\r\n0.035MG",
-    "expectedBackInStockDate": "2026-03-05T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-16T19:44:42.000Z",
-    "updateDate": "2026-02-16T19:44:42.000Z",
-    "postedDate": "2025-12-04T20:44:11.000Z"
   },
   {
     "id": "shortage:278123",
@@ -6564,34 +6480,6 @@
     "updatedDate": "2026-01-13T02:03:33.000Z",
     "updateDate": "2026-01-13T02:03:33.000Z",
     "postedDate": "2025-10-09T00:38:05.000Z"
-  },
-  {
-    "id": "shortage:265634",
-    "reportId": 265634,
-    "type": "shortage",
-    "brandName": "JAMP CHLORTHALIDONE",
-    "status": "active_confirmed",
-    "din": "02523795",
-    "strength": "12.5MG",
-    "expectedBackInStockDate": "2026-02-27T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-13T01:59:31.000Z",
-    "updateDate": "2026-01-13T01:59:31.000Z",
-    "postedDate": "2025-08-19T18:20:06.000Z"
-  },
-  {
-    "id": "shortage:265631",
-    "reportId": 265631,
-    "type": "shortage",
-    "brandName": "JAMP CHLORTHALIDONE",
-    "status": "active_confirmed",
-    "din": "02523809",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-02-27T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-13T01:58:46.000Z",
-    "updateDate": "2026-01-13T01:58:46.000Z",
-    "postedDate": "2025-08-19T18:16:12.000Z"
   },
   {
     "id": "shortage:275263",
