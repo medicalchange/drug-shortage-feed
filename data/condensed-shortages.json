@@ -1,18 +1,15 @@
 {
   "count": 357,
-  "refreshedAt": "2026-03-14T09:05:40.833Z",
+  "refreshedAt": "2026-03-15T08:30:54.969Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "KIT FOR THE PREPARATION OF TECHNETIUM TC 99M SESTAMIBI INJECTION",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-03-23T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-15T08:30:54.969Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-03-14T09:05:40.833Z",
       "addedDrugsCount": 1,
@@ -456,11 +453,6 @@
           "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-03-01T09:00:08.493Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
