@@ -1,10 +1,15 @@
 {
   "count": 357,
-  "refreshedAt": "2026-03-15T08:30:54.969Z",
+  "refreshedAt": "2026-03-16T08:50:48.918Z",
   "source": "github-static-seed",
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-16T08:50:48.918Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-03-15T08:30:54.969Z",
       "addedDrugsCount": 0,
@@ -437,20 +442,6 @@
             "10MG"
           ],
           "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-02T10:31:41.714Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "ALENDRONATE / VITAMIN D3",
-          "doses": [
-            "2800UNIT",
-            "70MG"
-          ],
-          "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
         }
       ]
     }
