@@ -1,10 +1,33 @@
 {
-  "count": 357,
-  "refreshedAt": "2026-03-16T08:50:48.918Z",
+  "count": 358,
+  "refreshedAt": "2026-03-17T08:44:40.401Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 1,
+  "addedDrugs": [
+    {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "36G",
+        "4.5G"
+      ],
+      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-17T08:44:40.401Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+          "doses": [
+            "36G",
+            "4.5G"
+          ],
+          "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-16T08:50:48.918Z",
       "addedDrugsCount": 0,
@@ -350,100 +373,6 @@
           "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-03-03T10:06:47.764Z",
-      "addedDrugsCount": 12,
-      "addedDrugs": [
-        {
-          "drug": "AZACITIDINE FOR INJECTION",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
-        },
-        {
-          "drug": "CARVEDILOL",
-          "doses": [
-            "6.25MG"
-          ],
-          "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
-        },
-        {
-          "drug": "DILANTIN",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
-        },
-        {
-          "drug": "DONEPEZIL TABLETS",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
-        },
-        {
-          "drug": "IMIPRAMINE",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
-        },
-        {
-          "drug": "LETROZOLE TABLETS",
-          "doses": [
-            "2.5MG"
-          ],
-          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-        },
-        {
-          "drug": "LEUCOVORIN",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-        },
-        {
-          "drug": "OLANZAPINE FC",
-          "doses": [
-            "10MG",
-            "15MG",
-            "20MG",
-            "5MG",
-            "7.5MG"
-          ],
-          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-        },
-        {
-          "drug": "ONDANSETRON ODT",
-          "doses": [
-            "4MG"
-          ],
-          "expectedBackInStockDate": "2026-02-27T05:00:00.000Z"
-        },
-        {
-          "drug": "POSACONAZOLE",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
-        },
-        {
-          "drug": "TESTOSTERONE GEL",
-          "doses": [
-            "1%"
-          ],
-          "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
-        },
-        {
-          "drug": "ZOLPIDEM ODT",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -649,7 +578,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "ARIPIPRAZOLE",
@@ -742,7 +671,7 @@
       "doses": [
         "1200000UNIT"
       ],
-      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "BIPAZEN",
@@ -1108,13 +1037,9 @@
     {
       "drug": "DASATINIB",
       "doses": [
-        "140MG",
-        "20MG",
-        "50MG",
-        "70MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "DAUNORUBICIN HYDROCHLORIDE INJECTION",
@@ -1395,21 +1320,21 @@
       "doses": [
         "50MCG"
       ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "ESTRADIOL DERM 75",
       "doses": [
         "75MCG"
       ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "ESTRADOT 100",
       "doses": [
         "100MCG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
       "drug": "ESTRADOT 50",
@@ -1869,7 +1794,7 @@
       "doses": [
         "150MG"
       ],
-      "expectedBackInStockDate": "2026-03-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
       "drug": "LYRICA",
@@ -2214,7 +2139,7 @@
         "25MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-03-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
     {
       "drug": "OLOPATADINE",
@@ -2343,6 +2268,14 @@
       "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
     },
     {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "36G",
+        "4.5G"
+      ],
+      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+    },
+    {
       "drug": "POSACONAZOLE",
       "doses": [
         "100MG"
@@ -2375,7 +2308,7 @@
       "doses": [
         "1%"
       ],
-      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "PREGABALIN",
@@ -2900,7 +2833,7 @@
         "2MG",
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
     },
     {
       "drug": "TOPILENE",
@@ -2970,7 +2903,7 @@
         "0.215MG",
         "0.25MG"
       ],
-      "expectedBackInStockDate": "2026-03-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
       "drug": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
