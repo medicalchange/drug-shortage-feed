@@ -1,5 +1,145 @@
 [
   {
+    "id": "shortage:278878",
+    "reportId": 278878,
+    "type": "shortage",
+    "brandName": "MYLAN-VERAPAMIL SR",
+    "status": "active_confirmed",
+    "din": "02210347",
+    "strength": "120MG",
+    "expectedBackInStockDate": "2026-04-28T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-17T19:35:58.000Z",
+    "updateDate": "2026-03-17T19:35:58.000Z",
+    "postedDate": "2026-02-24T19:24:06.000Z"
+  },
+  {
+    "id": "shortage:280105",
+    "reportId": 280105,
+    "type": "shortage",
+    "brandName": "MYLAN-NAPROXEN/ESOMEPRAZOLE MR",
+    "status": "active_confirmed",
+    "din": "02458608",
+    "strength": "20MG\r\n375MG",
+    "expectedBackInStockDate": "2026-07-14T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-17T19:34:18.000Z",
+    "updateDate": "2026-03-17T19:34:18.000Z",
+    "postedDate": "2026-03-09T21:07:15.000Z"
+  },
+  {
+    "id": "shortage:278863",
+    "reportId": 278863,
+    "type": "shortage",
+    "brandName": "CLARUS",
+    "status": "active_confirmed",
+    "din": "02257963",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-03-18T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-17T19:33:40.000Z",
+    "updateDate": "2026-03-17T19:33:40.000Z",
+    "postedDate": "2026-02-24T19:17:15.000Z"
+  },
+  {
+    "id": "shortage:275983",
+    "reportId": 275983,
+    "type": "shortage",
+    "brandName": "VIAGRA",
+    "status": "active_confirmed",
+    "din": "02239766",
+    "strength": "25MG",
+    "expectedBackInStockDate": "2026-03-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-17T19:31:35.000Z",
+    "updateDate": "2026-03-17T19:31:35.000Z",
+    "postedDate": "2026-01-13T23:36:17.000Z"
+  },
+  {
+    "id": "shortage:278853",
+    "reportId": 278853,
+    "type": "shortage",
+    "brandName": "MAVIK",
+    "status": "active_confirmed",
+    "din": "02231460",
+    "strength": "2MG",
+    "expectedBackInStockDate": "2026-03-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-17T19:30:57.000Z",
+    "updateDate": "2026-03-17T19:30:57.000Z",
+    "postedDate": "2026-02-24T18:46:43.000Z"
+  },
+  {
+    "id": "shortage:278850",
+    "reportId": 278850,
+    "type": "shortage",
+    "brandName": "MAVIK",
+    "status": "active_confirmed",
+    "din": "02231457",
+    "strength": "0.5MG",
+    "expectedBackInStockDate": "2026-03-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-17T19:30:28.000Z",
+    "updateDate": "2026-03-17T19:30:28.000Z",
+    "postedDate": "2026-02-24T18:45:02.000Z"
+  },
+  {
+    "id": "shortage:279674",
+    "reportId": 279674,
+    "type": "shortage",
+    "brandName": "PRO-LISDEXAMFETAMINE",
+    "status": "active_confirmed",
+    "din": "02547031",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-03-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-17T18:30:11.000Z",
+    "updateDate": "2026-03-17T18:30:11.000Z",
+    "postedDate": "2026-03-04T23:58:24.000Z"
+  },
+  {
+    "id": "shortage:266202",
+    "reportId": 266202,
+    "type": "shortage",
+    "brandName": "TEVA-OXYCOCET",
+    "status": "active_confirmed",
+    "din": "00608165",
+    "strength": "325MG\r\n5MG",
+    "expectedBackInStockDate": "2026-03-18T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-17T17:23:48.000Z",
+    "updateDate": "2026-03-17T17:23:48.000Z",
+    "postedDate": "2025-08-29T17:53:55.000Z"
+  },
+  {
+    "id": "shortage:279578",
+    "reportId": 279578,
+    "type": "shortage",
+    "brandName": "AURO-CANAGLIFLOZIN",
+    "status": "active_confirmed",
+    "din": "02510367",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-03-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-17T16:40:05.000Z",
+    "updateDate": "2026-03-17T16:40:05.000Z",
+    "postedDate": "2026-03-03T22:00:22.000Z"
+  },
+  {
+    "id": "shortage:268518",
+    "reportId": 268518,
+    "type": "shortage",
+    "brandName": "AURO-VALGANCICLOVIR",
+    "status": "active_confirmed",
+    "din": "02535483",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-04-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-17T15:02:36.000Z",
+    "updateDate": "2026-03-17T15:02:36.000Z",
+    "postedDate": "2025-10-03T18:02:08.000Z"
+  },
+  {
     "id": "shortage:278888",
     "reportId": 278888,
     "type": "shortage",
@@ -12,20 +152,6 @@
     "updatedDate": "2026-03-17T01:17:44.000Z",
     "updateDate": "2026-03-17T01:17:44.000Z",
     "postedDate": "2026-02-24T23:23:17.000Z"
-  },
-  {
-    "id": "shortage:273662",
-    "reportId": 273662,
-    "type": "shortage",
-    "brandName": "DESMOPRESSIN SPRAY",
-    "status": "active_confirmed",
-    "din": "02242465",
-    "strength": "10MCG",
-    "expectedBackInStockDate": "2026-03-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-16T21:51:45.000Z",
-    "updateDate": "2026-03-16T21:51:45.000Z",
-    "postedDate": "2025-12-08T19:56:41.000Z"
   },
   {
     "id": "shortage:273071",
@@ -390,20 +516,6 @@
     "updatedDate": "2026-03-13T22:35:42.000Z",
     "updateDate": "2026-03-13T22:35:42.000Z",
     "postedDate": "2026-03-06T01:16:38.000Z"
-  },
-  {
-    "id": "shortage:273269",
-    "reportId": 273269,
-    "type": "shortage",
-    "brandName": "CYESTRA-35",
-    "status": "active_confirmed",
-    "din": "02290308",
-    "strength": "2MG\r\n0.035MG",
-    "expectedBackInStockDate": "2026-03-05T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-13T20:04:32.000Z",
-    "updateDate": "2026-03-13T20:04:32.000Z",
-    "postedDate": "2025-12-04T20:44:11.000Z"
   },
   {
     "id": "shortage:279185",
@@ -1624,20 +1736,6 @@
     "postedDate": "2026-03-09T21:22:47.000Z"
   },
   {
-    "id": "shortage:278863",
-    "reportId": 278863,
-    "type": "shortage",
-    "brandName": "CLARUS",
-    "status": "active_confirmed",
-    "din": "02257963",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-03-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-09T21:14:31.000Z",
-    "updateDate": "2026-03-09T21:14:31.000Z",
-    "postedDate": "2026-02-24T19:17:15.000Z"
-  },
-  {
     "id": "shortage:276312",
     "reportId": 276312,
     "type": "shortage",
@@ -2156,20 +2254,6 @@
     "postedDate": "2026-01-29T20:51:02.000Z"
   },
   {
-    "id": "shortage:279578",
-    "reportId": 279578,
-    "type": "shortage",
-    "brandName": "AURO-CANAGLIFLOZIN",
-    "status": "active_confirmed",
-    "din": "02510367",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-03-16T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-09T19:10:09.000Z",
-    "updateDate": "2026-03-09T19:10:09.000Z",
-    "postedDate": "2026-03-03T22:00:22.000Z"
-  },
-  {
     "id": "shortage:279581",
     "reportId": 279581,
     "type": "shortage",
@@ -2294,20 +2378,6 @@
     "updatedDate": "2026-03-09T18:01:48.000Z",
     "updateDate": "2026-03-09T18:01:48.000Z",
     "postedDate": "2026-03-02T19:24:33.000Z"
-  },
-  {
-    "id": "shortage:268518",
-    "reportId": 268518,
-    "type": "shortage",
-    "brandName": "AURO-VALGANCICLOVIR",
-    "status": "active_confirmed",
-    "din": "02535483",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-09T17:56:14.000Z",
-    "updateDate": "2026-03-09T17:56:14.000Z",
-    "postedDate": "2025-10-03T18:02:08.000Z"
   },
   {
     "id": "shortage:270971",
@@ -4214,20 +4284,6 @@
     "postedDate": "2025-11-20T20:24:13.000Z"
   },
   {
-    "id": "shortage:266202",
-    "reportId": 266202,
-    "type": "shortage",
-    "brandName": "TEVA-OXYCOCET",
-    "status": "active_confirmed",
-    "din": "00608165",
-    "strength": "325MG\r\n5MG",
-    "expectedBackInStockDate": "2026-03-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-26T20:54:36.000Z",
-    "updateDate": "2026-02-26T20:54:36.000Z",
-    "postedDate": "2025-08-29T17:53:55.000Z"
-  },
-  {
     "id": "shortage:269798",
     "reportId": 269798,
     "type": "shortage",
@@ -4366,20 +4422,6 @@
     "updatedDate": "2026-02-25T19:58:31.000Z",
     "updateDate": "2026-02-25T19:58:31.000Z",
     "postedDate": "2025-08-04T17:50:10.000Z"
-  },
-  {
-    "id": "shortage:278278",
-    "reportId": 278278,
-    "type": "shortage",
-    "brandName": "MYLAN-LAMOTRIGINE",
-    "status": "active_confirmed",
-    "din": "02265516",
-    "strength": "150MG",
-    "expectedBackInStockDate": "2026-02-24T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-24T19:06:01.000Z",
-    "updateDate": "2026-02-24T19:06:01.000Z",
-    "postedDate": "2026-02-18T18:35:37.000Z"
   },
   {
     "id": "shortage:278843",
@@ -4814,20 +4856,6 @@
     "updatedDate": "2026-02-18T23:48:25.000Z",
     "updateDate": "2026-02-18T23:48:25.000Z",
     "postedDate": "2026-01-29T23:31:11.000Z"
-  },
-  {
-    "id": "shortage:275921",
-    "reportId": 275921,
-    "type": "shortage",
-    "brandName": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
-    "status": "active_confirmed",
-    "din": "02245215",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-03-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-18T18:14:21.000Z",
-    "updateDate": "2026-02-18T18:14:21.000Z",
-    "postedDate": "2026-01-13T21:28:35.000Z"
   },
   {
     "id": "shortage:277017",
@@ -6188,20 +6216,6 @@
     "postedDate": "2025-12-03T22:00:08.000Z"
   },
   {
-    "id": "shortage:275958",
-    "reportId": 275958,
-    "type": "shortage",
-    "brandName": "DETROL LA",
-    "status": "active_confirmed",
-    "din": "02244612",
-    "strength": "2MG",
-    "expectedBackInStockDate": "2026-04-14T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-20T00:34:31.000Z",
-    "updateDate": "2026-01-20T00:34:31.000Z",
-    "postedDate": "2026-01-13T23:10:18.000Z"
-  },
-  {
     "id": "shortage:276273",
     "reportId": 276273,
     "type": "shortage",
@@ -6578,48 +6592,6 @@
     "updatedDate": "2026-01-01T01:59:31.000Z",
     "updateDate": "2026-01-01T01:59:31.000Z",
     "postedDate": "2024-12-03T01:58:24.000Z"
-  },
-  {
-    "id": "shortage:274972",
-    "reportId": 274972,
-    "type": "shortage",
-    "brandName": "MYTOLAC",
-    "status": "active_confirmed",
-    "din": "02555883",
-    "strength": "120MG",
-    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-12-24T11:49:54.000Z",
-    "updateDate": "2025-12-24T11:49:54.000Z",
-    "postedDate": "2025-12-24T11:47:13.000Z"
-  },
-  {
-    "id": "shortage:274969",
-    "reportId": 274969,
-    "type": "shortage",
-    "brandName": "MYTOLAC",
-    "status": "active_confirmed",
-    "din": "02555875",
-    "strength": "90MG",
-    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-12-24T11:42:17.000Z",
-    "updateDate": "2025-12-24T11:42:17.000Z",
-    "postedDate": "2025-12-24T11:38:26.000Z"
-  },
-  {
-    "id": "shortage:274912",
-    "reportId": 274912,
-    "type": "shortage",
-    "brandName": "MYTOLAC",
-    "status": "active_confirmed",
-    "din": "02555867",
-    "strength": "60MG",
-    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-12-24T11:33:18.000Z",
-    "updateDate": "2025-12-24T11:33:18.000Z",
-    "postedDate": "2025-12-23T16:18:20.000Z"
   },
   {
     "id": "shortage:274572",

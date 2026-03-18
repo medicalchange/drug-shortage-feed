@@ -1,19 +1,61 @@
 {
-  "count": 358,
-  "refreshedAt": "2026-03-17T08:44:40.401Z",
+  "count": 356,
+  "refreshedAt": "2026-03-18T08:41:44.560Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "drug": "MAVIK",
       "doses": [
-        "36G",
-        "4.5G"
+        "0.5MG",
+        "2MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+    },
+    {
+      "drug": "PRO-LISDEXAMFETAMINE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-03-30T04:00:00.000Z"
+    },
+    {
+      "drug": "VERAPAMIL SR",
+      "doses": [
+        "120MG"
+      ],
+      "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-18T08:41:44.560Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "MAVIK",
+          "doses": [
+            "0.5MG",
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+        },
+        {
+          "drug": "PRO-LISDEXAMFETAMINE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-03-30T04:00:00.000Z"
+        },
+        {
+          "drug": "VERAPAMIL SR",
+          "doses": [
+            "120MG"
+          ],
+          "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-17T08:44:40.401Z",
       "addedDrugsCount": 1,
@@ -330,47 +372,6 @@
             "80MG"
           ],
           "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-04T10:01:46.218Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "(WITHOUT PRESERVATIVE)",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
-        },
-        {
-          "drug": "ESTRADIOL DERM 75",
-          "doses": [
-            "75MCG"
-          ],
-          "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
-        },
-        {
-          "drug": "ESTRADOT 100",
-          "doses": [
-            "100MCG"
-          ],
-          "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-        },
-        {
-          "drug": "FESOTERODINE FUMARATE",
-          "doses": [
-            "8MG"
-          ],
-          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
-        },
-        {
-          "drug": "TRANDOLAPRIL",
-          "doses": [
-            "4MG"
-          ],
-          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
         }
       ]
     }
@@ -795,7 +796,7 @@
         "100MG",
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-03-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
     },
     {
       "drug": "CANDESARTAN",
@@ -938,7 +939,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-03-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-18T04:00:00.000Z"
     },
     {
       "drug": "CLINDAMYCIN",
@@ -1013,14 +1014,6 @@
       "expectedBackInStockDate": "2027-07-30T04:00:00.000Z"
     },
     {
-      "drug": "CYESTRA-35",
-      "doses": [
-        "0.035MG",
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-03-05T05:00:00.000Z"
-    },
-    {
       "drug": "DANTROLENE SODIUM FOR INJECTION, USP",
       "doses": [
         "20MG"
@@ -1049,13 +1042,6 @@
       "expectedBackInStockDate": "2026-03-23T04:00:00.000Z"
     },
     {
-      "drug": "DESMOPRESSIN SPRAY",
-      "doses": [
-        "10MCG"
-      ],
-      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-    },
-    {
       "drug": "DESONIDE",
       "doses": [
         "0.05%"
@@ -1076,13 +1062,6 @@
         "1MG"
       ],
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    },
-    {
-      "drug": "DETROL LA",
-      "doses": [
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-04-14T04:00:00.000Z"
     },
     {
       "drug": "DEXAMETHASONE OMEGA UNIDOSE",
@@ -1599,7 +1578,7 @@
       "doses": [
         "150MG"
       ],
-      "expectedBackInStockDate": "2026-02-24T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
     },
     {
       "drug": "LANSOPRAZOLE",
@@ -1818,6 +1797,14 @@
       "expectedBackInStockDate": "2026-04-01T04:00:00.000Z"
     },
     {
+      "drug": "MAVIK",
+      "doses": [
+        "0.5MG",
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+    },
+    {
       "drug": "MED-RIVASTIGMINE",
       "doses": [
         "1.5MG"
@@ -1960,15 +1947,6 @@
       "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
     },
     {
-      "drug": "MYTOLAC",
-      "doses": [
-        "120MG",
-        "60MG",
-        "90MG"
-      ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-    },
-    {
       "drug": "NADOLOL",
       "doses": [
         "40MG"
@@ -1994,6 +1972,7 @@
       "drug": "NAPROXEN/ESOMEPRAZOLE MR",
       "doses": [
         "20MG",
+        "375MG",
         "500MG"
       ],
       "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
@@ -2200,7 +2179,7 @@
         "325MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-03-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-18T04:00:00.000Z"
     },
     {
       "drug": "OXYCODONE/ACET",
@@ -2374,6 +2353,13 @@
       "expectedBackInStockDate": "2026-02-19T05:00:00.000Z"
     },
     {
+      "drug": "PRO-LISDEXAMFETAMINE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-03-30T04:00:00.000Z"
+    },
+    {
       "drug": "PROCTOFOAM HC",
       "doses": [
         "1%"
@@ -2401,13 +2387,6 @@
         "2MG"
       ],
       "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
-    },
-    {
-      "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-03-24T04:00:00.000Z"
     },
     {
       "drug": "QUETIAPINE",
@@ -2953,7 +2932,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
     },
     {
       "drug": "VALPROIC ACID",
@@ -3009,11 +2988,19 @@
       "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
     {
-      "drug": "VIAGRA",
+      "drug": "VERAPAMIL SR",
       "doses": [
-        "50MG"
+        "120MG"
       ],
       "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
+    },
+    {
+      "drug": "VIAGRA",
+      "doses": [
+        "25MG",
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
     },
     {
       "drug": "VISIONBLUE",
