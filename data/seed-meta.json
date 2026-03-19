@@ -1,32 +1,32 @@
 {
-  "refreshedAt": "2026-03-18T08:41:44.560Z",
-  "count": 619,
-  "addedDrugsCount": 3,
+  "refreshedAt": "2026-03-19T08:36:44.836Z",
+  "count": 621,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "MAVIK",
+      "drug": "BREVICON 0.5/35 TABLETS (21-DAY PACK)",
       "doses": [
-        "0.5MG",
-        "2MG"
+        "0.035MG",
+        "0.5MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
-    },
-    {
-      "drug": "PRO-LISDEXAMFETAMINE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-03-30T04:00:00.000Z"
-    },
-    {
-      "drug": "VERAPAMIL SR",
-      "doses": [
-        "120MG"
-      ],
-      "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-19T08:36:44.836Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "BREVICON 0.5/35 TABLETS (21-DAY PACK)",
+          "doses": [
+            "0.035MG",
+            "0.5MG"
+          ],
+          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-18T08:41:44.560Z",
       "addedDrugsCount": 3,
@@ -311,66 +311,6 @@
             "1MG"
           ],
           "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-05T10:08:37.779Z",
-      "addedDrugsCount": 7,
-      "addedDrugs": [
-        {
-          "drug": "BENAZEPRIL",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-        },
-        {
-          "drug": "DORZO-TIMOP",
-          "doses": [
-            "20MG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-        },
-        {
-          "drug": "LATANOPROST",
-          "doses": [
-            "50MCG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        },
-        {
-          "drug": "LATANOPROST/TIMOLOL",
-          "doses": [
-            "50MCG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
-        },
-        {
-          "drug": "LEVOCARB CR",
-          "doses": [
-            "100MG",
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-        },
-        {
-          "drug": "SEROQUEL XR",
-          "doses": [
-            "200MG",
-            "300MG"
-          ],
-          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-        },
-        {
-          "drug": "VERAP",
-          "doses": [
-            "120MG",
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
         }
       ]
     }
