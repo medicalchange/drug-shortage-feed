@@ -1,47 +1,237 @@
 {
-  "count": 360,
-  "refreshedAt": "2026-03-20T08:35:03.466Z",
+  "count": 374,
+  "refreshedAt": "2026-03-21T08:26:13.263Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 5,
+  "addedDrugsCount": 15,
   "addedDrugs": [
     {
-      "drug": "CAFFEINE CITRATE INJECTION USP",
+      "drug": "ACET-TRAMADOL",
       "doses": [
-        "20MG"
+        "325MG",
+        "37.5MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
-      "drug": "HYDROCORTISONE",
+      "drug": "AMITRIPTYLINE",
       "doses": [
-        "10MG",
-        "20MG"
+        "25MG",
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-04-06T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
-      "drug": "METFORMIN ER",
+      "drug": "AMLODIPINE",
       "doses": [
-        "1000MG"
+        "10MG"
       ],
-      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
-      "drug": "NAPROXEN",
+      "drug": "CAPECITABINE",
       "doses": [
-        "375MG"
+        "500MG"
       ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
-      "drug": "ONCASPAR",
+      "drug": "DILTIAZEM CD",
       "doses": [
-        "750UNIT"
+        "120MG"
       ],
-      "expectedBackInStockDate": "2026-03-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+    },
+    {
+      "drug": "EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE",
+      "doses": [
+        "200MG",
+        "300MG",
+        "600MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+    },
+    {
+      "drug": "EPLERENONE",
+      "doses": [
+        "25MG",
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+    },
+    {
+      "drug": "FOLIC ACID",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
+      "drug": "GLYCOPYRROLATE INJECTION USP",
+      "doses": [
+        "0.2MG"
+      ],
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+    },
+    {
+      "drug": "ITRACONAZOLE ORAL SOLUTION",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
+      "drug": "MORPHINE SULFATE INJECTION",
+      "doses": [
+        "15MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
+      "drug": "NEBIVOLOL",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+    },
+    {
+      "drug": "RALOXIFENE",
+      "doses": [
+        "60MG"
+      ],
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+    },
+    {
+      "drug": "SOLIFENACIN SUCCINATE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+    },
+    {
+      "drug": "VALPROIC ACID ORAL SOLUTION",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-21T08:26:13.263Z",
+      "addedDrugsCount": 15,
+      "addedDrugs": [
+        {
+          "drug": "ACET-TRAMADOL",
+          "doses": [
+            "325MG",
+            "37.5MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        },
+        {
+          "drug": "AMITRIPTYLINE",
+          "doses": [
+            "25MG",
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+        },
+        {
+          "drug": "AMLODIPINE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        },
+        {
+          "drug": "CAPECITABINE",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "DILTIAZEM CD",
+          "doses": [
+            "120MG"
+          ],
+          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+        },
+        {
+          "drug": "EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE",
+          "doses": [
+            "200MG",
+            "300MG",
+            "600MG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        },
+        {
+          "drug": "EPLERENONE",
+          "doses": [
+            "25MG",
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        },
+        {
+          "drug": "FOLIC ACID",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        },
+        {
+          "drug": "GLYCOPYRROLATE INJECTION USP",
+          "doses": [
+            "0.2MG"
+          ],
+          "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+        },
+        {
+          "drug": "ITRACONAZOLE ORAL SOLUTION",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        },
+        {
+          "drug": "MORPHINE SULFATE INJECTION",
+          "doses": [
+            "15MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        },
+        {
+          "drug": "NEBIVOLOL",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+        },
+        {
+          "drug": "RALOXIFENE",
+          "doses": [
+            "60MG"
+          ],
+          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+        },
+        {
+          "drug": "SOLIFENACIN SUCCINATE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+        },
+        {
+          "drug": "VALPROIC ACID ORAL SOLUTION",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-20T08:35:03.466Z",
       "addedDrugsCount": 5,
@@ -323,11 +513,6 @@
       "refreshedAt": "2026-03-08T09:00:24.937Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-03-07T08:59:46.627Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -337,7 +522,15 @@
         "300MG",
         "600MG"
       ],
-      "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-06T04:00:00.000Z"
+    },
+    {
+      "drug": "ACET-TRAMADOL",
+      "doses": [
+        "325MG",
+        "37.5MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "ACETAMINOPHEN CAPLETS",
@@ -365,7 +558,7 @@
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "ACETAZOLAMIDE FOR INJECTION, USP",
@@ -480,6 +673,21 @@
       "expectedBackInStockDate": "2026-04-02T04:00:00.000Z"
     },
     {
+      "drug": "AMITRIPTYLINE",
+      "doses": [
+        "25MG",
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+    },
+    {
+      "drug": "AMLODIPINE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
       "drug": "AMOXI CLAV",
       "doses": [
         "125MG",
@@ -561,8 +769,11 @@
     {
       "drug": "ATOMOXETINE",
       "doses": [
+        "100MG",
+        "18MG",
         "25MG",
-        "40MG"
+        "40MG",
+        "80MG"
       ],
       "expectedBackInStockDate": "2025-08-25T04:00:00.000Z"
     },
@@ -787,6 +998,13 @@
       "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
     },
     {
+      "drug": "CAPECITABINE",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
       "drug": "CARBAMAZEPINE",
       "doses": [
         "100MG"
@@ -842,7 +1060,7 @@
         "250MG",
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "CHOLESTYRAMINE-ODAN",
@@ -950,7 +1168,7 @@
       "doses": [
         "0.05%"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "CLOPIDOGREL",
@@ -1097,6 +1315,13 @@
       "expectedBackInStockDate": "2026-02-06T05:00:00.000Z"
     },
     {
+      "drug": "DILTIAZEM CD",
+      "doses": [
+        "120MG"
+      ],
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+    },
+    {
       "drug": "DILTIAZEM XC",
       "doses": [
         "180MG",
@@ -1188,6 +1413,15 @@
       "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
+      "drug": "EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE",
+      "doses": [
+        "200MG",
+        "300MG",
+        "600MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+    },
+    {
       "drug": "ELETRIPTAN",
       "doses": [
         "20MG",
@@ -1225,6 +1459,14 @@
       "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
+      "drug": "EPLERENONE",
+      "doses": [
+        "25MG",
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+    },
+    {
       "drug": "ERIBULIN",
       "doses": [
         "0.5MG"
@@ -1253,7 +1495,7 @@
         "20MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "ESOMEPRAZOLE DR",
@@ -1363,6 +1605,13 @@
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
+      "drug": "FOLIC ACID",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
       "drug": "FOLIC ACID INJECTION, USP",
       "doses": [
         "5MG"
@@ -1407,6 +1656,13 @@
         "60MG"
       ],
       "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+    },
+    {
+      "drug": "GLYCOPYRROLATE INJECTION USP",
+      "doses": [
+        "0.2MG"
+      ],
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "HALOETTE",
@@ -1458,7 +1714,9 @@
     {
       "drug": "IMIPRAMINE",
       "doses": [
-        "50MG"
+        "25MG",
+        "50MG",
+        "75MG"
       ],
       "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
@@ -1505,6 +1763,13 @@
         "60MG"
       ],
       "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "drug": "ITRACONAZOLE ORAL SOLUTION",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "KENALOG-10 INJECTION",
@@ -1716,9 +1981,10 @@
       "drug": "LOSARTAN",
       "doses": [
         "100MG",
-        "25MG"
+        "25MG",
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "LOSARTAN HCT",
@@ -1888,6 +2154,13 @@
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
+      "drug": "MORPHINE SULFATE INJECTION",
+      "doses": [
+        "15MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
       "drug": "MOXIFLOXACIN",
       "doses": [
         "0.5%"
@@ -1906,7 +2179,7 @@
       "doses": [
         "150MG"
       ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
     {
       "drug": "MYCOPHENOLATE",
@@ -1968,6 +2241,13 @@
         "10MG"
       ],
       "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
+    },
+    {
+      "drug": "NEBIVOLOL",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
     },
     {
       "drug": "NEVIRAPINE",
@@ -2051,17 +2331,6 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-02-28T05:00:00.000Z"
-    },
-    {
-      "drug": "OLANZAPINE FC",
-      "doses": [
-        "10MG",
-        "15MG",
-        "20MG",
-        "5MG",
-        "7.5MG"
-      ],
-      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
     },
     {
       "drug": "OLANZAPINE ODT",
@@ -2414,6 +2683,13 @@
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
+      "drug": "RALOXIFENE",
+      "doses": [
+        "60MG"
+      ],
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+    },
+    {
       "drug": "RAMIPRIL",
       "doses": [
         "10MG",
@@ -2444,7 +2720,7 @@
         "1MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "RILUZOLE",
@@ -2582,7 +2858,7 @@
         "5MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
     },
     {
       "drug": "SINGULAIR",
@@ -2594,9 +2870,11 @@
     {
       "drug": "SITAGLIPTIN",
       "doses": [
+        "100MG",
+        "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-03-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
     },
     {
       "drug": "SITAGLIPTIN MALATE / METFORMIN",
@@ -2620,6 +2898,13 @@
         "84MG"
       ],
       "expectedBackInStockDate": "2026-01-23T05:00:00.000Z"
+    },
+    {
+      "drug": "SOLIFENACIN SUCCINATE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
     },
     {
       "drug": "SOLYSTAT",
@@ -2902,7 +3187,7 @@
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-02-28T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "VALACYCLOVIR",
@@ -2924,6 +3209,13 @@
         "250MG"
       ],
       "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "drug": "VALPROIC ACID ORAL SOLUTION",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "VALSARTAN",
@@ -3005,7 +3297,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
       "drug": "VORICONAZOLE FOR INJECTION",
@@ -3054,7 +3346,7 @@
       "doses": [
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2026-02-28T05:00:00.000Z"
+      "expectedBackInStockDate": "2028-01-03T05:00:00.000Z"
     },
     {
       "drug": "ZOLMITRIPTAN ODT",
