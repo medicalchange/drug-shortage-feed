@@ -1,120 +1,14 @@
 {
-  "refreshedAt": "2026-03-21T08:26:13.263Z",
+  "refreshedAt": "2026-03-22T08:28:51.771Z",
   "count": 661,
-  "addedDrugsCount": 15,
-  "addedDrugs": [
-    {
-      "drug": "ACET-TRAMADOL",
-      "doses": [
-        "325MG",
-        "37.5MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
-      "drug": "AMITRIPTYLINE",
-      "doses": [
-        "25MG",
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
-    },
-    {
-      "drug": "AMLODIPINE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
-      "drug": "CAPECITABINE",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "DILTIAZEM CD",
-      "doses": [
-        "120MG"
-      ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-    },
-    {
-      "drug": "EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE",
-      "doses": [
-        "200MG",
-        "300MG",
-        "600MG"
-      ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-    },
-    {
-      "drug": "EPLERENONE",
-      "doses": [
-        "25MG",
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-    },
-    {
-      "drug": "FOLIC ACID",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
-      "drug": "GLYCOPYRROLATE INJECTION USP",
-      "doses": [
-        "0.2MG"
-      ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-    },
-    {
-      "drug": "ITRACONAZOLE ORAL SOLUTION",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
-      "drug": "MORPHINE SULFATE INJECTION",
-      "doses": [
-        "15MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
-      "drug": "NEBIVOLOL",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-    },
-    {
-      "drug": "RALOXIFENE",
-      "doses": [
-        "60MG"
-      ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-    },
-    {
-      "drug": "SOLIFENACIN SUCCINATE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-    },
-    {
-      "drug": "VALPROIC ACID ORAL SOLUTION",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-22T08:28:51.771Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-03-21T08:26:13.263Z",
       "addedDrugsCount": 15,
@@ -505,11 +399,6 @@
     },
     {
       "refreshedAt": "2026-03-09T10:31:21.033Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-03-08T09:00:24.937Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
