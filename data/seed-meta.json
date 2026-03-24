@@ -1,9 +1,116 @@
 {
-  "refreshedAt": "2026-03-23T08:49:11.702Z",
-  "count": 661,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-03-24T08:44:38.813Z",
+  "count": 663,
+  "addedDrugsCount": 7,
+  "addedDrugs": [
+    {
+      "drug": "DAPTOMYCIN FOR INJECTION",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
+      "drug": "DETROL LA",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
+    },
+    {
+      "drug": "IRBESARTAN HCT",
+      "doses": [
+        "12.5MG",
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
+      "drug": "OXALIPLATIN INJECTION",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
+      "drug": "PIRFENIDONE CAPSULES",
+      "doses": [
+        "267MG"
+      ],
+      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
+      "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
+      "drug": "VASOPRESSIN INJECTION, USP",
+      "doses": [
+        "20UNIT"
+      ],
+      "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-24T08:44:38.813Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "DAPTOMYCIN FOR INJECTION",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+        },
+        {
+          "drug": "DETROL LA",
+          "doses": [
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
+        },
+        {
+          "drug": "IRBESARTAN HCT",
+          "doses": [
+            "12.5MG",
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        },
+        {
+          "drug": "OXALIPLATIN INJECTION",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+        },
+        {
+          "drug": "PIRFENIDONE CAPSULES",
+          "doses": [
+            "267MG"
+          ],
+          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+        },
+        {
+          "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        },
+        {
+          "drug": "VASOPRESSIN INJECTION, USP",
+          "doses": [
+            "20UNIT"
+          ],
+          "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-23T08:49:11.702Z",
       "addedDrugsCount": 0,
@@ -329,78 +436,6 @@
       "refreshedAt": "2026-03-11T10:08:52.403Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-03-10T10:07:05.080Z",
-      "addedDrugsCount": 9,
-      "addedDrugs": [
-        {
-          "drug": "ALFACALCIDOL",
-          "doses": [
-            "1MCG"
-          ],
-          "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
-        },
-        {
-          "drug": "AMINOPHYLLINE INJ 25MG/ML",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-04-02T04:00:00.000Z"
-        },
-        {
-          "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
-          "doses": [
-            "1%",
-            "5%"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        },
-        {
-          "drug": "CANAGLIFLOZIN",
-          "doses": [
-            "100MG",
-            "300MG"
-          ],
-          "expectedBackInStockDate": "2026-03-16T04:00:00.000Z"
-        },
-        {
-          "drug": "CLARUS",
-          "doses": [
-            "40MG"
-          ],
-          "expectedBackInStockDate": "2026-03-24T04:00:00.000Z"
-        },
-        {
-          "drug": "DILANTIN INFATABS",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
-        },
-        {
-          "drug": "ESTRADIOL DERM 50",
-          "doses": [
-            "50MCG"
-          ],
-          "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
-        },
-        {
-          "drug": "NAPROXEN/ESOMEPRAZOLE MR",
-          "doses": [
-            "20MG",
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
-        },
-        {
-          "drug": "TEMOZOLOMIDE",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
