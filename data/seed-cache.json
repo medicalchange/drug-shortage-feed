@@ -1,5 +1,131 @@
 [
   {
+    "id": "shortage:267384",
+    "reportId": 267384,
+    "type": "shortage",
+    "brandName": "ACYCLOVIR SODIUM INJECTION",
+    "status": "active_confirmed",
+    "din": "02236926",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-06-01T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-25T01:11:07.000Z",
+    "updateDate": "2026-03-25T01:11:07.000Z",
+    "postedDate": "2025-09-18T20:51:18.000Z"
+  },
+  {
+    "id": "shortage:266277",
+    "reportId": 266277,
+    "type": "shortage",
+    "brandName": "ACYCLOVIR SODIUM INJECTION",
+    "status": "active_confirmed",
+    "din": "02236926",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-06-01T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-25T01:10:27.000Z",
+    "updateDate": "2026-03-25T01:10:27.000Z",
+    "postedDate": "2025-09-02T04:05:03.000Z"
+  },
+  {
+    "id": "shortage:273071",
+    "reportId": 273071,
+    "type": "shortage",
+    "brandName": "BICILLIN L-A",
+    "status": "active_confirmed",
+    "din": "02291924",
+    "strength": "1200000UNIT",
+    "expectedBackInStockDate": "2026-05-29T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-24T23:57:54.000Z",
+    "updateDate": "2026-03-24T23:57:54.000Z",
+    "postedDate": "2025-12-02T23:25:20.000Z"
+  },
+  {
+    "id": "shortage:279990",
+    "reportId": 279990,
+    "type": "shortage",
+    "brandName": "FIASP",
+    "status": "active_confirmed",
+    "din": "02460416",
+    "strength": "100UNIT",
+    "expectedBackInStockDate": "2026-04-06T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-24T19:10:30.000Z",
+    "updateDate": "2026-03-24T19:10:30.000Z",
+    "postedDate": "2026-03-09T18:21:02.000Z"
+  },
+  {
+    "id": "shortage:262196",
+    "reportId": 262196,
+    "type": "shortage",
+    "brandName": "MINT-SPIRONOLACTONE",
+    "status": "active_confirmed",
+    "din": "02488159",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-24T19:07:24.000Z",
+    "updateDate": "2026-03-24T19:07:24.000Z",
+    "postedDate": "2025-07-08T21:54:06.000Z"
+  },
+  {
+    "id": "shortage:262193",
+    "reportId": 262193,
+    "type": "shortage",
+    "brandName": "MINT-SPIRONOLACTONE",
+    "status": "active_confirmed",
+    "din": "02488140",
+    "strength": "25MG",
+    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-24T19:06:29.000Z",
+    "updateDate": "2026-03-24T19:06:29.000Z",
+    "postedDate": "2025-07-08T21:52:04.000Z"
+  },
+  {
+    "id": "shortage:278283",
+    "reportId": 278283,
+    "type": "shortage",
+    "brandName": "DILANTIN INFATABS",
+    "status": "active_confirmed",
+    "din": "00023698",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-05-12T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-24T18:54:42.000Z",
+    "updateDate": "2026-03-24T18:54:42.000Z",
+    "postedDate": "2026-02-18T19:15:20.000Z"
+  },
+  {
+    "id": "shortage:269095",
+    "reportId": 269095,
+    "type": "shortage",
+    "brandName": "DANTROLENE SODIUM FOR INJECTION, USP",
+    "status": "active_confirmed",
+    "din": "02529998",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-03-26T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-24T17:54:10.000Z",
+    "updateDate": "2026-03-24T17:54:10.000Z",
+    "postedDate": "2025-10-09T23:48:48.000Z"
+  },
+  {
+    "id": "shortage:266202",
+    "reportId": 266202,
+    "type": "shortage",
+    "brandName": "TEVA-OXYCOCET",
+    "status": "active_confirmed",
+    "din": "00608165",
+    "strength": "325MG\r\n5MG",
+    "expectedBackInStockDate": "2026-04-10T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-24T17:30:04.000Z",
+    "updateDate": "2026-03-24T17:30:04.000Z",
+    "postedDate": "2025-08-29T17:53:55.000Z"
+  },
+  {
     "id": "shortage:281235",
     "reportId": 281235,
     "type": "shortage",
@@ -196,34 +322,6 @@
     "postedDate": "2026-03-02T19:34:09.000Z"
   },
   {
-    "id": "shortage:280585",
-    "reportId": 280585,
-    "type": "shortage",
-    "brandName": "SANDOZ PIRFENIDONE CAPSULES",
-    "status": "active_confirmed",
-    "din": "02488833",
-    "strength": "267MG",
-    "expectedBackInStockDate": "2026-03-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-23T17:36:24.000Z",
-    "updateDate": "2026-03-23T17:36:24.000Z",
-    "postedDate": "2026-03-16T18:16:48.000Z"
-  },
-  {
-    "id": "shortage:279954",
-    "reportId": 279954,
-    "type": "shortage",
-    "brandName": "OXALIPLATIN INJECTION",
-    "status": "active_confirmed",
-    "din": "02436957",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-03-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-23T17:34:42.000Z",
-    "updateDate": "2026-03-23T17:34:42.000Z",
-    "postedDate": "2026-03-09T18:06:27.000Z"
-  },
-  {
     "id": "shortage:273769",
     "reportId": 273769,
     "type": "shortage",
@@ -236,76 +334,6 @@
     "updatedDate": "2026-03-23T17:34:02.000Z",
     "updateDate": "2026-03-23T17:34:02.000Z",
     "postedDate": "2025-12-09T00:16:18.000Z"
-  },
-  {
-    "id": "shortage:280582",
-    "reportId": 280582,
-    "type": "shortage",
-    "brandName": "SANDOZ MOXIFLOXACIN",
-    "status": "active_confirmed",
-    "din": "02411520",
-    "strength": "0.5%",
-    "expectedBackInStockDate": "2026-04-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-23T17:31:48.000Z",
-    "updateDate": "2026-03-23T17:31:48.000Z",
-    "postedDate": "2026-03-16T18:14:56.000Z"
-  },
-  {
-    "id": "shortage:280576",
-    "reportId": 280576,
-    "type": "shortage",
-    "brandName": "SANDOZ IRBESARTAN HCT",
-    "status": "active_confirmed",
-    "din": "02337428",
-    "strength": "12.5MG\r\n150MG",
-    "expectedBackInStockDate": "2026-03-27T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-23T17:29:38.000Z",
-    "updateDate": "2026-03-23T17:29:38.000Z",
-    "postedDate": "2026-03-16T18:11:08.000Z"
-  },
-  {
-    "id": "shortage:280579",
-    "reportId": 280579,
-    "type": "shortage",
-    "brandName": "SANDOZ IRBESARTAN",
-    "status": "active_confirmed",
-    "din": "02328496",
-    "strength": "300MG",
-    "expectedBackInStockDate": "2026-03-27T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-23T17:28:56.000Z",
-    "updateDate": "2026-03-23T17:28:56.000Z",
-    "postedDate": "2026-03-16T18:12:41.000Z"
-  },
-  {
-    "id": "shortage:280565",
-    "reportId": 280565,
-    "type": "shortage",
-    "brandName": "DAPTOMYCIN FOR INJECTION",
-    "status": "active_confirmed",
-    "din": "02490838",
-    "strength": "500MG",
-    "expectedBackInStockDate": "2026-03-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-23T17:28:19.000Z",
-    "updateDate": "2026-03-23T17:28:19.000Z",
-    "postedDate": "2026-03-16T18:02:14.000Z"
-  },
-  {
-    "id": "shortage:279251",
-    "reportId": 279251,
-    "type": "shortage",
-    "brandName": "SANDOZ APIXABAN SDZ",
-    "status": "active_confirmed",
-    "din": "02489236",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-03-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-23T17:27:26.000Z",
-    "updateDate": "2026-03-23T17:27:26.000Z",
-    "postedDate": "2026-03-02T19:27:28.000Z"
   },
   {
     "id": "shortage:276002",
@@ -376,34 +404,6 @@
     "updatedDate": "2026-03-21T03:33:36.000Z",
     "updateDate": "2026-03-21T03:33:36.000Z",
     "postedDate": "2026-03-21T00:27:48.000Z"
-  },
-  {
-    "id": "shortage:280977",
-    "reportId": 280977,
-    "type": "shortage",
-    "brandName": "JAMP SITAGLIPTIN",
-    "status": "active_confirmed",
-    "din": "02534134",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-21T03:28:49.000Z",
-    "updateDate": "2026-03-21T03:28:49.000Z",
-    "postedDate": "2026-03-20T23:38:50.000Z"
-  },
-  {
-    "id": "shortage:280969",
-    "reportId": 280969,
-    "type": "shortage",
-    "brandName": "JAMP SITAGLIPTIN",
-    "status": "active_confirmed",
-    "din": "02534150",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-21T03:25:11.000Z",
-    "updateDate": "2026-03-21T03:25:11.000Z",
-    "postedDate": "2026-03-20T23:30:41.000Z"
   },
   {
     "id": "shortage:280946",
@@ -698,20 +698,6 @@
     "updatedDate": "2026-03-21T00:30:34.000Z",
     "updateDate": "2026-03-21T00:30:34.000Z",
     "postedDate": "2026-03-21T00:29:57.000Z"
-  },
-  {
-    "id": "shortage:278018",
-    "reportId": 278018,
-    "type": "shortage",
-    "brandName": "APO-LEVETIRACETAM",
-    "status": "active_confirmed",
-    "din": "02285940",
-    "strength": "750MG",
-    "expectedBackInStockDate": "2026-04-03T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-21T00:21:54.000Z",
-    "updateDate": "2026-03-21T00:21:54.000Z",
-    "postedDate": "2026-02-13T01:10:12.000Z"
   },
   {
     "id": "shortage:281004",
@@ -1400,20 +1386,6 @@
     "postedDate": "2026-02-13T01:43:02.000Z"
   },
   {
-    "id": "shortage:279887",
-    "reportId": 279887,
-    "type": "shortage",
-    "brandName": "APO-HYDROMORPHONE",
-    "status": "active_confirmed",
-    "din": "02364158",
-    "strength": "8MG",
-    "expectedBackInStockDate": "2026-08-28T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-19T23:42:32.000Z",
-    "updateDate": "2026-03-19T23:42:32.000Z",
-    "postedDate": "2026-03-06T01:33:39.000Z"
-  },
-  {
     "id": "shortage:277483",
     "reportId": 277483,
     "type": "shortage",
@@ -1442,62 +1414,6 @@
     "postedDate": "2026-01-30T01:32:21.000Z"
   },
   {
-    "id": "shortage:278033",
-    "reportId": 278033,
-    "type": "shortage",
-    "brandName": "APO-TOPIRAMATE",
-    "status": "active_confirmed",
-    "din": "02279614",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-03-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-19T23:39:38.000Z",
-    "updateDate": "2026-03-19T23:39:38.000Z",
-    "postedDate": "2026-02-13T01:18:25.000Z"
-  },
-  {
-    "id": "shortage:276559",
-    "reportId": 276559,
-    "type": "shortage",
-    "brandName": "APO-SITAGLIPTIN/METFORMIN XR",
-    "status": "active_confirmed",
-    "din": "02506297",
-    "strength": "1000MG\r\n100MG",
-    "expectedBackInStockDate": "2026-03-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-19T23:39:15.000Z",
-    "updateDate": "2026-03-19T23:39:15.000Z",
-    "postedDate": "2026-01-24T01:24:22.000Z"
-  },
-  {
-    "id": "shortage:278454",
-    "reportId": 278454,
-    "type": "shortage",
-    "brandName": "APO-METOPROLOL",
-    "status": "active_confirmed",
-    "din": "00618640",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-03-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-19T23:38:03.000Z",
-    "updateDate": "2026-03-19T23:38:03.000Z",
-    "postedDate": "2026-02-20T01:28:53.000Z"
-  },
-  {
-    "id": "shortage:279858",
-    "reportId": 279858,
-    "type": "shortage",
-    "brandName": "APO-PRAZO",
-    "status": "active_confirmed",
-    "din": "00882801",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-03-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-19T23:36:26.000Z",
-    "updateDate": "2026-03-19T23:36:26.000Z",
-    "postedDate": "2026-03-06T01:12:20.000Z"
-  },
-  {
     "id": "shortage:279869",
     "reportId": 279869,
     "type": "shortage",
@@ -1524,20 +1440,6 @@
     "updatedDate": "2026-03-19T23:34:40.000Z",
     "updateDate": "2026-03-19T23:34:40.000Z",
     "postedDate": "2026-02-27T03:03:09.000Z"
-  },
-  {
-    "id": "shortage:272651",
-    "reportId": 272651,
-    "type": "shortage",
-    "brandName": "CARBETOCIN INJECTION",
-    "status": "active_confirmed",
-    "din": "02489244",
-    "strength": "100MCG",
-    "expectedBackInStockDate": "2026-03-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-19T18:43:10.000Z",
-    "updateDate": "2026-03-19T18:43:10.000Z",
-    "postedDate": "2025-11-28T01:12:09.000Z"
   },
   {
     "id": "shortage:279595",
@@ -1750,34 +1652,6 @@
     "postedDate": "2026-01-15T21:36:11.000Z"
   },
   {
-    "id": "shortage:278682",
-    "reportId": 278682,
-    "type": "shortage",
-    "brandName": "TEVA-GABAPENTIN",
-    "status": "active_confirmed",
-    "din": "02244513",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-06-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-18T23:14:16.000Z",
-    "updateDate": "2026-03-18T23:14:16.000Z",
-    "postedDate": "2026-02-23T23:11:47.000Z"
-  },
-  {
-    "id": "shortage:276485",
-    "reportId": 276485,
-    "type": "shortage",
-    "brandName": "TEVA-TRAZODONE",
-    "status": "active_confirmed",
-    "din": "02144263",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-07-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-18T23:13:18.000Z",
-    "updateDate": "2026-03-18T23:13:18.000Z",
-    "postedDate": "2026-01-22T20:23:19.000Z"
-  },
-  {
     "id": "shortage:271220",
     "reportId": 271220,
     "type": "shortage",
@@ -1804,20 +1678,6 @@
     "updatedDate": "2026-03-18T23:12:04.000Z",
     "updateDate": "2026-03-18T23:12:04.000Z",
     "postedDate": "2025-11-20T20:22:56.000Z"
-  },
-  {
-    "id": "shortage:279792",
-    "reportId": 279792,
-    "type": "shortage",
-    "brandName": "ZADITEN",
-    "status": "active_confirmed",
-    "din": "00577308",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-03-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-18T23:11:30.000Z",
-    "updateDate": "2026-03-18T23:11:30.000Z",
-    "postedDate": "2026-03-05T21:00:38.000Z"
   },
   {
     "id": "shortage:262959",
@@ -2212,20 +2072,6 @@
     "postedDate": "2026-03-04T23:58:24.000Z"
   },
   {
-    "id": "shortage:266202",
-    "reportId": 266202,
-    "type": "shortage",
-    "brandName": "TEVA-OXYCOCET",
-    "status": "active_confirmed",
-    "din": "00608165",
-    "strength": "325MG\r\n5MG",
-    "expectedBackInStockDate": "2026-03-18T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-17T17:23:48.000Z",
-    "updateDate": "2026-03-17T17:23:48.000Z",
-    "postedDate": "2025-08-29T17:53:55.000Z"
-  },
-  {
     "id": "shortage:279578",
     "reportId": 279578,
     "type": "shortage",
@@ -2252,34 +2098,6 @@
     "updatedDate": "2026-03-17T15:02:36.000Z",
     "updateDate": "2026-03-17T15:02:36.000Z",
     "postedDate": "2025-10-03T18:02:08.000Z"
-  },
-  {
-    "id": "shortage:278888",
-    "reportId": 278888,
-    "type": "shortage",
-    "brandName": "YESAFILI",
-    "status": "active_confirmed",
-    "din": "02558238",
-    "strength": "2MG",
-    "expectedBackInStockDate": "2026-03-16T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-17T01:17:44.000Z",
-    "updateDate": "2026-03-17T01:17:44.000Z",
-    "postedDate": "2026-02-24T23:23:17.000Z"
-  },
-  {
-    "id": "shortage:273071",
-    "reportId": 273071,
-    "type": "shortage",
-    "brandName": "BICILLIN L-A",
-    "status": "active_confirmed",
-    "din": "02291924",
-    "strength": "1200000UNIT",
-    "expectedBackInStockDate": "2026-05-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-16T21:49:37.000Z",
-    "updateDate": "2026-03-16T21:49:37.000Z",
-    "postedDate": "2025-12-02T23:25:20.000Z"
   },
   {
     "id": "shortage:273867",
@@ -2366,48 +2184,6 @@
     "postedDate": "2026-03-02T19:37:44.000Z"
   },
   {
-    "id": "shortage:279960",
-    "reportId": 279960,
-    "type": "shortage",
-    "brandName": "SANDOZ PREGABALIN",
-    "status": "active_confirmed",
-    "din": "02390817",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-04-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-16T17:47:04.000Z",
-    "updateDate": "2026-03-16T17:47:04.000Z",
-    "postedDate": "2026-03-09T18:10:12.000Z"
-  },
-  {
-    "id": "shortage:277656",
-    "reportId": 277656,
-    "type": "shortage",
-    "brandName": "SANDOZ PREGABALIN",
-    "status": "active_confirmed",
-    "din": "02390817",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-16T17:46:15.000Z",
-    "updateDate": "2026-03-16T17:46:15.000Z",
-    "postedDate": "2026-02-09T20:13:09.000Z"
-  },
-  {
-    "id": "shortage:279957",
-    "reportId": 279957,
-    "type": "shortage",
-    "brandName": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-    "status": "active_confirmed",
-    "din": "02521539",
-    "strength": "4.5G\r\n36G",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-16T17:45:22.000Z",
-    "updateDate": "2026-03-16T17:45:22.000Z",
-    "postedDate": "2026-03-09T18:07:32.000Z"
-  },
-  {
     "id": "shortage:274367",
     "reportId": 274367,
     "type": "shortage",
@@ -2420,20 +2196,6 @@
     "updatedDate": "2026-03-16T17:44:14.000Z",
     "updateDate": "2026-03-16T17:44:14.000Z",
     "postedDate": "2025-12-15T16:40:59.000Z"
-  },
-  {
-    "id": "shortage:277100",
-    "reportId": 277100,
-    "type": "shortage",
-    "brandName": "SANDOZ LEVETIRACETAM",
-    "status": "active_confirmed",
-    "din": "02461986",
-    "strength": "250MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-16T17:42:18.000Z",
-    "updateDate": "2026-03-16T17:42:18.000Z",
-    "postedDate": "2026-02-02T20:59:14.000Z"
   },
   {
     "id": "shortage:271411",
@@ -2462,20 +2224,6 @@
     "updatedDate": "2026-03-14T00:50:47.000Z",
     "updateDate": "2026-03-14T00:50:47.000Z",
     "postedDate": "2026-03-02T08:43:35.000Z"
-  },
-  {
-    "id": "shortage:279185",
-    "reportId": 279185,
-    "type": "shortage",
-    "brandName": "KIT FOR THE PREPARATION OF TECHNETIUM TC 99M SESTAMIBI INJECTION",
-    "status": "active_confirmed",
-    "din": "02329794",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-03-23T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-13T16:27:46.000Z",
-    "updateDate": "2026-03-13T16:27:46.000Z",
-    "postedDate": "2026-02-27T22:00:54.000Z"
   },
   {
     "id": "shortage:280448",
@@ -3248,20 +2996,6 @@
     "postedDate": "2026-03-10T17:59:34.000Z"
   },
   {
-    "id": "shortage:278828",
-    "reportId": 278828,
-    "type": "shortage",
-    "brandName": "TARO-TICAGRELOR",
-    "status": "active_confirmed",
-    "din": "02492598",
-    "strength": "90MG",
-    "expectedBackInStockDate": "2026-03-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-09T22:03:12.000Z",
-    "updateDate": "2026-03-09T22:03:12.000Z",
-    "postedDate": "2026-02-24T04:04:24.000Z"
-  },
-  {
     "id": "shortage:169507",
     "reportId": 169507,
     "type": "shortage",
@@ -3274,20 +3008,6 @@
     "updatedDate": "2026-03-09T21:25:55.000Z",
     "updateDate": "2026-03-09T21:25:55.000Z",
     "postedDate": "2022-09-16T22:06:53.000Z"
-  },
-  {
-    "id": "shortage:278283",
-    "reportId": 278283,
-    "type": "shortage",
-    "brandName": "DILANTIN INFATABS",
-    "status": "active_confirmed",
-    "din": "00023698",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-05-12T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-09T21:25:13.000Z",
-    "updateDate": "2026-03-09T21:25:13.000Z",
-    "postedDate": "2026-02-18T19:15:20.000Z"
   },
   {
     "id": "shortage:268759",
@@ -3822,90 +3542,6 @@
     "postedDate": "2026-03-03T22:05:21.000Z"
   },
   {
-    "id": "shortage:278181",
-    "reportId": 278181,
-    "type": "shortage",
-    "brandName": "SANDOZ POSACONAZOLE",
-    "status": "active_confirmed",
-    "din": "02496259",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-03-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-09T18:05:42.000Z",
-    "updateDate": "2026-03-09T18:05:42.000Z",
-    "postedDate": "2026-02-16T20:07:57.000Z"
-  },
-  {
-    "id": "shortage:278193",
-    "reportId": 278193,
-    "type": "shortage",
-    "brandName": "CLINDAMYCIN IV INFUSION",
-    "status": "active_confirmed",
-    "din": "02408511",
-    "strength": "12MG",
-    "expectedBackInStockDate": "2026-03-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-09T18:04:15.000Z",
-    "updateDate": "2026-03-09T18:04:15.000Z",
-    "postedDate": "2026-02-16T20:23:16.000Z"
-  },
-  {
-    "id": "shortage:277637",
-    "reportId": 277637,
-    "type": "shortage",
-    "brandName": "SANDOZ CANDESARTAN PLUS",
-    "status": "active_confirmed",
-    "din": "02420732",
-    "strength": "32MG\r\n12.5MG",
-    "expectedBackInStockDate": "2026-03-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-09T18:03:45.000Z",
-    "updateDate": "2026-03-09T18:03:45.000Z",
-    "postedDate": "2026-02-09T20:06:38.000Z"
-  },
-  {
-    "id": "shortage:277087",
-    "reportId": 277087,
-    "type": "shortage",
-    "brandName": "SANDOZ BRIMONIDINE",
-    "status": "active_confirmed",
-    "din": "02305429",
-    "strength": "0.2%",
-    "expectedBackInStockDate": "2026-03-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-09T18:02:49.000Z",
-    "updateDate": "2026-03-09T18:02:49.000Z",
-    "postedDate": "2026-02-02T20:44:51.000Z"
-  },
-  {
-    "id": "shortage:278172",
-    "reportId": 278172,
-    "type": "shortage",
-    "brandName": "AZACITIDINE FOR INJECTION",
-    "status": "active_confirmed",
-    "din": "02529599",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-03-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-09T18:02:19.000Z",
-    "updateDate": "2026-03-09T18:02:19.000Z",
-    "postedDate": "2026-02-16T20:02:08.000Z"
-  },
-  {
-    "id": "shortage:279248",
-    "reportId": 279248,
-    "type": "shortage",
-    "brandName": "SANDOZ ALFACALCIDOL",
-    "status": "active_confirmed",
-    "din": "02533324",
-    "strength": "1MCG",
-    "expectedBackInStockDate": "2026-03-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-09T18:01:48.000Z",
-    "updateDate": "2026-03-09T18:01:48.000Z",
-    "postedDate": "2026-03-02T19:24:33.000Z"
-  },
-  {
     "id": "shortage:270971",
     "reportId": 270971,
     "type": "shortage",
@@ -3946,20 +3582,6 @@
     "updatedDate": "2026-03-09T16:44:43.000Z",
     "updateDate": "2026-03-09T16:44:43.000Z",
     "postedDate": "2026-02-11T01:52:47.000Z"
-  },
-  {
-    "id": "shortage:269095",
-    "reportId": 269095,
-    "type": "shortage",
-    "brandName": "DANTROLENE SODIUM FOR INJECTION, USP",
-    "status": "active_confirmed",
-    "din": "02529998",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-03-18T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-07T01:22:00.000Z",
-    "updateDate": "2026-03-07T01:22:00.000Z",
-    "postedDate": "2025-10-09T23:48:48.000Z"
   },
   {
     "id": "shortage:277297",
@@ -4130,20 +3752,6 @@
     "postedDate": "2026-02-27T03:01:46.000Z"
   },
   {
-    "id": "shortage:278027",
-    "reportId": 278027,
-    "type": "shortage",
-    "brandName": "APO-ATORVASTATIN",
-    "status": "active_confirmed",
-    "din": "02295288",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-03-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-06T00:50:45.000Z",
-    "updateDate": "2026-03-06T00:50:45.000Z",
-    "postedDate": "2026-02-13T01:15:58.000Z"
-  },
-  {
     "id": "shortage:273341",
     "reportId": 273341,
     "type": "shortage",
@@ -4184,34 +3792,6 @@
     "updatedDate": "2026-03-06T00:42:43.000Z",
     "updateDate": "2026-03-06T00:42:43.000Z",
     "postedDate": "2026-02-06T22:42:21.000Z"
-  },
-  {
-    "id": "shortage:276553",
-    "reportId": 276553,
-    "type": "shortage",
-    "brandName": "APO-IMATINIB",
-    "status": "active_confirmed",
-    "din": "02355345",
-    "strength": "400MG",
-    "expectedBackInStockDate": "2026-03-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-06T00:41:56.000Z",
-    "updateDate": "2026-03-06T00:41:56.000Z",
-    "postedDate": "2026-01-24T01:20:15.000Z"
-  },
-  {
-    "id": "shortage:267384",
-    "reportId": 267384,
-    "type": "shortage",
-    "brandName": "ACYCLOVIR SODIUM INJECTION",
-    "status": "active_confirmed",
-    "din": "02236926",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-03-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-05T21:10:06.000Z",
-    "updateDate": "2026-03-05T21:10:06.000Z",
-    "postedDate": "2025-09-18T20:51:18.000Z"
   },
   {
     "id": "shortage:279801",
@@ -4438,20 +4018,6 @@
     "postedDate": "2026-03-05T02:36:14.000Z"
   },
   {
-    "id": "shortage:278971",
-    "reportId": 278971,
-    "type": "shortage",
-    "brandName": "NUVARING",
-    "status": "active_confirmed",
-    "din": "02253186",
-    "strength": "11.4MG\r\n2.6MG",
-    "expectedBackInStockDate": "2026-03-04T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-05T02:33:40.000Z",
-    "updateDate": "2026-03-05T02:33:40.000Z",
-    "postedDate": "2026-02-26T20:16:10.000Z"
-  },
-  {
     "id": "shortage:279669",
     "reportId": 279669,
     "type": "shortage",
@@ -4478,20 +4044,6 @@
     "updatedDate": "2026-03-04T22:04:25.000Z",
     "updateDate": "2026-03-04T22:04:25.000Z",
     "postedDate": "2026-03-04T22:02:27.000Z"
-  },
-  {
-    "id": "shortage:279200",
-    "reportId": 279200,
-    "type": "shortage",
-    "brandName": "JAMP ALENDRONATE / VITAMIN D3",
-    "status": "active_confirmed",
-    "din": "02519828",
-    "strength": "70MG\r\n2800UNIT",
-    "expectedBackInStockDate": "2026-03-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-04T21:46:26.000Z",
-    "updateDate": "2026-03-04T21:46:26.000Z",
-    "postedDate": "2026-03-02T09:01:33.000Z"
   },
   {
     "id": "shortage:264317",
@@ -4576,20 +4128,6 @@
     "updatedDate": "2026-03-04T20:07:18.000Z",
     "updateDate": "2026-03-04T20:07:18.000Z",
     "postedDate": "2025-10-08T16:13:46.000Z"
-  },
-  {
-    "id": "shortage:277068",
-    "reportId": 277068,
-    "type": "shortage",
-    "brandName": "SERTRALINE",
-    "status": "active_confirmed",
-    "din": "02353520",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-03-11T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-04T18:21:57.000Z",
-    "updateDate": "2026-03-04T18:21:57.000Z",
-    "postedDate": "2026-02-02T20:29:43.000Z"
   },
   {
     "id": "shortage:275184",
@@ -5472,20 +5010,6 @@
     "updatedDate": "2026-02-24T18:36:38.000Z",
     "updateDate": "2026-02-24T18:36:38.000Z",
     "postedDate": "2026-02-24T18:36:25.000Z"
-  },
-  {
-    "id": "shortage:275242",
-    "reportId": 275242,
-    "type": "shortage",
-    "brandName": "TAMIFLU",
-    "status": "active_confirmed",
-    "din": "02381842",
-    "strength": "6MG",
-    "expectedBackInStockDate": "2026-03-03T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-24T02:59:59.000Z",
-    "updateDate": "2026-02-24T02:59:59.000Z",
-    "postedDate": "2026-01-06T03:03:21.000Z"
   },
   {
     "id": "shortage:260964",
@@ -6494,20 +6018,6 @@
     "updatedDate": "2026-02-03T22:29:57.000Z",
     "updateDate": "2026-02-03T22:29:57.000Z",
     "postedDate": "2026-01-13T23:26:23.000Z"
-  },
-  {
-    "id": "shortage:266277",
-    "reportId": 266277,
-    "type": "shortage",
-    "brandName": "ACYCLOVIR SODIUM INJECTION",
-    "status": "active_confirmed",
-    "din": "02236926",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-03-02T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-03T20:24:25.000Z",
-    "updateDate": "2026-02-03T20:24:25.000Z",
-    "postedDate": "2025-09-02T04:05:03.000Z"
   },
   {
     "id": "shortage:275766",
@@ -7530,34 +7040,6 @@
     "updatedDate": "2025-12-08T19:21:00.000Z",
     "updateDate": "2025-12-08T19:21:00.000Z",
     "postedDate": "2022-11-02T21:33:54.000Z"
-  },
-  {
-    "id": "shortage:262193",
-    "reportId": 262193,
-    "type": "shortage",
-    "brandName": "MINT-SPIRONOLACTONE",
-    "status": "active_confirmed",
-    "din": "02488140",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-02-28T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-12-04T23:38:30.000Z",
-    "updateDate": "2025-12-04T23:38:30.000Z",
-    "postedDate": "2025-07-08T21:52:04.000Z"
-  },
-  {
-    "id": "shortage:262196",
-    "reportId": 262196,
-    "type": "shortage",
-    "brandName": "MINT-SPIRONOLACTONE",
-    "status": "active_confirmed",
-    "din": "02488159",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-02-28T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-12-04T23:37:38.000Z",
-    "updateDate": "2025-12-04T23:37:38.000Z",
-    "postedDate": "2025-07-08T21:54:06.000Z"
   },
   {
     "id": "shortage:270942",
