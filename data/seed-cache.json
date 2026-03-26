@@ -1,5 +1,131 @@
 [
   {
+    "id": "shortage:281405",
+    "reportId": 281405,
+    "type": "shortage",
+    "brandName": "PMS-METHYLPHENIDATE CR",
+    "status": "active_confirmed",
+    "din": "02537028",
+    "strength": "60MG",
+    "expectedBackInStockDate": "2026-06-08T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-26T02:30:18.000Z",
+    "updateDate": "2026-03-26T02:30:18.000Z",
+    "postedDate": "2026-03-26T02:30:01.000Z"
+  },
+  {
+    "id": "shortage:272044",
+    "reportId": 272044,
+    "type": "shortage",
+    "brandName": "PMS-METHYLPHENIDATE CR",
+    "status": "active_confirmed",
+    "din": "02536978",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-04-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-26T02:26:39.000Z",
+    "updateDate": "2026-03-26T02:26:39.000Z",
+    "postedDate": "2025-11-18T01:15:14.000Z"
+  },
+  {
+    "id": "shortage:271038",
+    "reportId": 271038,
+    "type": "shortage",
+    "brandName": "DAUNORUBICIN HYDROCHLORIDE INJECTION",
+    "status": "active_confirmed",
+    "din": "02539209",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-03-23T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-25T22:52:00.000Z",
+    "updateDate": "2026-03-25T22:52:00.000Z",
+    "postedDate": "2025-11-04T19:12:40.000Z"
+  },
+  {
+    "id": "shortage:280176",
+    "reportId": 280176,
+    "type": "shortage",
+    "brandName": "NOVOLIN GE TORONTO",
+    "status": "active_confirmed",
+    "din": "02024233",
+    "strength": "100UNIT",
+    "expectedBackInStockDate": "2026-03-25T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-25T20:50:25.000Z",
+    "updateDate": "2026-03-25T20:50:25.000Z",
+    "postedDate": "2026-03-10T18:52:59.000Z"
+  },
+  {
+    "id": "shortage:275184",
+    "reportId": 275184,
+    "type": "shortage",
+    "brandName": "RISEDRONATE",
+    "status": "active_confirmed",
+    "din": "02370255",
+    "strength": "35MG",
+    "expectedBackInStockDate": "2026-03-27T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-25T19:21:59.000Z",
+    "updateDate": "2026-03-25T19:21:59.000Z",
+    "postedDate": "2026-01-05T20:39:38.000Z"
+  },
+  {
+    "id": "shortage:265004",
+    "reportId": 265004,
+    "type": "shortage",
+    "brandName": "ESOMEPRAZOLE",
+    "status": "active_confirmed",
+    "din": "02431173",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-25T19:19:50.000Z",
+    "updateDate": "2026-03-25T19:19:50.000Z",
+    "postedDate": "2025-08-11T22:44:09.000Z"
+  },
+  {
+    "id": "shortage:265001",
+    "reportId": 265001,
+    "type": "shortage",
+    "brandName": "ESOMEPRAZOLE",
+    "status": "active_confirmed",
+    "din": "02535335",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-25T19:19:21.000Z",
+    "updateDate": "2026-03-25T19:19:21.000Z",
+    "postedDate": "2025-08-11T22:43:07.000Z"
+  },
+  {
+    "id": "shortage:269025",
+    "reportId": 269025,
+    "type": "shortage",
+    "brandName": "LIDOCAINE HYDROCHLORIDE INJECTION USP",
+    "status": "active_confirmed",
+    "din": "00884154",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-04-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-25T19:03:46.000Z",
+    "updateDate": "2026-03-25T19:03:46.000Z",
+    "postedDate": "2025-10-08T18:58:40.000Z"
+  },
+  {
+    "id": "shortage:281060",
+    "reportId": 281060,
+    "type": "shortage",
+    "brandName": "JAMP PRUCALOPRIDE",
+    "status": "active_confirmed",
+    "din": "02493489",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-03-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-03-25T17:31:42.000Z",
+    "updateDate": "2026-03-25T17:31:42.000Z",
+    "postedDate": "2026-03-21T01:08:39.000Z"
+  },
+  {
     "id": "shortage:267384",
     "reportId": 267384,
     "type": "shortage",
@@ -40,20 +166,6 @@
     "updatedDate": "2026-03-24T23:57:54.000Z",
     "updateDate": "2026-03-24T23:57:54.000Z",
     "postedDate": "2025-12-02T23:25:20.000Z"
-  },
-  {
-    "id": "shortage:279990",
-    "reportId": 279990,
-    "type": "shortage",
-    "brandName": "FIASP",
-    "status": "active_confirmed",
-    "din": "02460416",
-    "strength": "100UNIT",
-    "expectedBackInStockDate": "2026-04-06T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-24T19:10:30.000Z",
-    "updateDate": "2026-03-24T19:10:30.000Z",
-    "postedDate": "2026-03-09T18:21:02.000Z"
   },
   {
     "id": "shortage:262196",
@@ -1512,20 +1624,6 @@
     "postedDate": "2025-11-28T03:31:50.000Z"
   },
   {
-    "id": "shortage:278493",
-    "reportId": 278493,
-    "type": "shortage",
-    "brandName": "ONCASPAR",
-    "status": "active_confirmed",
-    "din": "02461900",
-    "strength": "750UNIT",
-    "expectedBackInStockDate": "2026-03-25T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-19T16:27:33.000Z",
-    "updateDate": "2026-03-19T16:27:33.000Z",
-    "postedDate": "2026-02-20T20:16:18.000Z"
-  },
-  {
     "id": "shortage:280781",
     "reportId": 280781,
     "type": "shortage",
@@ -2056,20 +2154,6 @@
     "updatedDate": "2026-03-17T19:34:18.000Z",
     "updateDate": "2026-03-17T19:34:18.000Z",
     "postedDate": "2026-03-09T21:07:15.000Z"
-  },
-  {
-    "id": "shortage:279674",
-    "reportId": 279674,
-    "type": "shortage",
-    "brandName": "PRO-LISDEXAMFETAMINE",
-    "status": "active_confirmed",
-    "din": "02547031",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-03-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-17T18:30:11.000Z",
-    "updateDate": "2026-03-17T18:30:11.000Z",
-    "postedDate": "2026-03-04T23:58:24.000Z"
   },
   {
     "id": "shortage:279578",
@@ -2700,20 +2784,6 @@
     "updatedDate": "2026-03-12T00:35:42.000Z",
     "updateDate": "2026-03-12T00:35:42.000Z",
     "postedDate": "2025-12-11T21:06:35.000Z"
-  },
-  {
-    "id": "shortage:271038",
-    "reportId": 271038,
-    "type": "shortage",
-    "brandName": "DAUNORUBICIN HYDROCHLORIDE INJECTION",
-    "status": "active_confirmed",
-    "din": "02539209",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-03-23T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-11T21:59:12.000Z",
-    "updateDate": "2026-03-11T21:59:12.000Z",
-    "postedDate": "2025-11-04T19:12:40.000Z"
   },
   {
     "id": "shortage:264718",
@@ -4130,20 +4200,6 @@
     "postedDate": "2025-10-08T16:13:46.000Z"
   },
   {
-    "id": "shortage:275184",
-    "reportId": 275184,
-    "type": "shortage",
-    "brandName": "RISEDRONATE",
-    "status": "active_confirmed",
-    "din": "02370255",
-    "strength": "35MG",
-    "expectedBackInStockDate": "2026-03-27T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-04T18:21:31.000Z",
-    "updateDate": "2026-03-04T18:21:31.000Z",
-    "postedDate": "2026-01-05T20:39:38.000Z"
-  },
-  {
     "id": "shortage:275178",
     "reportId": 275178,
     "type": "shortage",
@@ -4156,20 +4212,6 @@
     "updatedDate": "2026-03-04T18:21:04.000Z",
     "updateDate": "2026-03-04T18:21:04.000Z",
     "postedDate": "2026-01-05T20:36:36.000Z"
-  },
-  {
-    "id": "shortage:265004",
-    "reportId": 265004,
-    "type": "shortage",
-    "brandName": "ESOMEPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02431173",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-03-27T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-04T18:19:05.000Z",
-    "updateDate": "2026-03-04T18:19:05.000Z",
-    "postedDate": "2025-08-11T22:44:09.000Z"
   },
   {
     "id": "shortage:278479",
@@ -4982,20 +5024,6 @@
     "updatedDate": "2026-02-26T18:54:37.000Z",
     "updateDate": "2026-02-26T18:54:37.000Z",
     "postedDate": "2024-03-08T03:05:36.000Z"
-  },
-  {
-    "id": "shortage:264180",
-    "reportId": 264180,
-    "type": "shortage",
-    "brandName": "PMS-METHYLPHENIDATE CR",
-    "status": "active_confirmed",
-    "din": "02537028",
-    "strength": "60MG",
-    "expectedBackInStockDate": "2026-03-19T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-25T19:58:31.000Z",
-    "updateDate": "2026-02-25T19:58:31.000Z",
-    "postedDate": "2025-08-04T17:50:10.000Z"
   },
   {
     "id": "shortage:278843",
@@ -6216,20 +6244,6 @@
     "postedDate": "2026-01-29T00:59:04.000Z"
   },
   {
-    "id": "shortage:272044",
-    "reportId": 272044,
-    "type": "shortage",
-    "brandName": "PMS-METHYLPHENIDATE CR",
-    "status": "active_confirmed",
-    "din": "02536978",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-05-17T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-29T00:48:49.000Z",
-    "updateDate": "2026-01-29T00:48:49.000Z",
-    "postedDate": "2025-11-18T01:15:14.000Z"
-  },
-  {
     "id": "shortage:272036",
     "reportId": 272036,
     "type": "shortage",
@@ -6718,20 +6732,6 @@
     "updatedDate": "2026-01-08T00:27:16.000Z",
     "updateDate": "2026-01-08T00:27:16.000Z",
     "postedDate": "2024-12-06T01:41:08.000Z"
-  },
-  {
-    "id": "shortage:269025",
-    "reportId": 269025,
-    "type": "shortage",
-    "brandName": "LIDOCAINE HYDROCHLORIDE INJECTION USP",
-    "status": "active_confirmed",
-    "din": "00884154",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-03-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-08T00:12:42.000Z",
-    "updateDate": "2026-01-08T00:12:42.000Z",
-    "postedDate": "2025-10-08T18:58:40.000Z"
   },
   {
     "id": "shortage:274457",
@@ -7670,20 +7670,6 @@
     "updatedDate": "2025-08-22T09:00:10.000Z",
     "updateDate": "2025-08-22T09:00:10.000Z",
     "postedDate": "2025-08-21T19:57:17.000Z"
-  },
-  {
-    "id": "shortage:265001",
-    "reportId": 265001,
-    "type": "shortage",
-    "brandName": "ESOMEPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02535335",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-03-27T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-08-19T17:38:40.000Z",
-    "updateDate": "2025-08-19T17:38:40.000Z",
-    "postedDate": "2025-08-11T22:43:07.000Z"
   },
   {
     "id": "shortage:264929",
