@@ -1,17 +1,182 @@
 {
-  "refreshedAt": "2026-03-26T08:47:07.932Z",
-  "count": 625,
-  "addedDrugsCount": 1,
+  "refreshedAt": "2026-03-27T08:44:07.186Z",
+  "count": 613,
+  "addedDrugsCount": 11,
   "addedDrugs": [
     {
-      "drug": "NOVOLIN GE TORONTO",
+      "drug": "ALYSENA 21",
       "doses": [
-        "100UNIT"
+        "100MCG",
+        "20MCG"
       ],
-      "expectedBackInStockDate": "2026-03-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+    },
+    {
+      "drug": "ANAFRANIL",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+    },
+    {
+      "drug": "ATENIDONE",
+      "doses": [
+        "25MG",
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+    },
+    {
+      "drug": "BRIMONIDINE P",
+      "doses": [
+        "0.15%"
+      ],
+      "expectedBackInStockDate": "2026-06-11T04:00:00.000Z"
+    },
+    {
+      "drug": "FLUCONAZOLE",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+    },
+    {
+      "drug": "HEPARIN SODIUM IN 5% DEXTROSE INJECTION, 25000UNIT/500ML",
+      "doses": [
+        "410MG",
+        "5000UNIT",
+        "5G",
+        "93MG"
+      ],
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+    },
+    {
+      "drug": "MORPHINE SR",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+    },
+    {
+      "drug": "PERINDOPRIL/AMLODIPINE",
+      "doses": [
+        "10MG",
+        "14MG"
+      ],
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+    },
+    {
+      "drug": "POSACONAZOLE",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+    },
+    {
+      "drug": "PROPRANOLOL",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+    },
+    {
+      "drug": "RIZATRIPTAN",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-27T08:44:07.186Z",
+      "addedDrugsCount": 11,
+      "addedDrugs": [
+        {
+          "drug": "ALYSENA 21",
+          "doses": [
+            "100MCG",
+            "20MCG"
+          ],
+          "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+        },
+        {
+          "drug": "ANAFRANIL",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+        },
+        {
+          "drug": "ATENIDONE",
+          "doses": [
+            "25MG",
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+        },
+        {
+          "drug": "BRIMONIDINE P",
+          "doses": [
+            "0.15%"
+          ],
+          "expectedBackInStockDate": "2026-06-11T04:00:00.000Z"
+        },
+        {
+          "drug": "FLUCONAZOLE",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+        },
+        {
+          "drug": "HEPARIN SODIUM IN 5% DEXTROSE INJECTION, 25000UNIT/500ML",
+          "doses": [
+            "410MG",
+            "5000UNIT",
+            "5G",
+            "93MG"
+          ],
+          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+        },
+        {
+          "drug": "MORPHINE SR",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+        },
+        {
+          "drug": "PERINDOPRIL/AMLODIPINE",
+          "doses": [
+            "10MG",
+            "14MG"
+          ],
+          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+        },
+        {
+          "drug": "POSACONAZOLE",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+        },
+        {
+          "drug": "PROPRANOLOL",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+        },
+        {
+          "drug": "RIZATRIPTAN",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-26T08:47:07.932Z",
       "addedDrugsCount": 1,
@@ -338,67 +503,6 @@
             "1MG"
           ],
           "expectedBackInStockDate": "2026-03-23T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-13T10:00:12.856Z",
-      "addedDrugsCount": 7,
-      "addedDrugs": [
-        {
-          "drug": "ADACEL",
-          "doses": [
-            "2.5MCG",
-            "2LF",
-            "3MCG",
-            "5LF",
-            "5MCG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        },
-        {
-          "drug": "CLOBAZAM",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
-        },
-        {
-          "drug": "FEBUXOSTAT",
-          "doses": [
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
-        },
-        {
-          "drug": "LORAZEPAM",
-          "doses": [
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
-        },
-        {
-          "drug": "SITAGLIPTIN MALATE / METFORMIN",
-          "doses": [
-            "50MG",
-            "850MG"
-          ],
-          "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
-        },
-        {
-          "drug": "TRAMADOL/ACETAMINOPHEN",
-          "doses": [
-            "325MG",
-            "37.5MG"
-          ],
-          "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
-        },
-        {
-          "drug": "YF-VAX",
-          "doses": [
-            "109648PFU"
-          ],
-          "expectedBackInStockDate": "2026-04-23T04:00:00.000Z"
         }
       ]
     }
