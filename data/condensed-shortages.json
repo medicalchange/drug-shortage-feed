@@ -1,26 +1,15 @@
 {
   "count": 343,
-  "refreshedAt": "2026-03-28T08:33:40.900Z",
+  "refreshedAt": "2026-03-29T08:34:35.895Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
-  "addedDrugs": [
-    {
-      "drug": "ENGERIX-B",
-      "doses": [
-        "10MCG"
-      ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-    },
-    {
-      "drug": "JALYN",
-      "doses": [
-        "0.4MG",
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-29T08:34:35.895Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-03-28T08:33:40.900Z",
       "addedDrugsCount": 2,
@@ -439,11 +428,6 @@
     },
     {
       "refreshedAt": "2026-03-16T08:50:48.918Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-03-15T08:30:54.969Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
