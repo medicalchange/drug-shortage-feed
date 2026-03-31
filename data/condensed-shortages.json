@@ -1,10 +1,47 @@
 {
-  "count": 343,
-  "refreshedAt": "2026-03-30T09:06:21.173Z",
+  "count": 344,
+  "refreshedAt": "2026-03-31T08:52:18.840Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 2,
+  "addedDrugs": [
+    {
+      "drug": "CANDESARTAN PLUS",
+      "doses": [
+        "12.5MG",
+        "16MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION USP",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-31T08:52:18.840Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CANDESARTAN PLUS",
+          "doses": [
+            "12.5MG",
+            "16MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        },
+        {
+          "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION USP",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-30T09:06:21.173Z",
       "addedDrugsCount": 0,
@@ -416,20 +453,6 @@
           "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-03-17T08:44:40.401Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-          "doses": [
-            "36G",
-            "4.5G"
-          ],
-          "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -656,13 +679,6 @@
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
     {
-      "drug": "ARSENIC TRIOXIDE FOR INJECTION",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-01-16T05:00:00.000Z"
-    },
-    {
       "drug": "ATENIDONE",
       "doses": [
         "25MG",
@@ -881,7 +897,15 @@
         "4MG",
         "8MG"
       ],
-      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
+      "drug": "CANDESARTAN PLUS",
+      "doses": [
+        "12.5MG",
+        "16MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "CAPECITABINE",
@@ -902,7 +926,7 @@
       "doses": [
         "10G"
       ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "CEFIXIME",
@@ -1338,7 +1362,7 @@
       "doses": [
         "75MCG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "ESTRADOT 100",
@@ -1461,7 +1485,7 @@
       "doses": [
         "0.2MG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "HALOETTE",
@@ -1496,6 +1520,13 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-04-06T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION USP",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "IFEX",
@@ -2412,7 +2443,7 @@
         "10MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "RALOXIFENE",
