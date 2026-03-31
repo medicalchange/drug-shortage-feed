@@ -1,9 +1,46 @@
 {
-  "refreshedAt": "2026-03-30T09:06:21.173Z",
-  "count": 605,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-03-31T08:52:18.840Z",
+  "count": 610,
+  "addedDrugsCount": 2,
+  "addedDrugs": [
+    {
+      "drug": "CANDESARTAN PLUS",
+      "doses": [
+        "12.5MG",
+        "16MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION USP",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-03-31T08:52:18.840Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CANDESARTAN PLUS",
+          "doses": [
+            "12.5MG",
+            "16MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        },
+        {
+          "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION USP",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-03-30T09:06:21.173Z",
       "addedDrugsCount": 0,
@@ -413,20 +450,6 @@
             "120MG"
           ],
           "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-17T08:44:40.401Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-          "doses": [
-            "36G",
-            "4.5G"
-          ],
-          "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
         }
       ]
     }
