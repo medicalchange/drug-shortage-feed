@@ -1,26 +1,15 @@
 {
-  "count": 344,
-  "refreshedAt": "2026-03-31T08:52:18.840Z",
+  "count": 337,
+  "refreshedAt": "2026-04-01T08:58:08.028Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
-  "addedDrugs": [
-    {
-      "drug": "CANDESARTAN PLUS",
-      "doses": [
-        "12.5MG",
-        "16MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
-      "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION USP",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-01T08:58:08.028Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-03-31T08:52:18.840Z",
       "addedDrugsCount": 2,
@@ -423,34 +412,6 @@
             "0.5MG"
           ],
           "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-18T08:41:44.560Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "MAVIK",
-          "doses": [
-            "0.5MG",
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
-        },
-        {
-          "drug": "PRO-LISDEXAMFETAMINE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-03-30T04:00:00.000Z"
-        },
-        {
-          "drug": "VERAPAMIL SR",
-          "doses": [
-            "120MG"
-          ],
-          "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
         }
       ]
     }
@@ -883,13 +844,6 @@
       "expectedBackInStockDate": "2026-04-23T04:00:00.000Z"
     },
     {
-      "drug": "CANAGLIFLOZIN",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
-    },
-    {
       "drug": "CANDESARTAN",
       "doses": [
         "16MG",
@@ -897,15 +851,7 @@
         "4MG",
         "8MG"
       ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
-      "drug": "CANDESARTAN PLUS",
-      "doses": [
-        "12.5MG",
-        "16MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
     {
       "drug": "CAPECITABINE",
@@ -1028,7 +974,7 @@
       "doses": [
         "0.05%"
       ],
-      "expectedBackInStockDate": "2026-04-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-01T04:00:00.000Z"
     },
     {
       "drug": "CLOBETASOL SPRAY",
@@ -1155,7 +1101,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-26T04:00:00.000Z"
     },
     {
       "drug": "DILTIAZ CD",
@@ -1485,7 +1431,7 @@
       "doses": [
         "0.2MG"
       ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "HALOETTE",
@@ -1522,13 +1468,6 @@
       "expectedBackInStockDate": "2026-04-06T04:00:00.000Z"
     },
     {
-      "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION USP",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
       "drug": "IFEX",
       "doses": [
         "1G",
@@ -1556,10 +1495,9 @@
     {
       "drug": "INDAPAMIDE",
       "doses": [
-        "1.25MG",
-        "2.5MG"
+        "1.25MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-02T04:00:00.000Z"
     },
     {
       "drug": "INDOMETHACIN",
@@ -1707,7 +1645,7 @@
         "500MG",
         "750MG"
       ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "LEVOCARB",
@@ -2067,13 +2005,6 @@
       "expectedBackInStockDate": "2026-02-20T05:00:00.000Z"
     },
     {
-      "drug": "NOVOLIN GE TORONTO",
-      "doses": [
-        "100UNIT"
-      ],
-      "expectedBackInStockDate": "2026-03-25T04:00:00.000Z"
-    },
-    {
       "drug": "NXSTAGE PUREFLOW SOLUTION RFP-204-CAN",
       "doses": [
         "0.075G",
@@ -2120,7 +2051,6 @@
       "drug": "OLANZAPINE",
       "doses": [
         "10MG",
-        "15MG",
         "2.5MG",
         "20MG"
       ],
@@ -2240,7 +2170,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-04-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-02T04:00:00.000Z"
     },
     {
       "drug": "PEGASYS",
@@ -2255,13 +2185,6 @@
         "5000000UNIT"
       ],
       "expectedBackInStockDate": "2026-02-09T05:00:00.000Z"
-    },
-    {
-      "drug": "PERINDOPRIL",
-      "doses": [
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "PERINDOPRIL/AMLODIPINE",
@@ -2399,13 +2322,6 @@
       "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
     },
     {
-      "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
       "drug": "QUETIAPINE",
       "doses": [
         "25MG"
@@ -2443,7 +2359,7 @@
         "10MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "RALOXIFENE",
@@ -2572,7 +2488,6 @@
     {
       "drug": "SAXAGLIPTIN",
       "doses": [
-        "2.5MG",
         "5MG"
       ],
       "expectedBackInStockDate": "2026-02-06T05:00:00.000Z"
@@ -2762,13 +2677,6 @@
         "200MG"
       ],
       "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-    },
-    {
-      "drug": "TESTOSTERONE GEL",
-      "doses": [
-        "1%"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
     },
     {
       "drug": "TIMOLOL",
@@ -3014,7 +2922,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
     },
     {
       "drug": "VISIONBLUE",
