@@ -1,25 +1,14 @@
 {
-  "refreshedAt": "2026-03-31T08:52:18.840Z",
-  "count": 610,
-  "addedDrugsCount": 2,
-  "addedDrugs": [
-    {
-      "drug": "CANDESARTAN PLUS",
-      "doses": [
-        "12.5MG",
-        "16MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    },
-    {
-      "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION USP",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-    }
-  ],
+  "refreshedAt": "2026-04-01T08:58:08.028Z",
+  "count": 589,
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-01T08:58:08.028Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-03-31T08:52:18.840Z",
       "addedDrugsCount": 2,
@@ -422,34 +411,6 @@
             "0.5MG"
           ],
           "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-18T08:41:44.560Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "MAVIK",
-          "doses": [
-            "0.5MG",
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
-        },
-        {
-          "drug": "PRO-LISDEXAMFETAMINE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-03-30T04:00:00.000Z"
-        },
-        {
-          "drug": "VERAPAMIL SR",
-          "doses": [
-            "120MG"
-          ],
-          "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
         }
       ]
     }
