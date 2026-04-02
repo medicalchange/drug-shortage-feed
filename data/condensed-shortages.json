@@ -1,10 +1,15 @@
 {
-  "count": 337,
-  "refreshedAt": "2026-04-01T08:58:08.028Z",
+  "count": 336,
+  "refreshedAt": "2026-04-02T08:50:39.565Z",
   "source": "github-static-seed",
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-02T08:50:39.565Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-04-01T08:58:08.028Z",
       "addedDrugsCount": 0,
@@ -398,20 +403,6 @@
             "750UNIT"
           ],
           "expectedBackInStockDate": "2026-03-25T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-19T08:36:44.836Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "BREVICON 0.5/35 TABLETS (21-DAY PACK)",
-          "doses": [
-            "0.035MG",
-            "0.5MG"
-          ],
-          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
         }
       ]
     }
@@ -1226,7 +1217,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-03-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
     },
     {
       "drug": "ENGERIX-B",
@@ -1562,7 +1553,7 @@
       "doses": [
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-03T04:00:00.000Z"
     },
     {
       "drug": "KIT FOR THE PREPARATION OF TECHNETIUM (99MTC) PYROPHOSPHATE INJECTION",
@@ -2087,7 +2078,7 @@
         "12.5MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-02T04:00:00.000Z"
     },
     {
       "drug": "OLOPATADINE",
@@ -2903,14 +2894,6 @@
       "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
     {
-      "drug": "VERAP",
-      "doses": [
-        "120MG",
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
-    },
-    {
       "drug": "VERAPAMIL SR",
       "doses": [
         "120MG"
@@ -2999,7 +2982,7 @@
       "doses": [
         "7.5MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
       "drug": "ZYPREXA ZYDIS",
@@ -3007,7 +2990,7 @@
         "15MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     }
   ]
 }
