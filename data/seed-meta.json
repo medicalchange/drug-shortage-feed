@@ -1,9 +1,14 @@
 {
-  "refreshedAt": "2026-04-01T08:58:08.028Z",
-  "count": 589,
+  "refreshedAt": "2026-04-02T08:50:39.565Z",
+  "count": 587,
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-02T08:50:39.565Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-04-01T08:58:08.028Z",
       "addedDrugsCount": 0,
@@ -397,20 +402,6 @@
             "750UNIT"
           ],
           "expectedBackInStockDate": "2026-03-25T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-19T08:36:44.836Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "BREVICON 0.5/35 TABLETS (21-DAY PACK)",
-          "doses": [
-            "0.035MG",
-            "0.5MG"
-          ],
-          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
         }
       ]
     }
