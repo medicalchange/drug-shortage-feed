@@ -1,9 +1,44 @@
 {
-  "refreshedAt": "2026-04-06T09:03:29.124Z",
+  "refreshedAt": "2026-04-07T08:56:48.207Z",
   "count": 590,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 2,
+  "addedDrugs": [
+    {
+      "drug": "OSELTAMIVIR",
+      "doses": [
+        "75MG"
+      ],
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+    },
+    {
+      "drug": "RIMSO-50",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-07T08:56:48.207Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "OSELTAMIVIR",
+          "doses": [
+            "75MG"
+          ],
+          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+        },
+        {
+          "drug": "RIMSO-50",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-06T09:03:29.124Z",
       "addedDrugsCount": 0,
@@ -249,62 +284,6 @@
             "100UNIT"
           ],
           "expectedBackInStockDate": "2026-04-06T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-24T08:44:38.813Z",
-      "addedDrugsCount": 7,
-      "addedDrugs": [
-        {
-          "drug": "DAPTOMYCIN FOR INJECTION",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-        },
-        {
-          "drug": "DETROL LA",
-          "doses": [
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
-        },
-        {
-          "drug": "IRBESARTAN HCT",
-          "doses": [
-            "12.5MG",
-            "150MG"
-          ],
-          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-        },
-        {
-          "drug": "OXALIPLATIN INJECTION",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-        },
-        {
-          "drug": "PIRFENIDONE CAPSULES",
-          "doses": [
-            "267MG"
-          ],
-          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-        },
-        {
-          "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-        },
-        {
-          "drug": "VASOPRESSIN INJECTION, USP",
-          "doses": [
-            "20UNIT"
-          ],
-          "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
         }
       ]
     }

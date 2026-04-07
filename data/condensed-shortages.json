@@ -1,10 +1,45 @@
 {
   "count": 338,
-  "refreshedAt": "2026-04-06T09:03:29.124Z",
+  "refreshedAt": "2026-04-07T08:56:48.207Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 2,
+  "addedDrugs": [
+    {
+      "drug": "OSELTAMIVIR",
+      "doses": [
+        "75MG"
+      ],
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+    },
+    {
+      "drug": "RIMSO-50",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-07T08:56:48.207Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "OSELTAMIVIR",
+          "doses": [
+            "75MG"
+          ],
+          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+        },
+        {
+          "drug": "RIMSO-50",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-06T09:03:29.124Z",
       "addedDrugsCount": 0,
@@ -252,62 +287,6 @@
           "expectedBackInStockDate": "2026-04-06T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-03-24T08:44:38.813Z",
-      "addedDrugsCount": 7,
-      "addedDrugs": [
-        {
-          "drug": "DAPTOMYCIN FOR INJECTION",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-        },
-        {
-          "drug": "DETROL LA",
-          "doses": [
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
-        },
-        {
-          "drug": "IRBESARTAN HCT",
-          "doses": [
-            "12.5MG",
-            "150MG"
-          ],
-          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-        },
-        {
-          "drug": "OXALIPLATIN INJECTION",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-        },
-        {
-          "drug": "PIRFENIDONE CAPSULES",
-          "doses": [
-            "267MG"
-          ],
-          "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
-        },
-        {
-          "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-        },
-        {
-          "drug": "VASOPRESSIN INJECTION, USP",
-          "doses": [
-            "20UNIT"
-          ],
-          "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -317,7 +296,7 @@
         "300MG",
         "600MG"
       ],
-      "expectedBackInStockDate": "2026-04-06T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
     },
     {
       "drug": "ACET-TRAMADOL",
@@ -466,7 +445,7 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "AMLODIPINE",
@@ -790,7 +769,7 @@
         "250MG",
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "CHOLESTYRAMINE-ODAN",
@@ -811,7 +790,7 @@
       "doses": [
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2026-04-06T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-07T04:00:00.000Z"
     },
     {
       "drug": "CINACALCET",
@@ -863,13 +842,6 @@
         "0.05%"
       ],
       "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-    },
-    {
-      "drug": "CLOBETASOL SCALP APPLICATION",
-      "doses": [
-        "0.05%"
-      ],
-      "expectedBackInStockDate": "2026-04-01T04:00:00.000Z"
     },
     {
       "drug": "CLOBETASOL SPRAY",
@@ -1158,7 +1130,7 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
       "drug": "ERIBULIN",
@@ -1364,10 +1336,9 @@
     {
       "drug": "HYDROCORTISONE",
       "doses": [
-        "10MG",
-        "20MG"
+        "10MG"
       ],
-      "expectedBackInStockDate": "2026-04-06T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
       "drug": "IFEX",
@@ -1399,7 +1370,7 @@
       "doses": [
         "1.25MG"
       ],
-      "expectedBackInStockDate": "2026-04-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
     },
     {
       "drug": "INDOMETHACIN",
@@ -1907,13 +1878,6 @@
       "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
     },
     {
-      "drug": "NEVIRAPINE",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-    },
-    {
       "drug": "NITROSTAT",
       "doses": [
         "0.3MG"
@@ -2051,6 +2015,13 @@
       "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
     },
     {
+      "drug": "OSELTAMIVIR",
+      "doses": [
+        "75MG"
+      ],
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+    },
+    {
       "drug": "OTIXAL",
       "doses": [
         "0.025%",
@@ -2093,7 +2064,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-04-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
     },
     {
       "drug": "PEGASYS",
@@ -2244,7 +2215,7 @@
         "1MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
     {
       "drug": "QUETIAPINE",
@@ -2291,7 +2262,7 @@
       "doses": [
         "60MG"
       ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
       "drug": "RAMIPRIL",
@@ -2332,6 +2303,13 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+    },
+    {
+      "drug": "RIMSO-50",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
     },
     {
       "drug": "RISEDRONATE",
@@ -2525,7 +2503,7 @@
       "doses": [
         "2%"
       ],
-      "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
     },
     {
       "drug": "TAMSULOSIN",
@@ -2593,7 +2571,7 @@
       "doses": [
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "TIMOLOL MALEATE-EX",
@@ -2765,7 +2743,7 @@
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "VALSARTAN",
@@ -2887,7 +2865,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "ZYMAR",
