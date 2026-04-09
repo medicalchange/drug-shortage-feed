@@ -1,40 +1,60 @@
 {
-  "refreshedAt": "2026-04-08T08:55:30.445Z",
-  "count": 597,
-  "addedDrugsCount": 4,
+  "refreshedAt": "2026-04-09T09:02:23.012Z",
+  "count": 594,
+  "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "CEFTRIAXONE SODIUM FOR INJECTION BP",
+      "drug": "DEXTROAMPHETAMINE",
       "doses": [
-        "10G"
+        "5MG"
       ],
       "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
     },
     {
-      "drug": "ESTRADIOL DERM 100",
+      "drug": "DUOTRAV PQ",
       "doses": [
-        "100MCG"
+        "0.004%",
+        "0.5%"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
     },
     {
-      "drug": "IRBESARTAN HCT",
+      "drug": "PERINDOPRIL",
       "doses": [
-        "12.5MG",
-        "150MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    },
-    {
-      "drug": "SITAGLIPTIN HYDROCHLORIDE / METFORMIN",
-      "doses": [
-        "1000MG",
-        "50MG"
+        "8MG"
       ],
       "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-09T09:02:23.012Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "DEXTROAMPHETAMINE",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+        },
+        {
+          "drug": "DUOTRAV PQ",
+          "doses": [
+            "0.004%",
+            "0.5%"
+          ],
+          "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
+        },
+        {
+          "drug": "PERINDOPRIL",
+          "doses": [
+            "8MG"
+          ],
+          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-08T08:55:30.445Z",
       "addedDrugsCount": 4,
@@ -310,19 +330,6 @@
             "10MG"
           ],
           "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-26T08:47:07.932Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "NOVOLIN GE TORONTO",
-          "doses": [
-            "100UNIT"
-          ],
-          "expectedBackInStockDate": "2026-03-25T04:00:00.000Z"
         }
       ]
     }
