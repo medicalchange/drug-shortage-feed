@@ -1,33 +1,99 @@
 {
-  "count": 338,
-  "refreshedAt": "2026-04-09T09:02:23.012Z",
+  "count": 335,
+  "refreshedAt": "2026-04-10T09:03:04.315Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 3,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "DEXTROAMPHETAMINE",
+      "drug": "CANAGLIFLOZIN",
       "doses": [
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
+    },
+    {
+      "drug": "DAPAGLIFLOZIN / METFORMIN",
+      "doses": [
+        "1000MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
     },
     {
-      "drug": "DUOTRAV PQ",
+      "drug": "MIRAPEX",
       "doses": [
-        "0.004%",
-        "0.5%"
+        "0.125MG",
+        "0.25MG"
       ],
-      "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-02T04:00:00.000Z"
     },
     {
-      "drug": "PERINDOPRIL",
+      "drug": "TELMISARTAN HCTZ",
       "doses": [
-        "8MG"
+        "12.5MG",
+        "80MG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-20T04:00:00.000Z"
+    },
+    {
+      "drug": "TRI-JORDYNA 28",
+      "doses": [
+        "0.035MG",
+        "0.18MG",
+        "0.215MG",
+        "0.25MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-10T09:03:04.315Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "CANAGLIFLOZIN",
+          "doses": [
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
+        },
+        {
+          "drug": "DAPAGLIFLOZIN / METFORMIN",
+          "doses": [
+            "1000MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
+        },
+        {
+          "drug": "MIRAPEX",
+          "doses": [
+            "0.125MG",
+            "0.25MG"
+          ],
+          "expectedBackInStockDate": "2026-06-02T04:00:00.000Z"
+        },
+        {
+          "drug": "TELMISARTAN HCTZ",
+          "doses": [
+            "12.5MG",
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2026-10-20T04:00:00.000Z"
+        },
+        {
+          "drug": "TRI-JORDYNA 28",
+          "doses": [
+            "0.035MG",
+            "0.18MG",
+            "0.215MG",
+            "0.25MG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-09T09:02:23.012Z",
       "addedDrugsCount": 3,
@@ -242,95 +308,6 @@
             "0.5MG"
           ],
           "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-03-27T08:44:07.186Z",
-      "addedDrugsCount": 11,
-      "addedDrugs": [
-        {
-          "drug": "ALYSENA 21",
-          "doses": [
-            "100MCG",
-            "20MCG"
-          ],
-          "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-        },
-        {
-          "drug": "ANAFRANIL",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-        },
-        {
-          "drug": "ATENIDONE",
-          "doses": [
-            "25MG",
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-        },
-        {
-          "drug": "BRIMONIDINE P",
-          "doses": [
-            "0.15%"
-          ],
-          "expectedBackInStockDate": "2026-06-11T04:00:00.000Z"
-        },
-        {
-          "drug": "FLUCONAZOLE",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-        },
-        {
-          "drug": "HEPARIN SODIUM IN 5% DEXTROSE INJECTION, 25000UNIT/500ML",
-          "doses": [
-            "410MG",
-            "5000UNIT",
-            "5G",
-            "93MG"
-          ],
-          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-        },
-        {
-          "drug": "MORPHINE SR",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-        },
-        {
-          "drug": "PERINDOPRIL/AMLODIPINE",
-          "doses": [
-            "10MG",
-            "14MG"
-          ],
-          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-        },
-        {
-          "drug": "POSACONAZOLE",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-        },
-        {
-          "drug": "PROPRANOLOL",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
-        },
-        {
-          "drug": "RIZATRIPTAN",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
         }
       ]
     }
@@ -617,7 +594,7 @@
         "0.5MG",
         "50MCG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
     },
     {
       "drug": "BICILLIN L-A",
@@ -727,15 +704,6 @@
       "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
-      "drug": "BUPRENORPHINE/NALOXONE",
-      "doses": [
-        "0.5MG",
-        "2MG",
-        "8MG"
-      ],
-      "expectedBackInStockDate": "2026-01-20T05:00:00.000Z"
-    },
-    {
       "drug": "BYOOVIZ",
       "doses": [
         "10MG"
@@ -755,6 +723,13 @@
         "100MG"
       ],
       "expectedBackInStockDate": "2026-04-23T04:00:00.000Z"
+    },
+    {
+      "drug": "CANAGLIFLOZIN",
+      "doses": [
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
     },
     {
       "drug": "CANDESARTAN",
@@ -880,14 +855,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-05-10T04:00:00.000Z"
-    },
-    {
-      "drug": "CLOBETASOL",
-      "doses": [
-        "0.05%"
-      ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
     },
     {
       "drug": "CLOBETASOL SPRAY",
@@ -915,7 +883,7 @@
       "doses": [
         "150MG"
       ],
-      "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "COVERSYL",
@@ -940,11 +908,19 @@
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
+      "drug": "DAPAGLIFLOZIN / METFORMIN",
+      "doses": [
+        "1000MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
+    },
+    {
       "drug": "DASATINIB",
       "doses": [
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "DAUNORUBICIN HYDROCHLORIDE INJECTION",
@@ -966,7 +942,7 @@
         "100MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-02-10T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
       "drug": "DETROL",
@@ -1006,9 +982,9 @@
     {
       "drug": "DEXTROAMPHETAMINE SR",
       "doses": [
-        "10MG"
+        "15MG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-10T04:00:00.000Z"
     },
     {
       "drug": "DICLO SR",
@@ -1071,7 +1047,7 @@
         "10MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-02-17T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "DORZO-TIMOP",
@@ -1100,7 +1076,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "DULOXETINE",
@@ -1123,15 +1099,14 @@
       "doses": [
         "0.5MG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
     },
     {
       "drug": "EDOXABAN",
       "doses": [
-        "30MG",
-        "60MG"
+        "30MG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
     },
     {
       "drug": "EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE",
@@ -1149,14 +1124,6 @@
         "40MG"
       ],
       "expectedBackInStockDate": "2026-01-30T05:00:00.000Z"
-    },
-    {
-      "drug": "EMTRICITABINE/TENOFOVIR",
-      "doses": [
-        "200MG",
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-01-31T05:00:00.000Z"
     },
     {
       "drug": "ENDOMETRIN",
@@ -1177,7 +1144,7 @@
       "doses": [
         "200MG"
       ],
-      "expectedBackInStockDate": "2026-05-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
     },
     {
       "drug": "ENTECAVIR",
@@ -1301,7 +1268,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-05-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
     },
     {
       "drug": "FLECAINIDE",
@@ -1771,12 +1738,10 @@
       "drug": "METHYLPHENIDATE CR",
       "doses": [
         "10MG",
-        "20MG",
-        "30MG",
         "60MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-03-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-28T04:00:00.000Z"
     },
     {
       "drug": "METOPROLOL-L",
@@ -1785,13 +1750,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    },
-    {
-      "drug": "MEXILETINE",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-10-20T04:00:00.000Z"
     },
     {
       "drug": "MIDAZOLAM INJECTION",
@@ -1806,6 +1764,14 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+    },
+    {
+      "drug": "MIRAPEX",
+      "doses": [
+        "0.125MG",
+        "0.25MG"
+      ],
+      "expectedBackInStockDate": "2026-06-02T04:00:00.000Z"
     },
     {
       "drug": "MIRTAZAPINE",
@@ -1930,13 +1896,6 @@
       "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
     },
     {
-      "drug": "NARATRIPTAN",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-    },
-    {
       "drug": "NAROPIN",
       "doses": [
         "10MG"
@@ -1949,13 +1908,6 @@
         "0.3MG"
       ],
       "expectedBackInStockDate": "2026-05-12T04:00:00.000Z"
-    },
-    {
-      "drug": "NOVAMOXIN",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-02-20T05:00:00.000Z"
     },
     {
       "drug": "NXSTAGE PUREFLOW SOLUTION RFP-204-CAN",
@@ -2007,7 +1959,7 @@
         "2.5MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-02-28T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
     },
     {
       "drug": "OLANZAPINE ODT",
@@ -2115,7 +2067,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-10T04:00:00.000Z"
     },
     {
       "drug": "PANTOPRAZOLE T",
@@ -2156,19 +2108,10 @@
     {
       "drug": "PERINDOPRIL/INDAPAMIDE",
       "doses": [
-        "1.25MG",
         "2.5MG",
-        "4MG",
         "8MG"
       ],
       "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-    },
-    {
-      "drug": "POSACONAZOLE",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
       "drug": "PRAMIPEXOLE",
@@ -2199,7 +2142,7 @@
         "50MG",
         "75MG"
       ],
-      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "PREGNANCY MULTIVITAMIN",
@@ -2524,7 +2467,7 @@
         "50MG",
         "850MG"
       ],
-      "expectedBackInStockDate": "2026-06-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
     },
     {
       "drug": "SODIUM BICARBONATE INJECTION, USP",
@@ -2560,7 +2503,7 @@
         "100MG",
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "STRAMUCIN",
@@ -2583,7 +2526,7 @@
         "40MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-02-10T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
     },
     {
       "drug": "TECNAL C 1/2",
@@ -2594,6 +2537,14 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-06-10T04:00:00.000Z"
+    },
+    {
+      "drug": "TELMISARTAN HCTZ",
+      "doses": [
+        "12.5MG",
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-10-20T04:00:00.000Z"
     },
     {
       "drug": "TEMOZOLOMIDE",
@@ -2703,7 +2654,7 @@
         "325MG",
         "37.5MG"
       ],
-      "expectedBackInStockDate": "2026-05-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
     },
     {
       "drug": "TRANDOLAPRIL",
@@ -2743,6 +2694,16 @@
         "0.25MG"
       ],
       "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+    },
+    {
+      "drug": "TRI-JORDYNA 28",
+      "doses": [
+        "0.035MG",
+        "0.18MG",
+        "0.215MG",
+        "0.25MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
@@ -2808,13 +2769,6 @@
         "250MG"
       ],
       "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-    },
-    {
-      "drug": "VALSARTAN",
-      "doses": [
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2026-02-10T05:00:00.000Z"
     },
     {
       "drug": "VALSARTAN HCT",
