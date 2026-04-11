@@ -1,51 +1,30 @@
 {
-  "refreshedAt": "2026-04-10T09:03:04.315Z",
-  "count": 586,
-  "addedDrugsCount": 5,
+  "refreshedAt": "2026-04-11T08:36:53.992Z",
+  "count": 583,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "CANAGLIFLOZIN",
+      "drug": "MEZAVANT",
       "doses": [
-        "300MG"
+        "1.2G"
       ],
-      "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
-    },
-    {
-      "drug": "DAPAGLIFLOZIN / METFORMIN",
-      "doses": [
-        "1000MG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
-    },
-    {
-      "drug": "MIRAPEX",
-      "doses": [
-        "0.125MG",
-        "0.25MG"
-      ],
-      "expectedBackInStockDate": "2026-06-02T04:00:00.000Z"
-    },
-    {
-      "drug": "TELMISARTAN HCTZ",
-      "doses": [
-        "12.5MG",
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2026-10-20T04:00:00.000Z"
-    },
-    {
-      "drug": "TRI-JORDYNA 28",
-      "doses": [
-        "0.035MG",
-        "0.18MG",
-        "0.215MG",
-        "0.25MG"
-      ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-21T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-11T08:36:53.992Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "MEZAVANT",
+          "doses": [
+            "1.2G"
+          ],
+          "expectedBackInStockDate": "2026-04-21T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-10T09:03:04.315Z",
       "addedDrugsCount": 5,
@@ -288,27 +267,6 @@
       "refreshedAt": "2026-03-29T08:34:35.895Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-03-28T08:33:40.900Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "ENGERIX-B",
-          "doses": [
-            "10MCG"
-          ],
-          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-        },
-        {
-          "drug": "JALYN",
-          "doses": [
-            "0.4MG",
-            "0.5MG"
-          ],
-          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
