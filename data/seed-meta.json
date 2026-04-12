@@ -1,17 +1,14 @@
 {
-  "refreshedAt": "2026-04-11T08:36:53.992Z",
+  "refreshedAt": "2026-04-12T08:41:05.318Z",
   "count": 583,
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "MEZAVANT",
-      "doses": [
-        "1.2G"
-      ],
-      "expectedBackInStockDate": "2026-04-21T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-12T08:41:05.318Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-04-11T08:36:53.992Z",
       "addedDrugsCount": 1,
@@ -260,11 +257,6 @@
     },
     {
       "refreshedAt": "2026-03-30T09:06:21.173Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-03-29T08:34:35.895Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
