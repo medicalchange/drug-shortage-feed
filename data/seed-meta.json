@@ -1,9 +1,60 @@
 {
-  "refreshedAt": "2026-04-13T09:50:07.164Z",
-  "count": 583,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-04-14T09:12:30.279Z",
+  "count": 569,
+  "addedDrugsCount": 3,
+  "addedDrugs": [
+    {
+      "drug": "ACETYLCYSTEINE SOLUTION",
+      "doses": [
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+    },
+    {
+      "drug": "CANDESARTAN PLUS",
+      "doses": [
+        "12.5MG",
+        "32MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+    },
+    {
+      "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJECTION, USP",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-09-14T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-14T09:12:30.279Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "ACETYLCYSTEINE SOLUTION",
+          "doses": [
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        },
+        {
+          "drug": "CANDESARTAN PLUS",
+          "doses": [
+            "12.5MG",
+            "32MG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        },
+        {
+          "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJECTION, USP",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-09-14T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-13T09:50:07.164Z",
       "addedDrugsCount": 0,
@@ -238,27 +289,6 @@
       "refreshedAt": "2026-04-01T08:58:08.028Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-03-31T08:52:18.840Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CANDESARTAN PLUS",
-          "doses": [
-            "12.5MG",
-            "16MG"
-          ],
-          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-        },
-        {
-          "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION USP",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
