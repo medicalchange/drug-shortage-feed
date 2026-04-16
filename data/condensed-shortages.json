@@ -1,33 +1,75 @@
 {
-  "count": 326,
-  "refreshedAt": "2026-04-14T09:12:30.279Z",
+  "count": 316,
+  "refreshedAt": "2026-04-16T09:13:40.629Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 3,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "ACETYLCYSTEINE SOLUTION",
+      "drug": "ISOPROTERENOL HYDROCHLORIDE INJECTION USP",
       "doses": [
-        "200MG"
+        "0.2MG"
+      ],
+      "expectedBackInStockDate": "2026-09-28T04:00:00.000Z"
+    },
+    {
+      "drug": "LISDEXAMFETAMINE CAPSULES",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+    },
+    {
+      "drug": "SAXAGLIPTIN",
+      "doses": [
+        "2.5MG",
+        "5MG"
       ],
       "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
-      "drug": "CANDESARTAN PLUS",
+      "drug": "XCOPRI",
       "doses": [
-        "12.5MG",
-        "32MG"
+        "50MG"
       ],
       "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-    },
-    {
-      "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJECTION, USP",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-09-14T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-16T09:13:40.629Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "ISOPROTERENOL HYDROCHLORIDE INJECTION USP",
+          "doses": [
+            "0.2MG"
+          ],
+          "expectedBackInStockDate": "2026-09-28T04:00:00.000Z"
+        },
+        {
+          "drug": "LISDEXAMFETAMINE CAPSULES",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+        },
+        {
+          "drug": "SAXAGLIPTIN",
+          "doses": [
+            "2.5MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        },
+        {
+          "drug": "XCOPRI",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-14T09:12:30.279Z",
       "addedDrugsCount": 3,
@@ -285,11 +327,6 @@
       "refreshedAt": "2026-04-02T08:50:39.565Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-04-01T08:58:08.028Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -444,19 +481,12 @@
       "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
-      "drug": "AMLODIPINE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-    },
-    {
       "drug": "AMOXI CLAV",
       "doses": [
         "125MG",
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-03-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "AMOXI CLAV SUSPENSION",
@@ -477,7 +507,7 @@
         "30MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
     },
     {
       "drug": "AMPICILLIN SODIUM FOR INJECTION, USP",
@@ -742,13 +772,6 @@
       "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
-      "drug": "CEFAZOLIN FOR INJECTION USP",
-      "doses": [
-        "10G"
-      ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-    },
-    {
       "drug": "CEFIXIME",
       "doses": [
         "100MG"
@@ -765,7 +788,8 @@
     {
       "drug": "CEFTRIAXONE SODIUM FOR INJECTION BP",
       "doses": [
-        "10G"
+        "10G",
+        "2G"
       ],
       "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
     },
@@ -777,13 +801,6 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-    },
-    {
-      "drug": "CHOLESTYRAMINE-ODAN",
-      "doses": [
-        "4G"
-      ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
     },
     {
       "drug": "CICLOPIROX",
@@ -886,14 +903,6 @@
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
-      "drug": "DAPAGLIFLOZIN / METFORMIN",
-      "doses": [
-        "1000MG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
-    },
-    {
       "drug": "DASATINIB",
       "doses": [
         "80MG"
@@ -957,13 +966,6 @@
         "4MG"
       ],
       "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-    },
-    {
-      "drug": "DEXTROAMPHETAMINE",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
     },
     {
       "drug": "DEXTROAMPHETAMINE SR",
@@ -1103,13 +1105,6 @@
       "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
     },
     {
-      "drug": "ENGERIX-B",
-      "doses": [
-        "10MCG"
-      ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-    },
-    {
       "drug": "ENTACAPONE",
       "doses": [
         "200MG"
@@ -1160,7 +1155,7 @@
         "20MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
     },
     {
       "drug": "ESOMEPRAZOLE DR",
@@ -1300,13 +1295,6 @@
       "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
-      "drug": "GLYCOPYRROLATE INJECTION USP",
-      "doses": [
-        "0.2MG"
-      ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
-    },
-    {
       "drug": "HALOETTE",
       "doses": [
         "11.7MG",
@@ -1409,33 +1397,32 @@
       "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
     },
     {
-      "drug": "JALYN",
+      "drug": "ISOPROTERENOL HYDROCHLORIDE INJECTION USP",
       "doses": [
-        "0.4MG",
-        "0.5MG"
+        "0.2MG"
       ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-28T04:00:00.000Z"
     },
     {
       "drug": "KENALOG-10 INJECTION",
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
     },
     {
       "drug": "KENALOG-40 INJECTION",
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
     },
     {
       "drug": "KETOROLAC",
       "doses": [
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-06-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
       "drug": "KIT FOR THE PREPARATION OF TECHNETIUM (99MTC) PYROPHOSPHATE INJECTION",
@@ -1516,7 +1503,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "LEVETIRACETAM",
@@ -1561,19 +1548,19 @@
       "expectedBackInStockDate": "2026-01-16T05:00:00.000Z"
     },
     {
-      "drug": "LIDOCAINE HYDROCHLORIDE INJECTION USP",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
-    },
-    {
       "drug": "LIDOCAINE INJECTION BP",
       "doses": [
         "1%",
         "2%"
       ],
       "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+    },
+    {
+      "drug": "LISDEXAMFETAMINE CAPSULES",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
       "drug": "LISINOPRIL",
@@ -1984,7 +1971,7 @@
       "doses": [
         "75MG"
       ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
       "drug": "OVIDREL",
@@ -1999,7 +1986,7 @@
         "325MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
     },
     {
       "drug": "OXYCODONE/ACET",
@@ -2066,13 +2053,6 @@
         "0.000060M"
       ],
       "expectedBackInStockDate": "2026-02-15T05:00:00.000Z"
-    },
-    {
-      "drug": "PREDNISOLONE",
-      "doses": [
-        "1%"
-      ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
     },
     {
       "drug": "PREGABALIN",
@@ -2244,7 +2224,7 @@
         "1MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "RILUZOLE",
@@ -2263,6 +2243,7 @@
     {
       "drug": "RISEDRONATE",
       "doses": [
+        "150MG",
         "35MG",
         "5MG"
       ],
@@ -2329,6 +2310,14 @@
         "1MG"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
+      "drug": "SAXAGLIPTIN",
+      "doses": [
+        "2.5MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "SEASONALE",
@@ -2543,7 +2532,7 @@
         "1MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "TOLTERODINE LA",
@@ -2607,16 +2596,6 @@
         "0.25MG"
       ],
       "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-    },
-    {
-      "drug": "TRI-JORDYNA 28",
-      "doses": [
-        "0.035MG",
-        "0.18MG",
-        "0.215MG",
-        "0.25MG"
-      ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
@@ -2692,13 +2671,6 @@
       "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
-      "drug": "VALTREX",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
-    },
-    {
       "drug": "VANCOMYCIN HYDROCHLORIDE FOR INJECTION USP",
       "doses": [
         "1G",
@@ -2757,13 +2729,6 @@
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
-      "drug": "VORICONAZOLE FOR INJECTION",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-    },
-    {
       "drug": "WARFARIN",
       "doses": [
         "1MG"
@@ -2771,11 +2736,11 @@
       "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
-      "drug": "YF-VAX",
+      "drug": "XCOPRI",
       "doses": [
-        "109648PFU"
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-04-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "ZOLMITRIPTAN",
@@ -2796,7 +2761,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "ZYMAR",
