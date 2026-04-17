@@ -1,39 +1,118 @@
 {
-  "refreshedAt": "2026-04-16T09:13:40.629Z",
-  "count": 561,
-  "addedDrugsCount": 4,
+  "refreshedAt": "2026-04-17T09:11:20.865Z",
+  "count": 560,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "ISOPROTERENOL HYDROCHLORIDE INJECTION USP",
+      "drug": "ALLOPURINOL TABLETS",
       "doses": [
-        "0.2MG"
+        "200MG"
       ],
-      "expectedBackInStockDate": "2026-09-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
     },
     {
-      "drug": "LISDEXAMFETAMINE CAPSULES",
+      "drug": "APRI 28",
       "doses": [
-        "10MG"
+        "0.03MG",
+        "0.15MG"
+      ],
+      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
+    },
+    {
+      "drug": "DABIGATRAN",
+      "doses": [
+        "110MG"
       ],
       "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
-      "drug": "SAXAGLIPTIN",
+      "drug": "HYDROMORPHONE",
       "doses": [
-        "2.5MG",
-        "5MG"
+        "8MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
     },
     {
-      "drug": "XCOPRI",
+      "drug": "LENOLTEC NO. 2",
+      "doses": [
+        "15MG",
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-05-10T04:00:00.000Z"
+    },
+    {
+      "drug": "PHENYTOIN SODIUM INJECTION USP",
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
+    },
+    {
+      "drug": "TECTA",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-17T09:11:20.865Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "ALLOPURINOL TABLETS",
+          "doses": [
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+        },
+        {
+          "drug": "APRI 28",
+          "doses": [
+            "0.03MG",
+            "0.15MG"
+          ],
+          "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
+        },
+        {
+          "drug": "DABIGATRAN",
+          "doses": [
+            "110MG"
+          ],
+          "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+        },
+        {
+          "drug": "HYDROMORPHONE",
+          "doses": [
+            "8MG"
+          ],
+          "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+        },
+        {
+          "drug": "LENOLTEC NO. 2",
+          "doses": [
+            "15MG",
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-05-10T04:00:00.000Z"
+        },
+        {
+          "drug": "PHENYTOIN SODIUM INJECTION USP",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
+        },
+        {
+          "drug": "TECTA",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-16T09:13:40.629Z",
       "addedDrugsCount": 4,
@@ -321,11 +400,6 @@
           "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-04-02T08:50:39.565Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
