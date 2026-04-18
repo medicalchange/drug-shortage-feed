@@ -1,5 +1,145 @@
 [
   {
+    "id": "shortage:283172",
+    "reportId": 283172,
+    "type": "shortage",
+    "brandName": "APO-NAPROXEN EC TABLETS",
+    "status": "active_confirmed",
+    "din": "02246699",
+    "strength": "250MG",
+    "expectedBackInStockDate": "2026-04-24T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-18T02:34:08.000Z",
+    "updateDate": "2026-04-18T02:34:08.000Z",
+    "postedDate": "2026-04-18T02:33:56.000Z"
+  },
+  {
+    "id": "shortage:280271",
+    "reportId": 280271,
+    "type": "shortage",
+    "brandName": "APO-ATOMOXETINE",
+    "status": "active_confirmed",
+    "din": "02318059",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-04-17T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-18T02:08:21.000Z",
+    "updateDate": "2026-04-18T02:08:21.000Z",
+    "postedDate": "2026-03-11T20:46:08.000Z"
+  },
+  {
+    "id": "shortage:280268",
+    "reportId": 280268,
+    "type": "shortage",
+    "brandName": "APO-ATOMOXETINE",
+    "status": "active_confirmed",
+    "din": "02318059",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-04-17T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-18T02:08:07.000Z",
+    "updateDate": "2026-04-18T02:08:07.000Z",
+    "postedDate": "2026-03-11T20:45:23.000Z"
+  },
+  {
+    "id": "shortage:271370",
+    "reportId": 271370,
+    "type": "shortage",
+    "brandName": "ZYMAR",
+    "status": "active_confirmed",
+    "din": "02257270",
+    "strength": "0.3%",
+    "expectedBackInStockDate": "2026-05-29T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-17T23:32:57.000Z",
+    "updateDate": "2026-04-17T23:32:57.000Z",
+    "postedDate": "2025-11-10T19:58:18.000Z"
+  },
+  {
+    "id": "shortage:265046",
+    "reportId": 265046,
+    "type": "shortage",
+    "brandName": "OCUFLOX",
+    "status": "active_confirmed",
+    "din": "02143291",
+    "strength": "0.3%",
+    "expectedBackInStockDate": "2026-07-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-17T23:31:37.000Z",
+    "updateDate": "2026-04-17T23:31:37.000Z",
+    "postedDate": "2025-08-12T21:18:42.000Z"
+  },
+  {
+    "id": "shortage:273126",
+    "reportId": 273126,
+    "type": "shortage",
+    "brandName": "IFEX",
+    "status": "active_confirmed",
+    "din": "02241357",
+    "strength": "1G",
+    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-17T23:02:04.000Z",
+    "updateDate": "2026-04-17T23:02:04.000Z",
+    "postedDate": "2025-12-03T21:58:18.000Z"
+  },
+  {
+    "id": "shortage:273129",
+    "reportId": 273129,
+    "type": "shortage",
+    "brandName": "IFEX",
+    "status": "active_confirmed",
+    "din": "02241356",
+    "strength": "3G",
+    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-17T23:01:40.000Z",
+    "updateDate": "2026-04-17T23:01:40.000Z",
+    "postedDate": "2025-12-03T22:00:08.000Z"
+  },
+  {
+    "id": "shortage:279263",
+    "reportId": 279263,
+    "type": "shortage",
+    "brandName": "ESTRADOT 100",
+    "status": "active_confirmed",
+    "din": "02244002",
+    "strength": "100MCG",
+    "expectedBackInStockDate": "2026-04-24T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-17T22:07:19.000Z",
+    "updateDate": "2026-04-17T22:07:19.000Z",
+    "postedDate": "2026-03-02T19:37:44.000Z"
+  },
+  {
+    "id": "shortage:281626",
+    "reportId": 281626,
+    "type": "shortage",
+    "brandName": "ANAFRANIL",
+    "status": "active_confirmed",
+    "din": "00324019",
+    "strength": "25MG",
+    "expectedBackInStockDate": "2026-04-24T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-17T17:44:36.000Z",
+    "updateDate": "2026-04-17T17:44:36.000Z",
+    "postedDate": "2026-03-26T23:17:46.000Z"
+  },
+  {
+    "id": "shortage:281617",
+    "reportId": 281617,
+    "type": "shortage",
+    "brandName": "APO-FLUCONAZOLE",
+    "status": "active_confirmed",
+    "din": "02237370",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-17T17:43:35.000Z",
+    "updateDate": "2026-04-17T17:43:35.000Z",
+    "postedDate": "2026-03-26T23:15:00.000Z"
+  },
+  {
     "id": "shortage:283128",
     "reportId": 283128,
     "type": "shortage",
@@ -1400,20 +1540,6 @@
     "postedDate": "2026-04-11T04:50:28.000Z"
   },
   {
-    "id": "shortage:281623",
-    "reportId": 281623,
-    "type": "shortage",
-    "brandName": "ALYSENA 21",
-    "status": "active_confirmed",
-    "din": "02387875",
-    "strength": "20MCG\r\n100MCG",
-    "expectedBackInStockDate": "2026-04-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-10T19:21:18.000Z",
-    "updateDate": "2026-04-10T19:21:18.000Z",
-    "postedDate": "2026-03-26T23:16:50.000Z"
-  },
-  {
     "id": "shortage:273867",
     "reportId": 273867,
     "type": "shortage",
@@ -1790,20 +1916,6 @@
     "updatedDate": "2026-04-09T00:14:51.000Z",
     "updateDate": "2026-04-09T00:14:51.000Z",
     "postedDate": "2026-04-09T00:14:41.000Z"
-  },
-  {
-    "id": "shortage:281626",
-    "reportId": 281626,
-    "type": "shortage",
-    "brandName": "ANAFRANIL",
-    "status": "active_confirmed",
-    "din": "00324019",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-04-17T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-09T00:05:04.000Z",
-    "updateDate": "2026-04-09T00:05:04.000Z",
-    "postedDate": "2026-03-26T23:17:46.000Z"
   },
   {
     "id": "shortage:269320",
@@ -3444,20 +3556,6 @@
     "postedDate": "2025-07-08T21:52:04.000Z"
   },
   {
-    "id": "shortage:281617",
-    "reportId": 281617,
-    "type": "shortage",
-    "brandName": "APO-FLUCONAZOLE",
-    "status": "active_confirmed",
-    "din": "02237370",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-04-17T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-26T23:15:13.000Z",
-    "updateDate": "2026-03-26T23:15:13.000Z",
-    "postedDate": "2026-03-26T23:15:00.000Z"
-  },
-  {
     "id": "shortage:269332",
     "reportId": 269332,
     "type": "shortage",
@@ -3820,20 +3918,6 @@
     "updatedDate": "2026-03-26T02:30:18.000Z",
     "updateDate": "2026-03-26T02:30:18.000Z",
     "postedDate": "2026-03-26T02:30:01.000Z"
-  },
-  {
-    "id": "shortage:271038",
-    "reportId": 271038,
-    "type": "shortage",
-    "brandName": "DAUNORUBICIN HYDROCHLORIDE INJECTION",
-    "status": "active_confirmed",
-    "din": "02539209",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-03-23T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-25T22:52:00.000Z",
-    "updateDate": "2026-03-25T22:52:00.000Z",
-    "postedDate": "2025-11-04T19:12:40.000Z"
   },
   {
     "id": "shortage:275184",
@@ -4564,20 +4648,6 @@
     "postedDate": "2025-10-03T18:02:08.000Z"
   },
   {
-    "id": "shortage:279263",
-    "reportId": 279263,
-    "type": "shortage",
-    "brandName": "ESTRADOT 100",
-    "status": "active_confirmed",
-    "din": "02244002",
-    "strength": "100MCG",
-    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-16T17:50:50.000Z",
-    "updateDate": "2026-03-16T17:50:50.000Z",
-    "postedDate": "2026-03-02T19:37:44.000Z"
-  },
-  {
     "id": "shortage:271411",
     "reportId": 271411,
     "type": "shortage",
@@ -4716,34 +4786,6 @@
     "updatedDate": "2026-03-11T20:50:03.000Z",
     "updateDate": "2026-03-11T20:50:03.000Z",
     "postedDate": "2026-03-11T20:49:54.000Z"
-  },
-  {
-    "id": "shortage:280271",
-    "reportId": 280271,
-    "type": "shortage",
-    "brandName": "APO-ATOMOXETINE",
-    "status": "active_confirmed",
-    "din": "02318059",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-04-17T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-11T20:46:15.000Z",
-    "updateDate": "2026-03-11T20:46:15.000Z",
-    "postedDate": "2026-03-11T20:46:08.000Z"
-  },
-  {
-    "id": "shortage:280268",
-    "reportId": 280268,
-    "type": "shortage",
-    "brandName": "APO-ATOMOXETINE",
-    "status": "active_confirmed",
-    "din": "02318059",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-04-17T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-11T20:45:32.000Z",
-    "updateDate": "2026-03-11T20:45:32.000Z",
-    "postedDate": "2026-03-11T20:45:23.000Z"
   },
   {
     "id": "shortage:271937",
@@ -5586,20 +5628,6 @@
     "postedDate": "2026-02-06T02:14:12.000Z"
   },
   {
-    "id": "shortage:276970",
-    "reportId": 276970,
-    "type": "shortage",
-    "brandName": "APO-ATOMOXETINE",
-    "status": "active_confirmed",
-    "din": "02318040",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-27T02:44:12.000Z",
-    "updateDate": "2026-02-27T02:44:12.000Z",
-    "postedDate": "2026-01-30T01:30:32.000Z"
-  },
-  {
     "id": "shortage:275874",
     "reportId": 275874,
     "type": "shortage",
@@ -5724,20 +5752,6 @@
     "updatedDate": "2026-02-20T18:40:27.000Z",
     "updateDate": "2026-02-20T18:40:27.000Z",
     "postedDate": "2023-07-04T23:32:14.000Z"
-  },
-  {
-    "id": "shortage:265046",
-    "reportId": 265046,
-    "type": "shortage",
-    "brandName": "OCUFLOX",
-    "status": "active_confirmed",
-    "din": "02143291",
-    "strength": "0.3%",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-20T01:40:46.000Z",
-    "updateDate": "2026-02-20T01:40:46.000Z",
-    "postedDate": "2025-08-12T21:18:42.000Z"
   },
   {
     "id": "shortage:278442",
@@ -6244,20 +6258,6 @@
     "postedDate": "2023-08-15T19:37:21.000Z"
   },
   {
-    "id": "shortage:271370",
-    "reportId": 271370,
-    "type": "shortage",
-    "brandName": "ZYMAR",
-    "status": "active_confirmed",
-    "din": "02257270",
-    "strength": "0.3%",
-    "expectedBackInStockDate": "2026-05-29T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-22T02:44:54.000Z",
-    "updateDate": "2026-01-22T02:44:54.000Z",
-    "postedDate": "2025-11-10T19:58:18.000Z"
-  },
-  {
     "id": "shortage:265247",
     "reportId": 265247,
     "type": "shortage",
@@ -6270,34 +6270,6 @@
     "updatedDate": "2026-01-22T01:19:39.000Z",
     "updateDate": "2026-01-22T01:19:39.000Z",
     "postedDate": "2025-08-14T18:58:14.000Z"
-  },
-  {
-    "id": "shortage:273126",
-    "reportId": 273126,
-    "type": "shortage",
-    "brandName": "IFEX",
-    "status": "active_confirmed",
-    "din": "02241357",
-    "strength": "1G",
-    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-20T01:25:24.000Z",
-    "updateDate": "2026-01-20T01:25:24.000Z",
-    "postedDate": "2025-12-03T21:58:18.000Z"
-  },
-  {
-    "id": "shortage:273129",
-    "reportId": 273129,
-    "type": "shortage",
-    "brandName": "IFEX",
-    "status": "active_confirmed",
-    "din": "02241356",
-    "strength": "3G",
-    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-20T01:24:42.000Z",
-    "updateDate": "2026-01-20T01:24:42.000Z",
-    "postedDate": "2025-12-03T22:00:08.000Z"
   },
   {
     "id": "shortage:276273",

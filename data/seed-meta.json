@@ -1,61 +1,30 @@
 {
-  "refreshedAt": "2026-04-17T09:11:20.865Z",
-  "count": 560,
-  "addedDrugsCount": 7,
+  "refreshedAt": "2026-04-18T08:42:14.056Z",
+  "count": 558,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "ALLOPURINOL TABLETS",
+      "drug": "NAPROXEN EC TABLETS",
       "doses": [
-        "200MG"
+        "250MG"
       ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-    },
-    {
-      "drug": "APRI 28",
-      "doses": [
-        "0.03MG",
-        "0.15MG"
-      ],
-      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
-    },
-    {
-      "drug": "DABIGATRAN",
-      "doses": [
-        "110MG"
-      ],
-      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
-    },
-    {
-      "drug": "HYDROMORPHONE",
-      "doses": [
-        "8MG"
-      ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-    },
-    {
-      "drug": "LENOLTEC NO. 2",
-      "doses": [
-        "15MG",
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-05-10T04:00:00.000Z"
-    },
-    {
-      "drug": "PHENYTOIN SODIUM INJECTION USP",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
-    },
-    {
-      "drug": "TECTA",
-      "doses": [
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-18T08:42:14.056Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "NAPROXEN EC TABLETS",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-17T09:11:20.865Z",
       "addedDrugsCount": 7,
@@ -344,62 +313,6 @@
       "refreshedAt": "2026-04-04T08:35:37.264Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-04-03T08:45:44.151Z",
-      "addedDrugsCount": 7,
-      "addedDrugs": [
-        {
-          "drug": "COVERSYL",
-          "doses": [
-            "4MG"
-          ],
-          "expectedBackInStockDate": "2026-04-23T04:00:00.000Z"
-        },
-        {
-          "drug": "LABETALOL",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
-        },
-        {
-          "drug": "LAMIVUDINE HBV",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-        },
-        {
-          "drug": "LUPIN-PROPRANOLOL LA",
-          "doses": [
-            "60MG",
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
-        },
-        {
-          "drug": "MEXILETINE",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-10-20T04:00:00.000Z"
-        },
-        {
-          "drug": "MODAFINIL",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
-        },
-        {
-          "drug": "NABILONE",
-          "doses": [
-            "1.0MG"
-          ],
-          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
