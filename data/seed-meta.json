@@ -1,17 +1,14 @@
 {
-  "refreshedAt": "2026-04-18T08:42:14.056Z",
+  "refreshedAt": "2026-04-19T08:46:24.971Z",
   "count": 558,
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "NAPROXEN EC TABLETS",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-19T08:46:24.971Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-04-18T08:42:14.056Z",
       "addedDrugsCount": 1,
@@ -306,11 +303,6 @@
     },
     {
       "refreshedAt": "2026-04-05T08:37:25.231Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-04-04T08:35:37.264Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
