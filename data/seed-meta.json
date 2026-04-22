@@ -1,45 +1,30 @@
 {
-  "refreshedAt": "2026-04-21T09:20:31.445Z",
-  "count": 563,
-  "addedDrugsCount": 5,
+  "refreshedAt": "2026-04-22T09:15:01.179Z",
+  "count": 539,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "ANDROGEL",
+      "drug": "PROLEUKIN",
       "doses": [
-        "1%"
+        "22000000UNIT"
       ],
-      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
-    },
-    {
-      "drug": "DILANTIN",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
-    },
-    {
-      "drug": "ESTRADOT 25",
-      "doses": [
-        "25MCG"
-      ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-    },
-    {
-      "drug": "ESTRADOT 75",
-      "doses": [
-        "75MCG"
-      ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-    },
-    {
-      "drug": "NIFEDIPINE EXTENDED RELEASE",
-      "doses": [
-        "30MG"
-      ],
-      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-22T09:15:01.179Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "PROLEUKIN",
+          "doses": [
+            "22000000UNIT"
+          ],
+          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-21T09:20:31.445Z",
       "addedDrugsCount": 5,
@@ -355,26 +340,6 @@
             "50MG"
           ],
           "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-04-07T08:56:48.207Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "OSELTAMIVIR",
-          "doses": [
-            "75MG"
-          ],
-          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-        },
-        {
-          "drug": "RIMSO-50",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
         }
       ]
     }
