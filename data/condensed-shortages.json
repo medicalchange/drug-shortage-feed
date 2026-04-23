@@ -1,18 +1,93 @@
 {
-  "count": 309,
-  "refreshedAt": "2026-04-22T09:15:01.179Z",
+  "count": 313,
+  "refreshedAt": "2026-04-23T09:22:26.421Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "PROLEUKIN",
+      "drug": "BRIMONIDINE",
       "doses": [
-        "22000000UNIT"
+        "0.2%"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
+      "drug": "CEFADROXIL",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+    },
+    {
+      "drug": "CHLORAPREP",
+      "doses": [
+        "2%",
+        "70%"
+      ],
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+    },
+    {
+      "drug": "DONEPEZIL TABLETS",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
+      "drug": "VAXNEUVANCE",
+      "doses": [
+        "2MCG",
+        "30MCG",
+        "4MCG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-23T09:22:26.421Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "BRIMONIDINE",
+          "doses": [
+            "0.2%"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "CEFADROXIL",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+        },
+        {
+          "drug": "CHLORAPREP",
+          "doses": [
+            "2%",
+            "70%"
+          ],
+          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+        },
+        {
+          "drug": "DONEPEZIL TABLETS",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "VAXNEUVANCE",
+          "doses": [
+            "2MCG",
+            "30MCG",
+            "4MCG"
+          ],
+          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-22T09:15:01.179Z",
       "addedDrugsCount": 1,
@@ -307,42 +382,6 @@
           "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-04-08T08:55:30.445Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "CEFTRIAXONE SODIUM FOR INJECTION BP",
-          "doses": [
-            "10G"
-          ],
-          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-        },
-        {
-          "drug": "ESTRADIOL DERM 100",
-          "doses": [
-            "100MCG"
-          ],
-          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-        },
-        {
-          "drug": "IRBESARTAN HCT",
-          "doses": [
-            "12.5MG",
-            "150MG"
-          ],
-          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-        },
-        {
-          "drug": "SITAGLIPTIN HYDROCHLORIDE / METFORMIN",
-          "doses": [
-            "1000MG",
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -352,7 +391,7 @@
         "325MG",
         "37.5MG"
       ],
-      "expectedBackInStockDate": "2026-04-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "ACETAMINOPHEN CHEWABLE TABLETS 80 MG FOR CHILDREN",
@@ -567,7 +606,7 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "ATOMOXETINE",
@@ -595,14 +634,14 @@
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-03-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
       "drug": "BENAZEPRIL",
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
       "drug": "BETAHISTINE",
@@ -682,6 +721,13 @@
       "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
+      "drug": "BRIMONIDINE",
+      "doses": [
+        "0.2%"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
       "drug": "BRIMONIDINE P",
       "doses": [
         "0.15%"
@@ -702,7 +748,7 @@
         "0.2%",
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-05-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "BRIVARACETAM",
@@ -755,7 +801,7 @@
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "CARBAMAZEPINE",
@@ -763,6 +809,13 @@
         "100MG"
       ],
       "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+    },
+    {
+      "drug": "CEFADROXIL",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
       "drug": "CEFIXIME",
@@ -784,6 +837,14 @@
         "125MG",
         "250MG",
         "500MG"
+      ],
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+    },
+    {
+      "drug": "CHLORAPREP",
+      "doses": [
+        "2%",
+        "70%"
       ],
       "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
@@ -855,8 +916,7 @@
     {
       "drug": "CODEINE",
       "doses": [
-        "15MG",
-        "30MG"
+        "15MG"
       ],
       "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
     },
@@ -992,7 +1052,8 @@
     {
       "drug": "DILTIAZEM CD",
       "doses": [
-        "120MG"
+        "120MG",
+        "300MG"
       ],
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
@@ -1020,6 +1081,13 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "drug": "DONEPEZIL TABLETS",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "DORZO-TIMOP",
@@ -1300,13 +1368,6 @@
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
-      "drug": "HYDROCORTISONE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-    },
-    {
       "drug": "HYDROMORPHONE",
       "doses": [
         "8MG"
@@ -1539,7 +1600,7 @@
         "1%",
         "2%"
       ],
-      "expectedBackInStockDate": "2026-03-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
       "drug": "LISDEXAMFETAMINE CAPSULES",
@@ -1579,7 +1640,7 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
       "drug": "LOSARTAN HCT",
@@ -1970,7 +2031,7 @@
         "325MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-04-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
     },
     {
       "drug": "OXYCODONE/ACET",
@@ -2646,6 +2707,15 @@
         "20UNIT"
       ],
       "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
+    },
+    {
+      "drug": "VAXNEUVANCE",
+      "doses": [
+        "2MCG",
+        "30MCG",
+        "4MCG"
+      ],
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "VENLAFAXINE XR",
