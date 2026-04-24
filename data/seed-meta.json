@@ -1,48 +1,160 @@
 {
-  "refreshedAt": "2026-04-23T09:22:26.421Z",
-  "count": 541,
-  "addedDrugsCount": 5,
+  "refreshedAt": "2026-04-24T09:26:34.584Z",
+  "count": 547,
+  "addedDrugsCount": 10,
   "addedDrugs": [
     {
-      "drug": "BRIMONIDINE",
+      "drug": "BUPROPION XL",
       "doses": [
-        "0.2%"
+        "150MG",
+        "300MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
     },
     {
-      "drug": "CEFADROXIL",
+      "drug": "DROSPIRENONE AND ETHINYL ESTRADIOL TABLETS USP 28",
       "doses": [
-        "500MG"
+        "0.03MG",
+        "3MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
-      "drug": "CHLORAPREP",
+      "drug": "EDOXABAN",
       "doses": [
-        "2%",
-        "70%"
+        "30MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     },
     {
-      "drug": "DONEPEZIL TABLETS",
+      "drug": "LORAZEPAM",
       "doses": [
-        "5MG"
+        "0.5MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
-      "drug": "VAXNEUVANCE",
+      "drug": "METFORMIN ER",
       "doses": [
-        "2MCG",
-        "30MCG",
-        "4MCG"
+        "1000MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+    },
+    {
+      "drug": "OXYCODONE CR",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+    },
+    {
+      "drug": "PRAVASTATIN",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+    },
+    {
+      "drug": "QUININE",
+      "doses": [
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
+    },
+    {
+      "drug": "SODIUM POLYSTYRENE SULFONATE",
+      "doses": [
+        "1G"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "VARDENAFIL",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-24T09:26:34.584Z",
+      "addedDrugsCount": 10,
+      "addedDrugs": [
+        {
+          "drug": "BUPROPION XL",
+          "doses": [
+            "150MG",
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
+        },
+        {
+          "drug": "DROSPIRENONE AND ETHINYL ESTRADIOL TABLETS USP 28",
+          "doses": [
+            "0.03MG",
+            "3MG"
+          ],
+          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+        },
+        {
+          "drug": "EDOXABAN",
+          "doses": [
+            "30MG"
+          ],
+          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+        },
+        {
+          "drug": "LORAZEPAM",
+          "doses": [
+            "0.5MG"
+          ],
+          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+        },
+        {
+          "drug": "METFORMIN ER",
+          "doses": [
+            "1000MG"
+          ],
+          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+        },
+        {
+          "drug": "OXYCODONE CR",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+        },
+        {
+          "drug": "PRAVASTATIN",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+        },
+        {
+          "drug": "QUININE",
+          "doses": [
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
+        },
+        {
+          "drug": "SODIUM POLYSTYRENE SULFONATE",
+          "doses": [
+            "1G"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "VARDENAFIL",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-23T09:22:26.421Z",
       "addedDrugsCount": 5,
@@ -351,34 +463,6 @@
             "0.25MG"
           ],
           "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-04-09T09:02:23.012Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "DEXTROAMPHETAMINE",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
-        },
-        {
-          "drug": "DUOTRAV PQ",
-          "doses": [
-            "0.004%",
-            "0.5%"
-          ],
-          "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
-        },
-        {
-          "drug": "PERINDOPRIL",
-          "doses": [
-            "8MG"
-          ],
-          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
         }
       ]
     }
