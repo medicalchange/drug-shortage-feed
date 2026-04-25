@@ -1,82 +1,44 @@
 {
-  "refreshedAt": "2026-04-24T09:26:34.584Z",
-  "count": 547,
-  "addedDrugsCount": 10,
+  "refreshedAt": "2026-04-25T08:44:43.317Z",
+  "count": 546,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "BUPROPION XL",
+      "drug": "TOUJEO SOLOSTAR",
       "doses": [
-        "150MG",
-        "300MG"
+        "300UNIT"
       ],
-      "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
-      "drug": "DROSPIRENONE AND ETHINYL ESTRADIOL TABLETS USP 28",
+      "drug": "TRURAPI",
       "doses": [
-        "0.03MG",
-        "3MG"
+        "100UNIT"
       ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-    },
-    {
-      "drug": "EDOXABAN",
-      "doses": [
-        "30MG"
-      ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "drug": "LORAZEPAM",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-    },
-    {
-      "drug": "METFORMIN ER",
-      "doses": [
-        "1000MG"
-      ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-    },
-    {
-      "drug": "OXYCODONE CR",
-      "doses": [
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-    },
-    {
-      "drug": "PRAVASTATIN",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-    },
-    {
-      "drug": "QUININE",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
-    },
-    {
-      "drug": "SODIUM POLYSTYRENE SULFONATE",
-      "doses": [
-        "1G"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "drug": "VARDENAFIL",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-25T08:44:43.317Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "TOUJEO SOLOSTAR",
+          "doses": [
+            "300UNIT"
+          ],
+          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+        },
+        {
+          "drug": "TRURAPI",
+          "doses": [
+            "100UNIT"
+          ],
+          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-24T09:26:34.584Z",
       "addedDrugsCount": 10,
@@ -416,53 +378,6 @@
             "1.2G"
           ],
           "expectedBackInStockDate": "2026-04-21T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-04-10T09:03:04.315Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "CANAGLIFLOZIN",
-          "doses": [
-            "300MG"
-          ],
-          "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
-        },
-        {
-          "drug": "DAPAGLIFLOZIN / METFORMIN",
-          "doses": [
-            "1000MG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
-        },
-        {
-          "drug": "MIRAPEX",
-          "doses": [
-            "0.125MG",
-            "0.25MG"
-          ],
-          "expectedBackInStockDate": "2026-06-02T04:00:00.000Z"
-        },
-        {
-          "drug": "TELMISARTAN HCTZ",
-          "doses": [
-            "12.5MG",
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-10-20T04:00:00.000Z"
-        },
-        {
-          "drug": "TRI-JORDYNA 28",
-          "doses": [
-            "0.035MG",
-            "0.18MG",
-            "0.215MG",
-            "0.25MG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
         }
       ]
     }
