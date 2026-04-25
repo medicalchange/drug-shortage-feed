@@ -1,5 +1,117 @@
 [
   {
+    "id": "shortage:282159",
+    "reportId": 282159,
+    "type": "shortage",
+    "brandName": "APO-ATORVASTATIN",
+    "status": "active_confirmed",
+    "din": "02295288",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-05-22T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-25T00:31:18.000Z",
+    "updateDate": "2026-04-25T00:31:18.000Z",
+    "postedDate": "2026-04-02T22:48:44.000Z"
+  },
+  {
+    "id": "shortage:283125",
+    "reportId": 283125,
+    "type": "shortage",
+    "brandName": "TRURAPI",
+    "status": "active_confirmed",
+    "din": "02506564",
+    "strength": "100UNIT",
+    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-24T22:56:13.000Z",
+    "updateDate": "2026-04-24T22:56:13.000Z",
+    "postedDate": "2026-04-17T01:43:22.000Z"
+  },
+  {
+    "id": "shortage:283122",
+    "reportId": 283122,
+    "type": "shortage",
+    "brandName": "TOUJEO SOLOSTAR",
+    "status": "active_confirmed",
+    "din": "02441829",
+    "strength": "300UNIT",
+    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-24T22:50:31.000Z",
+    "updateDate": "2026-04-24T22:50:31.000Z",
+    "postedDate": "2026-04-17T01:39:45.000Z"
+  },
+  {
+    "id": "shortage:273867",
+    "reportId": 273867,
+    "type": "shortage",
+    "brandName": "TRI-JORDYNA 21",
+    "status": "active_confirmed",
+    "din": "02486296",
+    "strength": "0.25MG\r\n0.18MG\r\n0.215MG\r\n0.035MG\r\n0.035MG\r\n0.035MG",
+    "expectedBackInStockDate": "2026-06-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-24T22:49:49.000Z",
+    "updateDate": "2026-04-24T22:49:49.000Z",
+    "postedDate": "2025-12-10T00:27:06.000Z"
+  },
+  {
+    "id": "shortage:272068",
+    "reportId": 272068,
+    "type": "shortage",
+    "brandName": "PMS-METHYLPHENIDATE CR",
+    "status": "active_confirmed",
+    "din": "02537036",
+    "strength": "80MG",
+    "expectedBackInStockDate": "2026-08-19T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-24T17:09:58.000Z",
+    "updateDate": "2026-04-24T17:09:58.000Z",
+    "postedDate": "2025-11-18T01:47:01.000Z"
+  },
+  {
+    "id": "shortage:272039",
+    "reportId": 272039,
+    "type": "shortage",
+    "brandName": "PMS-METHYLPHENIDATE CR",
+    "status": "active_confirmed",
+    "din": "02536951",
+    "strength": "15MG",
+    "expectedBackInStockDate": "2026-10-03T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-24T17:08:50.000Z",
+    "updateDate": "2026-04-24T17:08:50.000Z",
+    "postedDate": "2025-11-18T01:11:19.000Z"
+  },
+  {
+    "id": "shortage:266032",
+    "reportId": 266032,
+    "type": "shortage",
+    "brandName": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
+    "status": "active_confirmed",
+    "din": "01977563",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-24T16:58:37.000Z",
+    "updateDate": "2026-04-24T16:58:37.000Z",
+    "postedDate": "2025-08-28T19:33:41.000Z"
+  },
+  {
+    "id": "shortage:277256",
+    "reportId": 277256,
+    "type": "shortage",
+    "brandName": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
+    "status": "active_confirmed",
+    "din": "01977563",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-04-24T16:58:15.000Z",
+    "updateDate": "2026-04-24T16:58:15.000Z",
+    "postedDate": "2026-02-05T20:46:45.000Z"
+  },
+  {
     "id": "shortage:279595",
     "reportId": 279595,
     "type": "shortage",
@@ -2296,48 +2408,6 @@
     "postedDate": "2026-01-15T20:27:27.000Z"
   },
   {
-    "id": "shortage:262959",
-    "reportId": 262959,
-    "type": "shortage",
-    "brandName": "STRAMUCIN",
-    "status": "active_confirmed",
-    "din": "02483459",
-    "strength": "2%",
-    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-16T19:40:05.000Z",
-    "updateDate": "2026-04-16T19:40:05.000Z",
-    "postedDate": "2025-07-17T21:03:08.000Z"
-  },
-  {
-    "id": "shortage:278106",
-    "reportId": 278106,
-    "type": "shortage",
-    "brandName": "GLN-OLMESARTAN",
-    "status": "active_confirmed",
-    "din": "02469820",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-16T19:38:34.000Z",
-    "updateDate": "2026-04-16T19:38:34.000Z",
-    "postedDate": "2026-02-14T00:54:57.000Z"
-  },
-  {
-    "id": "shortage:278112",
-    "reportId": 278112,
-    "type": "shortage",
-    "brandName": "GLN-OLMESARTAN",
-    "status": "active_confirmed",
-    "din": "02469812",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-16T19:37:58.000Z",
-    "updateDate": "2026-04-16T19:37:58.000Z",
-    "postedDate": "2026-02-14T01:24:53.000Z"
-  },
-  {
     "id": "shortage:283033",
     "reportId": 283033,
     "type": "shortage",
@@ -3080,20 +3150,6 @@
     "postedDate": "2026-03-23T17:46:05.000Z"
   },
   {
-    "id": "shortage:273867",
-    "reportId": 273867,
-    "type": "shortage",
-    "brandName": "TRI-JORDYNA 21",
-    "status": "active_confirmed",
-    "din": "02486296",
-    "strength": "0.25MG\r\n0.18MG\r\n0.215MG\r\n0.035MG\r\n0.035MG\r\n0.035MG",
-    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-10T00:57:27.000Z",
-    "updateDate": "2026-04-10T00:57:27.000Z",
-    "postedDate": "2025-12-10T00:27:06.000Z"
-  },
-  {
     "id": "shortage:264816",
     "reportId": 264816,
     "type": "shortage",
@@ -3766,20 +3822,6 @@
     "postedDate": "2026-04-02T22:49:39.000Z"
   },
   {
-    "id": "shortage:282159",
-    "reportId": 282159,
-    "type": "shortage",
-    "brandName": "APO-ATORVASTATIN",
-    "status": "active_confirmed",
-    "din": "02295288",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-05-22T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-02T22:49:01.000Z",
-    "updateDate": "2026-04-02T22:49:01.000Z",
-    "postedDate": "2026-04-02T22:48:44.000Z"
-  },
-  {
     "id": "shortage:221612",
     "reportId": 221612,
     "type": "shortage",
@@ -4352,20 +4394,6 @@
     "updatedDate": "2026-03-27T22:58:47.000Z",
     "updateDate": "2026-03-27T22:58:47.000Z",
     "postedDate": "2025-11-20T21:25:24.000Z"
-  },
-  {
-    "id": "shortage:278042",
-    "reportId": 278042,
-    "type": "shortage",
-    "brandName": "APO-ACETAMINOPHEN EXTRA STRENGTH",
-    "status": "active_confirmed",
-    "din": "00545007",
-    "strength": "500MG",
-    "expectedBackInStockDate": "2026-04-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-27T22:54:42.000Z",
-    "updateDate": "2026-03-27T22:54:42.000Z",
-    "postedDate": "2026-02-13T01:26:34.000Z"
   },
   {
     "id": "shortage:262193",
@@ -5306,20 +5334,6 @@
     "postedDate": "2026-02-20T01:20:15.000Z"
   },
   {
-    "id": "shortage:272068",
-    "reportId": 272068,
-    "type": "shortage",
-    "brandName": "PMS-METHYLPHENIDATE CR",
-    "status": "active_confirmed",
-    "din": "02537036",
-    "strength": "80MG",
-    "expectedBackInStockDate": "2026-07-19T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-11T16:50:57.000Z",
-    "updateDate": "2026-03-11T16:50:57.000Z",
-    "postedDate": "2025-11-18T01:47:01.000Z"
-  },
-  {
     "id": "shortage:252745",
     "reportId": 252745,
     "type": "shortage",
@@ -6062,20 +6076,6 @@
     "postedDate": "2026-02-05T20:49:58.000Z"
   },
   {
-    "id": "shortage:277256",
-    "reportId": 277256,
-    "type": "shortage",
-    "brandName": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
-    "status": "active_confirmed",
-    "din": "01977563",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-05T20:47:50.000Z",
-    "updateDate": "2026-02-05T20:47:50.000Z",
-    "postedDate": "2026-02-05T20:46:45.000Z"
-  },
-  {
     "id": "shortage:273794",
     "reportId": 273794,
     "type": "shortage",
@@ -6214,20 +6214,6 @@
     "updatedDate": "2026-01-26T23:56:05.000Z",
     "updateDate": "2026-01-26T23:56:05.000Z",
     "postedDate": "2025-12-09T01:10:48.000Z"
-  },
-  {
-    "id": "shortage:266032",
-    "reportId": 266032,
-    "type": "shortage",
-    "brandName": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
-    "status": "active_confirmed",
-    "din": "01977563",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-22T23:26:45.000Z",
-    "updateDate": "2026-01-22T23:26:45.000Z",
-    "postedDate": "2025-08-28T19:33:41.000Z"
   },
   {
     "id": "shortage:201856",
