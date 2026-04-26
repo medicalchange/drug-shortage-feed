@@ -1,25 +1,15 @@
 {
   "count": 315,
-  "refreshedAt": "2026-04-25T08:44:43.317Z",
+  "refreshedAt": "2026-04-26T08:54:22.226Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
-  "addedDrugs": [
-    {
-      "drug": "TOUJEO SOLOSTAR",
-      "doses": [
-        "300UNIT"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    },
-    {
-      "drug": "TRURAPI",
-      "doses": [
-        "100UNIT"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-26T08:54:22.226Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-04-25T08:44:43.317Z",
       "addedDrugsCount": 2,
@@ -368,19 +358,6 @@
       "refreshedAt": "2026-04-12T08:41:05.318Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-04-11T08:36:53.992Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "MEZAVANT",
-          "doses": [
-            "1.2G"
-          ],
-          "expectedBackInStockDate": "2026-04-21T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
