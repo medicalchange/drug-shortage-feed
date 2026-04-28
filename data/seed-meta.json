@@ -1,9 +1,44 @@
 {
-  "refreshedAt": "2026-04-27T10:09:53.866Z",
-  "count": 546,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-04-28T10:10:11.163Z",
+  "count": 549,
+  "addedDrugsCount": 2,
+  "addedDrugs": [
+    {
+      "drug": "CEFAZOLIN FOR INJECTION USP",
+      "doses": [
+        "1G"
+      ],
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+    },
+    {
+      "drug": "CILAZAPRIL",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-28T10:10:11.163Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CEFAZOLIN FOR INJECTION USP",
+          "doses": [
+            "1G"
+          ],
+          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+        },
+        {
+          "drug": "CILAZAPRIL",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-27T10:09:53.866Z",
       "addedDrugsCount": 0,
@@ -352,11 +387,6 @@
           "expectedBackInStockDate": "2026-09-14T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-04-13T09:50:07.164Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
