@@ -1,10 +1,45 @@
 {
   "count": 315,
-  "refreshedAt": "2026-04-27T10:09:53.866Z",
+  "refreshedAt": "2026-04-28T10:10:11.163Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 2,
+  "addedDrugs": [
+    {
+      "drug": "CEFAZOLIN FOR INJECTION USP",
+      "doses": [
+        "1G"
+      ],
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+    },
+    {
+      "drug": "CILAZAPRIL",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-28T10:10:11.163Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CEFAZOLIN FOR INJECTION USP",
+          "doses": [
+            "1G"
+          ],
+          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+        },
+        {
+          "drug": "CILAZAPRIL",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-27T10:09:53.866Z",
       "addedDrugsCount": 0,
@@ -353,11 +388,6 @@
           "expectedBackInStockDate": "2026-09-14T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-04-13T09:50:07.164Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -542,7 +572,7 @@
       "doses": [
         "1%"
       ],
-      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-29T04:00:00.000Z"
     },
     {
       "drug": "APRI 28",
@@ -748,7 +778,7 @@
         "4MG",
         "8MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
       "drug": "CANDESARTAN PLUS",
@@ -756,7 +786,7 @@
         "12.5MG",
         "32MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
       "drug": "CAPECITABINE",
@@ -778,6 +808,13 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+    },
+    {
+      "drug": "CEFAZOLIN FOR INJECTION USP",
+      "doses": [
+        "1G"
+      ],
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "CEFIXIME",
@@ -816,6 +853,13 @@
         "8%"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
+      "drug": "CILAZAPRIL",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
       "drug": "CINACALCET",
@@ -989,13 +1033,6 @@
         "0.1%"
       ],
       "expectedBackInStockDate": "2025-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "DILANTIN",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
     },
     {
       "drug": "DILANTIN INFATABS",
@@ -1172,7 +1209,7 @@
         "20MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-04-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "ESOMEPRAZOLE DR",
@@ -1482,7 +1519,7 @@
         "50MCG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-04-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "LAYLAA 28",
@@ -1648,7 +1685,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "MAEVE",
@@ -1667,10 +1704,9 @@
     {
       "drug": "MAVIK",
       "doses": [
-        "0.5MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
     },
     {
       "drug": "MED-RIVASTIGMINE",
@@ -1696,12 +1732,11 @@
     {
       "drug": "METHYLPHENIDATE CR",
       "doses": [
-        "10MG",
         "15MG",
         "60MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-05-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-08T04:00:00.000Z"
     },
     {
       "drug": "METOPROLOL-L",
@@ -2285,6 +2320,7 @@
     {
       "drug": "RIVAROXABAN",
       "doses": [
+        "10MG",
         "2.5MG",
         "20MG"
       ],
@@ -2296,7 +2332,7 @@
         "10MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-30T04:00:00.000Z"
     },
     {
       "drug": "ROCURONIUM BROMIDE INJECTION",
@@ -2714,18 +2750,11 @@
       "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
     },
     {
-      "drug": "VERAPAMIL SR",
-      "doses": [
-        "120MG"
-      ],
-      "expectedBackInStockDate": "2026-05-09T04:00:00.000Z"
-    },
-    {
       "drug": "VIAGRA",
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
       "drug": "VISIONBLUE",
