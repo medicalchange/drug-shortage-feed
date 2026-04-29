@@ -1,24 +1,46 @@
 {
-  "refreshedAt": "2026-04-28T10:10:11.163Z",
-  "count": 549,
+  "refreshedAt": "2026-04-29T10:01:32.537Z",
+  "count": 548,
   "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "CEFAZOLIN FOR INJECTION USP",
+      "drug": "DANTRIUM INTRAVENOUS",
       "doses": [
-        "1G"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
     },
     {
-      "drug": "CILAZAPRIL",
+      "drug": "PERINDOPRIL/INDAPAMIDE",
       "doses": [
-        "1MG"
+        "2.5MG",
+        "8MG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-04-29T10:01:32.537Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "DANTRIUM INTRAVENOUS",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
+        },
+        {
+          "drug": "PERINDOPRIL/INDAPAMIDE",
+          "doses": [
+            "2.5MG",
+            "8MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-28T10:10:11.163Z",
       "addedDrugsCount": 2,
@@ -357,34 +379,6 @@
             "50MG"
           ],
           "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-04-14T09:12:30.279Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "ACETYLCYSTEINE SOLUTION",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        },
-        {
-          "drug": "CANDESARTAN PLUS",
-          "doses": [
-            "12.5MG",
-            "32MG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        },
-        {
-          "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJECTION, USP",
-          "doses": [
-            "4MG"
-          ],
-          "expectedBackInStockDate": "2026-09-14T04:00:00.000Z"
         }
       ]
     }
