@@ -1,53 +1,130 @@
 {
-  "refreshedAt": "2026-04-30T10:02:55.425Z",
-  "count": 551,
-  "addedDrugsCount": 6,
+  "refreshedAt": "2026-05-01T09:29:03.570Z",
+  "count": 554,
+  "addedDrugsCount": 8,
   "addedDrugs": [
     {
-      "drug": "AMOXICILLIN",
+      "drug": "CEFTRIAXONE FOR INJECTION",
       "doses": [
-        "250MG"
+        "100G"
+      ],
+      "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
+    },
+    {
+      "drug": "DAPAGLIFLOZIN-METFORMIN",
+      "doses": [
+        "1000MG",
+        "5MG"
       ],
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
-      "drug": "COMBIGAN",
+      "drug": "MESNA FOR INJECTION",
       "doses": [
-        "0.2%",
-        "0.5%"
+        "100MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
-      "drug": "DIMENHYDRINATE INJECTION USP",
+      "drug": "MIDAMOR",
       "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
-    },
-    {
-      "drug": "ENTACAPONE",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-    },
-    {
-      "drug": "LENALIDOMIDE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-    },
-    {
-      "drug": "VISTITAN",
-      "doses": [
-        "0.03%"
+        "5.0MG"
       ],
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+    },
+    {
+      "drug": "PACLITAXEL POWDER FOR INJECTABLE SUSPENSION NANOPARTICLE, ALBUMIN-BOUND PACLITAXEL",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+    },
+    {
+      "drug": "PHENYTOIN SODIUM",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-05-07T04:00:00.000Z"
+    },
+    {
+      "drug": "TRYPTOPHAN",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "VARENICLINE",
+      "doses": [
+        "0.5MG"
+      ],
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-01T09:29:03.570Z",
+      "addedDrugsCount": 8,
+      "addedDrugs": [
+        {
+          "drug": "CEFTRIAXONE FOR INJECTION",
+          "doses": [
+            "100G"
+          ],
+          "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
+        },
+        {
+          "drug": "DAPAGLIFLOZIN-METFORMIN",
+          "doses": [
+            "1000MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+        },
+        {
+          "drug": "MESNA FOR INJECTION",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "MIDAMOR",
+          "doses": [
+            "5.0MG"
+          ],
+          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+        },
+        {
+          "drug": "PACLITAXEL POWDER FOR INJECTABLE SUSPENSION NANOPARTICLE, ALBUMIN-BOUND PACLITAXEL",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+        },
+        {
+          "drug": "PHENYTOIN SODIUM",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-05-07T04:00:00.000Z"
+        },
+        {
+          "drug": "TRYPTOPHAN",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "VARENICLINE",
+          "doses": [
+            "0.5MG"
+          ],
+          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-04-30T10:02:55.425Z",
       "addedDrugsCount": 6,
@@ -364,63 +441,6 @@
             "250MG"
           ],
           "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-04-17T09:11:20.865Z",
-      "addedDrugsCount": 7,
-      "addedDrugs": [
-        {
-          "drug": "ALLOPURINOL TABLETS",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-        },
-        {
-          "drug": "APRI 28",
-          "doses": [
-            "0.03MG",
-            "0.15MG"
-          ],
-          "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
-        },
-        {
-          "drug": "DABIGATRAN",
-          "doses": [
-            "110MG"
-          ],
-          "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
-        },
-        {
-          "drug": "HYDROMORPHONE",
-          "doses": [
-            "8MG"
-          ],
-          "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-        },
-        {
-          "drug": "LENOLTEC NO. 2",
-          "doses": [
-            "15MG",
-            "300MG"
-          ],
-          "expectedBackInStockDate": "2026-05-10T04:00:00.000Z"
-        },
-        {
-          "drug": "PHENYTOIN SODIUM INJECTION USP",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
-        },
-        {
-          "drug": "TECTA",
-          "doses": [
-            "40MG"
-          ],
-          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
         }
       ]
     }
