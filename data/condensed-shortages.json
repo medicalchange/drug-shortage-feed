@@ -1,68 +1,15 @@
 {
-  "count": 322,
-  "refreshedAt": "2026-05-01T09:29:03.570Z",
+  "count": 321,
+  "refreshedAt": "2026-05-02T09:00:34.099Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 8,
-  "addedDrugs": [
-    {
-      "drug": "CEFTRIAXONE FOR INJECTION",
-      "doses": [
-        "100G"
-      ],
-      "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
-    },
-    {
-      "drug": "DAPAGLIFLOZIN-METFORMIN",
-      "doses": [
-        "1000MG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-    },
-    {
-      "drug": "MESNA FOR INJECTION",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "MIDAMOR",
-      "doses": [
-        "5.0MG"
-      ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-    },
-    {
-      "drug": "PACLITAXEL POWDER FOR INJECTABLE SUSPENSION NANOPARTICLE, ALBUMIN-BOUND PACLITAXEL",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-    },
-    {
-      "drug": "PHENYTOIN SODIUM",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-05-07T04:00:00.000Z"
-    },
-    {
-      "drug": "TRYPTOPHAN",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    },
-    {
-      "drug": "VARENICLINE",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-02T09:00:34.099Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-01T09:29:03.570Z",
       "addedDrugsCount": 8,
@@ -431,19 +378,6 @@
       "refreshedAt": "2026-04-19T08:46:24.971Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-04-18T08:42:14.056Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "NAPROXEN EC TABLETS",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -495,7 +429,7 @@
       "doses": [
         "5%"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR SODIUM INJECTION",
@@ -901,7 +835,7 @@
         "250MG",
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "CHLORAPREP",
@@ -1358,7 +1292,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
       "drug": "FESOTERODINE FUMARATE",
@@ -1674,6 +1608,7 @@
     {
       "drug": "LEVOTHYROXINE",
       "doses": [
+        "112MCG",
         "200MCG"
       ],
       "expectedBackInStockDate": "2026-01-16T05:00:00.000Z"
@@ -2287,13 +2222,6 @@
       "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
     },
     {
-      "drug": "PROGESTERONE INJECTION, USP",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-    },
-    {
       "drug": "PROLEUKIN",
       "doses": [
         "22000000UNIT"
@@ -2439,7 +2367,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "ROSUVASTATIN",
@@ -2792,7 +2720,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-30T04:00:00.000Z"
     },
     {
       "drug": "VALPROIC ACID",
@@ -2814,17 +2742,15 @@
         "12.5MG",
         "160MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "VANCOMYCIN HYDROCHLORIDE FOR INJECTION USP",
       "doses": [
         "10G",
-        "1G",
-        "500MG",
         "5G"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     },
     {
       "drug": "VARDENAFIL",
