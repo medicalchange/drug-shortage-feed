@@ -1,67 +1,14 @@
 {
-  "refreshedAt": "2026-05-01T09:29:03.570Z",
-  "count": 554,
-  "addedDrugsCount": 8,
-  "addedDrugs": [
-    {
-      "drug": "CEFTRIAXONE FOR INJECTION",
-      "doses": [
-        "100G"
-      ],
-      "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
-    },
-    {
-      "drug": "DAPAGLIFLOZIN-METFORMIN",
-      "doses": [
-        "1000MG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-    },
-    {
-      "drug": "MESNA FOR INJECTION",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "MIDAMOR",
-      "doses": [
-        "5.0MG"
-      ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-    },
-    {
-      "drug": "PACLITAXEL POWDER FOR INJECTABLE SUSPENSION NANOPARTICLE, ALBUMIN-BOUND PACLITAXEL",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-    },
-    {
-      "drug": "PHENYTOIN SODIUM",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-05-07T04:00:00.000Z"
-    },
-    {
-      "drug": "TRYPTOPHAN",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    },
-    {
-      "drug": "VARENICLINE",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-    }
-  ],
+  "refreshedAt": "2026-05-02T09:00:34.099Z",
+  "count": 552,
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-02T09:00:34.099Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-01T09:29:03.570Z",
       "addedDrugsCount": 8,
@@ -430,19 +377,6 @@
       "refreshedAt": "2026-04-19T08:46:24.971Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-04-18T08:42:14.056Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "NAPROXEN EC TABLETS",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
