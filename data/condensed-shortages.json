@@ -1,10 +1,15 @@
 {
   "count": 321,
-  "refreshedAt": "2026-05-02T09:00:34.099Z",
+  "refreshedAt": "2026-05-03T09:18:27.638Z",
   "source": "github-static-seed",
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-03T09:18:27.638Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-02T09:00:34.099Z",
       "addedDrugsCount": 0,
@@ -371,11 +376,6 @@
     },
     {
       "refreshedAt": "2026-04-20T09:54:26.511Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-04-19T08:46:24.971Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
