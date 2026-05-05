@@ -1,5 +1,75 @@
 [
   {
+    "id": "shortage:281139",
+    "reportId": 281139,
+    "type": "shortage",
+    "brandName": "SANDOZ CANDESARTAN",
+    "status": "active_confirmed",
+    "din": "02326973",
+    "strength": "16MG",
+    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-04T17:11:58.000Z",
+    "updateDate": "2026-05-04T17:11:58.000Z",
+    "postedDate": "2026-03-23T17:59:57.000Z"
+  },
+  {
+    "id": "shortage:283776",
+    "reportId": 283776,
+    "type": "shortage",
+    "brandName": "SANDOZ RABEPRAZOLE",
+    "status": "active_confirmed",
+    "din": "02314185",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-04T16:29:57.000Z",
+    "updateDate": "2026-05-04T16:29:57.000Z",
+    "postedDate": "2026-04-27T16:26:09.000Z"
+  },
+  {
+    "id": "shortage:283202",
+    "reportId": 283202,
+    "type": "shortage",
+    "brandName": "CEFAZOLIN FOR INJECTION USP",
+    "status": "active_confirmed",
+    "din": "02308959",
+    "strength": "1G",
+    "expectedBackInStockDate": "2026-05-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-04T16:17:06.000Z",
+    "updateDate": "2026-05-04T16:17:06.000Z",
+    "postedDate": "2026-04-20T18:52:13.000Z"
+  },
+  {
+    "id": "shortage:281806",
+    "reportId": 281806,
+    "type": "shortage",
+    "brandName": "SANDOZ CANDESARTAN PLUS",
+    "status": "active_confirmed",
+    "din": "02420732",
+    "strength": "32MG\r\n12.5MG",
+    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-04T15:56:56.000Z",
+    "updateDate": "2026-05-04T15:56:56.000Z",
+    "postedDate": "2026-03-30T16:46:20.000Z"
+  },
+  {
+    "id": "shortage:281803",
+    "reportId": 281803,
+    "type": "shortage",
+    "brandName": "SANDOZ ALMOTRIPTAN",
+    "status": "active_confirmed",
+    "din": "02405334",
+    "strength": "12.5MG",
+    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-04T15:55:44.000Z",
+    "updateDate": "2026-05-04T15:55:44.000Z",
+    "postedDate": "2026-03-30T16:44:28.000Z"
+  },
+  {
     "id": "shortage:276571",
     "reportId": 276571,
     "type": "shortage",
@@ -994,20 +1064,6 @@
     "postedDate": "2026-04-20T18:45:58.000Z"
   },
   {
-    "id": "shortage:283776",
-    "reportId": 283776,
-    "type": "shortage",
-    "brandName": "SANDOZ RABEPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02314185",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-29T18:57:59.000Z",
-    "updateDate": "2026-04-29T18:57:59.000Z",
-    "postedDate": "2026-04-27T16:26:09.000Z"
-  },
-  {
     "id": "shortage:283215",
     "reportId": 283215,
     "type": "shortage",
@@ -1344,20 +1400,6 @@
     "postedDate": "2026-04-07T22:19:04.000Z"
   },
   {
-    "id": "shortage:283202",
-    "reportId": 283202,
-    "type": "shortage",
-    "brandName": "CEFAZOLIN FOR INJECTION USP",
-    "status": "active_confirmed",
-    "din": "02308959",
-    "strength": "1G",
-    "expectedBackInStockDate": "2026-05-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-27T16:28:52.000Z",
-    "updateDate": "2026-04-27T16:28:52.000Z",
-    "postedDate": "2026-04-20T18:52:13.000Z"
-  },
-  {
     "id": "shortage:283199",
     "reportId": 283199,
     "type": "shortage",
@@ -1370,34 +1412,6 @@
     "updatedDate": "2026-04-27T16:28:18.000Z",
     "updateDate": "2026-04-27T16:28:18.000Z",
     "postedDate": "2026-04-20T18:48:10.000Z"
-  },
-  {
-    "id": "shortage:281139",
-    "reportId": 281139,
-    "type": "shortage",
-    "brandName": "SANDOZ CANDESARTAN",
-    "status": "active_confirmed",
-    "din": "02326973",
-    "strength": "16MG",
-    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-27T16:27:50.000Z",
-    "updateDate": "2026-04-27T16:27:50.000Z",
-    "postedDate": "2026-03-23T17:59:57.000Z"
-  },
-  {
-    "id": "shortage:281806",
-    "reportId": 281806,
-    "type": "shortage",
-    "brandName": "SANDOZ CANDESARTAN PLUS",
-    "status": "active_confirmed",
-    "din": "02420732",
-    "strength": "32MG\r\n12.5MG",
-    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-27T16:27:13.000Z",
-    "updateDate": "2026-04-27T16:27:13.000Z",
-    "postedDate": "2026-03-30T16:46:20.000Z"
   },
   {
     "id": "shortage:282721",
@@ -3850,20 +3864,6 @@
     "postedDate": "2026-02-16T20:03:20.000Z"
   },
   {
-    "id": "shortage:281803",
-    "reportId": 281803,
-    "type": "shortage",
-    "brandName": "SANDOZ ALMOTRIPTAN",
-    "status": "active_confirmed",
-    "din": "02405334",
-    "strength": "12.5MG",
-    "expectedBackInStockDate": "2026-05-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-13T17:01:33.000Z",
-    "updateDate": "2026-04-13T17:01:33.000Z",
-    "postedDate": "2026-03-30T16:44:28.000Z"
-  },
-  {
     "id": "shortage:264816",
     "reportId": 264816,
     "type": "shortage",
@@ -6298,20 +6298,6 @@
     "updatedDate": "2026-01-29T23:32:42.000Z",
     "updateDate": "2026-01-29T23:32:42.000Z",
     "postedDate": "2025-12-21T02:58:32.000Z"
-  },
-  {
-    "id": "shortage:276773",
-    "reportId": 276773,
-    "type": "shortage",
-    "brandName": "PMS-OLMESARTAN",
-    "status": "active_confirmed",
-    "din": "02461315",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-04-13T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-29T00:59:28.000Z",
-    "updateDate": "2026-01-29T00:59:28.000Z",
-    "postedDate": "2026-01-29T00:59:04.000Z"
   },
   {
     "id": "shortage:273789",
