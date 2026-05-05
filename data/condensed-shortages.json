@@ -1,10 +1,15 @@
 {
   "count": 321,
-  "refreshedAt": "2026-05-04T10:08:48.094Z",
+  "refreshedAt": "2026-05-05T09:58:07.838Z",
   "source": "github-static-seed",
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-05T09:58:07.838Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-04T10:08:48.094Z",
       "addedDrugsCount": 0,
@@ -335,47 +340,6 @@
             "22000000UNIT"
           ],
           "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-04-21T09:20:31.445Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "ANDROGEL",
-          "doses": [
-            "1%"
-          ],
-          "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
-        },
-        {
-          "drug": "DILANTIN",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-04-22T04:00:00.000Z"
-        },
-        {
-          "drug": "ESTRADOT 25",
-          "doses": [
-            "25MCG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        },
-        {
-          "drug": "ESTRADOT 75",
-          "doses": [
-            "75MCG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        },
-        {
-          "drug": "NIFEDIPINE EXTENDED RELEASE",
-          "doses": [
-            "30MG"
-          ],
-          "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
         }
       ]
     }
@@ -1988,7 +1952,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
     },
     {
       "drug": "OLOPATADINE",
