@@ -1,9 +1,72 @@
 {
-  "refreshedAt": "2026-05-05T09:58:07.838Z",
-  "count": 551,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-05-06T10:12:43.346Z",
+  "count": 544,
+  "addedDrugsCount": 4,
+  "addedDrugs": [
+    {
+      "drug": "FUROSEMIDE",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+    },
+    {
+      "drug": "ORENCIA",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+    },
+    {
+      "drug": "VERAPAMIL SR",
+      "doses": [
+        "120MG"
+      ],
+      "expectedBackInStockDate": "2026-05-06T04:00:00.000Z"
+    },
+    {
+      "drug": "XYDALBA",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-06T10:12:43.346Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "FUROSEMIDE",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+        },
+        {
+          "drug": "ORENCIA",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+        },
+        {
+          "drug": "VERAPAMIL SR",
+          "doses": [
+            "120MG"
+          ],
+          "expectedBackInStockDate": "2026-05-06T04:00:00.000Z"
+        },
+        {
+          "drug": "XYDALBA",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-05T09:58:07.838Z",
       "addedDrugsCount": 0,
@@ -326,19 +389,6 @@
             "4MCG"
           ],
           "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-04-22T09:15:01.179Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "PROLEUKIN",
-          "doses": [
-            "22000000UNIT"
-          ],
-          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
         }
       ]
     }

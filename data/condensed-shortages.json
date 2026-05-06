@@ -1,10 +1,73 @@
 {
-  "count": 321,
-  "refreshedAt": "2026-05-05T09:58:07.838Z",
+  "count": 319,
+  "refreshedAt": "2026-05-06T10:12:43.346Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 4,
+  "addedDrugs": [
+    {
+      "drug": "FUROSEMIDE",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+    },
+    {
+      "drug": "ORENCIA",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+    },
+    {
+      "drug": "VERAPAMIL SR",
+      "doses": [
+        "120MG"
+      ],
+      "expectedBackInStockDate": "2026-05-06T04:00:00.000Z"
+    },
+    {
+      "drug": "XYDALBA",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-06T10:12:43.346Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "FUROSEMIDE",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+        },
+        {
+          "drug": "ORENCIA",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+        },
+        {
+          "drug": "VERAPAMIL SR",
+          "doses": [
+            "120MG"
+          ],
+          "expectedBackInStockDate": "2026-05-06T04:00:00.000Z"
+        },
+        {
+          "drug": "XYDALBA",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-05T09:58:07.838Z",
       "addedDrugsCount": 0,
@@ -329,19 +392,6 @@
           "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-04-22T09:15:01.179Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "PROLEUKIN",
-          "doses": [
-            "22000000UNIT"
-          ],
-          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -365,13 +415,6 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2027-01-01T05:00:00.000Z"
-    },
-    {
-      "drug": "ACETYLCYSTEINE SOLUTION",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
       "drug": "ACETYLCYSTEINE SOLUTION USP",
@@ -469,7 +512,7 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
       "drug": "AMOXI CLAV",
@@ -526,7 +569,7 @@
       "doses": [
         "1%"
       ],
-      "expectedBackInStockDate": "2026-04-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-04T04:00:00.000Z"
     },
     {
       "drug": "APRI 28",
@@ -817,13 +860,6 @@
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
-      "drug": "CILAZAPRIL",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-    },
-    {
       "drug": "CINACALCET",
       "doses": [
         "30MG",
@@ -968,7 +1004,7 @@
         "2MG",
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-11T04:00:00.000Z"
     },
     {
       "drug": "DEXAMETHASONE OMEGA UNIDOSE",
@@ -1077,7 +1113,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "DROSPIRENONE AND ETHINYL ESTRADIOL TABLETS USP 28",
@@ -1154,14 +1190,6 @@
         "0.5MG"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-    },
-    {
-      "drug": "EPLERENONE",
-      "doses": [
-        "25MG",
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
       "drug": "ERIBULIN",
@@ -1292,7 +1320,14 @@
         "10MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "FUROSEMIDE",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
     },
     {
       "drug": "FUROSEMIDE INJECTION USP",
@@ -1424,7 +1459,7 @@
       "doses": [
         "60MG"
       ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-18T05:00:00.000Z"
     },
     {
       "drug": "ISOPROTERENOL HYDROCHLORIDE INJECTION USP",
@@ -1494,7 +1529,7 @@
       "doses": [
         "50MCG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
       "drug": "LATANOPROST/TIMOLOL",
@@ -1644,10 +1679,9 @@
       "drug": "LOSARTAN-HCTZ",
       "doses": [
         "100MG",
-        "12.5MG",
-        "50MG"
+        "12.5MG"
       ],
-      "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
     },
     {
       "drug": "LOVENOX HP",
@@ -1677,13 +1711,6 @@
         "0.35MG"
       ],
       "expectedBackInStockDate": "2026-05-10T04:00:00.000Z"
-    },
-    {
-      "drug": "MAVIK",
-      "doses": [
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-04-28T04:00:00.000Z"
     },
     {
       "drug": "MED-RIVASTIGMINE",
@@ -1728,7 +1755,7 @@
         "100MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
       "drug": "MIDAMOR",
@@ -1993,11 +2020,11 @@
       "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
     },
     {
-      "drug": "OSELTAMIVIR",
+      "drug": "ORENCIA",
       "doses": [
-        "75MG"
+        "250MG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
       "drug": "OVIDREL",
@@ -2292,7 +2319,7 @@
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-18T04:00:00.000Z"
     },
     {
       "drug": "RISEDRONATE",
@@ -2331,7 +2358,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
       "drug": "ROSUVASTATIN",
@@ -2383,13 +2410,6 @@
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
-      "drug": "SEROQUEL XR",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
-    },
-    {
       "drug": "SIMVASTATIN",
       "doses": [
         "10MG",
@@ -2413,7 +2433,7 @@
         "100MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
     },
     {
       "drug": "SITAGLIPTIN MALATE / METFORMIN",
@@ -2457,7 +2477,7 @@
       "doses": [
         "0.4MG"
       ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
       "drug": "TECNAL",
@@ -2698,7 +2718,7 @@
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "VALSARTAN HCT",
@@ -2747,6 +2767,13 @@
       "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
     },
     {
+      "drug": "VERAPAMIL SR",
+      "doses": [
+        "120MG"
+      ],
+      "expectedBackInStockDate": "2026-05-06T04:00:00.000Z"
+    },
+    {
       "drug": "VIAGRA",
       "doses": [
         "50MG"
@@ -2787,6 +2814,13 @@
         "1MG"
       ],
       "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+    },
+    {
+      "drug": "XYDALBA",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "ZOLMITRIPTAN",
