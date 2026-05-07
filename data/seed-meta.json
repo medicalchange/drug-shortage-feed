@@ -1,38 +1,288 @@
 {
-  "refreshedAt": "2026-05-06T10:12:43.346Z",
-  "count": 544,
-  "addedDrugsCount": 4,
+  "refreshedAt": "2026-05-07T10:18:27.690Z",
+  "count": 554,
+  "addedDrugsCount": 19,
   "addedDrugs": [
     {
-      "drug": "FUROSEMIDE",
+      "drug": "AMINOPHYLLINE INJ 25MG/ML",
       "doses": [
-        "40MG"
+        "25MG"
       ],
-      "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
-      "drug": "ORENCIA",
+      "drug": "AMOXICILLIN SODIUM AND POTASSIUM CLAVULANATE FOR INJECTION",
       "doses": [
-        "250MG"
+        "2000MG",
+        "200MG"
       ],
       "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
-      "drug": "VERAPAMIL SR",
+      "drug": "AZACITIDINE FOR INJECTION",
       "doses": [
-        "120MG"
+        "100MG"
       ],
-      "expectedBackInStockDate": "2026-05-06T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
-      "drug": "XYDALBA",
+      "drug": "CYCLOPHOSPHAMIDE FOR INJECTION USP",
       "doses": [
-        "500MG"
+        "1000MG",
+        "2000MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
+      "drug": "DILTIAZEM HYDROCHLORIDE INJECTION",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
+      "drug": "ENALAPRILAT INJECTION USP",
+      "doses": [
+        "1.25MG"
+      ],
+      "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
+    },
+    {
+      "drug": "GRANISETRON HYDROCHLORIDE INJECTION",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+    },
+    {
+      "drug": "HALOPERIDOL INJECTION",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
+    },
+    {
+      "drug": "IPRAVENT",
+      "doses": [
+        "42MCG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
+      "drug": "LOVASTATIN",
+      "doses": [
+        "20MG"
       ],
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+    },
+    {
+      "drug": "METHACHOLINE OMEGA",
+      "doses": [
+        "1600MG"
+      ],
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+    },
+    {
+      "drug": "OCTREOTIDE ACETATE OMEGA",
+      "doses": [
+        "100MCG",
+        "500MCG"
+      ],
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+    },
+    {
+      "drug": "PHENYLEPHRINE HYDROCHLORIDE INJECTION USP 1%",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-06-22T04:00:00.000Z"
+    },
+    {
+      "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE",
+      "doses": [
+        "200mEq"
+      ],
+      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+    },
+    {
+      "drug": "SCOPOLAMINE HYDROBROMIDE INJECTION",
+      "doses": [
+        "0.4MG"
+      ],
+      "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
+    },
+    {
+      "drug": "STERILE LIGHT MINERAL OIL 100%",
+      "doses": [
+        "100%"
+      ],
+      "expectedBackInStockDate": "2026-07-01T04:00:00.000Z"
+    },
+    {
+      "drug": "TETRACYCLINE",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+    },
+    {
+      "drug": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "drug": "TRANEXAMIC ACID INJECTION",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-07T10:18:27.690Z",
+      "addedDrugsCount": 19,
+      "addedDrugs": [
+        {
+          "drug": "AMINOPHYLLINE INJ 25MG/ML",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+        },
+        {
+          "drug": "AMOXICILLIN SODIUM AND POTASSIUM CLAVULANATE FOR INJECTION",
+          "doses": [
+            "2000MG",
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+        },
+        {
+          "drug": "AZACITIDINE FOR INJECTION",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+        },
+        {
+          "drug": "CYCLOPHOSPHAMIDE FOR INJECTION USP",
+          "doses": [
+            "1000MG",
+            "2000MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "DILTIAZEM HYDROCHLORIDE INJECTION",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+        },
+        {
+          "drug": "ENALAPRILAT INJECTION USP",
+          "doses": [
+            "1.25MG"
+          ],
+          "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
+        },
+        {
+          "drug": "GRANISETRON HYDROCHLORIDE INJECTION",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+        },
+        {
+          "drug": "HALOPERIDOL INJECTION",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
+        },
+        {
+          "drug": "IPRAVENT",
+          "doses": [
+            "42MCG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "LOVASTATIN",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+        },
+        {
+          "drug": "METHACHOLINE OMEGA",
+          "doses": [
+            "1600MG"
+          ],
+          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+        },
+        {
+          "drug": "OCTREOTIDE ACETATE OMEGA",
+          "doses": [
+            "100MCG",
+            "500MCG"
+          ],
+          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+        },
+        {
+          "drug": "PHENYLEPHRINE HYDROCHLORIDE INJECTION USP 1%",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-06-22T04:00:00.000Z"
+        },
+        {
+          "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE",
+          "doses": [
+            "200mEq"
+          ],
+          "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+        },
+        {
+          "drug": "SCOPOLAMINE HYDROBROMIDE INJECTION",
+          "doses": [
+            "0.4MG"
+          ],
+          "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
+        },
+        {
+          "drug": "STERILE LIGHT MINERAL OIL 100%",
+          "doses": [
+            "100%"
+          ],
+          "expectedBackInStockDate": "2026-07-01T04:00:00.000Z"
+        },
+        {
+          "drug": "TETRACYCLINE",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+        },
+        {
+          "drug": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+        },
+        {
+          "drug": "TRANEXAMIC ACID INJECTION",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-06T10:12:43.346Z",
       "addedDrugsCount": 4,
@@ -345,50 +595,6 @@
             "20MG"
           ],
           "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-04-23T09:22:26.421Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "BRIMONIDINE",
-          "doses": [
-            "0.2%"
-          ],
-          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-        },
-        {
-          "drug": "CEFADROXIL",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-        },
-        {
-          "drug": "CHLORAPREP",
-          "doses": [
-            "2%",
-            "70%"
-          ],
-          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-        },
-        {
-          "drug": "DONEPEZIL TABLETS",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-        },
-        {
-          "drug": "VAXNEUVANCE",
-          "doses": [
-            "2MCG",
-            "30MCG",
-            "4MCG"
-          ],
-          "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
         }
       ]
     }
