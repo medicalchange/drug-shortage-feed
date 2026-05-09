@@ -1,73 +1,90 @@
 {
-  "refreshedAt": "2026-05-08T09:11:23.886Z",
-  "count": 575,
-  "addedDrugsCount": 8,
+  "refreshedAt": "2026-05-09T09:13:35.532Z",
+  "count": 581,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "DOXORUBICIN HYDROCHLORIDE INJECTION",
+      "drug": "DANTROLENE SODIUM FOR INJECTION, USP",
       "doses": [
-        "2MG"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
-      "drug": "FLUVOXAMINE",
+      "drug": "MYXREDLIN",
       "doses": [
-        "50MG"
+        "1UNIT"
       ],
-      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
     },
     {
-      "drug": "METHADONE",
+      "drug": "NOREPINEPHRINE BITARTRATE IN 5% DEXTROSE INJECTION",
       "doses": [
-        "1MG"
+        "0.016MG"
       ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
     },
     {
-      "drug": "PAROXETINE",
+      "drug": "NRA-CITALOPRAM",
       "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-06-10T04:00:00.000Z"
-    },
-    {
-      "drug": "QUETIAPINE",
-      "doses": [
-        "25MG",
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
-    },
-    {
-      "drug": "ROPINIROLE",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
-    },
-    {
-      "drug": "TECNAL C 1/4",
-      "doses": [
-        "15MG",
-        "330MG",
-        "40MG",
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
-    },
-    {
-      "drug": "TEMOZOLOMIDE",
-      "doses": [
-        "100MG",
-        "140MG",
+        "10MG",
         "20MG",
-        "250MG"
+        "40MG"
       ],
-      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
+    },
+    {
+      "drug": "NRA-ZOLMITRIPTAN",
+      "doses": [
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-09T09:13:35.532Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "DANTROLENE SODIUM FOR INJECTION, USP",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+        },
+        {
+          "drug": "MYXREDLIN",
+          "doses": [
+            "1UNIT"
+          ],
+          "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
+        },
+        {
+          "drug": "NOREPINEPHRINE BITARTRATE IN 5% DEXTROSE INJECTION",
+          "doses": [
+            "0.016MG"
+          ],
+          "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
+        },
+        {
+          "drug": "NRA-CITALOPRAM",
+          "doses": [
+            "10MG",
+            "20MG",
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
+        },
+        {
+          "drug": "NRA-ZOLMITRIPTAN",
+          "doses": [
+            "2.5MG"
+          ],
+          "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-08T09:11:23.886Z",
       "addedDrugsCount": 8,
@@ -495,26 +512,6 @@
       "refreshedAt": "2026-04-26T08:54:22.226Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-04-25T08:44:43.317Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "TOUJEO SOLOSTAR",
-          "doses": [
-            "300UNIT"
-          ],
-          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-        },
-        {
-          "drug": "TRURAPI",
-          "doses": [
-            "100UNIT"
-          ],
-          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
