@@ -1,47 +1,14 @@
 {
-  "refreshedAt": "2026-05-09T09:13:35.532Z",
+  "refreshedAt": "2026-05-10T09:25:22.681Z",
   "count": 581,
-  "addedDrugsCount": 5,
-  "addedDrugs": [
-    {
-      "drug": "DANTROLENE SODIUM FOR INJECTION, USP",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    },
-    {
-      "drug": "MYXREDLIN",
-      "doses": [
-        "1UNIT"
-      ],
-      "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
-    },
-    {
-      "drug": "NOREPINEPHRINE BITARTRATE IN 5% DEXTROSE INJECTION",
-      "doses": [
-        "0.016MG"
-      ],
-      "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
-    },
-    {
-      "drug": "NRA-CITALOPRAM",
-      "doses": [
-        "10MG",
-        "20MG",
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
-    },
-    {
-      "drug": "NRA-ZOLMITRIPTAN",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-10T09:25:22.681Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-09T09:13:35.532Z",
       "addedDrugsCount": 5,
@@ -505,11 +472,6 @@
     },
     {
       "refreshedAt": "2026-04-27T10:09:53.866Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-04-26T08:54:22.226Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
