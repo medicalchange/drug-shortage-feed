@@ -1,9 +1,14 @@
 {
-  "refreshedAt": "2026-05-10T09:25:22.681Z",
+  "refreshedAt": "2026-05-11T10:56:30.315Z",
   "count": 581,
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-11T10:56:30.315Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-10T09:25:22.681Z",
       "addedDrugsCount": 0,
@@ -469,11 +474,6 @@
           "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-04-27T10:09:53.866Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
