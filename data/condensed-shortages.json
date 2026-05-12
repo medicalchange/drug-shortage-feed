@@ -1,10 +1,33 @@
 {
-  "count": 341,
-  "refreshedAt": "2026-05-11T10:56:30.315Z",
+  "count": 338,
+  "refreshedAt": "2026-05-12T10:27:29.934Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 1,
+  "addedDrugs": [
+    {
+      "drug": "LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE INJECTION USP",
+      "doses": [
+        "0.01MG",
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2027-06-15T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-12T10:27:29.934Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE INJECTION USP",
+          "doses": [
+            "0.01MG",
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2027-06-15T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-11T10:56:30.315Z",
       "addedDrugsCount": 0,
@@ -455,26 +478,6 @@
           "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-04-28T10:10:11.163Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CEFAZOLIN FOR INJECTION USP",
-          "doses": [
-            "1G"
-          ],
-          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-        },
-        {
-          "drug": "CILAZAPRIL",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -723,13 +726,6 @@
       "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
-      "drug": "AZITHROMYCIN FOR INJECTION, USP",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
-    },
-    {
       "drug": "BENAZEPRIL",
       "doses": [
         "20MG"
@@ -779,7 +775,7 @@
         "2.5MG",
         "3.5MG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "BOSENTAN",
@@ -875,12 +871,9 @@
     {
       "drug": "CANDESARTAN",
       "doses": [
-        "16MG",
-        "32MG",
-        "4MG",
-        "8MG"
+        "16MG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "CANDESARTAN PLUS",
@@ -900,10 +893,9 @@
     {
       "drug": "CARBAMAZEPINE",
       "doses": [
-        "100MG",
         "200MG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-10T04:00:00.000Z"
     },
     {
       "drug": "CEFADROXIL",
@@ -1371,7 +1363,7 @@
       "doses": [
         "75MCG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
       "drug": "FAMOTIDINE OMEGA -(WITHOUT PRESERVATIVE)",
@@ -1662,13 +1654,6 @@
       "expectedBackInStockDate": "2026-01-30T05:00:00.000Z"
     },
     {
-      "drug": "LATANOPROST",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
-    },
-    {
       "drug": "LATANOPROST/TIMOLOL",
       "doses": [
         "50MCG",
@@ -1697,7 +1682,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "LETROZOLE",
@@ -1750,12 +1735,12 @@
       "expectedBackInStockDate": "2026-01-16T05:00:00.000Z"
     },
     {
-      "drug": "LIDOCAINE INJECTION BP",
+      "drug": "LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE INJECTION USP",
       "doses": [
-        "1%",
-        "2%"
+        "0.01MG",
+        "20MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-06-15T04:00:00.000Z"
     },
     {
       "drug": "LISDEXAMFETAMINE CAPSULES",
@@ -1929,14 +1914,6 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-05-30T04:00:00.000Z"
-    },
-    {
-      "drug": "MIRAPEX",
-      "doses": [
-        "0.125MG",
-        "0.25MG"
-      ],
-      "expectedBackInStockDate": "2026-06-02T04:00:00.000Z"
     },
     {
       "drug": "MIRTAZAPINE",
@@ -2541,7 +2518,7 @@
         "2.5MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "RIZATRIPTAN ODT",
@@ -2842,10 +2819,9 @@
     {
       "drug": "TRAMADOL ER",
       "doses": [
-        "100MG",
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
     },
     {
       "drug": "TRAMADOL/ACETAMINOPHEN",

@@ -1,9 +1,32 @@
 {
-  "refreshedAt": "2026-05-11T10:56:30.315Z",
-  "count": 581,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-05-12T10:27:29.934Z",
+  "count": 570,
+  "addedDrugsCount": 1,
+  "addedDrugs": [
+    {
+      "drug": "LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE INJECTION USP",
+      "doses": [
+        "0.01MG",
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2027-06-15T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-12T10:27:29.934Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE INJECTION USP",
+          "doses": [
+            "0.01MG",
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2027-06-15T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-11T10:56:30.315Z",
       "addedDrugsCount": 0,
@@ -452,26 +475,6 @@
             "8MG"
           ],
           "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-04-28T10:10:11.163Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CEFAZOLIN FOR INJECTION USP",
-          "doses": [
-            "1G"
-          ],
-          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-        },
-        {
-          "drug": "CILAZAPRIL",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
         }
       ]
     }
