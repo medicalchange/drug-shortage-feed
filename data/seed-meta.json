@@ -1,18 +1,14 @@
 {
-  "refreshedAt": "2026-05-12T10:27:29.934Z",
-  "count": 570,
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE INJECTION USP",
-      "doses": [
-        "0.01MG",
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2027-06-15T04:00:00.000Z"
-    }
-  ],
+  "refreshedAt": "2026-05-13T10:17:59.482Z",
+  "count": 566,
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-13T10:17:59.482Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-12T10:27:29.934Z",
       "addedDrugsCount": 1,
@@ -454,27 +450,6 @@
             "0.03%"
           ],
           "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-04-29T10:01:32.537Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "DANTRIUM INTRAVENOUS",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
-        },
-        {
-          "drug": "PERINDOPRIL/INDAPAMIDE",
-          "doses": [
-            "2.5MG",
-            "8MG"
-          ],
-          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
         }
       ]
     }

@@ -1,5 +1,75 @@
 [
   {
+    "id": "shortage:217384",
+    "reportId": 217384,
+    "type": "shortage",
+    "brandName": "MINT-QUETIAPINE XR",
+    "status": "active_confirmed",
+    "din": "02522187",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2025-04-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-12T20:18:08.000Z",
+    "updateDate": "2026-05-12T20:18:08.000Z",
+    "postedDate": "2024-01-26T23:04:40.000Z"
+  },
+  {
+    "id": "shortage:217396",
+    "reportId": 217396,
+    "type": "shortage",
+    "brandName": "MINT-QUETIAPINE XR",
+    "status": "active_confirmed",
+    "din": "02522225",
+    "strength": "400MG",
+    "expectedBackInStockDate": "2026-08-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-12T20:17:39.000Z",
+    "updateDate": "2026-05-12T20:17:39.000Z",
+    "postedDate": "2024-01-26T23:12:51.000Z"
+  },
+  {
+    "id": "shortage:32274",
+    "reportId": 32274,
+    "type": "shortage",
+    "brandName": "MINT-LEVOCARB",
+    "status": "active_confirmed",
+    "din": "02457970",
+    "strength": "25MG\r\n250MG",
+    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-12T20:17:00.000Z",
+    "updateDate": "2026-05-12T20:17:00.000Z",
+    "postedDate": "2017-12-09T00:27:37.000Z"
+  },
+  {
+    "id": "shortage:217387",
+    "reportId": 217387,
+    "type": "shortage",
+    "brandName": "MINT-QUETIAPINE XR",
+    "status": "active_confirmed",
+    "din": "02522195",
+    "strength": "150MG",
+    "expectedBackInStockDate": "2026-08-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-12T20:15:12.000Z",
+    "updateDate": "2026-05-12T20:15:12.000Z",
+    "postedDate": "2024-01-26T23:06:52.000Z"
+  },
+  {
+    "id": "shortage:217366",
+    "reportId": 217366,
+    "type": "shortage",
+    "brandName": "MINT-ALENDRONATE",
+    "status": "active_confirmed",
+    "din": "02394871",
+    "strength": "70.0MG",
+    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-12T20:14:10.000Z",
+    "updateDate": "2026-05-12T20:14:10.000Z",
+    "postedDate": "2024-01-26T22:51:42.000Z"
+  },
+  {
     "id": "shortage:237266",
     "reportId": 237266,
     "type": "shortage",
@@ -1580,20 +1650,6 @@
     "updatedDate": "2026-05-06T19:22:59.000Z",
     "updateDate": "2026-05-06T19:22:59.000Z",
     "postedDate": "2026-05-06T19:22:20.000Z"
-  },
-  {
-    "id": "shortage:284610",
-    "reportId": 284610,
-    "type": "shortage",
-    "brandName": "OCTREOTIDE ACETATE OMEGA",
-    "status": "active_confirmed",
-    "din": "02248641",
-    "strength": "500MCG",
-    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-06T19:03:36.000Z",
-    "updateDate": "2026-05-06T19:03:36.000Z",
-    "postedDate": "2026-05-06T19:03:13.000Z"
   },
   {
     "id": "shortage:284607",
@@ -3974,20 +4030,6 @@
     "updatedDate": "2026-04-22T23:54:28.000Z",
     "updateDate": "2026-04-22T23:54:28.000Z",
     "postedDate": "2026-03-26T19:02:24.000Z"
-  },
-  {
-    "id": "shortage:283483",
-    "reportId": 283483,
-    "type": "shortage",
-    "brandName": "CHLORAPREP",
-    "status": "active_confirmed",
-    "din": "02484374",
-    "strength": "70%\r\n2%",
-    "expectedBackInStockDate": "2026-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-22T22:15:34.000Z",
-    "updateDate": "2026-04-22T22:15:34.000Z",
-    "postedDate": "2026-04-22T22:07:36.000Z"
   },
   {
     "id": "shortage:283475",
@@ -6986,34 +7028,6 @@
     "postedDate": "2025-11-04T11:28:34.000Z"
   },
   {
-    "id": "shortage:217366",
-    "reportId": 217366,
-    "type": "shortage",
-    "brandName": "MINT-ALENDRONATE",
-    "status": "active_confirmed",
-    "din": "02394871",
-    "strength": "70.0MG",
-    "expectedBackInStockDate": "2025-12-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-10-31T22:04:42.000Z",
-    "updateDate": "2025-10-31T22:04:42.000Z",
-    "postedDate": "2024-01-26T22:51:42.000Z"
-  },
-  {
-    "id": "shortage:217387",
-    "reportId": 217387,
-    "type": "shortage",
-    "brandName": "MINT-QUETIAPINE XR",
-    "status": "active_confirmed",
-    "din": "02522195",
-    "strength": "150MG",
-    "expectedBackInStockDate": "2025-12-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-10-31T22:04:24.000Z",
-    "updateDate": "2025-10-31T22:04:24.000Z",
-    "postedDate": "2024-01-26T23:06:52.000Z"
-  },
-  {
     "id": "shortage:217372",
     "reportId": 217372,
     "type": "shortage",
@@ -7686,20 +7700,6 @@
     "postedDate": "2025-02-12T00:32:46.000Z"
   },
   {
-    "id": "shortage:198075",
-    "reportId": 198075,
-    "type": "shortage",
-    "brandName": "PMS-QUINAPRIL",
-    "status": "active_confirmed",
-    "din": "02340550",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-01-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-06-09T17:10:54.000Z",
-    "updateDate": "2025-06-09T17:10:54.000Z",
-    "postedDate": "2023-07-11T00:17:16.000Z"
-  },
-  {
     "id": "shortage:226579",
     "reportId": 226579,
     "type": "shortage",
@@ -7840,34 +7840,6 @@
     "postedDate": "2023-12-05T23:30:47.000Z"
   },
   {
-    "id": "shortage:217396",
-    "reportId": 217396,
-    "type": "shortage",
-    "brandName": "MINT-QUETIAPINE XR",
-    "status": "active_confirmed",
-    "din": "02522225",
-    "strength": "400MG",
-    "expectedBackInStockDate": "2025-05-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-04-11T19:01:45.000Z",
-    "updateDate": "2025-04-11T19:01:45.000Z",
-    "postedDate": "2024-01-26T23:12:51.000Z"
-  },
-  {
-    "id": "shortage:217384",
-    "reportId": 217384,
-    "type": "shortage",
-    "brandName": "MINT-QUETIAPINE XR",
-    "status": "active_confirmed",
-    "din": "02522187",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2025-04-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-04-11T19:00:55.000Z",
-    "updateDate": "2025-04-11T19:00:55.000Z",
-    "postedDate": "2024-01-26T23:04:40.000Z"
-  },
-  {
     "id": "shortage:194525",
     "reportId": 194525,
     "type": "shortage",
@@ -7894,34 +7866,6 @@
     "updatedDate": "2025-03-05T18:09:33.000Z",
     "updateDate": "2025-03-05T18:09:33.000Z",
     "postedDate": "2022-04-08T20:25:49.000Z"
-  },
-  {
-    "id": "shortage:32274",
-    "reportId": 32274,
-    "type": "shortage",
-    "brandName": "MINT-LEVOCARB",
-    "status": "active_confirmed",
-    "din": "02457970",
-    "strength": "25MG\r\n250MG",
-    "expectedBackInStockDate": "2025-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-03-03T17:38:06.000Z",
-    "updateDate": "2025-03-03T17:38:06.000Z",
-    "postedDate": "2017-12-09T00:27:37.000Z"
-  },
-  {
-    "id": "shortage:32263",
-    "reportId": 32263,
-    "type": "shortage",
-    "brandName": "MINT-LEVOCARB",
-    "status": "active_confirmed",
-    "din": "02457954",
-    "strength": "10MG\r\n100MG",
-    "expectedBackInStockDate": "2025-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-03-03T17:36:14.000Z",
-    "updateDate": "2025-03-03T17:36:14.000Z",
-    "postedDate": "2017-12-09T00:23:19.000Z"
   },
   {
     "id": "shortage:188045",
