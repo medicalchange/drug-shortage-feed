@@ -1,19 +1,15 @@
 {
-  "count": 338,
-  "refreshedAt": "2026-05-12T10:27:29.934Z",
+  "count": 336,
+  "refreshedAt": "2026-05-13T10:17:59.482Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE INJECTION USP",
-      "doses": [
-        "0.01MG",
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2027-06-15T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-13T10:17:59.482Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-12T10:27:29.934Z",
       "addedDrugsCount": 1,
@@ -457,27 +453,6 @@
           "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-04-29T10:01:32.537Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "DANTRIUM INTRAVENOUS",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
-        },
-        {
-          "drug": "PERINDOPRIL/INDAPAMIDE",
-          "doses": [
-            "2.5MG",
-            "8MG"
-          ],
-          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -547,7 +522,7 @@
       "doses": [
         "70.0MG"
       ],
-      "expectedBackInStockDate": "2025-12-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "ALFUZOSIN",
@@ -933,14 +908,6 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-    },
-    {
-      "drug": "CHLORAPREP",
-      "doses": [
-        "2%",
-        "70%"
-      ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
       "drug": "CICLOPIROX",
@@ -1710,12 +1677,10 @@
     {
       "drug": "LEVOCARB",
       "doses": [
-        "100MG",
-        "10MG",
         "250MG",
         "25MG"
       ],
-      "expectedBackInStockDate": "2025-09-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
       "drug": "LEVOFLOXACIN",
@@ -2096,8 +2061,7 @@
     {
       "drug": "OCTREOTIDE ACETATE OMEGA",
       "doses": [
-        "100MCG",
-        "500MCG"
+        "100MCG"
       ],
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
@@ -2419,13 +2383,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2025-04-30T04:00:00.000Z"
-    },
-    {
-      "drug": "QUINAPRIL",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-01-31T05:00:00.000Z"
     },
     {
       "drug": "QUININE",
