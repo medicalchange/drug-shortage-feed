@@ -1,9 +1,60 @@
 {
-  "refreshedAt": "2026-05-13T10:17:59.482Z",
-  "count": 566,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-05-14T10:10:59.847Z",
+  "count": 572,
+  "addedDrugsCount": 3,
+  "addedDrugs": [
+    {
+      "drug": "CANAGLIFLOZIN",
+      "doses": [
+        "100MG",
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+    },
+    {
+      "drug": "CARVEDILOL",
+      "doses": [
+        "3.125MG"
+      ],
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+    },
+    {
+      "drug": "RESONIUM CALCIUM",
+      "doses": [
+        "999MG"
+      ],
+      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-14T10:10:59.847Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "CANAGLIFLOZIN",
+          "doses": [
+            "100MG",
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+        },
+        {
+          "drug": "CARVEDILOL",
+          "doses": [
+            "3.125MG"
+          ],
+          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+        },
+        {
+          "drug": "RESONIUM CALCIUM",
+          "doses": [
+            "999MG"
+          ],
+          "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-13T10:17:59.482Z",
       "addedDrugsCount": 0,
@@ -401,55 +452,6 @@
             "0.5MG"
           ],
           "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-04-30T10:02:55.425Z",
-      "addedDrugsCount": 6,
-      "addedDrugs": [
-        {
-          "drug": "AMOXICILLIN",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-        },
-        {
-          "drug": "COMBIGAN",
-          "doses": [
-            "0.2%",
-            "0.5%"
-          ],
-          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-        },
-        {
-          "drug": "DIMENHYDRINATE INJECTION USP",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
-        },
-        {
-          "drug": "ENTACAPONE",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-        },
-        {
-          "drug": "LENALIDOMIDE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-        },
-        {
-          "drug": "VISTITAN",
-          "doses": [
-            "0.03%"
-          ],
-          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
         }
       ]
     }
