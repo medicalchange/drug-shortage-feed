@@ -1,33 +1,59 @@
 {
-  "count": 337,
-  "refreshedAt": "2026-05-14T10:10:59.847Z",
+  "count": 340,
+  "refreshedAt": "2026-05-15T10:17:00.854Z",
   "source": "github-static-seed",
   "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "CANAGLIFLOZIN",
+      "drug": "ACETAMINOPHEN TABLETS USP 325 MG",
       "doses": [
-        "100MG",
-        "300MG"
+        "325MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
-      "drug": "CARVEDILOL",
+      "drug": "CEFEPIME",
       "doses": [
-        "3.125MG"
+        "1G"
       ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
-      "drug": "RESONIUM CALCIUM",
+      "drug": "TICAGRELOR",
       "doses": [
-        "999MG"
+        "90MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-15T10:17:00.854Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "ACETAMINOPHEN TABLETS USP 325 MG",
+          "doses": [
+            "325MG"
+          ],
+          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+        },
+        {
+          "drug": "CEFEPIME",
+          "doses": [
+            "1G"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "TICAGRELOR",
+          "doses": [
+            "90MG"
+          ],
+          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-14T10:10:59.847Z",
       "addedDrugsCount": 3,
@@ -392,69 +418,6 @@
       "refreshedAt": "2026-05-02T09:00:34.099Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-01T09:29:03.570Z",
-      "addedDrugsCount": 8,
-      "addedDrugs": [
-        {
-          "drug": "CEFTRIAXONE FOR INJECTION",
-          "doses": [
-            "100G"
-          ],
-          "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
-        },
-        {
-          "drug": "DAPAGLIFLOZIN-METFORMIN",
-          "doses": [
-            "1000MG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-        },
-        {
-          "drug": "MESNA FOR INJECTION",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-        },
-        {
-          "drug": "MIDAMOR",
-          "doses": [
-            "5.0MG"
-          ],
-          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-        },
-        {
-          "drug": "PACLITAXEL POWDER FOR INJECTABLE SUSPENSION NANOPARTICLE, ALBUMIN-BOUND PACLITAXEL",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-        },
-        {
-          "drug": "PHENYTOIN SODIUM",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-05-07T04:00:00.000Z"
-        },
-        {
-          "drug": "TRYPTOPHAN",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-        },
-        {
-          "drug": "VARENICLINE",
-          "doses": [
-            "0.5MG"
-          ],
-          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -464,6 +427,13 @@
         "80MG"
       ],
       "expectedBackInStockDate": "2026-04-11T04:00:00.000Z"
+    },
+    {
+      "drug": "ACETAMINOPHEN TABLETS USP 325 MG",
+      "doses": [
+        "325MG"
+      ],
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
       "drug": "ACETAMINOPHEN TABLETS USP 500 MG",
@@ -499,7 +469,7 @@
       "doses": [
         "5%"
       ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR SODIUM INJECTION",
@@ -545,7 +515,7 @@
       "doses": [
         "200MG"
       ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "ALMOTRIPTAN",
@@ -663,7 +633,7 @@
         "2MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
       "drug": "ATENIDONE",
@@ -889,11 +859,18 @@
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
+      "drug": "CEFEPIME",
+      "doses": [
+        "1G"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
       "drug": "CEFIXIME",
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "CEFTIN",
@@ -916,7 +893,7 @@
         "250MG",
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-18T04:00:00.000Z"
     },
     {
       "drug": "CICLOPIROX",
@@ -1018,7 +995,7 @@
       "doses": [
         "110MG"
       ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "DANTRIUM INTRAVENOUS",
@@ -1388,7 +1365,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "FLUOXETINE",
@@ -1494,9 +1471,10 @@
       "drug": "HYDROMORPHONE",
       "doses": [
         "1MG",
+        "4MG",
         "8MG"
       ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "IFEX",
@@ -1856,7 +1834,7 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
       "drug": "METHYLPHENIDATE CR",
@@ -2725,6 +2703,13 @@
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
+      "drug": "TICAGRELOR",
+      "doses": [
+        "90MG"
+      ],
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+    },
+    {
       "drug": "TIMOLOL",
       "doses": [
         "0.5%"
@@ -2818,7 +2803,7 @@
         "0.004%",
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
     {
       "drug": "TRAZODONE",
