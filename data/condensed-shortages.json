@@ -1,32 +1,15 @@
 {
-  "count": 340,
-  "refreshedAt": "2026-05-15T10:17:00.854Z",
+  "count": 339,
+  "refreshedAt": "2026-05-16T09:26:00.977Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 3,
-  "addedDrugs": [
-    {
-      "drug": "ACETAMINOPHEN TABLETS USP 325 MG",
-      "doses": [
-        "325MG"
-      ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-    },
-    {
-      "drug": "CEFEPIME",
-      "doses": [
-        "1G"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "TICAGRELOR",
-      "doses": [
-        "90MG"
-      ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-16T09:26:00.977Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-15T10:17:00.854Z",
       "addedDrugsCount": 3,
@@ -411,11 +394,6 @@
     },
     {
       "refreshedAt": "2026-05-03T09:18:27.638Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-02T09:00:34.099Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
@@ -1026,7 +1004,7 @@
         "5MG",
         "850MG"
       ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
     },
     {
       "drug": "DASATINIB",
@@ -2159,7 +2137,7 @@
         "325MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
     {
       "drug": "PACLITAXEL POWDER FOR INJECTABLE SUSPENSION NANOPARTICLE, ALBUMIN-BOUND PACLITAXEL",
@@ -2892,7 +2870,7 @@
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-30T05:00:00.000Z"
     },
     {
       "drug": "VALPROIC ACID ORAL SOLUTION",
@@ -2996,13 +2974,6 @@
         "1MG"
       ],
       "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-    },
-    {
-      "drug": "XYDALBA",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "ZOLMITRIPTAN",

@@ -1,5 +1,61 @@
 [
   {
+    "id": "shortage:283082",
+    "reportId": 283082,
+    "type": "shortage",
+    "brandName": "APO-OXYCODONE/ACET",
+    "status": "active_confirmed",
+    "din": "02324628",
+    "strength": "325MG\r\n5MG",
+    "expectedBackInStockDate": "2026-06-05T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-16T00:17:49.000Z",
+    "updateDate": "2026-05-16T00:17:49.000Z",
+    "postedDate": "2026-04-16T23:25:23.000Z"
+  },
+  {
+    "id": "shortage:278045",
+    "reportId": 278045,
+    "type": "shortage",
+    "brandName": "APO-OXYCODONE/ACET",
+    "status": "active_confirmed",
+    "din": "02324628",
+    "strength": "325MG\r\n5MG",
+    "expectedBackInStockDate": "2026-06-05T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-16T00:17:18.000Z",
+    "updateDate": "2026-05-16T00:17:18.000Z",
+    "postedDate": "2026-02-13T01:38:34.000Z"
+  },
+  {
+    "id": "shortage:283598",
+    "reportId": 283598,
+    "type": "shortage",
+    "brandName": "APO-DAPAGLIFLOZIN-METFORMIN",
+    "status": "active_confirmed",
+    "din": "02536161",
+    "strength": "1000MG\r\n5MG",
+    "expectedBackInStockDate": "2026-05-22T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-16T00:16:39.000Z",
+    "updateDate": "2026-05-16T00:16:39.000Z",
+    "postedDate": "2026-04-23T19:08:49.000Z"
+  },
+  {
+    "id": "shortage:252745",
+    "reportId": 252745,
+    "type": "shortage",
+    "brandName": "PMS-VALPROIC ACID",
+    "status": "active_confirmed",
+    "din": "02230768",
+    "strength": "250MG",
+    "expectedBackInStockDate": "2026-12-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-15T17:33:24.000Z",
+    "updateDate": "2026-05-15T17:33:24.000Z",
+    "postedDate": "2025-03-17T17:43:18.000Z"
+  },
+  {
     "id": "shortage:280173",
     "reportId": 280173,
     "type": "shortage",
@@ -572,20 +628,6 @@
     "updatedDate": "2026-05-14T02:23:42.000Z",
     "updateDate": "2026-05-14T02:23:42.000Z",
     "postedDate": "2025-11-04T10:24:21.000Z"
-  },
-  {
-    "id": "shortage:270968",
-    "reportId": 270968,
-    "type": "shortage",
-    "brandName": "ESOMEPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02520702",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-05-22T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-14T02:22:47.000Z",
-    "updateDate": "2026-05-14T02:22:47.000Z",
-    "postedDate": "2025-11-04T09:34:52.000Z"
   },
   {
     "id": "shortage:280958",
@@ -1456,20 +1498,6 @@
     "postedDate": "2026-05-07T22:51:49.000Z"
   },
   {
-    "id": "shortage:280997",
-    "reportId": 280997,
-    "type": "shortage",
-    "brandName": "XYDALBA",
-    "status": "active_confirmed",
-    "din": "02480522",
-    "strength": "500MG",
-    "expectedBackInStockDate": "2026-05-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-07T21:41:04.000Z",
-    "updateDate": "2026-05-07T21:41:04.000Z",
-    "postedDate": "2026-03-21T00:13:13.000Z"
-  },
-  {
     "id": "shortage:283085",
     "reportId": 283085,
     "type": "shortage",
@@ -1524,34 +1552,6 @@
     "updatedDate": "2026-05-07T19:28:01.000Z",
     "updateDate": "2026-05-07T19:28:01.000Z",
     "postedDate": "2026-04-09T00:11:35.000Z"
-  },
-  {
-    "id": "shortage:278045",
-    "reportId": 278045,
-    "type": "shortage",
-    "brandName": "APO-OXYCODONE/ACET",
-    "status": "active_confirmed",
-    "din": "02324628",
-    "strength": "325MG\r\n5MG",
-    "expectedBackInStockDate": "2026-05-22T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-07T19:27:25.000Z",
-    "updateDate": "2026-05-07T19:27:25.000Z",
-    "postedDate": "2026-02-13T01:38:34.000Z"
-  },
-  {
-    "id": "shortage:283082",
-    "reportId": 283082,
-    "type": "shortage",
-    "brandName": "APO-OXYCODONE/ACET",
-    "status": "active_confirmed",
-    "din": "02324628",
-    "strength": "325MG\r\n5MG",
-    "expectedBackInStockDate": "2026-05-22T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-07T19:27:23.000Z",
-    "updateDate": "2026-05-07T19:27:23.000Z",
-    "postedDate": "2026-04-16T23:25:23.000Z"
   },
   {
     "id": "shortage:273348",
@@ -3106,20 +3106,6 @@
     "updatedDate": "2026-05-01T01:02:37.000Z",
     "updateDate": "2026-05-01T01:02:37.000Z",
     "postedDate": "2026-05-01T01:02:22.000Z"
-  },
-  {
-    "id": "shortage:283598",
-    "reportId": 283598,
-    "type": "shortage",
-    "brandName": "APO-DAPAGLIFLOZIN-METFORMIN",
-    "status": "active_confirmed",
-    "din": "02536161",
-    "strength": "1000MG\r\n5MG",
-    "expectedBackInStockDate": "2026-05-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-01T00:58:30.000Z",
-    "updateDate": "2026-05-01T00:58:30.000Z",
-    "postedDate": "2026-04-23T19:08:49.000Z"
   },
   {
     "id": "shortage:280851",
@@ -6438,20 +6424,6 @@
     "updatedDate": "2026-03-11T20:50:03.000Z",
     "updateDate": "2026-03-11T20:50:03.000Z",
     "postedDate": "2026-03-11T20:49:54.000Z"
-  },
-  {
-    "id": "shortage:252745",
-    "reportId": 252745,
-    "type": "shortage",
-    "brandName": "PMS-VALPROIC ACID",
-    "status": "active_confirmed",
-    "din": "02230768",
-    "strength": "250MG",
-    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-11T16:33:30.000Z",
-    "updateDate": "2026-03-11T16:33:30.000Z",
-    "postedDate": "2025-03-17T17:43:18.000Z"
   },
   {
     "id": "shortage:278872",
