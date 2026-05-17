@@ -1,9 +1,14 @@
 {
-  "refreshedAt": "2026-05-16T09:26:00.977Z",
+  "refreshedAt": "2026-05-17T09:42:40.495Z",
   "count": 575,
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-17T09:42:40.495Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-16T09:26:00.977Z",
       "addedDrugsCount": 0,
@@ -388,11 +393,6 @@
     },
     {
       "refreshedAt": "2026-05-04T10:08:48.094Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-03T09:18:27.638Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
