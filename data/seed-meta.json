@@ -1,9 +1,222 @@
 {
-  "refreshedAt": "2026-05-19T10:58:08.884Z",
-  "count": 575,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-05-20T10:45:40.101Z",
+  "count": 604,
+  "addedDrugsCount": 14,
+  "addedDrugs": [
+    {
+      "drug": "BETADERM CRM 0.1%",
+      "doses": [
+        "0.1%"
+      ],
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+    },
+    {
+      "drug": "CIPROFLOXACIN/DEXAMETHASONE",
+      "doses": [
+        "0.1%",
+        "0.3%"
+      ],
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+    },
+    {
+      "drug": "CLOMIPRAMINE",
+      "doses": [
+        "25MG",
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "CORZYNA",
+      "doses": [
+        "1000MG"
+      ],
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "drug": "CYPROTERONE/ETHINYL ESTRADIOL",
+      "doses": [
+        "0.035MG",
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "LURASIDONE",
+      "doses": [
+        "120MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "MOMETASONE CREAM",
+      "doses": [
+        "0.1%"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
+      "drug": "PERAMPANEL",
+      "doses": [
+        "12MG",
+        "6MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
+      "drug": "RAMIPRIL HCTZ",
+      "doses": [
+        "10MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "SOLIFENACIN",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
+      "drug": "TADALAFIL",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "TESTOSTERONE",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
+      "drug": "TESTOSTERONE GEL",
+      "doses": [
+        "1%"
+      ],
+      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+    },
+    {
+      "drug": "VALSARTAN",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-20T10:45:40.101Z",
+      "addedDrugsCount": 14,
+      "addedDrugs": [
+        {
+          "drug": "BETADERM CRM 0.1%",
+          "doses": [
+            "0.1%"
+          ],
+          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+        },
+        {
+          "drug": "CIPROFLOXACIN/DEXAMETHASONE",
+          "doses": [
+            "0.1%",
+            "0.3%"
+          ],
+          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+        },
+        {
+          "drug": "CLOMIPRAMINE",
+          "doses": [
+            "25MG",
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "CORZYNA",
+          "doses": [
+            "1000MG"
+          ],
+          "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+        },
+        {
+          "drug": "CYPROTERONE/ETHINYL ESTRADIOL",
+          "doses": [
+            "0.035MG",
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "LURASIDONE",
+          "doses": [
+            "120MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "MOMETASONE CREAM",
+          "doses": [
+            "0.1%"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "PERAMPANEL",
+          "doses": [
+            "12MG",
+            "6MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "RAMIPRIL HCTZ",
+          "doses": [
+            "10MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "SOLIFENACIN",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "TADALAFIL",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "TESTOSTERONE",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "TESTOSTERONE GEL",
+          "doses": [
+            "1%"
+          ],
+          "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+        },
+        {
+          "drug": "VALSARTAN",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-19T10:58:08.884Z",
       "addedDrugsCount": 0,
@@ -359,40 +572,6 @@
             "100MG"
           ],
           "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-05-06T10:12:43.346Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "FUROSEMIDE",
-          "doses": [
-            "40MG"
-          ],
-          "expectedBackInStockDate": "2026-05-05T04:00:00.000Z"
-        },
-        {
-          "drug": "ORENCIA",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
-        },
-        {
-          "drug": "VERAPAMIL SR",
-          "doses": [
-            "120MG"
-          ],
-          "expectedBackInStockDate": "2026-05-06T04:00:00.000Z"
-        },
-        {
-          "drug": "XYDALBA",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
         }
       ]
     }
