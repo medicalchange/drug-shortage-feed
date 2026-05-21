@@ -1,113 +1,78 @@
 {
-  "refreshedAt": "2026-05-20T10:45:40.101Z",
-  "count": 604,
-  "addedDrugsCount": 14,
+  "refreshedAt": "2026-05-21T11:16:49.292Z",
+  "count": 595,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "BETADERM CRM 0.1%",
-      "doses": [
-        "0.1%"
-      ],
-      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-    },
-    {
-      "drug": "CIPROFLOXACIN/DEXAMETHASONE",
-      "doses": [
-        "0.1%",
-        "0.3%"
-      ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
-    },
-    {
-      "drug": "CLOMIPRAMINE",
-      "doses": [
-        "25MG",
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    },
-    {
-      "drug": "CORZYNA",
-      "doses": [
-        "1000MG"
-      ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
-    },
-    {
-      "drug": "CYPROTERONE/ETHINYL ESTRADIOL",
-      "doses": [
-        "0.035MG",
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    },
-    {
-      "drug": "LURASIDONE",
-      "doses": [
-        "120MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    },
-    {
-      "drug": "MOMETASONE CREAM",
-      "doses": [
-        "0.1%"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "PERAMPANEL",
-      "doses": [
-        "12MG",
-        "6MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "RAMIPRIL HCTZ",
+      "drug": "ARIDOL",
       "doses": [
         "10MG",
-        "25MG"
+        "20MG",
+        "40MG",
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
     },
     {
-      "drug": "SOLIFENACIN",
+      "drug": "BECLO AQ",
       "doses": [
-        "10MG"
+        "50MCG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
-      "drug": "TADALAFIL",
+      "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
       "doses": [
-        "20MG"
+        "0.12%"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-03T04:00:00.000Z"
     },
     {
-      "drug": "TESTOSTERONE",
+      "drug": "GLYCOPYRROLATE INJECTION",
       "doses": [
-        "40MG"
+        "0.2MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "TESTOSTERONE GEL",
-      "doses": [
-        "1%"
-      ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-    },
-    {
-      "drug": "VALSARTAN",
-      "doses": [
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-21T11:16:49.292Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "ARIDOL",
+          "doses": [
+            "10MG",
+            "20MG",
+            "40MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+        },
+        {
+          "drug": "BECLO AQ",
+          "doses": [
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+        },
+        {
+          "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
+          "doses": [
+            "0.12%"
+          ],
+          "expectedBackInStockDate": "2026-06-03T04:00:00.000Z"
+        },
+        {
+          "drug": "GLYCOPYRROLATE INJECTION",
+          "doses": [
+            "0.2MG"
+          ],
+          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-20T10:45:40.101Z",
       "addedDrugsCount": 14,
@@ -430,148 +395,6 @@
             "250MG"
           ],
           "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-05-07T10:18:27.690Z",
-      "addedDrugsCount": 19,
-      "addedDrugs": [
-        {
-          "drug": "AMINOPHYLLINE INJ 25MG/ML",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-        },
-        {
-          "drug": "AMOXICILLIN SODIUM AND POTASSIUM CLAVULANATE FOR INJECTION",
-          "doses": [
-            "2000MG",
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
-        },
-        {
-          "drug": "AZACITIDINE FOR INJECTION",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-        },
-        {
-          "drug": "CYCLOPHOSPHAMIDE FOR INJECTION USP",
-          "doses": [
-            "1000MG",
-            "2000MG"
-          ],
-          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-        },
-        {
-          "drug": "DILTIAZEM HYDROCHLORIDE INJECTION",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-        },
-        {
-          "drug": "ENALAPRILAT INJECTION USP",
-          "doses": [
-            "1.25MG"
-          ],
-          "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
-        },
-        {
-          "drug": "GRANISETRON HYDROCHLORIDE INJECTION",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-        },
-        {
-          "drug": "HALOPERIDOL INJECTION",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
-        },
-        {
-          "drug": "IPRAVENT",
-          "doses": [
-            "42MCG"
-          ],
-          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-        },
-        {
-          "drug": "LOVASTATIN",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
-        },
-        {
-          "drug": "METHACHOLINE OMEGA",
-          "doses": [
-            "1600MG"
-          ],
-          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-        },
-        {
-          "drug": "OCTREOTIDE ACETATE OMEGA",
-          "doses": [
-            "100MCG",
-            "500MCG"
-          ],
-          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-        },
-        {
-          "drug": "PHENYLEPHRINE HYDROCHLORIDE INJECTION USP 1%",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-06-22T04:00:00.000Z"
-        },
-        {
-          "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE",
-          "doses": [
-            "200mEq"
-          ],
-          "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
-        },
-        {
-          "drug": "SCOPOLAMINE HYDROBROMIDE INJECTION",
-          "doses": [
-            "0.4MG"
-          ],
-          "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
-        },
-        {
-          "drug": "STERILE LIGHT MINERAL OIL 100%",
-          "doses": [
-            "100%"
-          ],
-          "expectedBackInStockDate": "2026-07-01T04:00:00.000Z"
-        },
-        {
-          "drug": "TETRACYCLINE",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-        },
-        {
-          "drug": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-        },
-        {
-          "drug": "TRANEXAMIC ACID INJECTION",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
         }
       ]
     }
