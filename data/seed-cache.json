@@ -1,5 +1,47 @@
 [
   {
+    "id": "shortage:278714",
+    "reportId": 278714,
+    "type": "shortage",
+    "brandName": "MESNA FOR INJECTION",
+    "status": "active_confirmed",
+    "din": "02244931",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-23T01:16:06.000Z",
+    "updateDate": "2026-05-23T01:16:06.000Z",
+    "postedDate": "2026-02-24T01:14:48.000Z"
+  },
+  {
+    "id": "shortage:282523",
+    "reportId": 282523,
+    "type": "shortage",
+    "brandName": "PMS-METHYLPHENIDATE CR",
+    "status": "active_confirmed",
+    "din": "02536994",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-06-01T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-22T19:49:04.000Z",
+    "updateDate": "2026-05-22T19:49:04.000Z",
+    "postedDate": "2026-04-09T17:26:49.000Z"
+  },
+  {
+    "id": "shortage:284913",
+    "reportId": 284913,
+    "type": "shortage",
+    "brandName": "GLN-OLMESARTAN",
+    "status": "active_confirmed",
+    "din": "02469820",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-06-20T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-22T18:00:07.000Z",
+    "updateDate": "2026-05-22T18:00:07.000Z",
+    "postedDate": "2026-05-08T19:46:34.000Z"
+  },
+  {
     "id": "shortage:285730",
     "reportId": 285730,
     "type": "shortage",
@@ -2520,20 +2562,6 @@
     "postedDate": "2026-05-01T18:32:16.000Z"
   },
   {
-    "id": "shortage:284913",
-    "reportId": 284913,
-    "type": "shortage",
-    "brandName": "GLN-OLMESARTAN",
-    "status": "active_confirmed",
-    "din": "02469820",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-05-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-08T19:47:26.000Z",
-    "updateDate": "2026-05-08T19:47:26.000Z",
-    "postedDate": "2026-05-08T19:46:34.000Z"
-  },
-  {
     "id": "shortage:271370",
     "reportId": 271370,
     "type": "shortage",
@@ -3330,20 +3358,6 @@
     "updatedDate": "2026-05-07T17:35:46.000Z",
     "updateDate": "2026-05-07T17:35:46.000Z",
     "postedDate": "2026-04-23T18:44:41.000Z"
-  },
-  {
-    "id": "shortage:281405",
-    "reportId": 281405,
-    "type": "shortage",
-    "brandName": "PMS-METHYLPHENIDATE CR",
-    "status": "active_confirmed",
-    "din": "02537028",
-    "strength": "60MG",
-    "expectedBackInStockDate": "2026-08-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-07T00:05:36.000Z",
-    "updateDate": "2026-05-07T00:05:36.000Z",
-    "postedDate": "2026-03-26T02:30:01.000Z"
   },
   {
     "id": "shortage:284702",
@@ -4242,20 +4256,6 @@
     "postedDate": "2026-01-15T08:36:13.000Z"
   },
   {
-    "id": "shortage:278714",
-    "reportId": 278714,
-    "type": "shortage",
-    "brandName": "MESNA FOR INJECTION",
-    "status": "active_confirmed",
-    "din": "02244931",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-05-29T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-30T21:01:42.000Z",
-    "updateDate": "2026-04-30T21:01:42.000Z",
-    "postedDate": "2026-02-24T01:14:48.000Z"
-  },
-  {
     "id": "shortage:284052",
     "reportId": 284052,
     "type": "shortage",
@@ -4618,20 +4618,6 @@
     "updatedDate": "2026-04-24T17:09:58.000Z",
     "updateDate": "2026-04-24T17:09:58.000Z",
     "postedDate": "2025-11-18T01:47:01.000Z"
-  },
-  {
-    "id": "shortage:272039",
-    "reportId": 272039,
-    "type": "shortage",
-    "brandName": "PMS-METHYLPHENIDATE CR",
-    "status": "active_confirmed",
-    "din": "02536951",
-    "strength": "15MG",
-    "expectedBackInStockDate": "2026-10-03T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-24T17:08:50.000Z",
-    "updateDate": "2026-04-24T17:08:50.000Z",
-    "postedDate": "2025-11-18T01:11:19.000Z"
   },
   {
     "id": "shortage:266032",

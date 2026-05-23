@@ -1,67 +1,15 @@
 {
   "count": 349,
-  "refreshedAt": "2026-05-22T10:45:02.760Z",
+  "refreshedAt": "2026-05-23T09:46:31.146Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 8,
-  "addedDrugs": [
-    {
-      "drug": "ALPRAZ",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "DICLOFENAC RAPIDE",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-    },
-    {
-      "drug": "ESTRADOT 25",
-      "doses": [
-        "25MCG"
-      ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-    },
-    {
-      "drug": "ESTRADOT 75",
-      "doses": [
-        "75MCG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "GLYCOPYRROLATE INJECTION USP",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "LATANOPROST",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-    },
-    {
-      "drug": "ONDANSETRON HYDROCHLORIDE DIHYDRATE INJECTION",
-      "doses": [
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "PREDNISOLONE",
-      "doses": [
-        "1%"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-23T09:46:31.146Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-22T10:45:02.760Z",
       "addedDrugsCount": 8,
@@ -373,49 +321,6 @@
       "refreshedAt": "2026-05-10T09:25:22.681Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-09T09:13:35.532Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "DANTROLENE SODIUM FOR INJECTION, USP",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-        },
-        {
-          "drug": "MYXREDLIN",
-          "doses": [
-            "1UNIT"
-          ],
-          "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
-        },
-        {
-          "drug": "NOREPINEPHRINE BITARTRATE IN 5% DEXTROSE INJECTION",
-          "doses": [
-            "0.016MG"
-          ],
-          "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
-        },
-        {
-          "drug": "NRA-CITALOPRAM",
-          "doses": [
-            "10MG",
-            "20MG",
-            "40MG"
-          ],
-          "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
-        },
-        {
-          "drug": "NRA-ZOLMITRIPTAN",
-          "doses": [
-            "2.5MG"
-          ],
-          "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -1880,7 +1785,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "METFORMIN ER",
@@ -1906,12 +1811,11 @@
     {
       "drug": "METHYLPHENIDATE CR",
       "doses": [
-        "15MG",
         "20MG",
-        "60MG",
+        "40MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
     },
     {
       "drug": "METOPROLOL-L",
