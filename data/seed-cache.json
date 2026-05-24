@@ -1,5 +1,19 @@
 [
   {
+    "id": "shortage:276079",
+    "reportId": 276079,
+    "type": "shortage",
+    "brandName": "ACETAMINOPHEN TABLETS USP 500 MG",
+    "status": "active_confirmed",
+    "din": "02362244",
+    "strength": "500MG",
+    "expectedBackInStockDate": "2026-05-29T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-05-23T17:51:34.000Z",
+    "updateDate": "2026-05-23T17:51:34.000Z",
+    "postedDate": "2026-01-15T20:27:27.000Z"
+  },
+  {
     "id": "shortage:278714",
     "reportId": 278714,
     "type": "shortage",
@@ -1792,20 +1806,6 @@
     "postedDate": "2026-03-26T23:15:00.000Z"
   },
   {
-    "id": "shortage:271937",
-    "reportId": 271937,
-    "type": "shortage",
-    "brandName": "APO-ESOMEPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02339099",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-05-22T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-14T19:25:36.000Z",
-    "updateDate": "2026-05-14T19:25:36.000Z",
-    "postedDate": "2025-11-15T03:16:02.000Z"
-  },
-  {
     "id": "shortage:283658",
     "reportId": 283658,
     "type": "shortage",
@@ -2980,20 +2980,6 @@
     "updatedDate": "2026-05-07T18:01:57.000Z",
     "updateDate": "2026-05-07T18:01:57.000Z",
     "postedDate": "2026-03-12T21:13:03.000Z"
-  },
-  {
-    "id": "shortage:283677",
-    "reportId": 283677,
-    "type": "shortage",
-    "brandName": "APO-DAPAGLIFLOZIN",
-    "status": "active_confirmed",
-    "din": "02527197",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-05-29T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-07T18:01:32.000Z",
-    "updateDate": "2026-05-07T18:01:32.000Z",
-    "postedDate": "2026-04-23T23:28:41.000Z"
   },
   {
     "id": "shortage:269214",
@@ -4212,20 +4198,6 @@
     "updatedDate": "2026-05-01T00:41:49.000Z",
     "updateDate": "2026-05-01T00:41:49.000Z",
     "postedDate": "2026-02-20T01:20:15.000Z"
-  },
-  {
-    "id": "shortage:276079",
-    "reportId": 276079,
-    "type": "shortage",
-    "brandName": "ACETAMINOPHEN TABLETS USP 500 MG",
-    "status": "active_confirmed",
-    "din": "02362244",
-    "strength": "500MG",
-    "expectedBackInStockDate": "2026-05-22T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-01T00:41:20.000Z",
-    "updateDate": "2026-05-01T00:41:20.000Z",
-    "postedDate": "2026-01-15T20:27:27.000Z"
   },
   {
     "id": "shortage:265976",
@@ -6914,20 +6886,6 @@
     "updatedDate": "2026-03-12T00:35:42.000Z",
     "updateDate": "2026-03-12T00:35:42.000Z",
     "postedDate": "2025-12-11T21:06:35.000Z"
-  },
-  {
-    "id": "shortage:280283",
-    "reportId": 280283,
-    "type": "shortage",
-    "brandName": "APO-OLANZAPINE",
-    "status": "active_confirmed",
-    "din": "02281791",
-    "strength": "2.5MG",
-    "expectedBackInStockDate": "2026-05-22T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-11T20:50:03.000Z",
-    "updateDate": "2026-03-11T20:50:03.000Z",
-    "postedDate": "2026-03-11T20:49:54.000Z"
   },
   {
     "id": "shortage:278872",

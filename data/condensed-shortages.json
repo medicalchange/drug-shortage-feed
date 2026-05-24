@@ -1,10 +1,15 @@
 {
   "count": 349,
-  "refreshedAt": "2026-05-23T09:46:31.146Z",
+  "refreshedAt": "2026-05-24T09:50:30.928Z",
   "source": "github-static-seed",
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-24T09:50:30.928Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-23T09:46:31.146Z",
       "addedDrugsCount": 0,
@@ -316,11 +321,6 @@
       "refreshedAt": "2026-05-11T10:56:30.315Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-10T09:25:22.681Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -336,7 +336,7 @@
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "ACETAZOLAMIDE FOR INJECTION, USP",
@@ -955,7 +955,6 @@
     {
       "drug": "DAPAGLIFLOZIN",
       "doses": [
-        "10MG",
         "5MG"
       ],
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
@@ -2035,7 +2034,6 @@
       "drug": "OLANZAPINE",
       "doses": [
         "10MG",
-        "2.5MG",
         "20MG"
       ],
       "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
