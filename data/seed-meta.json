@@ -1,9 +1,44 @@
 {
-  "refreshedAt": "2026-05-25T11:48:34.212Z",
-  "count": 603,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-05-27T11:32:53.727Z",
+  "count": 601,
+  "addedDrugsCount": 2,
+  "addedDrugs": [
+    {
+      "drug": "RECOMBIVAX HB",
+      "doses": [
+        "10MCG"
+      ],
+      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+    },
+    {
+      "drug": "RELPAX",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-08-25T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-27T11:32:53.727Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "RECOMBIVAX HB",
+          "doses": [
+            "10MCG"
+          ],
+          "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+        },
+        {
+          "drug": "RELPAX",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-08-25T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-25T11:48:34.212Z",
       "addedDrugsCount": 0,
@@ -306,20 +341,6 @@
       "refreshedAt": "2026-05-13T10:17:59.482Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-12T10:27:29.934Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE INJECTION USP",
-          "doses": [
-            "0.01MG",
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2027-06-15T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
