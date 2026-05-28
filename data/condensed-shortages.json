@@ -1,25 +1,77 @@
 {
-  "count": 350,
-  "refreshedAt": "2026-05-27T11:32:53.727Z",
+  "count": 352,
+  "refreshedAt": "2026-05-28T11:32:50.811Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "RECOMBIVAX HB",
+      "drug": "AZITHROMYCIN",
       "doses": [
-        "10MCG"
+        "250MG"
       ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
     {
-      "drug": "RELPAX",
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
       "doses": [
-        "20MG"
+        "1.5G",
+        "12G"
       ],
-      "expectedBackInStockDate": "2026-08-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "POLYTRIMETHOPRIM",
+      "doses": [
+        "10000UNIT",
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+    },
+    {
+      "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE USP",
+      "doses": [
+        "149MG"
+      ],
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-28T11:32:50.811Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "AZITHROMYCIN",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+        },
+        {
+          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+          "doses": [
+            "1.5G",
+            "12G"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "POLYTRIMETHOPRIM",
+          "doses": [
+            "10000UNIT",
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+        },
+        {
+          "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE USP",
+          "doses": [
+            "149MG"
+          ],
+          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-27T11:32:53.727Z",
       "addedDrugsCount": 2,
@@ -337,11 +389,6 @@
           "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-05-13T10:17:59.482Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -592,6 +639,13 @@
       "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
+      "drug": "AZITHROMYCIN",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+    },
+    {
       "drug": "BECLO AQ",
       "doses": [
         "50MCG"
@@ -798,13 +852,6 @@
       "drug": "CEFIXIME",
       "doses": [
         "100MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "CEFTIN",
-      "doses": [
-        "125MG"
       ],
       "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
@@ -1366,7 +1413,6 @@
     {
       "drug": "GABAPENTIN",
       "doses": [
-        "100MG",
         "300MG",
         "400MG",
         "600MG",
@@ -2080,7 +2126,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
     },
     {
       "drug": "OLOPATADINE",
@@ -2238,11 +2284,34 @@
       "expectedBackInStockDate": "2026-07-01T04:00:00.000Z"
     },
     {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "1.5G",
+        "12G"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "POLYTRIMETHOPRIM",
+      "doses": [
+        "10000UNIT",
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+    },
+    {
       "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE",
       "doses": [
         "200mEq"
       ],
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+    },
+    {
+      "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE USP",
+      "doses": [
+        "149MG"
+      ],
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "PRAMIPEXOLE",
@@ -2521,13 +2590,6 @@
         "1MG"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-    },
-    {
-      "drug": "SAXAGLIPTIN",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "SCOPOLAMINE HYDROBROMIDE INJECTION",

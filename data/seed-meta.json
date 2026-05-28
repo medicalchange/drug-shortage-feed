@@ -1,24 +1,76 @@
 {
-  "refreshedAt": "2026-05-27T11:32:53.727Z",
-  "count": 601,
-  "addedDrugsCount": 2,
+  "refreshedAt": "2026-05-28T11:32:50.811Z",
+  "count": 602,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "RECOMBIVAX HB",
+      "drug": "AZITHROMYCIN",
       "doses": [
-        "10MCG"
+        "250MG"
       ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
     {
-      "drug": "RELPAX",
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
       "doses": [
-        "20MG"
+        "1.5G",
+        "12G"
       ],
-      "expectedBackInStockDate": "2026-08-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "POLYTRIMETHOPRIM",
+      "doses": [
+        "10000UNIT",
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+    },
+    {
+      "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE USP",
+      "doses": [
+        "149MG"
+      ],
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-28T11:32:50.811Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "AZITHROMYCIN",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+        },
+        {
+          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+          "doses": [
+            "1.5G",
+            "12G"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "POLYTRIMETHOPRIM",
+          "doses": [
+            "10000UNIT",
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+        },
+        {
+          "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE USP",
+          "doses": [
+            "149MG"
+          ],
+          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-27T11:32:53.727Z",
       "addedDrugsCount": 2,
@@ -336,11 +388,6 @@
           "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-05-13T10:17:59.482Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
