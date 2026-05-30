@@ -1,62 +1,59 @@
 {
-  "count": 356,
-  "refreshedAt": "2026-05-29T11:23:15.692Z",
+  "count": 358,
+  "refreshedAt": "2026-05-30T09:53:40.582Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 7,
+  "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "DARIFENACIN",
+      "drug": "BEOVU",
       "doses": [
-        "7.5MG"
+        "6MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
     },
     {
-      "drug": "EMEND IV",
+      "drug": "HYDROXYUREA",
       "doses": [
-        "150MG"
+        "500MG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
-      "drug": "FLUPHENAZINE",
+      "drug": "SIMULECT",
       "doses": [
-        "1MG"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-    },
-    {
-      "drug": "KETOROLAC TROMETHAMINE INJECTION, USP",
-      "doses": [
-        "30MG"
-      ],
-      "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
-    },
-    {
-      "drug": "LUPIN-ESTRADIOL",
-      "doses": [
-        "0.5MG",
-        "1MG",
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-06-03T04:00:00.000Z"
-    },
-    {
-      "drug": "NAPROXEN EC TABLETS",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "drug": "SAXAGLIPTIN",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-30T09:53:40.582Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "BEOVU",
+          "doses": [
+            "6MG"
+          ],
+          "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
+        },
+        {
+          "drug": "HYDROXYUREA",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        },
+        {
+          "drug": "SIMULECT",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-05-29T11:23:15.692Z",
       "addedDrugsCount": 7,
@@ -412,33 +409,6 @@
       "refreshedAt": "2026-05-16T09:26:00.977Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-15T10:17:00.854Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "ACETAMINOPHEN TABLETS USP 325 MG",
-          "doses": [
-            "325MG"
-          ],
-          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-        },
-        {
-          "drug": "CEFEPIME",
-          "doses": [
-            "1G"
-          ],
-          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-        },
-        {
-          "drug": "TICAGRELOR",
-          "doses": [
-            "90MG"
-          ],
-          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -454,7 +424,7 @@
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
     {
       "drug": "ACETAZOLAMIDE FOR INJECTION, USP",
@@ -543,7 +513,7 @@
       "doses": [
         "0.5MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
       "drug": "AMBRISENTAN",
@@ -708,6 +678,13 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+    },
+    {
+      "drug": "BEOVU",
+      "doses": [
+        "6MG"
+      ],
+      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
     },
     {
       "drug": "BETADERM CRM 0.1%",
@@ -1574,6 +1551,13 @@
         "8MG"
       ],
       "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROXYUREA",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "IFEX",
@@ -2695,6 +2679,13 @@
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
+      "drug": "SIMULECT",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
+    },
+    {
       "drug": "SIMVASTATIN",
       "doses": [
         "10MG",
@@ -3065,13 +3056,6 @@
         "250MG"
       ],
       "expectedBackInStockDate": "2026-12-30T05:00:00.000Z"
-    },
-    {
-      "drug": "VALPROIC ACID ORAL SOLUTION",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
     },
     {
       "drug": "VALSARTAN",
