@@ -1,31 +1,14 @@
 {
-  "refreshedAt": "2026-05-30T09:53:40.582Z",
+  "refreshedAt": "2026-05-31T10:10:31.429Z",
   "count": 611,
-  "addedDrugsCount": 3,
-  "addedDrugs": [
-    {
-      "drug": "BEOVU",
-      "doses": [
-        "6MG"
-      ],
-      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
-    },
-    {
-      "drug": "HYDROXYUREA",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
-      "drug": "SIMULECT",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-05-31T10:10:31.429Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-30T09:53:40.582Z",
       "addedDrugsCount": 3,
@@ -401,11 +384,6 @@
     },
     {
       "refreshedAt": "2026-05-17T09:42:40.495Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-16T09:26:00.977Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
