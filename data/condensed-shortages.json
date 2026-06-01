@@ -1,10 +1,15 @@
 {
   "count": 358,
-  "refreshedAt": "2026-05-31T10:10:31.429Z",
+  "refreshedAt": "2026-06-01T13:31:06.424Z",
   "source": "github-static-seed",
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-01T13:31:06.424Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-05-31T10:10:31.429Z",
       "addedDrugsCount": 0,
@@ -380,11 +385,6 @@
     },
     {
       "refreshedAt": "2026-05-18T11:40:37.272Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-17T09:42:40.495Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
@@ -1349,7 +1349,7 @@
       "doses": [
         "75MCG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
     {
       "drug": "FAMOTIDINE OMEGA -(WITHOUT PRESERVATIVE)",
