@@ -1,10 +1,59 @@
 {
   "count": 358,
-  "refreshedAt": "2026-06-01T13:31:06.424Z",
+  "refreshedAt": "2026-06-02T12:00:26.486Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 3,
+  "addedDrugs": [
+    {
+      "drug": "BUSPIRONE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "drug": "CANDESARTAN",
+      "doses": [
+        "32MG"
+      ],
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+    },
+    {
+      "drug": "ETHACRYNATE SODIUM",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-02T12:00:26.486Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "BUSPIRONE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+        },
+        {
+          "drug": "CANDESARTAN",
+          "doses": [
+            "32MG"
+          ],
+          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+        },
+        {
+          "drug": "ETHACRYNATE SODIUM",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-01T13:31:06.424Z",
       "addedDrugsCount": 0,
@@ -380,11 +429,6 @@
     },
     {
       "refreshedAt": "2026-05-19T10:58:08.884Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-18T11:40:37.272Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
@@ -794,6 +838,13 @@
       "expectedBackInStockDate": "2026-05-20T04:00:00.000Z"
     },
     {
+      "drug": "BUSPIRONE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+    },
+    {
       "drug": "BYOOVIZ",
       "doses": [
         "10MG"
@@ -807,6 +858,13 @@
         "300MG"
       ],
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+    },
+    {
+      "drug": "CANDESARTAN",
+      "doses": [
+        "32MG"
+      ],
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
       "drug": "CANDESARTAN PLUS",
@@ -1078,13 +1136,6 @@
       "expectedBackInStockDate": "2026-08-11T04:00:00.000Z"
     },
     {
-      "drug": "DEXAMETHASONE OMEGA UNIDOSE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-05-31T04:00:00.000Z"
-    },
-    {
       "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJECTION, USP",
       "doses": [
         "4MG"
@@ -1278,13 +1329,6 @@
       "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
     },
     {
-      "drug": "ENTACAPONE",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-    },
-    {
       "drug": "ENTECAVIR",
       "doses": [
         "0.5MG"
@@ -1350,6 +1394,13 @@
         "75MCG"
       ],
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+    },
+    {
+      "drug": "ETHACRYNATE SODIUM",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "FAMOTIDINE OMEGA -(WITHOUT PRESERVATIVE)",
@@ -1764,13 +1815,6 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2027-06-15T04:00:00.000Z"
-    },
-    {
-      "drug": "LISDEXAMFETAMINE CAPSULES",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
       "drug": "LISINOPRIL",
@@ -2315,7 +2359,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-07-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
     },
     {
       "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
