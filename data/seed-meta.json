@@ -1,9 +1,58 @@
 {
-  "refreshedAt": "2026-06-01T13:31:06.424Z",
-  "count": 611,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-06-02T12:00:26.486Z",
+  "count": 610,
+  "addedDrugsCount": 3,
+  "addedDrugs": [
+    {
+      "drug": "BUSPIRONE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "drug": "CANDESARTAN",
+      "doses": [
+        "32MG"
+      ],
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+    },
+    {
+      "drug": "ETHACRYNATE SODIUM",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-02T12:00:26.486Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "BUSPIRONE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+        },
+        {
+          "drug": "CANDESARTAN",
+          "doses": [
+            "32MG"
+          ],
+          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+        },
+        {
+          "drug": "ETHACRYNATE SODIUM",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-01T13:31:06.424Z",
       "addedDrugsCount": 0,
@@ -379,11 +428,6 @@
     },
     {
       "refreshedAt": "2026-05-19T10:58:08.884Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-18T11:40:37.272Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }

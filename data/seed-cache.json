@@ -1,17 +1,73 @@
 [
   {
-    "id": "shortage:282718",
-    "reportId": 282718,
+    "id": "shortage:286094",
+    "reportId": 286094,
     "type": "shortage",
-    "brandName": "SANDOZ LISDEXAMFETAMINE CAPSULES",
+    "brandName": "SANDOZ CANDESARTAN",
     "status": "active_confirmed",
-    "din": "02546248",
+    "din": "02417340",
+    "strength": "32MG",
+    "expectedBackInStockDate": "2026-06-12T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-02T15:56:51.000Z",
+    "updateDate": "2026-06-02T15:56:51.000Z",
+    "postedDate": "2026-06-01T17:17:00.000Z"
+  },
+  {
+    "id": "shortage:284922",
+    "reportId": 284922,
+    "type": "shortage",
+    "brandName": "MYXREDLIN",
+    "status": "active_confirmed",
+    "din": "02529602",
+    "strength": "1UNIT",
+    "expectedBackInStockDate": "2026-06-01T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-01T23:18:11.000Z",
+    "updateDate": "2026-06-01T23:18:11.000Z",
+    "postedDate": "2026-05-08T23:40:46.000Z"
+  },
+  {
+    "id": "shortage:283116",
+    "reportId": 283116,
+    "type": "shortage",
+    "brandName": "PHENYTOIN SODIUM INJECTION USP",
+    "status": "active_confirmed",
+    "din": "02431378",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-09-01T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-01T23:05:48.000Z",
+    "updateDate": "2026-06-01T23:05:48.000Z",
+    "postedDate": "2026-04-17T00:32:23.000Z"
+  },
+  {
+    "id": "shortage:286002",
+    "reportId": 286002,
+    "type": "shortage",
+    "brandName": "AURO-BUSPIRONE",
+    "status": "active_confirmed",
+    "din": "02500213",
     "strength": "10MG",
+    "expectedBackInStockDate": "2026-07-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-01T22:34:22.000Z",
+    "updateDate": "2026-06-01T22:34:22.000Z",
+    "postedDate": "2026-05-28T21:51:44.000Z"
+  },
+  {
+    "id": "shortage:281977",
+    "reportId": 281977,
+    "type": "shortage",
+    "brandName": "ETHACRYNATE SODIUM",
+    "status": "active_confirmed",
+    "din": "02462362",
+    "strength": "50MG",
     "expectedBackInStockDate": "2026-05-29T04:00:00.000Z",
     "resolved": false,
-    "updatedDate": "2026-06-01T17:18:43.000Z",
-    "updateDate": "2026-06-01T17:18:43.000Z",
-    "postedDate": "2026-04-13T16:56:25.000Z"
+    "updatedDate": "2026-06-01T22:33:30.000Z",
+    "updateDate": "2026-06-01T22:33:30.000Z",
+    "postedDate": "2026-04-01T23:12:08.000Z"
   },
   {
     "id": "shortage:285336",
@@ -40,34 +96,6 @@
     "updatedDate": "2026-06-01T17:17:45.000Z",
     "updateDate": "2026-06-01T17:17:45.000Z",
     "postedDate": "2026-05-19T16:12:03.000Z"
-  },
-  {
-    "id": "shortage:284974",
-    "reportId": 284974,
-    "type": "shortage",
-    "brandName": "SANDOZ ONDANSETRON",
-    "status": "active_confirmed",
-    "din": "02274310",
-    "strength": "4MG",
-    "expectedBackInStockDate": "2026-05-29T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-01T17:15:52.000Z",
-    "updateDate": "2026-06-01T17:15:52.000Z",
-    "postedDate": "2026-05-11T17:36:30.000Z"
-  },
-  {
-    "id": "shortage:283770",
-    "reportId": 283770,
-    "type": "shortage",
-    "brandName": "SANDOZ ENTACAPONE",
-    "status": "active_confirmed",
-    "din": "02380005",
-    "strength": "200MG",
-    "expectedBackInStockDate": "2026-05-29T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-01T17:15:17.000Z",
-    "updateDate": "2026-06-01T17:15:17.000Z",
-    "postedDate": "2026-04-27T16:23:35.000Z"
   },
   {
     "id": "shortage:285276",
@@ -684,20 +712,6 @@
     "updatedDate": "2026-05-26T21:26:25.000Z",
     "updateDate": "2026-05-26T21:26:25.000Z",
     "postedDate": "2026-03-26T00:05:04.000Z"
-  },
-  {
-    "id": "shortage:283116",
-    "reportId": 283116,
-    "type": "shortage",
-    "brandName": "PHENYTOIN SODIUM INJECTION USP",
-    "status": "active_confirmed",
-    "din": "02431378",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-07-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-26T21:25:57.000Z",
-    "updateDate": "2026-05-26T21:25:57.000Z",
-    "postedDate": "2026-04-17T00:32:23.000Z"
   },
   {
     "id": "shortage:277020",
@@ -1384,20 +1398,6 @@
     "updatedDate": "2026-05-20T18:30:49.000Z",
     "updateDate": "2026-05-20T18:30:49.000Z",
     "postedDate": "2026-03-04T01:20:12.000Z"
-  },
-  {
-    "id": "shortage:274514",
-    "reportId": 274514,
-    "type": "shortage",
-    "brandName": "DEXAMETHASONE OMEGA UNIDOSE",
-    "status": "active_confirmed",
-    "din": "02387743",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-05-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-20T18:22:08.000Z",
-    "updateDate": "2026-05-20T18:22:08.000Z",
-    "postedDate": "2025-12-18T00:21:00.000Z"
   },
   {
     "id": "shortage:284545",
@@ -2952,20 +2952,6 @@
     "updatedDate": "2026-05-11T17:27:48.000Z",
     "updateDate": "2026-05-11T17:27:48.000Z",
     "postedDate": "2026-02-16T20:03:20.000Z"
-  },
-  {
-    "id": "shortage:284922",
-    "reportId": 284922,
-    "type": "shortage",
-    "brandName": "MYXREDLIN",
-    "status": "active_confirmed",
-    "din": "02529602",
-    "strength": "1UNIT",
-    "expectedBackInStockDate": "2026-06-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-09T00:51:11.000Z",
-    "updateDate": "2026-05-09T00:51:11.000Z",
-    "postedDate": "2026-05-08T23:40:46.000Z"
   },
   {
     "id": "shortage:283674",
