@@ -1,31 +1,108 @@
 {
-  "refreshedAt": "2026-06-02T12:00:26.486Z",
-  "count": 610,
-  "addedDrugsCount": 3,
+  "refreshedAt": "2026-06-03T12:38:10.053Z",
+  "count": 614,
+  "addedDrugsCount": 6,
   "addedDrugs": [
     {
-      "drug": "BUSPIRONE",
+      "drug": "ABRILADA",
       "doses": [
-        "10MG"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
     },
     {
-      "drug": "CANDESARTAN",
+      "drug": "BOOSTRIX",
       "doses": [
-        "32MG"
+        "2.5MCG",
+        "20UNIT",
+        "2UNIT",
+        "8MCG"
       ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     },
     {
-      "drug": "ETHACRYNATE SODIUM",
+      "drug": "CELECOXIB",
       "doses": [
-        "50MG"
+        "100MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "drug": "DETROL LA",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
+    },
+    {
+      "drug": "DYMISTA",
+      "doses": [
+        "137MCG",
+        "50MCG"
+      ],
+      "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
+    },
+    {
+      "drug": "LABETALOL HYDROCHLORIDE INJECTION",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-06-22T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-03T12:38:10.053Z",
+      "addedDrugsCount": 6,
+      "addedDrugs": [
+        {
+          "drug": "ABRILADA",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
+        },
+        {
+          "drug": "BOOSTRIX",
+          "doses": [
+            "2.5MCG",
+            "20UNIT",
+            "2UNIT",
+            "8MCG"
+          ],
+          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+        },
+        {
+          "drug": "CELECOXIB",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+        },
+        {
+          "drug": "DETROL LA",
+          "doses": [
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
+        },
+        {
+          "drug": "DYMISTA",
+          "doses": [
+            "137MCG",
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
+        },
+        {
+          "drug": "LABETALOL HYDROCHLORIDE INJECTION",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-06-22T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-02T12:00:26.486Z",
       "addedDrugsCount": 3,
@@ -425,11 +502,6 @@
           "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-05-19T10:58:08.884Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
