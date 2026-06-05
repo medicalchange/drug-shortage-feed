@@ -1,24 +1,114 @@
 {
-  "refreshedAt": "2026-06-04T10:58:08.335Z",
-  "count": 614,
-  "addedDrugsCount": 2,
+  "refreshedAt": "2026-06-05T11:21:43.804Z",
+  "count": 603,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "KIRSTY",
+      "drug": "DOXYLAMINE/B6",
       "doses": [
-        "100UNIT"
+        "10MG"
       ],
-      "expectedBackInStockDate": "2026-06-08T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
     },
     {
-      "drug": "ZOLEDRONIC ACID FOR INJECTION",
+      "drug": "FLUVASTATIN",
       "doses": [
-        "4MG"
+        "40MG"
       ],
-      "expectedBackInStockDate": "2026-07-06T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "drug": "GUANFACINE XR",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "drug": "MORPHINE SR",
+      "doses": [
+        "30MG"
+      ],
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "drug": "PRAZO",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "PREDNISONE",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+    },
+    {
+      "drug": "TRIAMCINOLONE AQ",
+      "doses": [
+        "55MCG"
+      ],
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-05T11:21:43.804Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "DOXYLAMINE/B6",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "FLUVASTATIN",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+        },
+        {
+          "drug": "GUANFACINE XR",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+        },
+        {
+          "drug": "MORPHINE SR",
+          "doses": [
+            "30MG"
+          ],
+          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+        },
+        {
+          "drug": "PRAZO",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "PREDNISONE",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+        },
+        {
+          "drug": "TRIAMCINOLONE AQ",
+          "doses": [
+            "55MCG"
+          ],
+          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-04T10:58:08.335Z",
       "addedDrugsCount": 2,
@@ -342,43 +432,6 @@
             "1%"
           ],
           "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-05-21T11:16:49.292Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "ARIDOL",
-          "doses": [
-            "10MG",
-            "20MG",
-            "40MG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
-        },
-        {
-          "drug": "BECLO AQ",
-          "doses": [
-            "50MCG"
-          ],
-          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-        },
-        {
-          "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
-          "doses": [
-            "0.12%"
-          ],
-          "expectedBackInStockDate": "2026-06-03T04:00:00.000Z"
-        },
-        {
-          "drug": "GLYCOPYRROLATE INJECTION",
-          "doses": [
-            "0.2MG"
-          ],
-          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
         }
       ]
     }
