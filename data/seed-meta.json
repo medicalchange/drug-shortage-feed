@@ -1,25 +1,14 @@
 {
-  "refreshedAt": "2026-06-06T09:58:44.878Z",
+  "refreshedAt": "2026-06-07T10:24:47.477Z",
   "count": 604,
-  "addedDrugsCount": 2,
-  "addedDrugs": [
-    {
-      "drug": "TWINRIX JUNIOR",
-      "doses": [
-        "10MCG",
-        "360UNIT"
-      ],
-      "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
-    },
-    {
-      "drug": "VYZULTA",
-      "doses": [
-        "0.024%"
-      ],
-      "expectedBackInStockDate": "2026-07-12T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-07T10:24:47.477Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-06-06T09:58:44.878Z",
       "addedDrugsCount": 2,
@@ -352,11 +341,6 @@
     },
     {
       "refreshedAt": "2026-05-24T09:50:30.928Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-23T09:46:31.146Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
