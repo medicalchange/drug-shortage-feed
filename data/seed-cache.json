@@ -1,5 +1,19 @@
 [
   {
+    "id": "shortage:285319",
+    "reportId": 285319,
+    "type": "shortage",
+    "brandName": "SANDOZ CANDESARTAN PLUS",
+    "status": "active_confirmed",
+    "din": "02420732",
+    "strength": "32MG\r\n12.5MG",
+    "expectedBackInStockDate": "2026-06-19T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-08T16:22:31.000Z",
+    "updateDate": "2026-06-08T16:22:31.000Z",
+    "postedDate": "2026-05-19T16:09:10.000Z"
+  },
+  {
     "id": "shortage:283039",
     "reportId": 283039,
     "type": "shortage",
@@ -2658,20 +2672,6 @@
     "updatedDate": "2026-05-21T16:22:13.000Z",
     "updateDate": "2026-05-21T16:22:13.000Z",
     "postedDate": "2026-05-11T17:32:15.000Z"
-  },
-  {
-    "id": "shortage:285319",
-    "reportId": 285319,
-    "type": "shortage",
-    "brandName": "SANDOZ CANDESARTAN PLUS",
-    "status": "active_confirmed",
-    "din": "02420732",
-    "strength": "32MG\r\n12.5MG",
-    "expectedBackInStockDate": "2026-06-19T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-21T16:21:06.000Z",
-    "updateDate": "2026-05-21T16:21:06.000Z",
-    "postedDate": "2026-05-19T16:09:10.000Z"
   },
   {
     "id": "shortage:285324",
