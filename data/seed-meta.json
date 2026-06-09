@@ -1,9 +1,72 @@
 {
-  "refreshedAt": "2026-06-08T12:24:00.269Z",
-  "count": 604,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-06-09T10:56:05.167Z",
+  "count": 598,
+  "addedDrugsCount": 4,
+  "addedDrugs": [
+    {
+      "drug": "CLARUS",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "drug": "ENALAPRIL",
+      "doses": [
+        "16MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "VORICONAZOLE FOR INJECTION",
+      "doses": [
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+    },
+    {
+      "drug": "ZELDOX",
+      "doses": [
+        "60MG"
+      ],
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-09T10:56:05.167Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "CLARUS",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+        },
+        {
+          "drug": "ENALAPRIL",
+          "doses": [
+            "16MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "VORICONAZOLE FOR INJECTION",
+          "doses": [
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+        },
+        {
+          "drug": "ZELDOX",
+          "doses": [
+            "60MG"
+          ],
+          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-08T12:24:00.269Z",
       "addedDrugsCount": 0,
@@ -338,11 +401,6 @@
           "expectedBackInStockDate": "2026-08-25T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-05-25T11:48:34.212Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
