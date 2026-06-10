@@ -1,5 +1,61 @@
 [
   {
+    "id": "shortage:275263",
+    "reportId": 275263,
+    "type": "shortage",
+    "brandName": "BYOOVIZ",
+    "status": "active_confirmed",
+    "din": "02525852",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2027-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-10T03:35:03.000Z",
+    "updateDate": "2026-06-10T03:35:03.000Z",
+    "postedDate": "2026-01-06T13:21:35.000Z"
+  },
+  {
+    "id": "shortage:279813",
+    "reportId": 279813,
+    "type": "shortage",
+    "brandName": "DUREZOL",
+    "status": "active_confirmed",
+    "din": "02415534",
+    "strength": "0.05%",
+    "expectedBackInStockDate": "2026-06-18T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-09T22:48:12.000Z",
+    "updateDate": "2026-06-09T22:48:12.000Z",
+    "postedDate": "2026-03-05T22:23:21.000Z"
+  },
+  {
+    "id": "shortage:285308",
+    "reportId": 285308,
+    "type": "shortage",
+    "brandName": "CORZYNA",
+    "status": "active_confirmed",
+    "din": "02510227",
+    "strength": "1000MG",
+    "expectedBackInStockDate": "2026-09-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-09T21:14:30.000Z",
+    "updateDate": "2026-06-09T21:14:30.000Z",
+    "postedDate": "2026-05-19T15:08:26.000Z"
+  },
+  {
+    "id": "shortage:281897",
+    "reportId": 281897,
+    "type": "shortage",
+    "brandName": "CLEVIPREX",
+    "status": "active_confirmed",
+    "din": "02366223",
+    "strength": "0.5MG",
+    "expectedBackInStockDate": "2026-06-09T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-09T20:43:28.000Z",
+    "updateDate": "2026-06-09T20:43:28.000Z",
+    "postedDate": "2026-03-31T17:50:45.000Z"
+  },
+  {
     "id": "shortage:286252",
     "reportId": 286252,
     "type": "shortage",
@@ -9,8 +65,8 @@
     "strength": "100UNIT",
     "expectedBackInStockDate": "2026-06-09T04:00:00.000Z",
     "resolved": false,
-    "updatedDate": "2026-06-09T07:03:19.000Z",
-    "updateDate": "2026-06-09T07:03:19.000Z",
+    "updatedDate": "2026-06-09T19:42:36.000Z",
+    "updateDate": "2026-06-09T19:42:36.000Z",
     "postedDate": "2026-06-03T21:15:32.000Z"
   },
   {
@@ -2044,20 +2100,6 @@
     "postedDate": "2026-03-04T01:20:12.000Z"
   },
   {
-    "id": "shortage:285747",
-    "reportId": 285747,
-    "type": "shortage",
-    "brandName": "SIMULECT",
-    "status": "active_confirmed",
-    "din": "02242815",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-06-09T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-04T03:27:22.000Z",
-    "updateDate": "2026-06-04T03:27:22.000Z",
-    "postedDate": "2026-05-22T20:56:25.000Z"
-  },
-  {
     "id": "shortage:269004",
     "reportId": 269004,
     "type": "shortage",
@@ -2168,20 +2210,6 @@
     "updatedDate": "2026-06-03T23:08:27.000Z",
     "updateDate": "2026-06-03T23:08:27.000Z",
     "postedDate": "2026-05-13T20:14:17.000Z"
-  },
-  {
-    "id": "shortage:285106",
-    "reportId": 285106,
-    "type": "shortage",
-    "brandName": "EMEND IV",
-    "status": "active_confirmed",
-    "din": "02363356",
-    "strength": "150MG",
-    "expectedBackInStockDate": "2026-06-19T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-03T21:16:09.000Z",
-    "updateDate": "2026-06-03T21:16:09.000Z",
-    "postedDate": "2026-05-13T19:13:00.000Z"
   },
   {
     "id": "shortage:286223",
@@ -3582,20 +3610,6 @@
     "updatedDate": "2026-05-19T16:54:04.000Z",
     "updateDate": "2026-05-19T16:54:04.000Z",
     "postedDate": "2026-03-30T23:39:50.000Z"
-  },
-  {
-    "id": "shortage:285308",
-    "reportId": 285308,
-    "type": "shortage",
-    "brandName": "CORZYNA",
-    "status": "active_confirmed",
-    "din": "02510227",
-    "strength": "1000MG",
-    "expectedBackInStockDate": "2026-09-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-19T15:08:46.000Z",
-    "updateDate": "2026-05-19T15:08:46.000Z",
-    "postedDate": "2026-05-19T15:08:26.000Z"
   },
   {
     "id": "shortage:252745",
@@ -7334,20 +7348,6 @@
     "updatedDate": "2026-01-15T20:08:17.000Z",
     "updateDate": "2026-01-15T20:08:17.000Z",
     "postedDate": "2025-05-15T23:49:38.000Z"
-  },
-  {
-    "id": "shortage:275263",
-    "reportId": 275263,
-    "type": "shortage",
-    "brandName": "BYOOVIZ",
-    "status": "active_confirmed",
-    "din": "02525852",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-09T12:41:23.000Z",
-    "updateDate": "2026-01-09T12:41:23.000Z",
-    "postedDate": "2026-01-06T13:21:35.000Z"
   },
   {
     "id": "shortage:274457",

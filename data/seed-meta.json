@@ -1,38 +1,44 @@
 {
-  "refreshedAt": "2026-06-09T10:56:05.167Z",
+  "refreshedAt": "2026-06-10T11:34:49.314Z",
   "count": 598,
-  "addedDrugsCount": 4,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "CLARUS",
+      "drug": "CLEVIPREX",
       "doses": [
-        "10MG"
+        "0.5MG"
       ],
-      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
     },
     {
-      "drug": "ENALAPRIL",
+      "drug": "DUREZOL",
       "doses": [
-        "16MG"
+        "0.05%"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    },
-    {
-      "drug": "VORICONAZOLE FOR INJECTION",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-    },
-    {
-      "drug": "ZELDOX",
-      "doses": [
-        "60MG"
-      ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-18T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-10T11:34:49.314Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CLEVIPREX",
+          "doses": [
+            "0.5MG"
+          ],
+          "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
+        },
+        {
+          "drug": "DUREZOL",
+          "doses": [
+            "0.05%"
+          ],
+          "expectedBackInStockDate": "2026-06-18T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-09T10:56:05.167Z",
       "addedDrugsCount": 4,
@@ -379,26 +385,6 @@
             "149MG"
           ],
           "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-05-27T11:32:53.727Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "RECOMBIVAX HB",
-          "doses": [
-            "10MCG"
-          ],
-          "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
-        },
-        {
-          "drug": "RELPAX",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-08-25T04:00:00.000Z"
         }
       ]
     }
