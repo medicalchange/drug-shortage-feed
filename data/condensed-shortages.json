@@ -1,25 +1,31 @@
 {
-  "count": 359,
-  "refreshedAt": "2026-06-10T11:34:49.314Z",
+  "count": 357,
+  "refreshedAt": "2026-06-11T12:06:39.901Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "CLEVIPREX",
+      "drug": "CODEINE CONTIN 100MG CONTROLLED RELEASE TAB",
       "doses": [
-        "0.5MG"
+        "100MG"
       ],
-      "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
-    },
-    {
-      "drug": "DUREZOL",
-      "doses": [
-        "0.05%"
-      ],
-      "expectedBackInStockDate": "2026-06-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-11T12:06:39.901Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "CODEINE CONTIN 100MG CONTROLLED RELEASE TAB",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-10T11:34:49.314Z",
       "addedDrugsCount": 2,
@@ -352,42 +358,6 @@
           "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-05-28T11:32:50.811Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "AZITHROMYCIN",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-        },
-        {
-          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-          "doses": [
-            "1.5G",
-            "12G"
-          ],
-          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-        },
-        {
-          "drug": "POLYTRIMETHOPRIM",
-          "doses": [
-            "10000UNIT",
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
-        },
-        {
-          "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE USP",
-          "doses": [
-            "149MG"
-          ],
-          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -506,7 +476,7 @@
       "doses": [
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
     },
     {
       "drug": "AMITRIPTYLINE",
@@ -946,13 +916,6 @@
       "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
     },
     {
-      "drug": "CLEVIPREX",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
-    },
-    {
       "drug": "CLOBETASOL SPRAY",
       "doses": [
         "0.05%"
@@ -980,6 +943,13 @@
         "15MG"
       ],
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+    },
+    {
+      "drug": "CODEINE CONTIN 100MG CONTROLLED RELEASE TAB",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
     },
     {
       "drug": "COLISTIMETHATE FOR INJECTION USP",
@@ -1499,13 +1469,6 @@
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
-      "drug": "GRANISETRON HYDROCHLORIDE INJECTION",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-    },
-    {
       "drug": "GUANFACINE XR",
       "doses": [
         "1MG"
@@ -1659,13 +1622,6 @@
         "30MG"
       ],
       "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
-    },
-    {
-      "drug": "KIRSTY",
-      "doses": [
-        "100UNIT"
-      ],
-      "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
     },
     {
       "drug": "KIT FOR THE PREPARATION OF TECHNETIUM (99MTC) PYROPHOSPHATE INJECTION",
@@ -1862,8 +1818,7 @@
     {
       "drug": "LUPIN-ESTRADIOL",
       "doses": [
-        "0.5MG",
-        "1MG"
+        "0.5MG"
       ],
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
@@ -2293,6 +2248,7 @@
       "drug": "PERINDOPRIL",
       "doses": [
         "2MG",
+        "4MG",
         "8MG"
       ],
       "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
@@ -2916,7 +2872,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
     },
     {
       "drug": "TRAVOPROST-TIMOP PQ",
