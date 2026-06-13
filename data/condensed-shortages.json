@@ -1,74 +1,61 @@
 {
   "count": 364,
-  "refreshedAt": "2026-06-12T11:40:05.180Z",
+  "refreshedAt": "2026-06-13T10:24:05.050Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 9,
+  "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "ABILIFY MAINTENA",
+      "drug": "DARUNAVIR",
       "doses": [
-        "400MG"
-      ],
-      "expectedBackInStockDate": "2026-06-24T04:00:00.000Z"
-    },
-    {
-      "drug": "AMB-BUSPIRONE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-07-06T04:00:00.000Z"
-    },
-    {
-      "drug": "BECLOMETHASONE NASAL SPRAY",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    },
-    {
-      "drug": "EVEROLIMUS",
-      "doses": [
-        "2.5MG"
+        "600MG"
       ],
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
-      "drug": "HALOPERIDOL",
+      "drug": "MIRABEGRON",
       "doses": [
-        "0.5MG"
+        "25MG",
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
-      "drug": "METHOPRAZINE",
+      "drug": "TRAZODONE D TABLETS 150MG",
       "doses": [
-        "5MG"
+        "150MG"
       ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-    },
-    {
-      "drug": "PRAZOSIN",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
-    },
-    {
-      "drug": "TAMSULOSIN CR",
-      "doses": [
-        "0.4MG"
-      ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-    },
-    {
-      "drug": "THEO LA",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-13T10:24:05.050Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "DARUNAVIR",
+          "doses": [
+            "600MG"
+          ],
+          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+        },
+        {
+          "drug": "MIRABEGRON",
+          "doses": [
+            "25MG",
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+        },
+        {
+          "drug": "TRAZODONE D TABLETS 150MG",
+          "doses": [
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-12T11:40:05.180Z",
       "addedDrugsCount": 9,
@@ -399,33 +386,6 @@
       "refreshedAt": "2026-05-31T10:10:31.429Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-30T09:53:40.582Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "BEOVU",
-          "doses": [
-            "6MG"
-          ],
-          "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
-        },
-        {
-          "drug": "HYDROXYUREA",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-        },
-        {
-          "drug": "SIMULECT",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -476,7 +436,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-02T04:00:00.000Z"
     },
     {
       "drug": "ADACEL",
@@ -608,7 +568,7 @@
       "doses": [
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "ANASTROZOLE",
@@ -678,7 +638,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
     },
     {
       "drug": "AZITHROMYCIN",
@@ -845,7 +805,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-03T04:00:00.000Z"
     },
     {
       "drug": "BYOOVIZ",
@@ -1031,7 +991,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
     },
     {
       "drug": "COLISTIMETHATE FOR INJECTION USP",
@@ -1102,6 +1062,7 @@
     {
       "drug": "DAPAGLIFLOZIN",
       "doses": [
+        "10MG",
         "5MG"
       ],
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
@@ -1121,6 +1082,13 @@
         "7.5MG"
       ],
       "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+    },
+    {
+      "drug": "DARUNAVIR",
+      "doses": [
+        "600MG"
+      ],
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
       "drug": "DESONIDE",
@@ -1191,6 +1159,7 @@
     {
       "drug": "DILTIAZ CD",
       "doses": [
+        "180MG",
         "240MG",
         "300MG"
       ],
@@ -1907,21 +1876,6 @@
       "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
-      "drug": "LUPIN-ESTRADIOL",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-    },
-    {
-      "drug": "LUPIN-PROPRANOLOL LA",
-      "doses": [
-        "60MG",
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
-    },
-    {
       "drug": "LURASIDONE",
       "doses": [
         "120MG"
@@ -2007,6 +1961,14 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
+    },
+    {
+      "drug": "MIRABEGRON",
+      "doses": [
+        "25MG",
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "MIRTAZAPINE",
@@ -2288,7 +2250,8 @@
     {
       "drug": "OXYCODONE CR",
       "doses": [
-        "40MG"
+        "40MG",
+        "80.0MG"
       ],
       "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
@@ -2356,7 +2319,9 @@
       "drug": "PERINDOPRIL/AMLODIPINE",
       "doses": [
         "10MG",
-        "14MG"
+        "14MG",
+        "5MG",
+        "7MG"
       ],
       "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
@@ -2631,6 +2596,7 @@
     {
       "drug": "RISPERIDONE",
       "doses": [
+        "0.50MG",
         "1MG"
       ],
       "expectedBackInStockDate": "2026-01-15T05:00:00.000Z"
@@ -3004,6 +2970,13 @@
       "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
     },
     {
+      "drug": "TRAZODONE D TABLETS 150MG",
+      "doses": [
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    },
+    {
       "drug": "TRI-JORDYNA 21",
       "doses": [
         "0.035MG",
@@ -3132,6 +3105,8 @@
     {
       "drug": "VENLAFAXINE XR",
       "doses": [
+        "150MG",
+        "37.5MG",
         "75MG"
       ],
       "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
@@ -3213,13 +3188,6 @@
         "10MG"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-    },
-    {
-      "drug": "ZYMAR",
-      "doses": [
-        "0.3%"
-      ],
-      "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     }
   ]
 }
