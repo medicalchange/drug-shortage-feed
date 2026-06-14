@@ -1,33 +1,15 @@
 {
   "count": 364,
-  "refreshedAt": "2026-06-13T10:24:05.050Z",
+  "refreshedAt": "2026-06-14T10:46:07.350Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 3,
-  "addedDrugs": [
-    {
-      "drug": "DARUNAVIR",
-      "doses": [
-        "600MG"
-      ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-    },
-    {
-      "drug": "MIRABEGRON",
-      "doses": [
-        "25MG",
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
-    },
-    {
-      "drug": "TRAZODONE D TABLETS 150MG",
-      "doses": [
-        "150MG"
-      ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-14T10:46:07.350Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-06-13T10:24:05.050Z",
       "addedDrugsCount": 3,
@@ -379,11 +361,6 @@
     },
     {
       "refreshedAt": "2026-06-01T13:31:06.424Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-05-31T10:10:31.429Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
