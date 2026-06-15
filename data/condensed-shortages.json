@@ -1,10 +1,73 @@
 {
-  "count": 364,
-  "refreshedAt": "2026-06-14T10:46:07.350Z",
+  "count": 368,
+  "refreshedAt": "2026-06-15T13:49:33.865Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 4,
+  "addedDrugs": [
+    {
+      "drug": "ABIRATERONE",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+    },
+    {
+      "drug": "DEFERASIROX",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+    },
+    {
+      "drug": "FENOFIBRATE E",
+      "doses": [
+        "48.0MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
+      "drug": "METFORMIN FC",
+      "doses": [
+        "850MG"
+      ],
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-15T13:49:33.865Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "ABIRATERONE",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+        },
+        {
+          "drug": "DEFERASIROX",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+        },
+        {
+          "drug": "FENOFIBRATE E",
+          "doses": [
+            "48.0MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        },
+        {
+          "drug": "METFORMIN FC",
+          "doses": [
+            "850MG"
+          ],
+          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-14T10:46:07.350Z",
       "addedDrugsCount": 0,
@@ -358,11 +421,6 @@
           "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-06-01T13:31:06.424Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -372,6 +430,13 @@
         "400MG"
       ],
       "expectedBackInStockDate": "2026-06-24T04:00:00.000Z"
+    },
+    {
+      "drug": "ABIRATERONE",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
       "drug": "ACETAMINOPHEN TABLETS USP 325 MG",
@@ -615,7 +680,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
       "drug": "AZITHROMYCIN",
@@ -1068,6 +1133,13 @@
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
+      "drug": "DEFERASIROX",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+    },
+    {
       "drug": "DESONIDE",
       "doses": [
         "0.05%"
@@ -1389,6 +1461,13 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+    },
+    {
+      "drug": "FENOFIBRATE E",
+      "doses": [
+        "48.0MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
     },
     {
       "drug": "FESOTERODINE FUMARATE",
@@ -1835,7 +1914,7 @@
         "12.5MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
     },
     {
       "drug": "LOSARTAN-HCTZ",
@@ -1893,6 +1972,13 @@
         "1000MG"
       ],
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+    },
+    {
+      "drug": "METFORMIN FC",
+      "doses": [
+        "850MG"
+      ],
+      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
       "drug": "METHACHOLINE OMEGA",
@@ -2330,7 +2416,7 @@
         "10000UNIT",
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
       "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE USP",
