@@ -1,5 +1,103 @@
 [
   {
+    "id": "shortage:275989",
+    "reportId": 275989,
+    "type": "shortage",
+    "brandName": "ASMANEX TWISTHALER",
+    "status": "active_confirmed",
+    "din": "02438690",
+    "strength": "100MCG",
+    "expectedBackInStockDate": "2026-07-17T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-16T16:14:40.000Z",
+    "updateDate": "2026-06-16T16:14:40.000Z",
+    "postedDate": "2026-01-14T01:25:16.000Z"
+  },
+  {
+    "id": "shortage:271416",
+    "reportId": 271416,
+    "type": "shortage",
+    "brandName": "NAROPIN",
+    "status": "active_confirmed",
+    "din": "02229418",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-16T14:37:34.000Z",
+    "updateDate": "2026-06-16T14:37:34.000Z",
+    "postedDate": "2025-11-11T00:59:18.000Z"
+  },
+  {
+    "id": "shortage:285287",
+    "reportId": 285287,
+    "type": "shortage",
+    "brandName": "TWINRIX JUNIOR",
+    "status": "active_confirmed",
+    "din": "02237548",
+    "strength": "10MCG\r\n360UNIT",
+    "expectedBackInStockDate": "2026-06-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-16T00:28:11.000Z",
+    "updateDate": "2026-06-16T00:28:11.000Z",
+    "postedDate": "2026-05-15T18:03:16.000Z"
+  },
+  {
+    "id": "shortage:287216",
+    "reportId": 287216,
+    "type": "shortage",
+    "brandName": "AURO-GABAPENTIN TABLETS",
+    "status": "active_confirmed",
+    "din": "02428334",
+    "strength": "600MG",
+    "expectedBackInStockDate": "2026-06-25T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-15T23:59:23.000Z",
+    "updateDate": "2026-06-15T23:59:23.000Z",
+    "postedDate": "2026-06-15T23:59:16.000Z"
+  },
+  {
+    "id": "shortage:268518",
+    "reportId": 268518,
+    "type": "shortage",
+    "brandName": "AURO-VALGANCICLOVIR",
+    "status": "active_confirmed",
+    "din": "02535483",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-15T23:11:06.000Z",
+    "updateDate": "2026-06-15T23:11:06.000Z",
+    "postedDate": "2025-10-03T18:02:08.000Z"
+  },
+  {
+    "id": "shortage:280173",
+    "reportId": 280173,
+    "type": "shortage",
+    "brandName": "DICLOFENAC",
+    "status": "active_confirmed",
+    "din": "02475065",
+    "strength": "0.1%",
+    "expectedBackInStockDate": "2026-06-12T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-15T23:11:04.000Z",
+    "updateDate": "2026-06-15T23:11:04.000Z",
+    "postedDate": "2026-03-10T17:59:34.000Z"
+  },
+  {
+    "id": "shortage:272436",
+    "reportId": 272436,
+    "type": "shortage",
+    "brandName": "PRE-PEN",
+    "status": "active_confirmed",
+    "din": "00328693",
+    "strength": "0.000060M",
+    "expectedBackInStockDate": "2026-02-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-15T17:51:41.000Z",
+    "updateDate": "2026-06-15T17:51:41.000Z",
+    "postedDate": "2025-11-24T20:55:34.000Z"
+  },
+  {
     "id": "shortage:283773",
     "reportId": 283773,
     "type": "shortage",
@@ -2268,20 +2366,6 @@
     "postedDate": "2026-01-15T20:27:27.000Z"
   },
   {
-    "id": "shortage:285287",
-    "reportId": 285287,
-    "type": "shortage",
-    "brandName": "TWINRIX JUNIOR",
-    "status": "active_confirmed",
-    "din": "02237548",
-    "strength": "10MCG\r\n360UNIT",
-    "expectedBackInStockDate": "2026-06-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-05T19:20:15.000Z",
-    "updateDate": "2026-06-05T19:20:15.000Z",
-    "postedDate": "2026-05-15T18:03:16.000Z"
-  },
-  {
     "id": "shortage:261846",
     "reportId": 261846,
     "type": "shortage",
@@ -3318,20 +3402,6 @@
     "postedDate": "2026-06-02T21:08:47.000Z"
   },
   {
-    "id": "shortage:271416",
-    "reportId": 271416,
-    "type": "shortage",
-    "brandName": "NAROPIN",
-    "status": "active_confirmed",
-    "din": "02229418",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-02T18:22:22.000Z",
-    "updateDate": "2026-06-02T18:22:22.000Z",
-    "postedDate": "2025-11-11T00:59:18.000Z"
-  },
-  {
     "id": "shortage:286134",
     "reportId": 286134,
     "type": "shortage",
@@ -3598,20 +3668,6 @@
     "postedDate": "2026-01-29T20:51:02.000Z"
   },
   {
-    "id": "shortage:268518",
-    "reportId": 268518,
-    "type": "shortage",
-    "brandName": "AURO-VALGANCICLOVIR",
-    "status": "active_confirmed",
-    "din": "02535483",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-07-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-28T16:48:39.000Z",
-    "updateDate": "2026-05-28T16:48:39.000Z",
-    "postedDate": "2025-10-03T18:02:08.000Z"
-  },
-  {
     "id": "shortage:279913",
     "reportId": 279913,
     "type": "shortage",
@@ -3624,20 +3680,6 @@
     "updatedDate": "2026-05-28T00:51:45.000Z",
     "updateDate": "2026-05-28T00:51:45.000Z",
     "postedDate": "2026-03-07T00:04:59.000Z"
-  },
-  {
-    "id": "shortage:280173",
-    "reportId": 280173,
-    "type": "shortage",
-    "brandName": "DICLOFENAC",
-    "status": "active_confirmed",
-    "din": "02475065",
-    "strength": "0.1%",
-    "expectedBackInStockDate": "2026-06-12T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-27T21:41:53.000Z",
-    "updateDate": "2026-05-27T21:41:53.000Z",
-    "postedDate": "2026-03-10T17:59:34.000Z"
   },
   {
     "id": "shortage:285791",
@@ -7712,20 +7754,6 @@
     "updatedDate": "2025-12-20T01:51:11.000Z",
     "updateDate": "2025-12-20T01:51:11.000Z",
     "postedDate": "2022-12-06T19:58:00.000Z"
-  },
-  {
-    "id": "shortage:272436",
-    "reportId": 272436,
-    "type": "shortage",
-    "brandName": "PRE-PEN",
-    "status": "active_confirmed",
-    "din": "00328693",
-    "strength": "0.000060M",
-    "expectedBackInStockDate": "2026-02-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-12-16T11:00:03.000Z",
-    "updateDate": "2025-12-16T11:00:03.000Z",
-    "postedDate": "2025-11-24T20:55:34.000Z"
   },
   {
     "id": "shortage:199211",

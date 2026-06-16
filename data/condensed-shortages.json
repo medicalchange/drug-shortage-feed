@@ -1,39 +1,45 @@
 {
-  "count": 368,
-  "refreshedAt": "2026-06-15T13:49:33.865Z",
+  "count": 370,
+  "refreshedAt": "2026-06-16T12:48:36.728Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 4,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "ABIRATERONE",
+      "drug": "ASMANEX TWISTHALER",
       "doses": [
-        "500MG"
+        "100MCG"
       ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
-      "drug": "DEFERASIROX",
+      "drug": "GABAPENTIN TABLETS",
       "doses": [
-        "250MG"
+        "600MG"
       ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-    },
-    {
-      "drug": "FENOFIBRATE E",
-      "doses": [
-        "48.0MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    },
-    {
-      "drug": "METFORMIN FC",
-      "doses": [
-        "850MG"
-      ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-25T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-16T12:48:36.728Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "ASMANEX TWISTHALER",
+          "doses": [
+            "100MCG"
+          ],
+          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+        },
+        {
+          "drug": "GABAPENTIN TABLETS",
+          "doses": [
+            "600MG"
+          ],
+          "expectedBackInStockDate": "2026-06-25T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-15T13:49:33.865Z",
       "addedDrugsCount": 4,
@@ -394,33 +400,6 @@
           "expectedBackInStockDate": "2026-06-22T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-06-02T12:00:26.486Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "BUSPIRONE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
-        },
-        {
-          "drug": "CANDESARTAN",
-          "doses": [
-            "32MG"
-          ],
-          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-        },
-        {
-          "drug": "ETHACRYNATE SODIUM",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -643,6 +622,13 @@
         "10MG",
         "2MG",
         "5MG"
+      ],
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "drug": "ASMANEX TWISTHALER",
+      "doses": [
+        "100MCG"
       ],
       "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
@@ -1548,6 +1534,13 @@
         "800MG"
       ],
       "expectedBackInStockDate": "2026-06-10T04:00:00.000Z"
+    },
+    {
+      "drug": "GABAPENTIN TABLETS",
+      "doses": [
+        "600MG"
+      ],
+      "expectedBackInStockDate": "2026-06-25T04:00:00.000Z"
     },
     {
       "drug": "GATIFLOXACIN",
@@ -3118,7 +3111,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "VALPROIC ACID",
