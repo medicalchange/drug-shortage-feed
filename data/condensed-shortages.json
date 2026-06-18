@@ -1,32 +1,59 @@
 {
-  "count": 354,
-  "refreshedAt": "2026-06-17T12:12:48.380Z",
+  "count": 351,
+  "refreshedAt": "2026-06-18T11:47:31.577Z",
   "source": "github-static-seed",
   "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "ABRAXANE FOR INJECTABLE SUSPENSION",
+      "drug": "BIPHENTIN",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "drug": "EPINEPHRINE INJECTION USP",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+    },
+    {
+      "drug": "UROMITEXAN",
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-    },
-    {
-      "drug": "INNOHEP",
-      "doses": [
-        "20000UNIT"
-      ],
-      "expectedBackInStockDate": "2026-06-06T04:00:00.000Z"
-    },
-    {
-      "drug": "SUNITINIB",
-      "doses": [
-        "12.5MG"
-      ],
-      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-18T11:47:31.577Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "BIPHENTIN",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+        },
+        {
+          "drug": "EPINEPHRINE INJECTION USP",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+        },
+        {
+          "drug": "UROMITEXAN",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-17T12:12:48.380Z",
       "addedDrugsCount": 3,
@@ -362,26 +389,6 @@
           "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-06-04T10:58:08.335Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "KIRSTY",
-          "doses": [
-            "100UNIT"
-          ],
-          "expectedBackInStockDate": "2026-06-08T04:00:00.000Z"
-        },
-        {
-          "drug": "ZOLEDRONIC ACID FOR INJECTION",
-          "doses": [
-            "4MG"
-          ],
-          "expectedBackInStockDate": "2026-07-06T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -583,7 +590,7 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2025-12-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
     },
     {
       "drug": "APRI 28",
@@ -591,7 +598,7 @@
         "0.03MG",
         "0.15MG"
       ],
-      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
     },
     {
       "drug": "ARIDOL",
@@ -654,13 +661,6 @@
       "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
-      "drug": "AZITHROMYCIN",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-    },
-    {
       "drug": "BECLO AQ",
       "doses": [
         "50MCG"
@@ -710,6 +710,13 @@
         "4MCG"
       ],
       "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
+    },
+    {
+      "drug": "BIPHENTIN",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "BIVALIRUDIN INJECTION",
@@ -913,7 +920,7 @@
         "125MG",
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
@@ -1336,6 +1343,13 @@
       "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
+      "drug": "EPINEPHRINE INJECTION USP",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+    },
+    {
       "drug": "ERIBULIN",
       "doses": [
         "0.5MG"
@@ -1473,7 +1487,7 @@
         "600MG",
         "800MG"
       ],
-      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
     },
     {
       "drug": "GABAPENTIN TABLETS",
@@ -1597,13 +1611,6 @@
         "20000UNIT"
       ],
       "expectedBackInStockDate": "2026-06-06T04:00:00.000Z"
-    },
-    {
-      "drug": "IPRATROPIUM STERINEBS",
-      "doses": [
-        "250MCG"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "IPRAVENT",
@@ -1745,13 +1752,6 @@
       "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
-      "drug": "LETROZOLE",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2025-12-31T05:00:00.000Z"
-    },
-    {
       "drug": "LEUCOVORIN",
       "doses": [
         "5MG"
@@ -1773,7 +1773,7 @@
         "250MG",
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "LEVOFLOXACIN",
@@ -1830,7 +1830,7 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "LOSARTAN HCT",
@@ -1888,7 +1888,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-17T04:00:00.000Z"
     },
     {
       "drug": "METFORMIN ER",
@@ -1986,7 +1986,7 @@
       "doses": [
         "30MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
       "drug": "MOXIFLOXACIN",
@@ -2227,13 +2227,6 @@
       "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
     },
     {
-      "drug": "PAROXETINE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
-    },
-    {
       "drug": "PEGASYS",
       "doses": [
         "180MCG"
@@ -2289,13 +2282,6 @@
       "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
-      "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE USP",
-      "doses": [
-        "149MG"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    },
-    {
       "drug": "PRAMIPEXOLE",
       "doses": [
         "0.5MG",
@@ -2322,7 +2308,7 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
     },
     {
       "drug": "PRE-PEN",
@@ -2343,7 +2329,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
     },
     {
       "drug": "PREGABALIN",
@@ -2426,7 +2412,6 @@
     {
       "drug": "QUETIAPINE",
       "doses": [
-        "25MG",
         "300MG"
       ],
       "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
@@ -2520,13 +2505,6 @@
       "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
     },
     {
-      "drug": "RISEDRONATE",
-      "doses": [
-        "150MG"
-      ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
-    },
-    {
       "drug": "RISPERIDONE",
       "doses": [
         "0.50MG",
@@ -2602,7 +2580,7 @@
         "0.03MG",
         "0.15MG"
       ],
-      "expectedBackInStockDate": "2026-09-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
     },
     {
       "drug": "SEASONIQUE",
@@ -2611,7 +2589,7 @@
         "0.03MG",
         "0.15MG"
       ],
-      "expectedBackInStockDate": "2026-09-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
     },
     {
       "drug": "SIMVASTATIN",
@@ -2770,7 +2748,7 @@
         "20MG",
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
     },
     {
       "drug": "TERBINAFINE",
@@ -2961,6 +2939,13 @@
         "360UNIT"
       ],
       "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
+    },
+    {
+      "drug": "UROMITEXAN",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     },
     {
       "drug": "VALACYCLOVIR",
