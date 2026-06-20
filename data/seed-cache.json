@@ -1,5 +1,89 @@
 [
   {
+    "id": "shortage:287116",
+    "reportId": 287116,
+    "type": "shortage",
+    "brandName": "APO-MIRABEGRON",
+    "status": "active_confirmed",
+    "din": "02564963",
+    "strength": "25MG",
+    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-20T00:40:14.000Z",
+    "updateDate": "2026-06-20T00:40:14.000Z",
+    "postedDate": "2026-06-13T00:51:38.000Z"
+  },
+  {
+    "id": "shortage:286407",
+    "reportId": 286407,
+    "type": "shortage",
+    "brandName": "ANAFRANIL",
+    "status": "active_confirmed",
+    "din": "00324019",
+    "strength": "25MG",
+    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-20T00:39:41.000Z",
+    "updateDate": "2026-06-20T00:39:41.000Z",
+    "postedDate": "2026-06-04T22:20:22.000Z"
+  },
+  {
+    "id": "shortage:286413",
+    "reportId": 286413,
+    "type": "shortage",
+    "brandName": "APO-PRAZO",
+    "status": "active_confirmed",
+    "din": "00882801",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-20T00:38:51.000Z",
+    "updateDate": "2026-06-20T00:38:51.000Z",
+    "postedDate": "2026-06-04T22:22:01.000Z"
+  },
+  {
+    "id": "shortage:286807",
+    "reportId": 286807,
+    "type": "shortage",
+    "brandName": "TEMODAL",
+    "status": "active_confirmed",
+    "din": "02312794",
+    "strength": "140MG",
+    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-19T19:28:49.000Z",
+    "updateDate": "2026-06-19T19:28:49.000Z",
+    "postedDate": "2026-06-09T18:19:42.000Z"
+  },
+  {
+    "id": "shortage:287702",
+    "reportId": 287702,
+    "type": "shortage",
+    "brandName": "AURO-CANDESARTAN HCT",
+    "status": "active_confirmed",
+    "din": "02421054",
+    "strength": "32MG\r\n25MG",
+    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-19T17:47:37.000Z",
+    "updateDate": "2026-06-19T17:47:37.000Z",
+    "postedDate": "2026-06-19T17:47:24.000Z"
+  },
+  {
+    "id": "shortage:283960",
+    "reportId": 283960,
+    "type": "shortage",
+    "brandName": "PACLITAXEL POWDER FOR INJECTABLE SUSPENSION NANOPARTICLE, ALBUMIN-BOUND PACLITAXEL",
+    "status": "active_confirmed",
+    "din": "02496097",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-07-17T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-19T16:32:35.000Z",
+    "updateDate": "2026-06-19T16:32:35.000Z",
+    "postedDate": "2026-04-30T16:25:07.000Z"
+  },
+  {
     "id": "shortage:287099",
     "reportId": 287099,
     "type": "shortage",
@@ -628,20 +712,6 @@
     "updatedDate": "2026-06-18T18:11:07.000Z",
     "updateDate": "2026-06-18T18:11:07.000Z",
     "postedDate": "2026-06-18T18:08:54.000Z"
-  },
-  {
-    "id": "shortage:286807",
-    "reportId": 286807,
-    "type": "shortage",
-    "brandName": "TEMODAL",
-    "status": "active_confirmed",
-    "din": "02312794",
-    "strength": "140MG",
-    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-18T17:47:24.000Z",
-    "updateDate": "2026-06-18T17:47:24.000Z",
-    "postedDate": "2026-06-09T18:19:42.000Z"
   },
   {
     "id": "shortage:283815",
@@ -1610,20 +1680,6 @@
     "postedDate": "2026-06-08T16:42:35.000Z"
   },
   {
-    "id": "shortage:287116",
-    "reportId": 287116,
-    "type": "shortage",
-    "brandName": "APO-MIRABEGRON",
-    "status": "active_confirmed",
-    "din": "02564963",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-13T00:51:51.000Z",
-    "updateDate": "2026-06-13T00:51:51.000Z",
-    "postedDate": "2026-06-13T00:51:38.000Z"
-  },
-  {
     "id": "shortage:287108",
     "reportId": 287108,
     "type": "shortage",
@@ -1972,20 +2028,6 @@
     "updatedDate": "2026-06-12T01:00:00.000Z",
     "updateDate": "2026-06-12T01:00:00.000Z",
     "postedDate": "2025-12-21T02:36:26.000Z"
-  },
-  {
-    "id": "shortage:286407",
-    "reportId": 286407,
-    "type": "shortage",
-    "brandName": "ANAFRANIL",
-    "status": "active_confirmed",
-    "din": "00324019",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-12T00:54:49.000Z",
-    "updateDate": "2026-06-12T00:54:49.000Z",
-    "postedDate": "2026-06-04T22:20:22.000Z"
   },
   {
     "id": "shortage:285715",
@@ -3318,20 +3360,6 @@
     "postedDate": "2026-06-04T22:25:56.000Z"
   },
   {
-    "id": "shortage:286413",
-    "reportId": 286413,
-    "type": "shortage",
-    "brandName": "APO-PRAZO",
-    "status": "active_confirmed",
-    "din": "00882801",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-06-19T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-04T22:22:08.000Z",
-    "updateDate": "2026-06-04T22:22:08.000Z",
-    "postedDate": "2026-06-04T22:22:01.000Z"
-  },
-  {
     "id": "shortage:283581",
     "reportId": 283581,
     "type": "shortage",
@@ -3722,20 +3750,6 @@
     "updatedDate": "2026-06-04T01:49:11.000Z",
     "updateDate": "2026-06-04T01:49:11.000Z",
     "postedDate": "2026-01-02T20:04:01.000Z"
-  },
-  {
-    "id": "shortage:284702",
-    "reportId": 284702,
-    "type": "shortage",
-    "brandName": "TETRACYCLINE",
-    "status": "active_confirmed",
-    "din": "00580929",
-    "strength": "250MG",
-    "expectedBackInStockDate": "2026-06-19T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-03T23:09:32.000Z",
-    "updateDate": "2026-06-03T23:09:32.000Z",
-    "postedDate": "2026-05-06T23:45:54.000Z"
   },
   {
     "id": "shortage:284696",
@@ -4324,20 +4338,6 @@
     "updatedDate": "2026-05-22T00:14:21.000Z",
     "updateDate": "2026-05-22T00:14:21.000Z",
     "postedDate": "2025-07-10T21:55:07.000Z"
-  },
-  {
-    "id": "shortage:283960",
-    "reportId": 283960,
-    "type": "shortage",
-    "brandName": "PACLITAXEL POWDER FOR INJECTABLE SUSPENSION NANOPARTICLE, ALBUMIN-BOUND PACLITAXEL",
-    "status": "active_confirmed",
-    "din": "02496097",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-06-12T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-21T19:08:20.000Z",
-    "updateDate": "2026-05-21T19:08:20.000Z",
-    "postedDate": "2026-04-30T16:25:07.000Z"
   },
   {
     "id": "shortage:284968",
@@ -5164,20 +5164,6 @@
     "updatedDate": "2026-05-14T01:12:53.000Z",
     "updateDate": "2026-05-14T01:12:53.000Z",
     "postedDate": "2026-03-20T23:08:53.000Z"
-  },
-  {
-    "id": "shortage:284648",
-    "reportId": 284648,
-    "type": "shortage",
-    "brandName": "TRANEXAMIC ACID INJECTION",
-    "status": "active_confirmed",
-    "din": "02392763",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-13T23:30:49.000Z",
-    "updateDate": "2026-05-13T23:30:49.000Z",
-    "postedDate": "2026-05-06T19:46:31.000Z"
   },
   {
     "id": "shortage:282936",
