@@ -1,18 +1,14 @@
 {
-  "refreshedAt": "2026-06-20T10:29:00.719Z",
+  "refreshedAt": "2026-06-21T11:12:24.266Z",
   "count": 593,
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "CANDESARTAN HCT",
-      "doses": [
-        "25MG",
-        "32MG"
-      ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-21T11:12:24.266Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-06-20T10:29:00.719Z",
       "addedDrugsCount": 1,
@@ -348,11 +344,6 @@
     },
     {
       "refreshedAt": "2026-06-08T12:24:00.269Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-06-07T10:24:47.477Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
