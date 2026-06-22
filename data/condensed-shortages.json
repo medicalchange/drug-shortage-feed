@@ -1,10 +1,73 @@
 {
-  "count": 349,
-  "refreshedAt": "2026-06-21T11:12:24.266Z",
+  "count": 353,
+  "refreshedAt": "2026-06-22T13:29:52.137Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 4,
+  "addedDrugs": [
+    {
+      "drug": "CLIMARA 25",
+      "doses": [
+        "25MCG"
+      ],
+      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+    },
+    {
+      "drug": "CLIMARA 50",
+      "doses": [
+        "50MCG"
+      ],
+      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+    },
+    {
+      "drug": "CLIMARA 75",
+      "doses": [
+        "75MCG"
+      ],
+      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+    },
+    {
+      "drug": "LORAZEPAM INJECTION USP",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-22T13:29:52.137Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "CLIMARA 25",
+          "doses": [
+            "25MCG"
+          ],
+          "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+        },
+        {
+          "drug": "CLIMARA 50",
+          "doses": [
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+        },
+        {
+          "drug": "CLIMARA 75",
+          "doses": [
+            "75MCG"
+          ],
+          "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+        },
+        {
+          "drug": "LORAZEPAM INJECTION USP",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-21T11:12:24.266Z",
       "addedDrugsCount": 0,
@@ -342,11 +405,6 @@
           "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-06-08T12:24:00.269Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -362,7 +420,7 @@
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "ABRAXANE FOR INJECTABLE SUSPENSION",
@@ -941,6 +999,27 @@
         "10MG"
       ],
       "expectedBackInStockDate": "2026-08-18T04:00:00.000Z"
+    },
+    {
+      "drug": "CLIMARA 25",
+      "doses": [
+        "25MCG"
+      ],
+      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+    },
+    {
+      "drug": "CLIMARA 50",
+      "doses": [
+        "50MCG"
+      ],
+      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+    },
+    {
+      "drug": "CLIMARA 75",
+      "doses": [
+        "75MCG"
+      ],
+      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
     },
     {
       "drug": "CLOBETASOL SPRAY",
@@ -1595,7 +1674,7 @@
         "25MG",
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
     {
       "drug": "IRBESARTAN-HCTZ",
@@ -1793,6 +1872,13 @@
       "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
     },
     {
+      "drug": "LORAZEPAM INJECTION USP",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+    },
+    {
       "drug": "LOSARTAN",
       "doses": [
         "100MG",
@@ -1804,6 +1890,7 @@
     {
       "drug": "LOSARTAN HCT",
       "doses": [
+        "100MG",
         "12.5MG",
         "50MG"
       ],
@@ -2247,7 +2334,7 @@
         "10000UNIT",
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
       "drug": "PRAMIPEXOLE",
@@ -2606,7 +2693,7 @@
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
       "drug": "SOTALOL - 160 MG",
