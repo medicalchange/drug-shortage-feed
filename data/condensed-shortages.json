@@ -1,39 +1,33 @@
 {
-  "count": 353,
-  "refreshedAt": "2026-06-22T13:29:52.137Z",
+  "count": 350,
+  "refreshedAt": "2026-06-23T10:58:01.794Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 4,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "CLIMARA 25",
+      "drug": "BREVICON 1/35 TABLETS (21-DAY PACK)",
       "doses": [
-        "25MCG"
+        "0.035MG",
+        "1MG"
       ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-    },
-    {
-      "drug": "CLIMARA 50",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-    },
-    {
-      "drug": "CLIMARA 75",
-      "doses": [
-        "75MCG"
-      ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-    },
-    {
-      "drug": "LORAZEPAM INJECTION USP",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-23T10:58:01.794Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "BREVICON 1/35 TABLETS (21-DAY PACK)",
+          "doses": [
+            "0.035MG",
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-22T13:29:52.137Z",
       "addedDrugsCount": 4,
@@ -371,40 +365,6 @@
           "expectedBackInStockDate": "2026-06-18T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-06-09T10:56:05.167Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "CLARUS",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
-        },
-        {
-          "drug": "ENALAPRIL",
-          "doses": [
-            "16MG"
-          ],
-          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-        },
-        {
-          "drug": "VORICONAZOLE FOR INJECTION",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-        },
-        {
-          "drug": "ZELDOX",
-          "doses": [
-            "60MG"
-          ],
-          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -718,7 +678,7 @@
         "0.5MG",
         "50MCG"
       ],
-      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "BICILLIN L-A",
@@ -787,6 +747,14 @@
       "doses": [
         ".035MG",
         ".5MG"
+      ],
+      "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
+    },
+    {
+      "drug": "BREVICON 1/35 TABLETS (21-DAY PACK)",
+      "doses": [
+        "0.035MG",
+        "1MG"
       ],
       "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
     },
@@ -911,13 +879,6 @@
       "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
-      "drug": "CEFADROXIL",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-    },
-    {
       "drug": "CEFEPIME",
       "doses": [
         "1G"
@@ -996,7 +957,8 @@
     {
       "drug": "CLARUS",
       "doses": [
-        "10MG"
+        "10MG",
+        "40MG"
       ],
       "expectedBackInStockDate": "2026-08-18T04:00:00.000Z"
     },
@@ -1070,7 +1032,7 @@
         "0.2%",
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "CORZYNA",
@@ -1252,7 +1214,7 @@
         "300MG",
         "360MG"
       ],
-      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "DIPENTUM",
@@ -1334,14 +1296,6 @@
         "0.5MG"
       ],
       "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
-    },
-    {
-      "drug": "DYMISTA",
-      "doses": [
-        "137MCG",
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
     },
     {
       "drug": "EDOXABAN",
@@ -1532,7 +1486,7 @@
         "600MG",
         "800MG"
       ],
-      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "GABAPENTIN TABLETS",
@@ -1757,7 +1711,8 @@
     {
       "drug": "LANSOPRAZOLE",
       "doses": [
-        "15MG"
+        "15MG",
+        "30MG"
       ],
       "expectedBackInStockDate": "2026-01-30T05:00:00.000Z"
     },
@@ -2113,13 +2068,6 @@
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
-      "drug": "NIFEDIPINE EXTENDED RELEASE",
-      "doses": [
-        "30MG"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    },
-    {
       "drug": "NRA-CITALOPRAM",
       "doses": [
         "10MG",
@@ -2470,7 +2418,7 @@
       "doses": [
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "QUETIAPINE XR",
@@ -2615,13 +2563,6 @@
         "2.5MG"
       ],
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-    },
-    {
-      "drug": "SCOPOLAMINE HYDROBROMIDE INJECTION",
-      "doses": [
-        "0.4MG"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "SEASONALE",

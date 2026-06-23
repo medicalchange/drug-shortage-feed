@@ -1,38 +1,32 @@
 {
-  "refreshedAt": "2026-06-22T13:29:52.137Z",
-  "count": 598,
-  "addedDrugsCount": 4,
+  "refreshedAt": "2026-06-23T10:58:01.794Z",
+  "count": 597,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "CLIMARA 25",
+      "drug": "BREVICON 1/35 TABLETS (21-DAY PACK)",
       "doses": [
-        "25MCG"
+        "0.035MG",
+        "1MG"
       ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-    },
-    {
-      "drug": "CLIMARA 50",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-    },
-    {
-      "drug": "CLIMARA 75",
-      "doses": [
-        "75MCG"
-      ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-    },
-    {
-      "drug": "LORAZEPAM INJECTION USP",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-23T10:58:01.794Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "BREVICON 1/35 TABLETS (21-DAY PACK)",
+          "doses": [
+            "0.035MG",
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-22T13:29:52.137Z",
       "addedDrugsCount": 4,
@@ -368,40 +362,6 @@
             "0.05%"
           ],
           "expectedBackInStockDate": "2026-06-18T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-09T10:56:05.167Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "CLARUS",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
-        },
-        {
-          "drug": "ENALAPRIL",
-          "doses": [
-            "16MG"
-          ],
-          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-        },
-        {
-          "drug": "VORICONAZOLE FOR INJECTION",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-        },
-        {
-          "drug": "ZELDOX",
-          "doses": [
-            "60MG"
-          ],
-          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
         }
       ]
     }
