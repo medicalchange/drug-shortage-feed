@@ -1,5 +1,47 @@
 [
   {
+    "id": "shortage:274457",
+    "reportId": 274457,
+    "type": "shortage",
+    "brandName": "BIVALIRUDIN INJECTION",
+    "status": "active_confirmed",
+    "din": "02505517",
+    "strength": "5MG",
+    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-23T23:42:40.000Z",
+    "updateDate": "2026-06-23T23:42:40.000Z",
+    "postedDate": "2025-12-16T22:06:37.000Z"
+  },
+  {
+    "id": "shortage:287221",
+    "reportId": 287221,
+    "type": "shortage",
+    "brandName": "UROMITEXAN",
+    "status": "active_confirmed",
+    "din": "02241411",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-23T21:03:35.000Z",
+    "updateDate": "2026-06-23T21:03:35.000Z",
+    "postedDate": "2026-06-16T00:40:02.000Z"
+  },
+  {
+    "id": "shortage:278501",
+    "reportId": 278501,
+    "type": "shortage",
+    "brandName": "PAXIL TAB 20MG",
+    "status": "active_confirmed",
+    "din": "01940481",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-23T15:57:04.000Z",
+    "updateDate": "2026-06-23T15:57:04.000Z",
+    "postedDate": "2026-02-20T20:43:53.000Z"
+  },
+  {
     "id": "shortage:285457",
     "reportId": 285457,
     "type": "shortage",
@@ -1316,20 +1358,6 @@
     "postedDate": "2026-04-16T18:37:01.000Z"
   },
   {
-    "id": "shortage:287221",
-    "reportId": 287221,
-    "type": "shortage",
-    "brandName": "UROMITEXAN",
-    "status": "active_confirmed",
-    "din": "02241411",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-17T22:10:04.000Z",
-    "updateDate": "2026-06-17T22:10:04.000Z",
-    "postedDate": "2026-06-16T00:40:02.000Z"
-  },
-  {
     "id": "shortage:282428",
     "reportId": 282428,
     "type": "shortage",
@@ -1722,20 +1750,6 @@
     "postedDate": "2026-04-27T23:10:13.000Z"
   },
   {
-    "id": "shortage:286134",
-    "reportId": 286134,
-    "type": "shortage",
-    "brandName": "M-CELECOXIB",
-    "status": "active_confirmed",
-    "din": "02495465",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-16T19:16:35.000Z",
-    "updateDate": "2026-06-16T19:16:35.000Z",
-    "postedDate": "2026-06-02T17:32:35.000Z"
-  },
-  {
     "id": "shortage:283839",
     "reportId": 283839,
     "type": "shortage",
@@ -1832,20 +1846,6 @@
     "updatedDate": "2026-06-16T00:28:11.000Z",
     "updateDate": "2026-06-16T00:28:11.000Z",
     "postedDate": "2026-05-15T18:03:16.000Z"
-  },
-  {
-    "id": "shortage:287216",
-    "reportId": 287216,
-    "type": "shortage",
-    "brandName": "AURO-GABAPENTIN TABLETS",
-    "status": "active_confirmed",
-    "din": "02428334",
-    "strength": "600MG",
-    "expectedBackInStockDate": "2026-06-25T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-15T23:59:23.000Z",
-    "updateDate": "2026-06-15T23:59:23.000Z",
-    "postedDate": "2026-06-15T23:59:16.000Z"
   },
   {
     "id": "shortage:268518",
@@ -7544,20 +7544,6 @@
     "updatedDate": "2026-01-15T20:08:17.000Z",
     "updateDate": "2026-01-15T20:08:17.000Z",
     "postedDate": "2025-05-15T23:49:38.000Z"
-  },
-  {
-    "id": "shortage:274457",
-    "reportId": 274457,
-    "type": "shortage",
-    "brandName": "BIVALIRUDIN INJECTION",
-    "status": "active_confirmed",
-    "din": "02505517",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-02T11:00:09.000Z",
-    "updateDate": "2026-01-02T11:00:09.000Z",
-    "postedDate": "2025-12-16T22:06:37.000Z"
   },
   {
     "id": "shortage:177181",

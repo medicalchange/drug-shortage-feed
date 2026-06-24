@@ -1,18 +1,30 @@
 {
-  "refreshedAt": "2026-06-23T10:58:01.794Z",
-  "count": 597,
+  "refreshedAt": "2026-06-24T10:43:57.813Z",
+  "count": 596,
   "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "BREVICON 1/35 TABLETS (21-DAY PACK)",
+      "drug": "PAXIL TAB 20MG",
       "doses": [
-        "0.035MG",
-        "1MG"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-24T10:43:57.813Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "PAXIL TAB 20MG",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-23T10:58:01.794Z",
       "addedDrugsCount": 1,
@@ -342,26 +354,6 @@
             "100MG"
           ],
           "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-10T11:34:49.314Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CLEVIPREX",
-          "doses": [
-            "0.5MG"
-          ],
-          "expectedBackInStockDate": "2026-06-09T04:00:00.000Z"
-        },
-        {
-          "drug": "DUREZOL",
-          "doses": [
-            "0.05%"
-          ],
-          "expectedBackInStockDate": "2026-06-18T04:00:00.000Z"
         }
       ]
     }
