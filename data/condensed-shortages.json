@@ -1,18 +1,15 @@
 {
-  "count": 349,
-  "refreshedAt": "2026-06-24T10:43:57.813Z",
+  "count": 347,
+  "refreshedAt": "2026-06-25T10:37:58.557Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "PAXIL TAB 20MG",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-25T10:37:58.557Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-06-24T10:43:57.813Z",
       "addedDrugsCount": 1,
@@ -342,19 +339,6 @@
             "200MG"
           ],
           "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-11T12:06:39.901Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "CODEINE CONTIN 100MG CONTROLLED RELEASE TAB",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
         }
       ]
     }
@@ -1818,7 +1802,7 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
       "drug": "LOSARTAN HCT",
@@ -1898,7 +1882,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
       "drug": "METHYLPHENIDATE CR",
@@ -2115,7 +2099,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-06-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "OLOPATADINE",
@@ -2701,13 +2685,6 @@
       "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
     },
     {
-      "drug": "TECTA",
-      "doses": [
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    },
-    {
       "drug": "TELMISARTAN HCTZ",
       "doses": [
         "12.5MG",
@@ -2849,16 +2826,6 @@
       "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
-      "drug": "TRI-JORDYNA 21",
-      "doses": [
-        "0.035MG",
-        "0.18MG",
-        "0.215MG",
-        "0.25MG"
-      ],
-      "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
-    },
-    {
       "drug": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
       "doses": [
         "40MG"
@@ -2927,7 +2894,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
     },
     {
       "drug": "VALPROIC ACID",

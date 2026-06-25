@@ -1,17 +1,14 @@
 {
-  "refreshedAt": "2026-06-24T10:43:57.813Z",
-  "count": 596,
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "PAXIL TAB 20MG",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-    }
-  ],
+  "refreshedAt": "2026-06-25T10:37:58.557Z",
+  "count": 594,
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-25T10:37:58.557Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-06-24T10:43:57.813Z",
       "addedDrugsCount": 1,
@@ -341,19 +338,6 @@
             "200MG"
           ],
           "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-11T12:06:39.901Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "CODEINE CONTIN 100MG CONTROLLED RELEASE TAB",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
         }
       ]
     }

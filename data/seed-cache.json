@@ -1,5 +1,89 @@
 [
   {
+    "id": "shortage:268518",
+    "reportId": 268518,
+    "type": "shortage",
+    "brandName": "AURO-VALGANCICLOVIR",
+    "status": "active_confirmed",
+    "din": "02535483",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2027-02-28T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-25T00:00:56.000Z",
+    "updateDate": "2026-06-25T00:00:56.000Z",
+    "postedDate": "2025-10-03T18:02:08.000Z"
+  },
+  {
+    "id": "shortage:280445",
+    "reportId": 280445,
+    "type": "shortage",
+    "brandName": "ADACEL",
+    "status": "active_confirmed",
+    "din": "02240255",
+    "strength": "5LF\r\n5MCG\r\n3MCG\r\n5MCG\r\n2LF\r\n2.5MCG",
+    "expectedBackInStockDate": "2026-07-10T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-24T23:43:32.000Z",
+    "updateDate": "2026-06-24T23:43:32.000Z",
+    "postedDate": "2026-03-13T00:29:10.000Z"
+  },
+  {
+    "id": "shortage:286968",
+    "reportId": 286968,
+    "type": "shortage",
+    "brandName": "METHOPRAZINE",
+    "status": "active_confirmed",
+    "din": "02238404",
+    "strength": "5MG",
+    "expectedBackInStockDate": "2026-07-03T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-24T22:37:41.000Z",
+    "updateDate": "2026-06-24T22:37:41.000Z",
+    "postedDate": "2026-06-12T00:43:42.000Z"
+  },
+  {
+    "id": "shortage:281870",
+    "reportId": 281870,
+    "type": "shortage",
+    "brandName": "ONDANSETRON",
+    "status": "active_confirmed",
+    "din": "02421410",
+    "strength": "8MG",
+    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-24T18:16:35.000Z",
+    "updateDate": "2026-06-24T18:16:35.000Z",
+    "postedDate": "2026-03-30T23:40:47.000Z"
+  },
+  {
+    "id": "shortage:285877",
+    "reportId": 285877,
+    "type": "shortage",
+    "brandName": "LOSARTAN",
+    "status": "active_confirmed",
+    "din": "02388871",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-07-03T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-24T18:15:49.000Z",
+    "updateDate": "2026-06-24T18:15:49.000Z",
+    "postedDate": "2026-05-25T22:30:28.000Z"
+  },
+  {
+    "id": "shortage:284913",
+    "reportId": 284913,
+    "type": "shortage",
+    "brandName": "GLN-OLMESARTAN",
+    "status": "active_confirmed",
+    "din": "02469820",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-24T15:22:44.000Z",
+    "updateDate": "2026-06-24T15:22:44.000Z",
+    "postedDate": "2026-05-08T19:46:34.000Z"
+  },
+  {
     "id": "shortage:274457",
     "reportId": 274457,
     "type": "shortage",
@@ -1120,20 +1204,6 @@
     "postedDate": "2026-05-06T23:43:32.000Z"
   },
   {
-    "id": "shortage:286968",
-    "reportId": 286968,
-    "type": "shortage",
-    "brandName": "METHOPRAZINE",
-    "status": "active_confirmed",
-    "din": "02238404",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-18T18:20:02.000Z",
-    "updateDate": "2026-06-18T18:20:02.000Z",
-    "postedDate": "2026-06-12T00:43:42.000Z"
-  },
-  {
     "id": "shortage:287566",
     "reportId": 287566,
     "type": "shortage",
@@ -1468,20 +1538,6 @@
     "updatedDate": "2026-06-17T17:33:21.000Z",
     "updateDate": "2026-06-17T17:33:21.000Z",
     "postedDate": "2026-02-24T01:14:48.000Z"
-  },
-  {
-    "id": "shortage:285877",
-    "reportId": 285877,
-    "type": "shortage",
-    "brandName": "LOSARTAN",
-    "status": "active_confirmed",
-    "din": "02388871",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-17T16:46:45.000Z",
-    "updateDate": "2026-06-17T16:46:45.000Z",
-    "postedDate": "2026-05-25T22:30:28.000Z"
   },
   {
     "id": "shortage:166586",
@@ -1848,20 +1904,6 @@
     "postedDate": "2026-05-15T18:03:16.000Z"
   },
   {
-    "id": "shortage:268518",
-    "reportId": 268518,
-    "type": "shortage",
-    "brandName": "AURO-VALGANCICLOVIR",
-    "status": "active_confirmed",
-    "din": "02535483",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-15T23:11:06.000Z",
-    "updateDate": "2026-06-15T23:11:06.000Z",
-    "postedDate": "2025-10-03T18:02:08.000Z"
-  },
-  {
     "id": "shortage:280173",
     "reportId": 280173,
     "type": "shortage",
@@ -1986,20 +2028,6 @@
     "updatedDate": "2026-06-12T23:44:34.000Z",
     "updateDate": "2026-06-12T23:44:34.000Z",
     "postedDate": "2026-06-12T23:44:19.000Z"
-  },
-  {
-    "id": "shortage:283128",
-    "reportId": 283128,
-    "type": "shortage",
-    "brandName": "TECTA",
-    "status": "active_confirmed",
-    "din": "02267233",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-12T23:41:15.000Z",
-    "updateDate": "2026-06-12T23:41:15.000Z",
-    "postedDate": "2026-04-17T05:01:11.000Z"
   },
   {
     "id": "shortage:277593",
@@ -3206,20 +3234,6 @@
     "postedDate": "2025-12-09T01:14:50.000Z"
   },
   {
-    "id": "shortage:273867",
-    "reportId": 273867,
-    "type": "shortage",
-    "brandName": "TRI-JORDYNA 21",
-    "status": "active_confirmed",
-    "din": "02486296",
-    "strength": "0.25MG\r\n0.18MG\r\n0.215MG\r\n0.035MG\r\n0.035MG\r\n0.035MG",
-    "expectedBackInStockDate": "2026-06-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-08T17:19:41.000Z",
-    "updateDate": "2026-06-08T17:19:41.000Z",
-    "postedDate": "2025-12-10T00:27:06.000Z"
-  },
-  {
     "id": "shortage:271122",
     "reportId": 271122,
     "type": "shortage",
@@ -3976,20 +3990,6 @@
     "postedDate": "2025-11-18T01:11:19.000Z"
   },
   {
-    "id": "shortage:281870",
-    "reportId": 281870,
-    "type": "shortage",
-    "brandName": "ONDANSETRON",
-    "status": "active_confirmed",
-    "din": "02421410",
-    "strength": "8MG",
-    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-03T16:42:17.000Z",
-    "updateDate": "2026-06-03T16:42:17.000Z",
-    "postedDate": "2026-03-30T23:40:47.000Z"
-  },
-  {
     "id": "shortage:284613",
     "reportId": 284613,
     "type": "shortage",
@@ -4366,20 +4366,6 @@
     "updatedDate": "2026-05-25T17:54:54.000Z",
     "updateDate": "2026-05-25T17:54:54.000Z",
     "postedDate": "2025-10-30T15:58:04.000Z"
-  },
-  {
-    "id": "shortage:284913",
-    "reportId": 284913,
-    "type": "shortage",
-    "brandName": "GLN-OLMESARTAN",
-    "status": "active_confirmed",
-    "din": "02469820",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-06-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-22T18:00:07.000Z",
-    "updateDate": "2026-05-22T18:00:07.000Z",
-    "postedDate": "2026-05-08T19:46:34.000Z"
   },
   {
     "id": "shortage:284862",
@@ -6060,20 +6046,6 @@
     "updatedDate": "2026-04-30T17:40:29.000Z",
     "updateDate": "2026-04-30T17:40:29.000Z",
     "postedDate": "2026-04-16T18:38:10.000Z"
-  },
-  {
-    "id": "shortage:280445",
-    "reportId": 280445,
-    "type": "shortage",
-    "brandName": "ADACEL",
-    "status": "active_confirmed",
-    "din": "02240255",
-    "strength": "5LF\r\n5MCG\r\n3MCG\r\n5MCG\r\n2LF\r\n2.5MCG",
-    "expectedBackInStockDate": "2026-07-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-28T23:17:25.000Z",
-    "updateDate": "2026-04-28T23:17:25.000Z",
-    "postedDate": "2026-03-13T00:29:10.000Z"
   },
   {
     "id": "shortage:282159",
