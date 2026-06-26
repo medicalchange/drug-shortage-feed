@@ -1,9 +1,144 @@
 {
-  "refreshedAt": "2026-06-25T10:37:58.557Z",
-  "count": 594,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-06-26T10:46:23.840Z",
+  "count": 607,
+  "addedDrugsCount": 9,
+  "addedDrugs": [
+    {
+      "drug": "AMLODIPINE-ATORVASTATIN",
+      "doses": [
+        "10MG",
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "DOXYCYCLINE MR",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+    },
+    {
+      "drug": "ENTACAPONE",
+      "doses": [
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
+    },
+    {
+      "drug": "FLUTICASONE HFA",
+      "doses": [
+        "50MCG"
+      ],
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROCHLOROTHIAZIDE",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+    },
+    {
+      "drug": "IBUPROFEN TAB 600MG",
+      "doses": [
+        "600MG"
+      ],
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+    },
+    {
+      "drug": "PROPRANOLOL",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+    },
+    {
+      "drug": "TOPISONE",
+      "doses": [
+        "0.05%"
+      ],
+      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+    },
+    {
+      "drug": "VASOTEC",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-26T10:46:23.840Z",
+      "addedDrugsCount": 9,
+      "addedDrugs": [
+        {
+          "drug": "AMLODIPINE-ATORVASTATIN",
+          "doses": [
+            "10MG",
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "DOXYCYCLINE MR",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+        },
+        {
+          "drug": "ENTACAPONE",
+          "doses": [
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
+        },
+        {
+          "drug": "FLUTICASONE HFA",
+          "doses": [
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+        },
+        {
+          "drug": "HYDROCHLOROTHIAZIDE",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+        },
+        {
+          "drug": "IBUPROFEN TAB 600MG",
+          "doses": [
+            "600MG"
+          ],
+          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+        },
+        {
+          "drug": "PROPRANOLOL",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+        },
+        {
+          "drug": "TOPISONE",
+          "doses": [
+            "0.05%"
+          ],
+          "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+        },
+        {
+          "drug": "VASOTEC",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-25T10:37:58.557Z",
       "addedDrugsCount": 0,
@@ -269,75 +404,6 @@
             "150MG"
           ],
           "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-12T11:40:05.180Z",
-      "addedDrugsCount": 9,
-      "addedDrugs": [
-        {
-          "drug": "ABILIFY MAINTENA",
-          "doses": [
-            "400MG"
-          ],
-          "expectedBackInStockDate": "2026-06-24T04:00:00.000Z"
-        },
-        {
-          "drug": "AMB-BUSPIRONE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-07-06T04:00:00.000Z"
-        },
-        {
-          "drug": "BECLOMETHASONE NASAL SPRAY",
-          "doses": [
-            "50MCG"
-          ],
-          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-        },
-        {
-          "drug": "EVEROLIMUS",
-          "doses": [
-            "2.5MG"
-          ],
-          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-        },
-        {
-          "drug": "HALOPERIDOL",
-          "doses": [
-            "0.5MG"
-          ],
-          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-        },
-        {
-          "drug": "METHOPRAZINE",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-        },
-        {
-          "drug": "PRAZOSIN",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
-        },
-        {
-          "drug": "TAMSULOSIN CR",
-          "doses": [
-            "0.4MG"
-          ],
-          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-        },
-        {
-          "drug": "THEO LA",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
         }
       ]
     }
