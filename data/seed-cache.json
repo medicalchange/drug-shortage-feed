@@ -1,5 +1,145 @@
 [
   {
+    "id": "shortage:285267",
+    "reportId": 285267,
+    "type": "shortage",
+    "brandName": "APO-ESOMEPRAZOLE",
+    "status": "active_confirmed",
+    "din": "02339099",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-07-03T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-27T01:06:14.000Z",
+    "updateDate": "2026-06-27T01:06:14.000Z",
+    "postedDate": "2026-05-14T21:58:30.000Z"
+  },
+  {
+    "id": "shortage:285730",
+    "reportId": 285730,
+    "type": "shortage",
+    "brandName": "APO-ESOMEPRAZOLE",
+    "status": "active_confirmed",
+    "din": "02339102",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-07-03T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-27T01:05:01.000Z",
+    "updateDate": "2026-06-27T01:05:01.000Z",
+    "postedDate": "2026-05-22T00:27:22.000Z"
+  },
+  {
+    "id": "shortage:221612",
+    "reportId": 221612,
+    "type": "shortage",
+    "brandName": "TRIDURAL",
+    "status": "active_confirmed",
+    "din": "02296411",
+    "strength": "300MG",
+    "expectedBackInStockDate": "2026-06-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-26T22:54:18.000Z",
+    "updateDate": "2026-06-26T22:54:18.000Z",
+    "postedDate": "2024-03-08T03:05:36.000Z"
+  },
+  {
+    "id": "shortage:284604",
+    "reportId": 284604,
+    "type": "shortage",
+    "brandName": "STERILE LIGHT MINERAL OIL 100%",
+    "status": "active_confirmed",
+    "din": "02203375",
+    "strength": "100%",
+    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-26T19:58:30.000Z",
+    "updateDate": "2026-06-26T19:58:30.000Z",
+    "postedDate": "2026-05-06T18:52:59.000Z"
+  },
+  {
+    "id": "shortage:284575",
+    "reportId": 284575,
+    "type": "shortage",
+    "brandName": "GLYCOPYRROLATE INJECTION",
+    "status": "active_confirmed",
+    "din": "02382857",
+    "strength": "0.2MG",
+    "expectedBackInStockDate": "2026-08-21T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-26T19:51:57.000Z",
+    "updateDate": "2026-06-26T19:51:57.000Z",
+    "postedDate": "2026-05-06T18:07:53.000Z"
+  },
+  {
+    "id": "shortage:286051",
+    "reportId": 286051,
+    "type": "shortage",
+    "brandName": "ACH-PROGESTERONE",
+    "status": "active_confirmed",
+    "din": "02549158",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-26T18:49:52.000Z",
+    "updateDate": "2026-06-26T18:49:52.000Z",
+    "postedDate": "2026-05-29T19:25:06.000Z"
+  },
+  {
+    "id": "shortage:286057",
+    "reportId": 286057,
+    "type": "shortage",
+    "brandName": "ACH-ESCITALOPRAM",
+    "status": "active_confirmed",
+    "din": "02434660",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-07-17T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-26T18:45:54.000Z",
+    "updateDate": "2026-06-26T18:45:54.000Z",
+    "postedDate": "2026-05-29T19:28:09.000Z"
+  },
+  {
+    "id": "shortage:286054",
+    "reportId": 286054,
+    "type": "shortage",
+    "brandName": "ACH-ESCITALOPRAM",
+    "status": "active_confirmed",
+    "din": "02434652",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-07-17T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-26T18:45:31.000Z",
+    "updateDate": "2026-06-26T18:45:31.000Z",
+    "postedDate": "2026-05-29T19:27:26.000Z"
+  },
+  {
+    "id": "shortage:283839",
+    "reportId": 283839,
+    "type": "shortage",
+    "brandName": "M-RIZATRIPTAN ODT",
+    "status": "active_confirmed",
+    "din": "02548828",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-26T17:21:57.000Z",
+    "updateDate": "2026-06-26T17:21:57.000Z",
+    "postedDate": "2026-04-27T23:13:38.000Z"
+  },
+  {
+    "id": "shortage:288077",
+    "reportId": 288077,
+    "type": "shortage",
+    "brandName": "SUFENTANIL CITRATE INJECTION USP",
+    "status": "active_confirmed",
+    "din": "02442213",
+    "strength": "50MCG",
+    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-06-26T16:59:23.000Z",
+    "updateDate": "2026-06-26T16:59:23.000Z",
+    "postedDate": "2026-06-26T16:58:32.000Z"
+  },
+  {
     "id": "shortage:283842",
     "reportId": 283842,
     "type": "shortage",
@@ -476,20 +616,6 @@
     "postedDate": "2026-04-16T23:26:25.000Z"
   },
   {
-    "id": "shortage:287445",
-    "reportId": 287445,
-    "type": "shortage",
-    "brandName": "BIPHENTIN",
-    "status": "active_confirmed",
-    "din": "02277158",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-25T22:35:19.000Z",
-    "updateDate": "2026-06-25T22:35:19.000Z",
-    "postedDate": "2026-06-17T18:01:19.000Z"
-  },
-  {
     "id": "shortage:286413",
     "reportId": 286413,
     "type": "shortage",
@@ -544,20 +670,6 @@
     "updatedDate": "2026-06-25T22:30:26.000Z",
     "updateDate": "2026-06-25T22:30:26.000Z",
     "postedDate": "2026-05-01T01:10:43.000Z"
-  },
-  {
-    "id": "shortage:286959",
-    "reportId": 286959,
-    "type": "shortage",
-    "brandName": "ABILIFY MAINTENA",
-    "status": "active_confirmed",
-    "din": "02420872",
-    "strength": "400MG",
-    "expectedBackInStockDate": "2026-07-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-25T20:29:44.000Z",
-    "updateDate": "2026-06-25T20:29:44.000Z",
-    "postedDate": "2026-06-11T22:37:04.000Z"
   },
   {
     "id": "shortage:281405",
@@ -1680,20 +1792,6 @@
     "postedDate": "2026-06-18T23:20:28.000Z"
   },
   {
-    "id": "shortage:287653",
-    "reportId": 287653,
-    "type": "shortage",
-    "brandName": "APO-ATORVASTATIN",
-    "status": "active_confirmed",
-    "din": "02295288",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-18T23:18:20.000Z",
-    "updateDate": "2026-06-18T23:18:20.000Z",
-    "postedDate": "2026-06-18T23:18:02.000Z"
-  },
-  {
     "id": "shortage:282580",
     "reportId": 282580,
     "type": "shortage",
@@ -1986,20 +2084,6 @@
     "updatedDate": "2026-06-18T18:45:06.000Z",
     "updateDate": "2026-06-18T18:45:06.000Z",
     "postedDate": "2026-05-28T23:05:17.000Z"
-  },
-  {
-    "id": "shortage:282472",
-    "reportId": 282472,
-    "type": "shortage",
-    "brandName": "APO-BECLOMETHASONE NASAL SPRAY",
-    "status": "active_confirmed",
-    "din": "02238796",
-    "strength": "50MCG",
-    "expectedBackInStockDate": "2026-07-03T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-18T18:44:08.000Z",
-    "updateDate": "2026-06-18T18:44:08.000Z",
-    "postedDate": "2026-04-09T00:15:30.000Z"
   },
   {
     "id": "shortage:281523",
@@ -2518,20 +2602,6 @@
     "updatedDate": "2026-06-16T19:17:06.000Z",
     "updateDate": "2026-06-16T19:17:06.000Z",
     "postedDate": "2026-04-27T23:10:13.000Z"
-  },
-  {
-    "id": "shortage:283839",
-    "reportId": 283839,
-    "type": "shortage",
-    "brandName": "M-RIZATRIPTAN ODT",
-    "status": "active_confirmed",
-    "din": "02548828",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-16T19:15:39.000Z",
-    "updateDate": "2026-06-16T19:15:39.000Z",
-    "postedDate": "2026-04-27T23:13:38.000Z"
   },
   {
     "id": "shortage:272933",
@@ -3990,34 +4060,6 @@
     "postedDate": "2025-07-04T22:08:11.000Z"
   },
   {
-    "id": "shortage:286054",
-    "reportId": 286054,
-    "type": "shortage",
-    "brandName": "ACH-ESCITALOPRAM",
-    "status": "active_confirmed",
-    "din": "02434652",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-07-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-05T15:51:29.000Z",
-    "updateDate": "2026-06-05T15:51:29.000Z",
-    "postedDate": "2026-05-29T19:27:26.000Z"
-  },
-  {
-    "id": "shortage:286057",
-    "reportId": 286057,
-    "type": "shortage",
-    "brandName": "ACH-ESCITALOPRAM",
-    "status": "active_confirmed",
-    "din": "02434660",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-07-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-05T15:51:00.000Z",
-    "updateDate": "2026-06-05T15:51:00.000Z",
-    "postedDate": "2026-05-29T19:28:09.000Z"
-  },
-  {
     "id": "shortage:286465",
     "reportId": 286465,
     "type": "shortage",
@@ -4536,20 +4578,6 @@
     "postedDate": "2026-03-20T00:21:30.000Z"
   },
   {
-    "id": "shortage:285730",
-    "reportId": 285730,
-    "type": "shortage",
-    "brandName": "APO-ESOMEPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02339102",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-30T02:01:14.000Z",
-    "updateDate": "2026-05-30T02:01:14.000Z",
-    "postedDate": "2026-05-22T00:27:22.000Z"
-  },
-  {
     "id": "shortage:283076",
     "reportId": 283076,
     "type": "shortage",
@@ -4842,20 +4870,6 @@
     "updatedDate": "2026-05-20T18:42:46.000Z",
     "updateDate": "2026-05-20T18:42:46.000Z",
     "postedDate": "2026-05-06T18:25:13.000Z"
-  },
-  {
-    "id": "shortage:284575",
-    "reportId": 284575,
-    "type": "shortage",
-    "brandName": "GLYCOPYRROLATE INJECTION",
-    "status": "active_confirmed",
-    "din": "02382857",
-    "strength": "0.2MG",
-    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-20T18:33:45.000Z",
-    "updateDate": "2026-05-20T18:33:45.000Z",
-    "postedDate": "2026-05-06T18:07:53.000Z"
   },
   {
     "id": "shortage:285537",
@@ -5192,20 +5206,6 @@
     "updatedDate": "2026-05-15T17:33:24.000Z",
     "updateDate": "2026-05-15T17:33:24.000Z",
     "postedDate": "2025-03-17T17:43:18.000Z"
-  },
-  {
-    "id": "shortage:285267",
-    "reportId": 285267,
-    "type": "shortage",
-    "brandName": "APO-ESOMEPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02339099",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-14T21:58:39.000Z",
-    "updateDate": "2026-05-14T21:58:39.000Z",
-    "postedDate": "2026-05-14T21:58:30.000Z"
   },
   {
     "id": "shortage:279893",
@@ -5822,20 +5822,6 @@
     "updatedDate": "2026-05-06T19:36:21.000Z",
     "updateDate": "2026-05-06T19:36:21.000Z",
     "postedDate": "2026-05-06T19:35:07.000Z"
-  },
-  {
-    "id": "shortage:284604",
-    "reportId": 284604,
-    "type": "shortage",
-    "brandName": "STERILE LIGHT MINERAL OIL 100%",
-    "status": "active_confirmed",
-    "din": "02203375",
-    "strength": "100%",
-    "expectedBackInStockDate": "2026-07-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-06T18:53:29.000Z",
-    "updateDate": "2026-05-06T18:53:29.000Z",
-    "postedDate": "2026-05-06T18:52:59.000Z"
   },
   {
     "id": "shortage:284570",
@@ -6984,20 +6970,6 @@
     "updatedDate": "2026-04-08T23:48:51.000Z",
     "updateDate": "2026-04-08T23:48:51.000Z",
     "postedDate": "2025-10-10T22:42:49.000Z"
-  },
-  {
-    "id": "shortage:221612",
-    "reportId": 221612,
-    "type": "shortage",
-    "brandName": "TRIDURAL",
-    "status": "active_confirmed",
-    "din": "02296411",
-    "strength": "300MG",
-    "expectedBackInStockDate": "2026-06-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-02T21:33:17.000Z",
-    "updateDate": "2026-04-02T21:33:17.000Z",
-    "postedDate": "2024-03-08T03:05:36.000Z"
   },
   {
     "id": "shortage:276076",
