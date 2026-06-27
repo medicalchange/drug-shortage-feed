@@ -1,75 +1,31 @@
 {
-  "count": 352,
-  "refreshedAt": "2026-06-26T10:46:23.840Z",
+  "count": 350,
+  "refreshedAt": "2026-06-27T09:59:26.885Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 9,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "AMLODIPINE-ATORVASTATIN",
-      "doses": [
-        "10MG",
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "drug": "DOXYCYCLINE MR",
-      "doses": [
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-    },
-    {
-      "drug": "ENTACAPONE",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
-    },
-    {
-      "drug": "FLUTICASONE HFA",
+      "drug": "SUFENTANIL CITRATE INJECTION USP",
       "doses": [
         "50MCG"
       ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-    },
-    {
-      "drug": "HYDROCHLOROTHIAZIDE",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-    },
-    {
-      "drug": "IBUPROFEN TAB 600MG",
-      "doses": [
-        "600MG"
-      ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-    },
-    {
-      "drug": "PROPRANOLOL",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
-    },
-    {
-      "drug": "TOPISONE",
-      "doses": [
-        "0.05%"
-      ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
-    },
-    {
-      "drug": "VASOTEC",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-27T09:59:26.885Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "SUFENTANIL CITRATE INJECTION USP",
+          "doses": [
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-26T10:46:23.840Z",
       "addedDrugsCount": 9,
@@ -379,44 +335,9 @@
       "refreshedAt": "2026-06-14T10:46:07.350Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-06-13T10:24:05.050Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "DARUNAVIR",
-          "doses": [
-            "600MG"
-          ],
-          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-        },
-        {
-          "drug": "MIRABEGRON",
-          "doses": [
-            "25MG",
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
-        },
-        {
-          "drug": "TRAZODONE D TABLETS 150MG",
-          "doses": [
-            "150MG"
-          ],
-          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
-    {
-      "drug": "ABILIFY MAINTENA",
-      "doses": [
-        "400MG"
-      ],
-      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
-    },
     {
       "drug": "ABIRATERONE",
       "doses": [
@@ -701,13 +622,6 @@
       "expectedBackInStockDate": "2026-06-24T04:00:00.000Z"
     },
     {
-      "drug": "BECLOMETHASONE NASAL SPRAY",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-    },
-    {
       "drug": "BENAZEPRIL",
       "doses": [
         "20MG"
@@ -743,13 +657,6 @@
         "4MCG"
       ],
       "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
-    },
-    {
-      "drug": "BIPHENTIN",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
       "drug": "BIVALIRUDIN INJECTION",
@@ -1428,7 +1335,7 @@
         "10MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-07-07T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
       "drug": "ESOMEPRAZOLE",
@@ -1572,7 +1479,7 @@
       "doses": [
         "0.2MG"
       ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
       "drug": "GUANFACINE XR",
@@ -2478,7 +2385,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "PROPRANOLOL",
@@ -2721,7 +2628,14 @@
       "doses": [
         "100%"
       ],
-      "expectedBackInStockDate": "2026-07-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
+      "drug": "SUFENTANIL CITRATE INJECTION USP",
+      "doses": [
+        "50MCG"
+      ],
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     },
     {
       "drug": "SUNITINIB",
