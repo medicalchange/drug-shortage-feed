@@ -1,17 +1,14 @@
 {
-  "refreshedAt": "2026-06-27T09:59:26.885Z",
+  "refreshedAt": "2026-06-28T10:23:21.105Z",
   "count": 605,
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "SUFENTANIL CITRATE INJECTION USP",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-28T10:23:21.105Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-06-27T09:59:26.885Z",
       "addedDrugsCount": 1,
@@ -329,11 +326,6 @@
           "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-06-14T10:46:07.350Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
