@@ -1,9 +1,60 @@
 {
-  "refreshedAt": "2026-06-28T10:23:21.105Z",
-  "count": 605,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-06-29T12:26:31.794Z",
+  "count": 608,
+  "addedDrugsCount": 3,
+  "addedDrugs": [
+    {
+      "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJ USP 4MG/ML",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+    },
+    {
+      "drug": "PANTOPRAZOLE",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+    },
+    {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "36G",
+        "4.5G"
+      ],
+      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-29T12:26:31.794Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJ USP 4MG/ML",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+        },
+        {
+          "drug": "PANTOPRAZOLE",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+        },
+        {
+          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+          "doses": [
+            "36G",
+            "4.5G"
+          ],
+          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-28T10:23:21.105Z",
       "addedDrugsCount": 0,
@@ -290,40 +341,6 @@
             "600MG"
           ],
           "expectedBackInStockDate": "2026-06-25T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-15T13:49:33.865Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "ABIRATERONE",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-        },
-        {
-          "drug": "DEFERASIROX",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
-        },
-        {
-          "drug": "FENOFIBRATE E",
-          "doses": [
-            "48.0MG"
-          ],
-          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-        },
-        {
-          "drug": "METFORMIN FC",
-          "doses": [
-            "850MG"
-          ],
-          "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
         }
       ]
     }
