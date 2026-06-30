@@ -1,32 +1,86 @@
 {
-  "refreshedAt": "2026-06-29T12:26:31.794Z",
-  "count": 608,
-  "addedDrugsCount": 3,
+  "refreshedAt": "2026-06-30T10:51:57.408Z",
+  "count": 609,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJ USP 4MG/ML",
+      "drug": "BUSULFAN",
       "doses": [
-        "4MG"
+        "6MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
     },
     {
-      "drug": "PANTOPRAZOLE",
+      "drug": "CILAZAPRIL",
       "doses": [
-        "20MG"
+        "5.0MG"
       ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
     },
     {
-      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "drug": "HYDROMORPHONE TAB 1MG",
       "doses": [
-        "36G",
-        "4.5G"
+        "1MG"
       ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPHONE TAB 2MG",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
+    },
+    {
+      "drug": "MEMANTINE",
+      "doses": [
+        "5.0MG"
+      ],
+      "expectedBackInStockDate": "2026-07-11T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-30T10:51:57.408Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "BUSULFAN",
+          "doses": [
+            "6MG"
+          ],
+          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+        },
+        {
+          "drug": "CILAZAPRIL",
+          "doses": [
+            "5.0MG"
+          ],
+          "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+        },
+        {
+          "drug": "HYDROMORPHONE TAB 1MG",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+        },
+        {
+          "drug": "HYDROMORPHONE TAB 2MG",
+          "doses": [
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
+        },
+        {
+          "drug": "MEMANTINE",
+          "doses": [
+            "5.0MG"
+          ],
+          "expectedBackInStockDate": "2026-07-11T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-29T12:26:31.794Z",
       "addedDrugsCount": 3,
@@ -321,26 +375,6 @@
             "12.5MG"
           ],
           "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-16T12:48:36.728Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "ASMANEX TWISTHALER",
-          "doses": [
-            "100MCG"
-          ],
-          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-        },
-        {
-          "drug": "GABAPENTIN TABLETS",
-          "doses": [
-            "600MG"
-          ],
-          "expectedBackInStockDate": "2026-06-25T04:00:00.000Z"
         }
       ]
     }
