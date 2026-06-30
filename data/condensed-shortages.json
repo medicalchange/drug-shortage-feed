@@ -1,33 +1,87 @@
 {
-  "count": 353,
-  "refreshedAt": "2026-06-29T12:26:31.794Z",
+  "count": 354,
+  "refreshedAt": "2026-06-30T10:51:57.408Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 3,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJ USP 4MG/ML",
+      "drug": "BUSULFAN",
       "doses": [
-        "4MG"
+        "6MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
     },
     {
-      "drug": "PANTOPRAZOLE",
+      "drug": "CILAZAPRIL",
       "doses": [
-        "20MG"
+        "5.0MG"
       ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
     },
     {
-      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "drug": "HYDROMORPHONE TAB 1MG",
       "doses": [
-        "36G",
-        "4.5G"
+        "1MG"
       ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPHONE TAB 2MG",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
+    },
+    {
+      "drug": "MEMANTINE",
+      "doses": [
+        "5.0MG"
+      ],
+      "expectedBackInStockDate": "2026-07-11T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-06-30T10:51:57.408Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "BUSULFAN",
+          "doses": [
+            "6MG"
+          ],
+          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+        },
+        {
+          "drug": "CILAZAPRIL",
+          "doses": [
+            "5.0MG"
+          ],
+          "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+        },
+        {
+          "drug": "HYDROMORPHONE TAB 1MG",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+        },
+        {
+          "drug": "HYDROMORPHONE TAB 2MG",
+          "doses": [
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
+        },
+        {
+          "drug": "MEMANTINE",
+          "doses": [
+            "5.0MG"
+          ],
+          "expectedBackInStockDate": "2026-07-11T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-29T12:26:31.794Z",
       "addedDrugsCount": 3,
@@ -324,26 +378,6 @@
           "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-06-16T12:48:36.728Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "ASMANEX TWISTHALER",
-          "doses": [
-            "100MCG"
-          ],
-          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-        },
-        {
-          "drug": "GABAPENTIN TABLETS",
-          "doses": [
-            "600MG"
-          ],
-          "expectedBackInStockDate": "2026-06-25T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -381,13 +415,6 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-    },
-    {
-      "drug": "ACETAZOLAMIDE FOR INJECTION, USP",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2027-01-01T05:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR",
@@ -624,13 +651,6 @@
       "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
-      "drug": "BECLO AQ",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-06-24T04:00:00.000Z"
-    },
-    {
       "drug": "BENAZEPRIL",
       "doses": [
         "20MG"
@@ -659,13 +679,6 @@
         "1200000UNIT"
       ],
       "expectedBackInStockDate": "2027-02-26T05:00:00.000Z"
-    },
-    {
-      "drug": "BIPAZEN",
-      "doses": [
-        "4MCG"
-      ],
-      "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
     },
     {
       "drug": "BIVALIRUDIN INJECTION",
@@ -785,6 +798,13 @@
       "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
     },
     {
+      "drug": "BUSULFAN",
+      "doses": [
+        "6MG"
+      ],
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+    },
+    {
       "drug": "BYOOVIZ",
       "doses": [
         "10MG"
@@ -855,7 +875,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
       "drug": "CEFTRIAXONE FOR INJECTION",
@@ -867,10 +887,9 @@
     {
       "drug": "CEPHALEXIN",
       "doses": [
-        "125MG",
-        "250MG"
+        "125MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
       "drug": "CICLOPIROX",
@@ -878,6 +897,13 @@
         "8%"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
+      "drug": "CILAZAPRIL",
+      "doses": [
+        "5.0MG"
+      ],
+      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
     },
     {
       "drug": "CINACALCET",
@@ -1366,7 +1392,7 @@
         "20MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-10-10T04:00:00.000Z"
     },
     {
       "drug": "EVEROLIMUS",
@@ -1560,6 +1586,20 @@
         "8MG"
       ],
       "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPHONE TAB 1MG",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPHONE TAB 2MG",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
     },
     {
       "drug": "IBUPROFEN TAB 600MG",
@@ -1853,7 +1893,7 @@
         "100MG",
         "12.5MG"
       ],
-      "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-07T04:00:00.000Z"
     },
     {
       "drug": "LURASIDONE",
@@ -1882,6 +1922,13 @@
         "1.5G"
       ],
       "expectedBackInStockDate": "2026-03-27T04:00:00.000Z"
+    },
+    {
+      "drug": "MEMANTINE",
+      "doses": [
+        "5.0MG"
+      ],
+      "expectedBackInStockDate": "2026-07-11T04:00:00.000Z"
     },
     {
       "drug": "MESNA FOR INJECTION",
@@ -1941,7 +1988,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-07-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
     },
     {
       "drug": "MIRABEGRON",
@@ -2120,7 +2167,7 @@
       "doses": [
         "4G"
       ],
-      "expectedBackInStockDate": "2027-05-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-10-03T04:00:00.000Z"
     },
     {
       "drug": "OLMESARTAN",
@@ -2957,7 +3004,7 @@
         "12.5MG",
         "160MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "VANCOMYCIN HYDROCHLORIDE FOR INJECTION USP",
@@ -3018,13 +3065,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-    },
-    {
-      "drug": "VYZULTA",
-      "doses": [
-        "0.024%"
-      ],
-      "expectedBackInStockDate": "2026-07-12T04:00:00.000Z"
     },
     {
       "drug": "WARFARIN",
