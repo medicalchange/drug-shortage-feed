@@ -1,46 +1,31 @@
 {
   "count": 354,
-  "refreshedAt": "2026-06-30T10:51:57.408Z",
+  "refreshedAt": "2026-07-01T11:19:28.830Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 5,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "BUSULFAN",
-      "doses": [
-        "6MG"
-      ],
-      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
-    },
-    {
-      "drug": "CILAZAPRIL",
-      "doses": [
-        "5.0MG"
-      ],
-      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
-    },
-    {
-      "drug": "HYDROMORPHONE TAB 1MG",
+      "drug": "CLOLAR",
       "doses": [
         "1MG"
       ],
       "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-    },
-    {
-      "drug": "HYDROMORPHONE TAB 2MG",
-      "doses": [
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
-    },
-    {
-      "drug": "MEMANTINE",
-      "doses": [
-        "5.0MG"
-      ],
-      "expectedBackInStockDate": "2026-07-11T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-01T11:19:28.830Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "CLOLAR",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-06-30T10:51:57.408Z",
       "addedDrugsCount": 5,
@@ -349,33 +334,6 @@
             "100MG"
           ],
           "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-17T12:12:48.380Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "ABRAXANE FOR INJECTABLE SUSPENSION",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-        },
-        {
-          "drug": "INNOHEP",
-          "doses": [
-            "20000UNIT"
-          ],
-          "expectedBackInStockDate": "2026-06-06T04:00:00.000Z"
-        },
-        {
-          "drug": "SUNITINIB",
-          "doses": [
-            "12.5MG"
-          ],
-          "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
         }
       ]
     }
@@ -975,6 +933,13 @@
       "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
     },
     {
+      "drug": "CLOLAR",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+    },
+    {
       "drug": "CLOMIPRAMINE",
       "doses": [
         "25MG",
@@ -1552,16 +1517,6 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-    },
-    {
-      "drug": "HEPARIN SODIUM IN 5% DEXTROSE INJECTION, 25000UNIT/500ML",
-      "doses": [
-        "410MG",
-        "5000UNIT",
-        "5G",
-        "93MG"
-      ],
-      "expectedBackInStockDate": "2026-06-22T04:00:00.000Z"
     },
     {
       "drug": "HISTATROL",
@@ -2881,7 +2836,7 @@
       "doses": [
         "300UNIT"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "TRAMADOL ER",

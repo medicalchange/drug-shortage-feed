@@ -1,5 +1,61 @@
 [
   {
+    "id": "shortage:288338",
+    "reportId": 288338,
+    "type": "shortage",
+    "brandName": "CLOLAR",
+    "status": "active_confirmed",
+    "din": "02330407",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-07-17T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-01T01:46:29.000Z",
+    "updateDate": "2026-07-01T01:46:29.000Z",
+    "postedDate": "2026-07-01T01:45:13.000Z"
+  },
+  {
+    "id": "shortage:283122",
+    "reportId": 283122,
+    "type": "shortage",
+    "brandName": "TOUJEO SOLOSTAR",
+    "status": "active_confirmed",
+    "din": "02441829",
+    "strength": "300UNIT",
+    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-01T01:12:35.000Z",
+    "updateDate": "2026-07-01T01:12:35.000Z",
+    "postedDate": "2026-04-17T01:39:45.000Z"
+  },
+  {
+    "id": "shortage:283125",
+    "reportId": 283125,
+    "type": "shortage",
+    "brandName": "TRURAPI",
+    "status": "active_confirmed",
+    "din": "02506564",
+    "strength": "100UNIT",
+    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-01T00:57:45.000Z",
+    "updateDate": "2026-07-01T00:57:45.000Z",
+    "postedDate": "2026-04-17T01:43:22.000Z"
+  },
+  {
+    "id": "shortage:283119",
+    "reportId": 283119,
+    "type": "shortage",
+    "brandName": "TRURAPI",
+    "status": "active_confirmed",
+    "din": "02506572",
+    "strength": "100UNIT",
+    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-01T00:56:28.000Z",
+    "updateDate": "2026-07-01T00:56:28.000Z",
+    "postedDate": "2026-04-17T01:34:49.000Z"
+  },
+  {
     "id": "shortage:272933",
     "reportId": 272933,
     "type": "shortage",
@@ -4102,20 +4158,6 @@
     "postedDate": "2025-11-06T21:49:30.000Z"
   },
   {
-    "id": "shortage:283119",
-    "reportId": 283119,
-    "type": "shortage",
-    "brandName": "TRURAPI",
-    "status": "active_confirmed",
-    "din": "02506572",
-    "strength": "100UNIT",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-08T16:47:49.000Z",
-    "updateDate": "2026-06-08T16:47:49.000Z",
-    "postedDate": "2026-04-17T01:34:49.000Z"
-  },
-  {
     "id": "shortage:279266",
     "reportId": 279266,
     "type": "shortage",
@@ -4366,20 +4408,6 @@
     "updatedDate": "2026-06-04T22:06:44.000Z",
     "updateDate": "2026-06-04T22:06:44.000Z",
     "postedDate": "2026-01-15T21:38:40.000Z"
-  },
-  {
-    "id": "shortage:278522",
-    "reportId": 278522,
-    "type": "shortage",
-    "brandName": "HEPARIN SODIUM IN 5% DEXTROSE INJECTION, 25000UNIT/500ML",
-    "status": "active_confirmed",
-    "din": "01935941",
-    "strength": "5000UNIT\r\n410MG\r\n93MG\r\n5G",
-    "expectedBackInStockDate": "2026-06-22T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-04T21:42:38.000Z",
-    "updateDate": "2026-06-04T21:42:38.000Z",
-    "postedDate": "2026-02-20T23:53:28.000Z"
   },
   {
     "id": "shortage:277256",
@@ -6382,34 +6410,6 @@
     "updatedDate": "2026-04-25T00:31:18.000Z",
     "updateDate": "2026-04-25T00:31:18.000Z",
     "postedDate": "2026-04-02T22:48:44.000Z"
-  },
-  {
-    "id": "shortage:283125",
-    "reportId": 283125,
-    "type": "shortage",
-    "brandName": "TRURAPI",
-    "status": "active_confirmed",
-    "din": "02506564",
-    "strength": "100UNIT",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-24T22:56:13.000Z",
-    "updateDate": "2026-04-24T22:56:13.000Z",
-    "postedDate": "2026-04-17T01:43:22.000Z"
-  },
-  {
-    "id": "shortage:283122",
-    "reportId": 283122,
-    "type": "shortage",
-    "brandName": "TOUJEO SOLOSTAR",
-    "status": "active_confirmed",
-    "din": "02441829",
-    "strength": "300UNIT",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-24T22:50:31.000Z",
-    "updateDate": "2026-04-24T22:50:31.000Z",
-    "postedDate": "2026-04-17T01:39:45.000Z"
   },
   {
     "id": "shortage:272068",
