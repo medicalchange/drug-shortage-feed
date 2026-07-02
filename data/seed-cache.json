@@ -1,5 +1,47 @@
 [
   {
+    "id": "shortage:285981",
+    "reportId": 285981,
+    "type": "shortage",
+    "brandName": "ROCURONIUM BROMIDE INJECTION",
+    "status": "active_confirmed",
+    "din": "02469774",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-07-10T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-01T22:54:59.000Z",
+    "updateDate": "2026-07-01T22:54:59.000Z",
+    "postedDate": "2026-05-28T18:53:58.000Z"
+  },
+  {
+    "id": "shortage:284622",
+    "reportId": 284622,
+    "type": "shortage",
+    "brandName": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
+    "status": "active_confirmed",
+    "din": "02193221",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-07-10T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-01T22:50:20.000Z",
+    "updateDate": "2026-07-01T22:50:20.000Z",
+    "postedDate": "2026-05-06T19:35:07.000Z"
+  },
+  {
+    "id": "shortage:278479",
+    "reportId": 278479,
+    "type": "shortage",
+    "brandName": "DEXAMETHASONE-OMEGA",
+    "status": "active_confirmed",
+    "din": "02204266",
+    "strength": "4MG",
+    "expectedBackInStockDate": "2026-07-10T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-01T22:41:18.000Z",
+    "updateDate": "2026-07-01T22:41:18.000Z",
+    "postedDate": "2026-02-20T18:55:47.000Z"
+  },
+  {
     "id": "shortage:288338",
     "reportId": 288338,
     "type": "shortage",
@@ -1468,20 +1510,6 @@
     "updatedDate": "2026-06-25T17:21:39.000Z",
     "updateDate": "2026-06-25T17:21:39.000Z",
     "postedDate": "2026-02-23T23:21:56.000Z"
-  },
-  {
-    "id": "shortage:278479",
-    "reportId": 278479,
-    "type": "shortage",
-    "brandName": "DEXAMETHASONE-OMEGA",
-    "status": "active_confirmed",
-    "din": "02204266",
-    "strength": "4MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-25T17:09:48.000Z",
-    "updateDate": "2026-06-25T17:09:48.000Z",
-    "postedDate": "2026-02-20T18:55:47.000Z"
   },
   {
     "id": "shortage:272781",
@@ -5962,20 +5990,6 @@
     "updatedDate": "2026-05-06T23:42:31.000Z",
     "updateDate": "2026-05-06T23:42:31.000Z",
     "postedDate": "2026-03-04T20:19:29.000Z"
-  },
-  {
-    "id": "shortage:284622",
-    "reportId": 284622,
-    "type": "shortage",
-    "brandName": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
-    "status": "active_confirmed",
-    "din": "02193221",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-06T19:36:21.000Z",
-    "updateDate": "2026-05-06T19:36:21.000Z",
-    "postedDate": "2026-05-06T19:35:07.000Z"
   },
   {
     "id": "shortage:284570",

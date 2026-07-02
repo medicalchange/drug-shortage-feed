@@ -1,17 +1,14 @@
 {
-  "refreshedAt": "2026-07-01T11:19:28.830Z",
-  "count": 609,
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "CLOLAR",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-    }
-  ],
+  "refreshedAt": "2026-07-02T10:32:20.634Z",
+  "count": 610,
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-02T10:32:20.634Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-07-01T11:19:28.830Z",
       "addedDrugsCount": 1,
@@ -306,33 +303,6 @@
             "50MG"
           ],
           "expectedBackInStockDate": "2026-07-07T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-18T11:47:31.577Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "BIPHENTIN",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-        },
-        {
-          "drug": "EPINEPHRINE INJECTION USP",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
-        },
-        {
-          "drug": "UROMITEXAN",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
         }
       ]
     }
