@@ -1,9 +1,58 @@
 {
-  "refreshedAt": "2026-07-02T10:32:20.634Z",
-  "count": 610,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-07-03T10:31:03.450Z",
+  "count": 614,
+  "addedDrugsCount": 3,
+  "addedDrugs": [
+    {
+      "drug": "DEXTROSE INJECTION",
+      "doses": [
+        "50%"
+      ],
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+    },
+    {
+      "drug": "DILTIAZ",
+      "doses": [
+        "60MG"
+      ],
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+    },
+    {
+      "drug": "MEFENAMIC",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-03T10:31:03.450Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "DEXTROSE INJECTION",
+          "doses": [
+            "50%"
+          ],
+          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+        },
+        {
+          "drug": "DILTIAZ",
+          "doses": [
+            "60MG"
+          ],
+          "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+        },
+        {
+          "drug": "MEFENAMIC",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-02T10:32:20.634Z",
       "addedDrugsCount": 0,
@@ -261,48 +310,6 @@
             "32MG"
           ],
           "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-19T12:01:42.275Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "ACETAZOLAMIDE FOR INJECTION USP",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-        },
-        {
-          "drug": "LISDEXAMFETAMINE CAPSULES",
-          "doses": [
-            "10MG",
-            "40MG"
-          ],
-          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
-        },
-        {
-          "drug": "NIFEDIPINE EXTENDED RELEASE",
-          "doses": [
-            "30MG"
-          ],
-          "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-        },
-        {
-          "drug": "TEMODAL",
-          "doses": [
-            "140MG"
-          ],
-          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
-        },
-        {
-          "drug": "TOPIRAMATE",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-07-07T04:00:00.000Z"
         }
       ]
     }
