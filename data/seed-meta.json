@@ -1,9 +1,14 @@
 {
-  "refreshedAt": "2026-07-05T10:06:10.029Z",
+  "refreshedAt": "2026-07-06T11:59:24.089Z",
   "count": 630,
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-06T11:59:24.089Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-07-05T10:06:10.029Z",
       "addedDrugsCount": 0,
@@ -312,40 +317,6 @@
             "1MG"
           ],
           "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-22T13:29:52.137Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "CLIMARA 25",
-          "doses": [
-            "25MCG"
-          ],
-          "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-        },
-        {
-          "drug": "CLIMARA 50",
-          "doses": [
-            "50MCG"
-          ],
-          "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-        },
-        {
-          "drug": "CLIMARA 75",
-          "doses": [
-            "75MCG"
-          ],
-          "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-        },
-        {
-          "drug": "LORAZEPAM INJECTION USP",
-          "doses": [
-            "4MG"
-          ],
-          "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
         }
       ]
     }
