@@ -1,10 +1,15 @@
 {
-  "count": 363,
-  "refreshedAt": "2026-07-06T11:59:24.089Z",
+  "count": 360,
+  "refreshedAt": "2026-07-07T10:50:15.961Z",
   "source": "github-static-seed",
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-07T10:50:15.961Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-07-06T11:59:24.089Z",
       "addedDrugsCount": 0,
@@ -306,20 +311,6 @@
           "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-06-23T10:58:01.794Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "BREVICON 1/35 TABLETS (21-DAY PACK)",
-          "doses": [
-            "0.035MG",
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -328,7 +319,7 @@
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "ABRAXANE FOR INJECTABLE SUSPENSION",
@@ -378,17 +369,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-07-02T04:00:00.000Z"
-    },
-    {
-      "drug": "ADACEL",
-      "doses": [
-        "2.5MCG",
-        "2LF",
-        "3MCG",
-        "5LF",
-        "5MCG"
-      ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
       "drug": "ALENDRONATE",
@@ -904,21 +884,21 @@
       "doses": [
         "25MCG"
       ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
     },
     {
       "drug": "CLIMARA 50",
       "doses": [
         "50MCG"
       ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "CLIMARA 75",
       "doses": [
         "75MCG"
       ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "CLOBETASOL SPRAY",
@@ -1076,13 +1056,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-    },
-    {
-      "drug": "DETROL",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
     },
     {
       "drug": "DETROL LA",
@@ -2056,13 +2029,6 @@
       "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
     },
     {
-      "drug": "NAROPIN",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    },
-    {
       "drug": "NRA-CITALOPRAM",
       "doses": [
         "10MG",
@@ -2087,7 +2053,7 @@
         "5.844G",
         "7.473G"
       ],
-      "expectedBackInStockDate": "2026-03-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     },
     {
       "drug": "NXSTAGE PUREFLOW SOLUTION RFP-207-CAN",
@@ -2099,7 +2065,7 @@
         "5.552G",
         "8.408G"
       ],
-      "expectedBackInStockDate": "2026-03-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     },
     {
       "drug": "NXSTAGE PUREFLOW SOLUTION RFP-209-CAN",
@@ -2680,7 +2646,7 @@
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-17T04:00:00.000Z"
     },
     {
       "drug": "SOTALOL - 160 MG",
