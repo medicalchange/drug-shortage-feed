@@ -1,9 +1,14 @@
 {
-  "refreshedAt": "2026-07-06T11:59:24.089Z",
-  "count": 630,
+  "refreshedAt": "2026-07-07T10:50:15.961Z",
+  "count": 628,
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-07T10:50:15.961Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-07-06T11:59:24.089Z",
       "addedDrugsCount": 0,
@@ -303,20 +308,6 @@
             "20MG"
           ],
           "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-23T10:58:01.794Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "BREVICON 1/35 TABLETS (21-DAY PACK)",
-          "doses": [
-            "0.035MG",
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
         }
       ]
     }
