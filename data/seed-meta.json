@@ -1,9 +1,122 @@
 {
-  "refreshedAt": "2026-07-07T10:50:15.961Z",
-  "count": 628,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-07-08T10:11:22.821Z",
+  "count": 631,
+  "addedDrugsCount": 7,
+  "addedDrugs": [
+    {
+      "drug": "AMOXICILLIN SODIUM AND POTASSIUM CLAVULANATE FOR INJECTION",
+      "doses": [
+        "2000MG",
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+    },
+    {
+      "drug": "APREMILAST",
+      "doses": [
+        "10MG",
+        "20MG",
+        "30MG"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "drug": "DILAUDID",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-07-22T04:00:00.000Z"
+    },
+    {
+      "drug": "LATANOPROST-TIMOLOL",
+      "doses": [
+        "50MCG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+    },
+    {
+      "drug": "PIRFENIDONE TABLETS",
+      "doses": [
+        "801MG"
+      ],
+      "expectedBackInStockDate": "2026-09-19T04:00:00.000Z"
+    },
+    {
+      "drug": "TIMOLOL",
+      "doses": [
+        "0.5%"
+      ],
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+    },
+    {
+      "drug": "TRANEXAMIC ACID INJECTION BP",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-08T10:11:22.821Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "AMOXICILLIN SODIUM AND POTASSIUM CLAVULANATE FOR INJECTION",
+          "doses": [
+            "2000MG",
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+        },
+        {
+          "drug": "APREMILAST",
+          "doses": [
+            "10MG",
+            "20MG",
+            "30MG"
+          ],
+          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+        },
+        {
+          "drug": "DILAUDID",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-07-22T04:00:00.000Z"
+        },
+        {
+          "drug": "LATANOPROST-TIMOLOL",
+          "doses": [
+            "50MCG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+        },
+        {
+          "drug": "PIRFENIDONE TABLETS",
+          "doses": [
+            "801MG"
+          ],
+          "expectedBackInStockDate": "2026-09-19T04:00:00.000Z"
+        },
+        {
+          "drug": "TIMOLOL",
+          "doses": [
+            "0.5%"
+          ],
+          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+        },
+        {
+          "drug": "TRANEXAMIC ACID INJECTION BP",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-07T10:50:15.961Z",
       "addedDrugsCount": 0,
@@ -297,19 +410,6 @@
       "refreshedAt": "2026-06-25T10:37:58.557Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-06-24T10:43:57.813Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "PAXIL TAB 20MG",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-        }
-      ]
     }
   ]
 }
