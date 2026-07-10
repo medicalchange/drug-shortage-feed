@@ -1,82 +1,45 @@
 {
-  "count": 365,
-  "refreshedAt": "2026-07-09T10:59:07.098Z",
+  "count": 367,
+  "refreshedAt": "2026-07-10T10:47:51.864Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 10,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "ACULAR",
+      "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 3MG",
       "doses": [
-        "0.5%"
+        "3MG"
       ],
-      "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-22T04:00:00.000Z"
     },
     {
-      "drug": "BUPIVACAINE HYDROCHLORIDE IN DEXTROSE INJECTION USP",
-      "doses": [
-        "7.5MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "CLOXACILLIN FOR INJECTION",
+      "drug": "METRONIDAZOLE",
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "drug": "FAMOTIDINE OMEGA  -(WITH PRESERVATIVE,BENZYL ALCOHOL)",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-    },
-    {
-      "drug": "FENTANYL CITRATE INJECTION, USP",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-07-07T04:00:00.000Z"
-    },
-    {
-      "drug": "GRANISETRON HYDROCHLORIDE INJECTION",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
-    },
-    {
-      "drug": "HYDROMORPHONE TAB 4MG",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
-    },
-    {
-      "drug": "HYDROMORPHONE TAB 8MG",
-      "doses": [
-        "8MG"
-      ],
-      "expectedBackInStockDate": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "drug": "LANCORA",
-      "doses": [
-        "5MG",
-        "7.5MG"
-      ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-    },
-    {
-      "drug": "MEGESTROL",
-      "doses": [
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-10T10:47:51.864Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 3MG",
+          "doses": [
+            "3MG"
+          ],
+          "expectedBackInStockDate": "2026-07-22T04:00:00.000Z"
+        },
+        {
+          "drug": "METRONIDAZOLE",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-09T10:59:07.098Z",
       "addedDrugsCount": 10,
@@ -431,76 +394,6 @@
           "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-06-26T10:46:23.840Z",
-      "addedDrugsCount": 9,
-      "addedDrugs": [
-        {
-          "drug": "AMLODIPINE-ATORVASTATIN",
-          "doses": [
-            "10MG",
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-        },
-        {
-          "drug": "DOXYCYCLINE MR",
-          "doses": [
-            "40MG"
-          ],
-          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-        },
-        {
-          "drug": "ENTACAPONE",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
-        },
-        {
-          "drug": "FLUTICASONE HFA",
-          "doses": [
-            "50MCG"
-          ],
-          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-        },
-        {
-          "drug": "HYDROCHLOROTHIAZIDE",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-        },
-        {
-          "drug": "IBUPROFEN TAB 600MG",
-          "doses": [
-            "600MG"
-          ],
-          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-        },
-        {
-          "drug": "PROPRANOLOL",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
-        },
-        {
-          "drug": "TOPISONE",
-          "doses": [
-            "0.05%"
-          ],
-          "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
-        },
-        {
-          "drug": "VASOTEC",
-          "doses": [
-            "4MG"
-          ],
-          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -551,7 +444,7 @@
       "doses": [
         "5%"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR SODIUM INJECTION",
@@ -1247,7 +1140,7 @@
         "600MG",
         "800MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "DESONIDE",
@@ -1434,7 +1327,7 @@
         "0.03MG",
         "3MG"
       ],
-      "expectedBackInStockDate": "2026-07-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
     },
     {
       "drug": "DULOXETINE",
@@ -1698,7 +1591,7 @@
         "3MG",
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
       "drug": "HALOETTE",
@@ -1729,6 +1622,13 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 3MG",
+      "doses": [
+        "3MG"
+      ],
+      "expectedBackInStockDate": "2026-07-22T04:00:00.000Z"
     },
     {
       "drug": "HYDROMORPHONE",
@@ -2154,6 +2054,13 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "METRONIDAZOLE",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
       "drug": "MIOCHOL-E",
@@ -2840,7 +2747,9 @@
       "drug": "SITAGLIPTIN/METFORMIN XR",
       "doses": [
         "1000MG",
-        "100MG"
+        "100MG",
+        "500MG",
+        "50MG"
       ],
       "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
@@ -3169,7 +3078,7 @@
         "1000MG",
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
       "drug": "VALGANCICLOVIR",
@@ -3237,7 +3146,7 @@
       "doses": [
         "0.06%"
       ],
-      "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
       "drug": "VISUDYNE",
@@ -3300,9 +3209,10 @@
     {
       "drug": "ZOPICLONE",
       "doses": [
-        "3.75MG"
+        "3.75MG",
+        "7.5MG"
       ],
-      "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     }
   ]
 }
