@@ -1,25 +1,15 @@
 {
-  "count": 367,
-  "refreshedAt": "2026-07-10T10:47:51.864Z",
+  "count": 365,
+  "refreshedAt": "2026-07-11T09:21:59.639Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
-  "addedDrugs": [
-    {
-      "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 3MG",
-      "doses": [
-        "3MG"
-      ],
-      "expectedBackInStockDate": "2026-07-22T04:00:00.000Z"
-    },
-    {
-      "drug": "METRONIDAZOLE",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-11T09:21:59.639Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-07-10T10:47:51.864Z",
       "addedDrugsCount": 2,
@@ -381,19 +371,6 @@
       "refreshedAt": "2026-06-28T10:23:21.105Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-06-27T09:59:26.885Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "SUFENTANIL CITRATE INJECTION USP",
-          "doses": [
-            "50MCG"
-          ],
-          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -901,7 +878,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "CEFTRIAXONE FOR INJECTION",
@@ -915,7 +892,7 @@
       "doses": [
         "125MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "CICLOPIROX",
@@ -1431,7 +1408,7 @@
         "10MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
     },
     {
       "drug": "ESOMEPRAZOLE",
@@ -1509,13 +1486,6 @@
       "drug": "FLUCONAZOLE",
       "doses": [
         "50MG"
-      ],
-      "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
-    },
-    {
-      "drug": "FLUPHENAZINE",
-      "doses": [
-        "1MG"
       ],
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
@@ -1707,13 +1677,6 @@
       "expectedBackInStockDate": "2026-10-10T04:00:00.000Z"
     },
     {
-      "drug": "INNOHEP",
-      "doses": [
-        "20000UNIT"
-      ],
-      "expectedBackInStockDate": "2026-06-06T04:00:00.000Z"
-    },
-    {
       "drug": "IRBESARTAN HCT",
       "doses": [
         "12.5MG",
@@ -1807,7 +1770,7 @@
         "5MG",
         "7.5MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-16T04:00:00.000Z"
     },
     {
       "drug": "LANSOPRAZOLE",
@@ -1892,10 +1855,9 @@
     {
       "drug": "LEVOTHYROXINE",
       "doses": [
-        "112MCG",
-        "200MCG"
+        "112MCG"
       ],
-      "expectedBackInStockDate": "2026-01-16T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
       "drug": "LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE INJECTION USP",
@@ -2534,7 +2496,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
     },
     {
       "drug": "PROPRANOLOL",
@@ -2669,7 +2631,7 @@
         "10MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
     },
     {
       "drug": "ROCURONIUM BROMIDE INJECTION",

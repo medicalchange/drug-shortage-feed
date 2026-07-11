@@ -1,5 +1,117 @@
 [
   {
+    "id": "shortage:286416",
+    "reportId": 286416,
+    "type": "shortage",
+    "brandName": "APO-GUANFACINE XR",
+    "status": "active_confirmed",
+    "din": "02523728",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-11T01:35:17.000Z",
+    "updateDate": "2026-07-11T01:35:17.000Z",
+    "postedDate": "2026-06-04T22:22:56.000Z"
+  },
+  {
+    "id": "shortage:287854",
+    "reportId": 287854,
+    "type": "shortage",
+    "brandName": "LANCORA",
+    "status": "active_confirmed",
+    "din": "02459981",
+    "strength": "7.5MG",
+    "expectedBackInStockDate": "2026-07-16T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-10T19:46:41.000Z",
+    "updateDate": "2026-07-10T19:46:41.000Z",
+    "postedDate": "2026-06-23T17:01:36.000Z"
+  },
+  {
+    "id": "shortage:286054",
+    "reportId": 286054,
+    "type": "shortage",
+    "brandName": "ACH-ESCITALOPRAM",
+    "status": "active_confirmed",
+    "din": "02434652",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-08-07T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-10T19:05:16.000Z",
+    "updateDate": "2026-07-10T19:05:16.000Z",
+    "postedDate": "2026-05-29T19:27:26.000Z"
+  },
+  {
+    "id": "shortage:286051",
+    "reportId": 286051,
+    "type": "shortage",
+    "brandName": "ACH-PROGESTERONE",
+    "status": "active_confirmed",
+    "din": "02549158",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-08-07T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-10T18:58:34.000Z",
+    "updateDate": "2026-07-10T18:58:34.000Z",
+    "postedDate": "2026-05-29T19:25:06.000Z"
+  },
+  {
+    "id": "shortage:275989",
+    "reportId": 275989,
+    "type": "shortage",
+    "brandName": "ASMANEX TWISTHALER",
+    "status": "active_confirmed",
+    "din": "02438690",
+    "strength": "100MCG",
+    "expectedBackInStockDate": "2026-08-07T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-10T17:51:00.000Z",
+    "updateDate": "2026-07-10T17:51:00.000Z",
+    "postedDate": "2026-01-14T01:25:16.000Z"
+  },
+  {
+    "id": "shortage:219262",
+    "reportId": 219262,
+    "type": "shortage",
+    "brandName": "AURO-CEPHALEXIN",
+    "status": "active_confirmed",
+    "din": "02497743",
+    "strength": "125MG",
+    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-10T16:48:33.000Z",
+    "updateDate": "2026-07-10T16:48:33.000Z",
+    "postedDate": "2024-02-13T01:14:38.000Z"
+  },
+  {
+    "id": "shortage:276918",
+    "reportId": 276918,
+    "type": "shortage",
+    "brandName": "AURO-CEFIXIME",
+    "status": "active_confirmed",
+    "din": "02468689",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-10T16:47:54.000Z",
+    "updateDate": "2026-07-10T16:47:54.000Z",
+    "postedDate": "2026-01-29T20:51:02.000Z"
+  },
+  {
+    "id": "shortage:285517",
+    "reportId": 285517,
+    "type": "shortage",
+    "brandName": "ACULAR",
+    "status": "active_confirmed",
+    "din": "01968300",
+    "strength": "0.5%",
+    "expectedBackInStockDate": "2026-07-14T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-10T16:44:56.000Z",
+    "updateDate": "2026-07-10T16:44:56.000Z",
+    "postedDate": "2026-05-20T17:44:16.000Z"
+  },
+  {
     "id": "shortage:288902",
     "reportId": 288902,
     "type": "shortage",
@@ -308,20 +420,6 @@
     "postedDate": "2026-04-16T19:46:04.000Z"
   },
   {
-    "id": "shortage:275989",
-    "reportId": 275989,
-    "type": "shortage",
-    "brandName": "ASMANEX TWISTHALER",
-    "status": "active_confirmed",
-    "din": "02438690",
-    "strength": "100MCG",
-    "expectedBackInStockDate": "2026-08-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-09T00:18:27.000Z",
-    "updateDate": "2026-07-09T00:18:27.000Z",
-    "postedDate": "2026-01-14T01:25:16.000Z"
-  },
-  {
     "id": "shortage:278917",
     "reportId": 278917,
     "type": "shortage",
@@ -574,20 +672,6 @@
     "postedDate": "2026-06-10T22:19:37.000Z"
   },
   {
-    "id": "shortage:287854",
-    "reportId": 287854,
-    "type": "shortage",
-    "brandName": "LANCORA",
-    "status": "active_confirmed",
-    "din": "02459981",
-    "strength": "7.5MG",
-    "expectedBackInStockDate": "2026-07-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-08T18:33:26.000Z",
-    "updateDate": "2026-07-08T18:33:26.000Z",
-    "postedDate": "2026-06-23T17:01:36.000Z"
-  },
-  {
     "id": "shortage:282317",
     "reportId": 282317,
     "type": "shortage",
@@ -600,20 +684,6 @@
     "updatedDate": "2026-07-08T18:27:05.000Z",
     "updateDate": "2026-07-08T18:27:05.000Z",
     "postedDate": "2026-04-07T22:03:49.000Z"
-  },
-  {
-    "id": "shortage:285517",
-    "reportId": 285517,
-    "type": "shortage",
-    "brandName": "ACULAR",
-    "status": "active_confirmed",
-    "din": "01968300",
-    "strength": "0.5%",
-    "expectedBackInStockDate": "2026-07-14T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-08T18:25:19.000Z",
-    "updateDate": "2026-07-08T18:25:19.000Z",
-    "postedDate": "2026-05-20T17:44:16.000Z"
   },
   {
     "id": "shortage:288609",
@@ -1750,20 +1820,6 @@
     "postedDate": "2026-03-26T19:03:24.000Z"
   },
   {
-    "id": "shortage:286416",
-    "reportId": 286416,
-    "type": "shortage",
-    "brandName": "APO-GUANFACINE XR",
-    "status": "active_confirmed",
-    "din": "02523728",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-02T22:51:45.000Z",
-    "updateDate": "2026-07-02T22:51:45.000Z",
-    "postedDate": "2026-06-04T22:22:56.000Z"
-  },
-  {
     "id": "shortage:266032",
     "reportId": 266032,
     "type": "shortage",
@@ -1902,20 +1958,6 @@
     "updatedDate": "2026-07-02T22:23:09.000Z",
     "updateDate": "2026-07-02T22:23:09.000Z",
     "postedDate": "2026-05-07T22:51:49.000Z"
-  },
-  {
-    "id": "shortage:278030",
-    "reportId": 278030,
-    "type": "shortage",
-    "brandName": "APO-ARIPIPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02471086",
-    "strength": "2MG",
-    "expectedBackInStockDate": "2026-07-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-02T22:22:20.000Z",
-    "updateDate": "2026-07-02T22:22:20.000Z",
-    "postedDate": "2026-02-13T01:17:19.000Z"
   },
   {
     "id": "shortage:279890",
@@ -2240,34 +2282,6 @@
     "postedDate": "2024-08-26T22:33:20.000Z"
   },
   {
-    "id": "shortage:219262",
-    "reportId": 219262,
-    "type": "shortage",
-    "brandName": "AURO-CEPHALEXIN",
-    "status": "active_confirmed",
-    "din": "02497743",
-    "strength": "125MG",
-    "expectedBackInStockDate": "2026-07-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-29T17:02:27.000Z",
-    "updateDate": "2026-06-29T17:02:27.000Z",
-    "postedDate": "2024-02-13T01:14:38.000Z"
-  },
-  {
-    "id": "shortage:276918",
-    "reportId": 276918,
-    "type": "shortage",
-    "brandName": "AURO-CEFIXIME",
-    "status": "active_confirmed",
-    "din": "02468689",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-07-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-29T16:57:45.000Z",
-    "updateDate": "2026-06-29T16:57:45.000Z",
-    "postedDate": "2026-01-29T20:51:02.000Z"
-  },
-  {
     "id": "shortage:288217",
     "reportId": 288217,
     "type": "shortage",
@@ -2378,62 +2392,6 @@
     "updatedDate": "2026-06-26T19:51:57.000Z",
     "updateDate": "2026-06-26T19:51:57.000Z",
     "postedDate": "2026-05-06T18:07:53.000Z"
-  },
-  {
-    "id": "shortage:286051",
-    "reportId": 286051,
-    "type": "shortage",
-    "brandName": "ACH-PROGESTERONE",
-    "status": "active_confirmed",
-    "din": "02549158",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-26T18:49:52.000Z",
-    "updateDate": "2026-06-26T18:49:52.000Z",
-    "postedDate": "2026-05-29T19:25:06.000Z"
-  },
-  {
-    "id": "shortage:286057",
-    "reportId": 286057,
-    "type": "shortage",
-    "brandName": "ACH-ESCITALOPRAM",
-    "status": "active_confirmed",
-    "din": "02434660",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-07-17T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-26T18:45:54.000Z",
-    "updateDate": "2026-06-26T18:45:54.000Z",
-    "postedDate": "2026-05-29T19:28:09.000Z"
-  },
-  {
-    "id": "shortage:286054",
-    "reportId": 286054,
-    "type": "shortage",
-    "brandName": "ACH-ESCITALOPRAM",
-    "status": "active_confirmed",
-    "din": "02434652",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-07-17T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-26T18:45:31.000Z",
-    "updateDate": "2026-06-26T18:45:31.000Z",
-    "postedDate": "2026-05-29T19:27:26.000Z"
-  },
-  {
-    "id": "shortage:283839",
-    "reportId": 283839,
-    "type": "shortage",
-    "brandName": "M-RIZATRIPTAN ODT",
-    "status": "active_confirmed",
-    "din": "02548828",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-26T17:21:57.000Z",
-    "updateDate": "2026-06-26T17:21:57.000Z",
-    "postedDate": "2026-04-27T23:13:38.000Z"
   },
   {
     "id": "shortage:288077",
@@ -4046,20 +4004,6 @@
     "postedDate": "2026-03-21T00:56:25.000Z"
   },
   {
-    "id": "shortage:285919",
-    "reportId": 285919,
-    "type": "shortage",
-    "brandName": "INNOHEP",
-    "status": "active_confirmed",
-    "din": "02229515",
-    "strength": "20000UNIT",
-    "expectedBackInStockDate": "2026-06-06T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-16T19:40:37.000Z",
-    "updateDate": "2026-06-16T19:40:37.000Z",
-    "postedDate": "2026-05-26T23:59:59.000Z"
-  },
-  {
     "id": "shortage:287302",
     "reportId": 287302,
     "type": "shortage",
@@ -4128,20 +4072,6 @@
     "updatedDate": "2026-06-16T00:28:11.000Z",
     "updateDate": "2026-06-16T00:28:11.000Z",
     "postedDate": "2026-05-15T18:03:16.000Z"
-  },
-  {
-    "id": "shortage:280173",
-    "reportId": 280173,
-    "type": "shortage",
-    "brandName": "DICLOFENAC",
-    "status": "active_confirmed",
-    "din": "02475065",
-    "strength": "0.1%",
-    "expectedBackInStockDate": "2026-06-12T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-15T23:11:04.000Z",
-    "updateDate": "2026-06-15T23:11:04.000Z",
-    "postedDate": "2026-03-10T17:59:34.000Z"
   },
   {
     "id": "shortage:272436",
@@ -4394,20 +4324,6 @@
     "updatedDate": "2026-06-12T00:53:18.000Z",
     "updateDate": "2026-06-12T00:53:18.000Z",
     "postedDate": "2025-12-21T02:50:37.000Z"
-  },
-  {
-    "id": "shortage:278442",
-    "reportId": 278442,
-    "type": "shortage",
-    "brandName": "APO-DULOXETINE",
-    "status": "active_confirmed",
-    "din": "02440431",
-    "strength": "60MG",
-    "expectedBackInStockDate": "2026-06-12T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-12T00:53:00.000Z",
-    "updateDate": "2026-06-12T00:53:00.000Z",
-    "postedDate": "2026-02-20T01:17:32.000Z"
   },
   {
     "id": "shortage:284185",
@@ -5600,20 +5516,6 @@
     "postedDate": "2026-01-02T20:04:01.000Z"
   },
   {
-    "id": "shortage:285122",
-    "reportId": 285122,
-    "type": "shortage",
-    "brandName": "FLUPHENAZINE",
-    "status": "active_confirmed",
-    "din": "00405345",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-06-05T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-03T23:08:27.000Z",
-    "updateDate": "2026-06-03T23:08:27.000Z",
-    "postedDate": "2026-05-13T20:14:17.000Z"
-  },
-  {
     "id": "shortage:272039",
     "reportId": 272039,
     "type": "shortage",
@@ -5766,20 +5668,6 @@
     "updatedDate": "2026-05-29T01:06:47.000Z",
     "updateDate": "2026-05-29T01:06:47.000Z",
     "postedDate": "2026-03-17T01:11:14.000Z"
-  },
-  {
-    "id": "shortage:286011",
-    "reportId": 286011,
-    "type": "shortage",
-    "brandName": "APO-SAXAGLIPTIN",
-    "status": "active_confirmed",
-    "din": "02507471",
-    "strength": "2.5MG",
-    "expectedBackInStockDate": "2026-07-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-28T23:06:27.000Z",
-    "updateDate": "2026-05-28T23:06:27.000Z",
-    "postedDate": "2026-05-28T23:06:19.000Z"
   },
   {
     "id": "shortage:284856",
@@ -8188,20 +8076,6 @@
     "updatedDate": "2026-01-22T21:40:42.000Z",
     "updateDate": "2026-01-22T21:40:42.000Z",
     "postedDate": "2023-08-15T19:37:21.000Z"
-  },
-  {
-    "id": "shortage:257519",
-    "reportId": 257519,
-    "type": "shortage",
-    "brandName": "APO-LEVOTHYROXINE",
-    "status": "active_confirmed",
-    "din": "02550806",
-    "strength": "200MCG",
-    "expectedBackInStockDate": "2026-01-16T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-01-15T20:08:17.000Z",
-    "updateDate": "2026-01-15T20:08:17.000Z",
-    "postedDate": "2025-05-15T23:49:38.000Z"
   },
   {
     "id": "shortage:177181",
