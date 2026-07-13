@@ -1,9 +1,14 @@
 {
-  "refreshedAt": "2026-07-12T09:46:02.524Z",
+  "refreshedAt": "2026-07-13T10:54:18.404Z",
   "count": 631,
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-13T10:54:18.404Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-07-12T09:46:02.524Z",
       "addedDrugsCount": 0,
@@ -340,34 +345,6 @@
             "5.0MG"
           ],
           "expectedBackInStockDate": "2026-07-11T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-29T12:26:31.794Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJ USP 4MG/ML",
-          "doses": [
-            "4MG"
-          ],
-          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-        },
-        {
-          "drug": "PANTOPRAZOLE",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
-        },
-        {
-          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-          "doses": [
-            "36G",
-            "4.5G"
-          ],
-          "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
         }
       ]
     }
