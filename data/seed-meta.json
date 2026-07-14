@@ -1,9 +1,102 @@
 {
-  "refreshedAt": "2026-07-13T10:54:18.404Z",
-  "count": 631,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-07-14T09:51:44.133Z",
+  "count": 634,
+  "addedDrugsCount": 6,
+  "addedDrugs": [
+    {
+      "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
+      "doses": [
+        "0.12%"
+      ],
+      "expectedBackInStockDate": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "drug": "EZETIMIBE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
+    },
+    {
+      "drug": "INDAPAMIDE",
+      "doses": [
+        "1.25MG"
+      ],
+      "expectedBackInStockDate": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "drug": "MONTELUKAST FC",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
+    },
+    {
+      "drug": "NUVARING",
+      "doses": [
+        "11.4MG",
+        "2.6MG"
+      ],
+      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "drug": "PAROXETINE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-14T09:51:44.133Z",
+      "addedDrugsCount": 6,
+      "addedDrugs": [
+        {
+          "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
+          "doses": [
+            "0.12%"
+          ],
+          "expectedBackInStockDate": "2026-08-12T04:00:00.000Z"
+        },
+        {
+          "drug": "EZETIMIBE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
+        },
+        {
+          "drug": "INDAPAMIDE",
+          "doses": [
+            "1.25MG"
+          ],
+          "expectedBackInStockDate": "2026-07-21T04:00:00.000Z"
+        },
+        {
+          "drug": "MONTELUKAST FC",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
+        },
+        {
+          "drug": "NUVARING",
+          "doses": [
+            "11.4MG",
+            "2.6MG"
+          ],
+          "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+        },
+        {
+          "drug": "PAROXETINE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-13T10:54:18.404Z",
       "addedDrugsCount": 0,
@@ -304,47 +397,6 @@
             "1MG"
           ],
           "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-06-30T10:51:57.408Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "BUSULFAN",
-          "doses": [
-            "6MG"
-          ],
-          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
-        },
-        {
-          "drug": "CILAZAPRIL",
-          "doses": [
-            "5.0MG"
-          ],
-          "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
-        },
-        {
-          "drug": "HYDROMORPHONE TAB 1MG",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-        },
-        {
-          "drug": "HYDROMORPHONE TAB 2MG",
-          "doses": [
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
-        },
-        {
-          "drug": "MEMANTINE",
-          "doses": [
-            "5.0MG"
-          ],
-          "expectedBackInStockDate": "2026-07-11T04:00:00.000Z"
         }
       ]
     }

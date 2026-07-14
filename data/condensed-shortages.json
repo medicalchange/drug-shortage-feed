@@ -1,10 +1,103 @@
 {
-  "count": 365,
-  "refreshedAt": "2026-07-13T10:54:18.404Z",
+  "count": 369,
+  "refreshedAt": "2026-07-14T09:51:44.133Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 6,
+  "addedDrugs": [
+    {
+      "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
+      "doses": [
+        "0.12%"
+      ],
+      "expectedBackInStockDate": "2026-08-12T04:00:00.000Z"
+    },
+    {
+      "drug": "EZETIMIBE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
+    },
+    {
+      "drug": "INDAPAMIDE",
+      "doses": [
+        "1.25MG"
+      ],
+      "expectedBackInStockDate": "2026-07-21T04:00:00.000Z"
+    },
+    {
+      "drug": "MONTELUKAST FC",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
+    },
+    {
+      "drug": "NUVARING",
+      "doses": [
+        "11.4MG",
+        "2.6MG"
+      ],
+      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "drug": "PAROXETINE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-14T09:51:44.133Z",
+      "addedDrugsCount": 6,
+      "addedDrugs": [
+        {
+          "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
+          "doses": [
+            "0.12%"
+          ],
+          "expectedBackInStockDate": "2026-08-12T04:00:00.000Z"
+        },
+        {
+          "drug": "EZETIMIBE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
+        },
+        {
+          "drug": "INDAPAMIDE",
+          "doses": [
+            "1.25MG"
+          ],
+          "expectedBackInStockDate": "2026-07-21T04:00:00.000Z"
+        },
+        {
+          "drug": "MONTELUKAST FC",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
+        },
+        {
+          "drug": "NUVARING",
+          "doses": [
+            "11.4MG",
+            "2.6MG"
+          ],
+          "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+        },
+        {
+          "drug": "PAROXETINE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-13T10:54:18.404Z",
       "addedDrugsCount": 0,
@@ -307,47 +400,6 @@
           "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-06-30T10:51:57.408Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "BUSULFAN",
-          "doses": [
-            "6MG"
-          ],
-          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
-        },
-        {
-          "drug": "CILAZAPRIL",
-          "doses": [
-            "5.0MG"
-          ],
-          "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
-        },
-        {
-          "drug": "HYDROMORPHONE TAB 1MG",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-        },
-        {
-          "drug": "HYDROMORPHONE TAB 2MG",
-          "doses": [
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
-        },
-        {
-          "drug": "MEMANTINE",
-          "doses": [
-            "5.0MG"
-          ],
-          "expectedBackInStockDate": "2026-07-11T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -527,7 +579,7 @@
         "2000MG",
         "200MG"
       ],
-      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
     },
     {
       "drug": "AMPHETAMINE XR",
@@ -559,7 +611,7 @@
         "20MG",
         "30MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "APRI 28",
@@ -872,6 +924,13 @@
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
+      "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
+      "doses": [
+        "0.12%"
+      ],
+      "expectedBackInStockDate": "2026-08-12T04:00:00.000Z"
+    },
+    {
       "drug": "CICLOPIROX",
       "doses": [
         "8%"
@@ -924,7 +983,7 @@
         "10MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-08-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
     },
     {
       "drug": "CLIMARA 25",
@@ -1041,7 +1100,7 @@
         "0.035MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "DABIGATRAN",
@@ -1322,13 +1381,6 @@
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
-      "drug": "ENALAPRIL",
-      "doses": [
-        "16MG"
-      ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    },
-    {
       "drug": "ENALAPRILAT INJECTION USP",
       "doses": [
         "1.25MG"
@@ -1411,6 +1463,13 @@
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
+      "drug": "EZETIMIBE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
+    },
+    {
       "drug": "FAMOTIDINE OMEGA  -(WITH PRESERVATIVE,BENZYL ALCOHOL)",
       "doses": [
         "10MG"
@@ -1443,7 +1502,7 @@
       "doses": [
         "8MG"
       ],
-      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-12-10T05:00:00.000Z"
     },
     {
       "drug": "FINASTERIDE",
@@ -1645,6 +1704,13 @@
         "75MG"
       ],
       "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "drug": "INDAPAMIDE",
+      "doses": [
+        "1.25MG"
+      ],
+      "expectedBackInStockDate": "2026-07-21T04:00:00.000Z"
     },
     {
       "drug": "INDOMETHACIN",
@@ -1940,7 +2006,7 @@
       "doses": [
         "5.0MG"
       ],
-      "expectedBackInStockDate": "2026-07-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
     },
     {
       "drug": "MESNA FOR INJECTION",
@@ -2040,6 +2106,13 @@
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
+      "drug": "MONTELUKAST FC",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
+    },
+    {
       "drug": "MORPHINE SR",
       "doses": [
         "30MG"
@@ -2129,6 +2202,14 @@
         "2.5MG"
       ],
       "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
+    },
+    {
+      "drug": "NUVARING",
+      "doses": [
+        "11.4MG",
+        "2.6MG"
+      ],
+      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
     },
     {
       "drug": "NXSTAGE PUREFLOW SOLUTION RFP-204-CAN",
@@ -2286,6 +2367,13 @@
       "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
     {
+      "drug": "PAROXETINE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
+    },
+    {
       "drug": "PAXIL TAB 20MG",
       "doses": [
         "20MG"
@@ -2359,7 +2447,7 @@
         "10000UNIT",
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
     {
       "drug": "PRAMIPEXOLE",
@@ -2414,7 +2502,7 @@
         "50MG",
         "75MG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
       "drug": "PREGNANCY MULTIVITAMIN",
@@ -2608,7 +2696,7 @@
         "10MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
     },
     {
       "drug": "ROCURONIUM BROMIDE INJECTION",
@@ -2754,7 +2842,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
     {
       "drug": "TAMSULOSIN",
@@ -2838,13 +2926,6 @@
       "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
-      "drug": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-    },
-    {
       "drug": "TICAGRELOR",
       "doses": [
         "90MG"
@@ -2901,7 +2982,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-07-07T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-25T04:00:00.000Z"
     },
     {
       "drug": "TOPISONE",
@@ -3038,7 +3119,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
     {
       "drug": "VALSARTAN HCT",
