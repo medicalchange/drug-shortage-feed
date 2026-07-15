@@ -1,54 +1,45 @@
 {
   "count": 369,
-  "refreshedAt": "2026-07-14T09:51:44.133Z",
+  "refreshedAt": "2026-07-15T09:55:45.692Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 6,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
+      "drug": "APIDRA",
       "doses": [
-        "0.12%"
+        "100UNIT"
       ],
-      "expectedBackInStockDate": "2026-08-12T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-13T04:00:00.000Z"
     },
     {
-      "drug": "EZETIMIBE",
+      "drug": "NEXVIAZYME",
       "doses": [
-        "10MG"
+        "100MG"
       ],
-      "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
-    },
-    {
-      "drug": "INDAPAMIDE",
-      "doses": [
-        "1.25MG"
-      ],
-      "expectedBackInStockDate": "2026-07-21T04:00:00.000Z"
-    },
-    {
-      "drug": "MONTELUKAST FC",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
-    },
-    {
-      "drug": "NUVARING",
-      "doses": [
-        "11.4MG",
-        "2.6MG"
-      ],
-      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
-    },
-    {
-      "drug": "PAROXETINE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-15T09:55:45.692Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "APIDRA",
+          "doses": [
+            "100UNIT"
+          ],
+          "expectedBackInStockDate": "2026-07-13T04:00:00.000Z"
+        },
+        {
+          "drug": "NEXVIAZYME",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-14T09:51:44.133Z",
       "addedDrugsCount": 6,
@@ -387,19 +378,6 @@
       "refreshedAt": "2026-07-02T10:32:20.634Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-07-01T11:19:28.830Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "CLOLAR",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -602,7 +580,14 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
+    },
+    {
+      "drug": "APIDRA",
+      "doses": [
+        "100UNIT"
+      ],
+      "expectedBackInStockDate": "2026-07-13T04:00:00.000Z"
     },
     {
       "drug": "APREMILAST",
@@ -886,7 +871,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "CARVEDILOL",
@@ -1019,14 +1004,6 @@
         "1MG"
       ],
       "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-    },
-    {
-      "drug": "CLOMIPRAMINE",
-      "doses": [
-        "25MG",
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
       "drug": "CLOPIDOGREL",
@@ -1197,7 +1174,7 @@
       "doses": [
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "DEXTROAMPHETAMINE SR",
@@ -1212,7 +1189,7 @@
       "doses": [
         "50%"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "DICLOFENAC",
@@ -1964,7 +1941,7 @@
       "doses": [
         "120MG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "MAEVE",
@@ -2189,6 +2166,13 @@
       "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
     },
     {
+      "drug": "NEXVIAZYME",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
       "drug": "NRA-CITALOPRAM",
       "doses": [
         "10MG",
@@ -2399,7 +2383,7 @@
       "doses": [
         "12MG"
       ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
       "drug": "PERINDOPRIL",
@@ -2749,7 +2733,8 @@
     {
       "drug": "SINGULAIR",
       "doses": [
-        "10MG"
+        "10MG",
+        "5MG"
       ],
       "expectedBackInStockDate": "2026-03-13T04:00:00.000Z"
     },
@@ -2792,7 +2777,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "SOLYSTAT",
@@ -2923,14 +2908,14 @@
       "doses": [
         "1%"
       ],
-      "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "TICAGRELOR",
       "doses": [
         "90MG"
       ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "TIMOLOL",
@@ -2997,13 +2982,6 @@
         "300UNIT"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-    },
-    {
-      "drug": "TRAMADOL ER",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "TRANDOLAPRIL",
