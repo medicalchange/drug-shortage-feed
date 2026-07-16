@@ -1,25 +1,131 @@
 {
-  "count": 369,
-  "refreshedAt": "2026-07-15T09:55:45.692Z",
+  "count": 374,
+  "refreshedAt": "2026-07-16T10:02:44.553Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 8,
   "addedDrugs": [
     {
-      "drug": "APIDRA",
+      "drug": "ACUVAIL",
       "doses": [
-        "100UNIT"
+        "0.45%"
       ],
-      "expectedBackInStockDate": "2026-07-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
     },
     {
-      "drug": "NEXVIAZYME",
+      "drug": "ARICEPT",
       "doses": [
-        "100MG"
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
+      "doses": [
+        "1%",
+        "5%"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "drug": "CANDESARTAN",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "drug": "CLOBETASOL TOPICAL SOLUTION USP, 0.05%",
+      "doses": [
+        "0.05%"
+      ],
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "drug": "CLOTRIMADERM VAGINAL 6",
+      "doses": [
+        "1%"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPH CONTIN",
+      "doses": [
+        "4.5MG"
+      ],
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+    },
+    {
+      "drug": "MONOPROST",
+      "doses": [
+        "50MCG"
+      ],
+      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-16T10:02:44.553Z",
+      "addedDrugsCount": 8,
+      "addedDrugs": [
+        {
+          "drug": "ACUVAIL",
+          "doses": [
+            "0.45%"
+          ],
+          "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
+        },
+        {
+          "drug": "ARICEPT",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
+          "doses": [
+            "1%",
+            "5%"
+          ],
+          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+        },
+        {
+          "drug": "CANDESARTAN",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+        },
+        {
+          "drug": "CLOBETASOL TOPICAL SOLUTION USP, 0.05%",
+          "doses": [
+            "0.05%"
+          ],
+          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+        },
+        {
+          "drug": "CLOTRIMADERM VAGINAL 6",
+          "doses": [
+            "1%"
+          ],
+          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+        },
+        {
+          "drug": "HYDROMORPH CONTIN",
+          "doses": [
+            "4.5MG"
+          ],
+          "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+        },
+        {
+          "drug": "MONOPROST",
+          "doses": [
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-15T09:55:45.692Z",
       "addedDrugsCount": 2,
@@ -373,11 +479,6 @@
           "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-07-02T10:32:20.634Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -417,11 +518,11 @@
       "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
     },
     {
-      "drug": "ACYCLOVIR",
+      "drug": "ACUVAIL",
       "doses": [
-        "5%"
+        "0.45%"
       ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR OINTMENT",
@@ -607,6 +708,13 @@
       "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
     },
     {
+      "drug": "ARICEPT",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+    },
+    {
       "drug": "ARIDOL",
       "doses": [
         "10MG",
@@ -668,6 +776,14 @@
       "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
+      "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
+      "doses": [
+        "1%",
+        "5%"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
       "drug": "BETAHISTINE",
       "doses": [
         "16MG",
@@ -713,7 +829,7 @@
         "2.5MG",
         "3.5MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "BOSENTAN",
@@ -844,6 +960,13 @@
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
+      "drug": "CANDESARTAN",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+    },
+    {
       "drug": "CANDESARTAN HCT",
       "doses": [
         "25MG",
@@ -914,13 +1037,6 @@
         "0.12%"
       ],
       "expectedBackInStockDate": "2026-08-12T04:00:00.000Z"
-    },
-    {
-      "drug": "CICLOPIROX",
-      "doses": [
-        "8%"
-      ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "CILAZAPRIL",
@@ -996,7 +1112,14 @@
       "doses": [
         "0.05%"
       ],
-      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "drug": "CLOBETASOL TOPICAL SOLUTION USP, 0.05%",
+      "doses": [
+        "0.05%"
+      ],
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
     {
       "drug": "CLOLAR",
@@ -1012,6 +1135,13 @@
         "75MG"
       ],
       "expectedBackInStockDate": "2026-04-17T04:00:00.000Z"
+    },
+    {
+      "drug": "CLOTRIMADERM VAGINAL 6",
+      "doses": [
+        "1%"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "CLOXACILLIN FOR INJECTION",
@@ -1208,7 +1338,8 @@
     {
       "drug": "DILAUDID",
       "doses": [
-        "1MG"
+        "1MG",
+        "2MG"
       ],
       "expectedBackInStockDate": "2026-07-22T04:00:00.000Z"
     },
@@ -1607,6 +1738,13 @@
       "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
+      "drug": "HYDROMORPH CONTIN",
+      "doses": [
+        "4.5MG"
+      ],
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+    },
+    {
       "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 3MG",
       "doses": [
         "3MG"
@@ -1627,7 +1765,7 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-08-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-13T04:00:00.000Z"
     },
     {
       "drug": "HYDROMORPHONE TAB 2MG",
@@ -1641,14 +1779,14 @@
       "doses": [
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
     },
     {
       "drug": "HYDROMORPHONE TAB 8MG",
       "doses": [
         "8MG"
       ],
-      "expectedBackInStockDate": "2026-07-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
     },
     {
       "drug": "IBUPROFEN TAB 600MG",
@@ -1837,7 +1975,7 @@
         "10MG",
         "15MG"
       ],
-      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "LEUCOVORIN",
@@ -1926,7 +2064,7 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "LOSARTAN-HCTZ",
@@ -2072,6 +2210,13 @@
         "50MCG"
       ],
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+    },
+    {
+      "drug": "MONOPROST",
+      "doses": [
+        "50MCG"
+      ],
+      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
     },
     {
       "drug": "MONTELUKAST",
@@ -2241,9 +2386,10 @@
     {
       "drug": "OLANZAPINE ODT",
       "doses": [
+        "10MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "OLESTYR",
@@ -3035,13 +3181,6 @@
       "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
-      "drug": "TRIDURAL",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
-    },
-    {
       "drug": "TROSPIUM",
       "doses": [
         "20MG"
@@ -3173,7 +3312,7 @@
         "1MG",
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "ZOLEDRONIC ACID FOR INJECTION",
