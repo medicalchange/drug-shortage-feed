@@ -1,68 +1,115 @@
 {
-  "count": 374,
-  "refreshedAt": "2026-07-16T10:02:44.553Z",
+  "count": 378,
+  "refreshedAt": "2026-07-17T09:51:42.573Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 8,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "ACUVAIL",
+      "drug": "BROMAZEPAM",
       "doses": [
-        "0.45%"
-      ],
-      "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
-    },
-    {
-      "drug": "ARICEPT",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-    },
-    {
-      "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
-      "doses": [
-        "1%",
-        "5%"
+        "3MG"
       ],
       "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
-      "drug": "CANDESARTAN",
+      "drug": "DIVALPROEX",
       "doses": [
-        "4MG"
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+    },
+    {
+      "drug": "MEDROXY",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
+      "drug": "MISOPROSTOL",
+      "doses": [
+        "200MCG"
+      ],
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
+      "drug": "NORFLOXACIN",
+      "doses": [
+        "400MG"
       ],
       "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
     {
-      "drug": "CLOBETASOL TOPICAL SOLUTION USP, 0.05%",
+      "drug": "OLANZAPINE",
       "doses": [
-        "0.05%"
-      ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "drug": "CLOTRIMADERM VAGINAL 6",
-      "doses": [
-        "1%"
-      ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "drug": "HYDROMORPH CONTIN",
-      "doses": [
-        "4.5MG"
+        "15MG"
       ],
       "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
-      "drug": "MONOPROST",
+      "drug": "TERAZOSIN",
       "doses": [
-        "50MCG"
+        "10MG"
       ],
-      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-17T09:51:42.573Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "BROMAZEPAM",
+          "doses": [
+            "3MG"
+          ],
+          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+        },
+        {
+          "drug": "DIVALPROEX",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+        },
+        {
+          "drug": "MEDROXY",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+        },
+        {
+          "drug": "MISOPROSTOL",
+          "doses": [
+            "200MCG"
+          ],
+          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+        },
+        {
+          "drug": "NORFLOXACIN",
+          "doses": [
+            "400MG"
+          ],
+          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+        },
+        {
+          "drug": "OLANZAPINE",
+          "doses": [
+            "15MG"
+          ],
+          "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+        },
+        {
+          "drug": "TERAZOSIN",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-16T10:02:44.553Z",
       "addedDrugsCount": 8,
@@ -452,33 +499,6 @@
           "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-07-03T10:31:03.450Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "DEXTROSE INJECTION",
-          "doses": [
-            "50%"
-          ],
-          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-        },
-        {
-          "drug": "DILTIAZ",
-          "doses": [
-            "60MG"
-          ],
-          "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
-        },
-        {
-          "drug": "MEFENAMIC",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -516,13 +536,6 @@
         "0.5%"
       ],
       "expectedBackInStockDate": "2026-07-14T04:00:00.000Z"
-    },
-    {
-      "drug": "ACUVAIL",
-      "doses": [
-        "0.45%"
-      ],
-      "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR OINTMENT",
@@ -622,7 +635,7 @@
         "10MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
       "drug": "AMOXI CLAV",
@@ -909,6 +922,13 @@
       "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
     {
+      "drug": "BROMAZEPAM",
+      "doses": [
+        "3MG"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
       "drug": "BROMFENAC",
       "doses": [
         "0.07%"
@@ -1126,7 +1146,7 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
     },
     {
       "drug": "CLOPIDOGREL",
@@ -1344,13 +1364,6 @@
       "expectedBackInStockDate": "2026-07-22T04:00:00.000Z"
     },
     {
-      "drug": "DILTIAZ",
-      "doses": [
-        "60MG"
-      ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-    },
-    {
       "drug": "DILTIAZ CD",
       "doses": [
         "180MG",
@@ -1390,6 +1403,13 @@
         "250MG"
       ],
       "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+    },
+    {
+      "drug": "DIVALPROEX",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "DONEPEZIL",
@@ -1735,7 +1755,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "HYDROMORPH CONTIN",
@@ -1892,7 +1912,7 @@
       "doses": [
         "30MG"
       ],
-      "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     },
     {
       "drug": "KIT FOR THE PREPARATION OF TECHNETIUM (99MTC) PYROPHOSPHATE INJECTION",
@@ -1967,7 +1987,7 @@
         "10MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "LENALIDOMIDE",
@@ -2096,18 +2116,25 @@
       "expectedBackInStockDate": "2025-09-15T04:00:00.000Z"
     },
     {
+      "drug": "MEDROXY",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
       "drug": "MEFENAMIC",
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "MEGESTROL",
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "MELOXICAM",
@@ -2149,14 +2176,14 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "METHOPRAZINE",
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "METHYLPHENIDATE CR",
@@ -2180,7 +2207,7 @@
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "MIOCHOL-E",
@@ -2205,18 +2232,18 @@
       "expectedBackInStockDate": "2027-01-01T05:00:00.000Z"
     },
     {
+      "drug": "MISOPROSTOL",
+      "doses": [
+        "200MCG"
+      ],
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
       "drug": "MOMETASONE",
       "doses": [
         "50MCG"
       ],
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-    },
-    {
-      "drug": "MONOPROST",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
     },
     {
       "drug": "MONTELUKAST",
@@ -2318,6 +2345,13 @@
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
+      "drug": "NORFLOXACIN",
+      "doses": [
+        "400MG"
+      ],
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+    },
+    {
       "drug": "NRA-CITALOPRAM",
       "doses": [
         "10MG",
@@ -2382,6 +2416,13 @@
         "0.3%"
       ],
       "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
+    },
+    {
+      "drug": "OLANZAPINE",
+      "doses": [
+        "15MG"
+      ],
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "OLANZAPINE ODT",
@@ -2909,7 +2950,7 @@
         "500MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
       "drug": "SODIUM POLYSTYRENE SULFONATE",
@@ -3034,6 +3075,13 @@
         "250MG"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
+      "drug": "TERAZOSIN",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
     {
       "drug": "TERBINAFINE",
@@ -3178,7 +3226,7 @@
       "doses": [
         "55MCG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "TROSPIUM",
@@ -3260,7 +3308,7 @@
         "0.5MG",
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-17T04:00:00.000Z"
     },
     {
       "drug": "VASOTEC",
