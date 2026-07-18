@@ -1,5 +1,75 @@
 [
   {
+    "id": "shortage:288073",
+    "reportId": 288073,
+    "type": "shortage",
+    "brandName": "APO-VALACYCLOVIR",
+    "status": "active_confirmed",
+    "din": "02295822",
+    "strength": "500MG",
+    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-18T02:07:45.000Z",
+    "updateDate": "2026-07-18T02:07:45.000Z",
+    "postedDate": "2026-06-26T00:07:47.000Z"
+  },
+  {
+    "id": "shortage:274835",
+    "reportId": 274835,
+    "type": "shortage",
+    "brandName": "APO-ACYCLOVIR OINTMENT",
+    "status": "active_confirmed",
+    "din": "02477130",
+    "strength": "5%",
+    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-18T02:01:22.000Z",
+    "updateDate": "2026-07-18T02:01:22.000Z",
+    "postedDate": "2025-12-21T02:52:39.000Z"
+  },
+  {
+    "id": "shortage:267463",
+    "reportId": 267463,
+    "type": "shortage",
+    "brandName": "TEVA-PANTOPRAZOLE MAGNESIUM",
+    "status": "active_confirmed",
+    "din": "02440628",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-17T20:34:15.000Z",
+    "updateDate": "2026-07-17T20:34:15.000Z",
+    "postedDate": "2025-09-18T21:55:14.000Z"
+  },
+  {
+    "id": "shortage:286826",
+    "reportId": 286826,
+    "type": "shortage",
+    "brandName": "CODEINE CONTIN 100MG CONTROLLED RELEASE TAB",
+    "status": "active_confirmed",
+    "din": "02163748",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-08-14T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-17T18:58:36.000Z",
+    "updateDate": "2026-07-17T18:58:36.000Z",
+    "postedDate": "2026-06-09T22:29:08.000Z"
+  },
+  {
+    "id": "shortage:272933",
+    "reportId": 272933,
+    "type": "shortage",
+    "brandName": "MIOCHOL-E",
+    "status": "active_confirmed",
+    "din": "02133326",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-10-01T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-17T17:41:53.000Z",
+    "updateDate": "2026-07-17T17:41:53.000Z",
+    "postedDate": "2025-12-01T21:48:41.000Z"
+  },
+  {
     "id": "shortage:289444",
     "reportId": 289444,
     "type": "shortage",
@@ -516,20 +586,6 @@
     "updatedDate": "2026-07-16T21:40:19.000Z",
     "updateDate": "2026-07-16T21:40:19.000Z",
     "postedDate": "2026-07-02T22:18:06.000Z"
-  },
-  {
-    "id": "shortage:288728",
-    "reportId": 288728,
-    "type": "shortage",
-    "brandName": "DILAUDID",
-    "status": "active_confirmed",
-    "din": "00705438",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-07-22T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-16T19:29:20.000Z",
-    "updateDate": "2026-07-16T19:29:20.000Z",
-    "postedDate": "2026-07-07T23:14:40.000Z"
   },
   {
     "id": "shortage:280630",
@@ -1834,20 +1890,6 @@
     "postedDate": "2026-03-06T01:35:56.000Z"
   },
   {
-    "id": "shortage:288073",
-    "reportId": 288073,
-    "type": "shortage",
-    "brandName": "APO-VALACYCLOVIR",
-    "status": "active_confirmed",
-    "din": "02295822",
-    "strength": "500MG",
-    "expectedBackInStockDate": "2026-07-17T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-09T20:10:39.000Z",
-    "updateDate": "2026-07-09T20:10:39.000Z",
-    "postedDate": "2026-06-26T00:07:47.000Z"
-  },
-  {
     "id": "shortage:286354",
     "reportId": 286354,
     "type": "shortage",
@@ -1888,34 +1930,6 @@
     "updatedDate": "2026-07-09T20:07:02.000Z",
     "updateDate": "2026-07-09T20:07:02.000Z",
     "postedDate": "2026-05-28T23:07:12.000Z"
-  },
-  {
-    "id": "shortage:274835",
-    "reportId": 274835,
-    "type": "shortage",
-    "brandName": "APO-ACYCLOVIR OINTMENT",
-    "status": "active_confirmed",
-    "din": "02477130",
-    "strength": "5%",
-    "expectedBackInStockDate": "2026-07-17T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-09T20:06:31.000Z",
-    "updateDate": "2026-07-09T20:06:31.000Z",
-    "postedDate": "2025-12-21T02:52:39.000Z"
-  },
-  {
-    "id": "shortage:283048",
-    "reportId": 283048,
-    "type": "shortage",
-    "brandName": "DROSPIRENONE AND ETHINYL ESTRADIOL TABLETS USP 28",
-    "status": "active_confirmed",
-    "din": "02421445",
-    "strength": "3MG\r\n0.03MG",
-    "expectedBackInStockDate": "2026-08-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-09T17:05:16.000Z",
-    "updateDate": "2026-07-09T17:05:16.000Z",
-    "postedDate": "2026-04-16T19:46:04.000Z"
   },
   {
     "id": "shortage:278917",
@@ -3276,20 +3290,6 @@
     "postedDate": "2026-04-17T01:39:45.000Z"
   },
   {
-    "id": "shortage:272933",
-    "reportId": 272933,
-    "type": "shortage",
-    "brandName": "MIOCHOL-E",
-    "status": "active_confirmed",
-    "din": "02133326",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-08-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-29T21:44:30.000Z",
-    "updateDate": "2026-06-29T21:44:30.000Z",
-    "postedDate": "2025-12-01T21:48:41.000Z"
-  },
-  {
     "id": "shortage:288251",
     "reportId": 288251,
     "type": "shortage",
@@ -3498,20 +3498,6 @@
     "updatedDate": "2026-06-26T00:07:11.000Z",
     "updateDate": "2026-06-26T00:07:11.000Z",
     "postedDate": "2026-06-26T00:07:05.000Z"
-  },
-  {
-    "id": "shortage:278123",
-    "reportId": 278123,
-    "type": "shortage",
-    "brandName": "MAEVE",
-    "status": "active_confirmed",
-    "din": "02458683",
-    "strength": "0.35MG",
-    "expectedBackInStockDate": "2026-08-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-26T00:02:49.000Z",
-    "updateDate": "2026-06-26T00:02:49.000Z",
-    "postedDate": "2026-02-14T01:52:56.000Z"
   },
   {
     "id": "shortage:288052",
@@ -5124,20 +5110,6 @@
     "postedDate": "2026-05-28T21:51:44.000Z"
   },
   {
-    "id": "shortage:286826",
-    "reportId": 286826,
-    "type": "shortage",
-    "brandName": "CODEINE CONTIN 100MG CONTROLLED RELEASE TAB",
-    "status": "active_confirmed",
-    "din": "02163748",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-08-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-12T18:09:52.000Z",
-    "updateDate": "2026-06-12T18:09:52.000Z",
-    "postedDate": "2026-06-09T22:29:08.000Z"
-  },
-  {
     "id": "shortage:273348",
     "reportId": 273348,
     "type": "shortage",
@@ -5836,20 +5808,6 @@
     "updatedDate": "2026-06-04T23:19:56.000Z",
     "updateDate": "2026-06-04T23:19:56.000Z",
     "postedDate": "2026-06-04T23:19:49.000Z"
-  },
-  {
-    "id": "shortage:267463",
-    "reportId": 267463,
-    "type": "shortage",
-    "brandName": "TEVA-PANTOPRAZOLE MAGNESIUM",
-    "status": "active_confirmed",
-    "din": "02440628",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-04T22:09:40.000Z",
-    "updateDate": "2026-06-04T22:09:40.000Z",
-    "postedDate": "2025-09-18T21:55:14.000Z"
   },
   {
     "id": "shortage:276497",
