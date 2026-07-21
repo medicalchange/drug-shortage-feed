@@ -1,9 +1,88 @@
 {
-  "refreshedAt": "2026-07-20T10:45:17.196Z",
-  "count": 640,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-07-21T10:20:16.994Z",
+  "count": 639,
+  "addedDrugsCount": 5,
+  "addedDrugs": [
+    {
+      "drug": "DUOTRAV PQ",
+      "doses": [
+        "0.004%",
+        "0.5%"
+      ],
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "drug": "ELETRIPTAN",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "drug": "EMEND IV",
+      "doses": [
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "drug": "REVATIO",
+      "doses": [
+        "0.8MG"
+      ],
+      "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
+    },
+    {
+      "drug": "TRAVOPROST",
+      "doses": [
+        "0.004%"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-21T10:20:16.994Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "DUOTRAV PQ",
+          "doses": [
+            "0.004%",
+            "0.5%"
+          ],
+          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+        },
+        {
+          "drug": "ELETRIPTAN",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "drug": "EMEND IV",
+          "doses": [
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+        },
+        {
+          "drug": "REVATIO",
+          "doses": [
+            "0.8MG"
+          ],
+          "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
+        },
+        {
+          "drug": "TRAVOPROST",
+          "doses": [
+            "0.004%"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-20T10:45:17.196Z",
       "addedDrugsCount": 0,
@@ -376,11 +455,6 @@
           "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-07-07T10:50:15.961Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }

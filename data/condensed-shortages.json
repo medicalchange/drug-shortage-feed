@@ -1,10 +1,89 @@
 {
-  "count": 376,
-  "refreshedAt": "2026-07-20T10:45:17.196Z",
+  "count": 380,
+  "refreshedAt": "2026-07-21T10:20:16.994Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 5,
+  "addedDrugs": [
+    {
+      "drug": "DUOTRAV PQ",
+      "doses": [
+        "0.004%",
+        "0.5%"
+      ],
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+    },
+    {
+      "drug": "ELETRIPTAN",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "drug": "EMEND IV",
+      "doses": [
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "drug": "REVATIO",
+      "doses": [
+        "0.8MG"
+      ],
+      "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
+    },
+    {
+      "drug": "TRAVOPROST",
+      "doses": [
+        "0.004%"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-21T10:20:16.994Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "DUOTRAV PQ",
+          "doses": [
+            "0.004%",
+            "0.5%"
+          ],
+          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+        },
+        {
+          "drug": "ELETRIPTAN",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "drug": "EMEND IV",
+          "doses": [
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+        },
+        {
+          "drug": "REVATIO",
+          "doses": [
+            "0.8MG"
+          ],
+          "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
+        },
+        {
+          "drug": "TRAVOPROST",
+          "doses": [
+            "0.004%"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-20T10:45:17.196Z",
       "addedDrugsCount": 0,
@@ -377,11 +456,6 @@
           "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-07-07T10:50:15.961Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -946,7 +1020,7 @@
       "doses": [
         "5.0MG"
       ],
-      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-11T04:00:00.000Z"
     },
     {
       "drug": "CINACALCET",
@@ -1058,7 +1132,7 @@
       "doses": [
         "15MG"
       ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
     },
     {
       "drug": "CODEINE CONTIN 100MG CONTROLLED RELEASE TAB",
@@ -1236,7 +1310,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "DILAUDID",
@@ -1353,6 +1427,14 @@
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
     {
+      "drug": "DUOTRAV PQ",
+      "doses": [
+        "0.004%",
+        "0.5%"
+      ],
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+    },
+    {
       "drug": "DUREZOL",
       "doses": [
         "0.05%"
@@ -1381,6 +1463,20 @@
         "600MG"
       ],
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "ELETRIPTAN",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "drug": "EMEND IV",
+      "doses": [
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
     {
       "drug": "ENALAPRILAT INJECTION USP",
@@ -2433,13 +2529,6 @@
       "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
-      "drug": "PERAMPANEL",
-      "doses": [
-        "12MG"
-      ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-    },
-    {
       "drug": "PERINDOPRIL",
       "doses": [
         "2MG",
@@ -2536,11 +2625,9 @@
       "doses": [
         "225MG",
         "25MG",
-        "300MG",
-        "50MG",
-        "75MG"
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "PREGNANCY MULTIVITAMIN",
@@ -2694,7 +2781,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-07-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
     },
     {
       "drug": "REPAGLINIDE",
@@ -2706,11 +2793,18 @@
       "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
+      "drug": "REVATIO",
+      "doses": [
+        "0.8MG"
+      ],
+      "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
+    },
+    {
       "drug": "RILUZOLE",
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
     },
     {
       "drug": "RISPERIDONE",
@@ -3065,6 +3159,13 @@
         "100MG"
       ],
       "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "drug": "TRAVOPROST",
+      "doses": [
+        "0.004%"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
       "drug": "TRAVOPROST-TIMOP PQ",
