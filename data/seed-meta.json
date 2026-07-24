@@ -1,61 +1,30 @@
 {
-  "refreshedAt": "2026-07-23T10:14:48.834Z",
-  "count": 651,
-  "addedDrugsCount": 7,
+  "refreshedAt": "2026-07-24T10:11:29.074Z",
+  "count": 654,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "BENZTROPINE OMEGA",
+      "drug": "DOXAZOSIN",
       "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "DEXAMETHASONE OMEGA UNIDOSE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "drug": "OCTREOTIDE ACETATE OMEGA",
-      "doses": [
-        "100MCG",
-        "500MCG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE",
-      "doses": [
-        "200mEq",
-        "20mEq"
-      ],
-      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
-    },
-    {
-      "drug": "SCOPOLAMINE HYDROBROMIDE INJECTION",
-      "doses": [
-        "0.6MG"
+        "4MG"
       ],
       "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "drug": "SUTENT",
-      "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "drug": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-24T10:11:29.074Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "DOXAZOSIN",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-23T10:14:48.834Z",
       "addedDrugsCount": 7,
@@ -406,26 +375,6 @@
       "refreshedAt": "2026-07-11T09:21:59.639Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-07-10T10:47:51.864Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 3MG",
-          "doses": [
-            "3MG"
-          ],
-          "expectedBackInStockDate": "2026-07-22T04:00:00.000Z"
-        },
-        {
-          "drug": "METRONIDAZOLE",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
