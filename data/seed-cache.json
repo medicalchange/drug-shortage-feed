@@ -1,5 +1,89 @@
 [
   {
+    "id": "shortage:288504",
+    "reportId": 288504,
+    "type": "shortage",
+    "brandName": "APO-SITAGLIPTIN/METFORMIN XR",
+    "status": "active_confirmed",
+    "din": "02506297",
+    "strength": "100MG\r\n1000MG",
+    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-25T01:14:37.000Z",
+    "updateDate": "2026-07-25T01:14:37.000Z",
+    "postedDate": "2026-07-04T01:00:42.000Z"
+  },
+  {
+    "id": "shortage:285267",
+    "reportId": 285267,
+    "type": "shortage",
+    "brandName": "APO-ESOMEPRAZOLE",
+    "status": "active_confirmed",
+    "din": "02339099",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-25T01:14:23.000Z",
+    "updateDate": "2026-07-25T01:14:23.000Z",
+    "postedDate": "2026-05-14T21:58:30.000Z"
+  },
+  {
+    "id": "shortage:285730",
+    "reportId": 285730,
+    "type": "shortage",
+    "brandName": "APO-ESOMEPRAZOLE",
+    "status": "active_confirmed",
+    "din": "02339102",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-25T01:14:08.000Z",
+    "updateDate": "2026-07-25T01:14:08.000Z",
+    "postedDate": "2026-05-22T00:27:22.000Z"
+  },
+  {
+    "id": "shortage:287076",
+    "reportId": 287076,
+    "type": "shortage",
+    "brandName": "APO-DAPAGLIFLOZIN",
+    "status": "active_confirmed",
+    "din": "02527197",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-25T01:13:57.000Z",
+    "updateDate": "2026-07-25T01:13:57.000Z",
+    "postedDate": "2026-06-12T23:44:19.000Z"
+  },
+  {
+    "id": "shortage:288791",
+    "reportId": 288791,
+    "type": "shortage",
+    "brandName": "BUPIVACAINE HYDROCHLORIDE IN DEXTROSE INJECTION USP",
+    "status": "active_confirmed",
+    "din": "02512424",
+    "strength": "7.5MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-24T22:13:45.000Z",
+    "updateDate": "2026-07-24T22:13:45.000Z",
+    "postedDate": "2026-07-08T21:25:58.000Z"
+  },
+  {
+    "id": "shortage:286002",
+    "reportId": 286002,
+    "type": "shortage",
+    "brandName": "AURO-BUSPIRONE",
+    "status": "active_confirmed",
+    "din": "02500213",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-08-27T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-07-24T16:49:47.000Z",
+    "updateDate": "2026-07-24T16:49:47.000Z",
+    "postedDate": "2026-05-28T21:51:44.000Z"
+  },
+  {
     "id": "shortage:289836",
     "reportId": 289836,
     "type": "shortage",
@@ -1148,34 +1232,6 @@
     "postedDate": "2026-06-25T23:51:59.000Z"
   },
   {
-    "id": "shortage:285267",
-    "reportId": 285267,
-    "type": "shortage",
-    "brandName": "APO-ESOMEPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02339099",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-16T22:27:47.000Z",
-    "updateDate": "2026-07-16T22:27:47.000Z",
-    "postedDate": "2026-05-14T21:58:30.000Z"
-  },
-  {
-    "id": "shortage:285730",
-    "reportId": 285730,
-    "type": "shortage",
-    "brandName": "APO-ESOMEPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02339102",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-16T22:27:24.000Z",
-    "updateDate": "2026-07-16T22:27:24.000Z",
-    "postedDate": "2026-05-22T00:27:22.000Z"
-  },
-  {
     "id": "shortage:284163",
     "reportId": 284163,
     "type": "shortage",
@@ -1188,20 +1244,6 @@
     "updatedDate": "2026-07-16T22:01:47.000Z",
     "updateDate": "2026-07-16T22:01:47.000Z",
     "postedDate": "2026-05-01T01:12:38.000Z"
-  },
-  {
-    "id": "shortage:288504",
-    "reportId": 288504,
-    "type": "shortage",
-    "brandName": "APO-SITAGLIPTIN/METFORMIN XR",
-    "status": "active_confirmed",
-    "din": "02506297",
-    "strength": "100MG\r\n1000MG",
-    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-16T22:00:49.000Z",
-    "updateDate": "2026-07-16T22:00:49.000Z",
-    "postedDate": "2026-07-04T01:00:42.000Z"
   },
   {
     "id": "shortage:288891",
@@ -2574,20 +2616,6 @@
     "updatedDate": "2026-07-08T21:39:14.000Z",
     "updateDate": "2026-07-08T21:39:14.000Z",
     "postedDate": "2026-05-06T17:52:46.000Z"
-  },
-  {
-    "id": "shortage:288791",
-    "reportId": 288791,
-    "type": "shortage",
-    "brandName": "BUPIVACAINE HYDROCHLORIDE IN DEXTROSE INJECTION USP",
-    "status": "active_confirmed",
-    "din": "02512424",
-    "strength": "7.5MG",
-    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-08T21:27:19.000Z",
-    "updateDate": "2026-07-08T21:27:19.000Z",
-    "postedDate": "2026-07-08T21:25:58.000Z"
   },
   {
     "id": "shortage:288224",
@@ -4018,20 +4046,6 @@
     "postedDate": "2026-06-04T22:25:01.000Z"
   },
   {
-    "id": "shortage:287076",
-    "reportId": 287076,
-    "type": "shortage",
-    "brandName": "APO-DAPAGLIFLOZIN",
-    "status": "active_confirmed",
-    "din": "02527197",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-07-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-25T23:09:57.000Z",
-    "updateDate": "2026-06-25T23:09:57.000Z",
-    "postedDate": "2026-06-12T23:44:19.000Z"
-  },
-  {
     "id": "shortage:286413",
     "reportId": 286413,
     "type": "shortage",
@@ -5388,20 +5402,6 @@
     "updatedDate": "2026-06-12T22:34:18.000Z",
     "updateDate": "2026-06-12T22:34:18.000Z",
     "postedDate": "2025-03-18T21:36:48.000Z"
-  },
-  {
-    "id": "shortage:286002",
-    "reportId": 286002,
-    "type": "shortage",
-    "brandName": "AURO-BUSPIRONE",
-    "status": "active_confirmed",
-    "din": "02500213",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-08-03T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-12T20:15:25.000Z",
-    "updateDate": "2026-06-12T20:15:25.000Z",
-    "postedDate": "2026-05-28T21:51:44.000Z"
   },
   {
     "id": "shortage:265272",
@@ -6830,20 +6830,6 @@
     "updatedDate": "2026-05-09T00:04:32.000Z",
     "updateDate": "2026-05-09T00:04:32.000Z",
     "postedDate": "2026-05-01T18:32:16.000Z"
-  },
-  {
-    "id": "shortage:248698",
-    "reportId": 248698,
-    "type": "shortage",
-    "brandName": "NRA-ZOLMITRIPTAN",
-    "status": "active_confirmed",
-    "din": "02489392",
-    "strength": "2.5MG",
-    "expectedBackInStockDate": "2026-07-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-08T17:08:27.000Z",
-    "updateDate": "2026-05-08T17:08:27.000Z",
-    "postedDate": "2025-01-28T02:30:00.000Z"
   },
   {
     "id": "shortage:278235",

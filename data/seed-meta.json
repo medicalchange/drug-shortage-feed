@@ -1,17 +1,14 @@
 {
-  "refreshedAt": "2026-07-24T10:11:29.074Z",
-  "count": 654,
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "DOXAZOSIN",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-    }
-  ],
+  "refreshedAt": "2026-07-25T09:41:00.994Z",
+  "count": 653,
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-25T09:41:00.994Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-07-24T10:11:29.074Z",
       "addedDrugsCount": 1,
@@ -368,11 +365,6 @@
     },
     {
       "refreshedAt": "2026-07-12T09:46:02.524Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-07-11T09:21:59.639Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }

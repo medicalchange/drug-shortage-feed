@@ -1,18 +1,15 @@
 {
-  "count": 382,
-  "refreshedAt": "2026-07-24T10:11:29.074Z",
+  "count": 381,
+  "refreshedAt": "2026-07-25T09:41:00.994Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "DOXAZOSIN",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-25T09:41:00.994Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-07-24T10:11:29.074Z",
       "addedDrugsCount": 1,
@@ -369,11 +366,6 @@
     },
     {
       "refreshedAt": "2026-07-12T09:46:02.524Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-07-11T09:21:59.639Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
@@ -810,7 +802,7 @@
       "doses": [
         "7.5MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
       "drug": "BUPROPION XL",
@@ -2229,13 +2221,6 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "drug": "NRA-ZOLMITRIPTAN",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2026-07-15T04:00:00.000Z"
     },
     {
       "drug": "NUVARING",
