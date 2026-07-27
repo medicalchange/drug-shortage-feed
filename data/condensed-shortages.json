@@ -1,10 +1,15 @@
 {
   "count": 381,
-  "refreshedAt": "2026-07-26T09:53:50.227Z",
+  "refreshedAt": "2026-07-27T11:14:06.767Z",
   "source": "github-static-seed",
   "addedDrugsCount": 0,
   "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-27T11:14:06.767Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-07-26T09:53:50.227Z",
       "addedDrugsCount": 0,
@@ -363,11 +368,6 @@
           "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-07-13T10:54:18.404Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
