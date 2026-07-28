@@ -1,9 +1,30 @@
 {
-  "refreshedAt": "2026-07-27T11:14:06.767Z",
-  "count": 653,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-07-28T10:29:29.684Z",
+  "count": 641,
+  "addedDrugsCount": 1,
+  "addedDrugs": [
+    {
+      "drug": "COVERSYL",
+      "doses": [
+        "8MG"
+      ],
+      "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-28T10:29:29.684Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "COVERSYL",
+          "doses": [
+            "8MG"
+          ],
+          "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-27T11:14:06.767Z",
       "addedDrugsCount": 0,
@@ -316,55 +337,6 @@
             "100MG"
           ],
           "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-07-14T09:51:44.133Z",
-      "addedDrugsCount": 6,
-      "addedDrugs": [
-        {
-          "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
-          "doses": [
-            "0.12%"
-          ],
-          "expectedBackInStockDate": "2026-08-12T04:00:00.000Z"
-        },
-        {
-          "drug": "EZETIMIBE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
-        },
-        {
-          "drug": "INDAPAMIDE",
-          "doses": [
-            "1.25MG"
-          ],
-          "expectedBackInStockDate": "2026-07-21T04:00:00.000Z"
-        },
-        {
-          "drug": "MONTELUKAST FC",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
-        },
-        {
-          "drug": "NUVARING",
-          "doses": [
-            "11.4MG",
-            "2.6MG"
-          ],
-          "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
-        },
-        {
-          "drug": "PAROXETINE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
         }
       ]
     }
