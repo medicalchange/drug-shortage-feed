@@ -1,17 +1,44 @@
 {
-  "refreshedAt": "2026-07-28T10:29:29.684Z",
-  "count": 641,
-  "addedDrugsCount": 1,
+  "refreshedAt": "2026-07-29T10:33:24.918Z",
+  "count": 644,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "COVERSYL",
+      "drug": "APIXABAN SDZ",
       "doses": [
-        "8MG"
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+    },
+    {
+      "drug": "CARBAMAZEPINE CR",
+      "doses": [
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-29T10:33:24.918Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "APIXABAN SDZ",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+        },
+        {
+          "drug": "CARBAMAZEPINE CR",
+          "doses": [
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-28T10:29:29.684Z",
       "addedDrugsCount": 1,
@@ -317,26 +344,6 @@
             "50MCG"
           ],
           "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-07-15T09:55:45.692Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "APIDRA",
-          "doses": [
-            "100UNIT"
-          ],
-          "expectedBackInStockDate": "2026-07-13T04:00:00.000Z"
-        },
-        {
-          "drug": "NEXVIAZYME",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
         }
       ]
     }
