@@ -1,24 +1,86 @@
 {
-  "refreshedAt": "2026-07-29T10:33:24.918Z",
-  "count": 644,
-  "addedDrugsCount": 2,
+  "refreshedAt": "2026-07-30T10:18:35.402Z",
+  "count": 645,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "APIXABAN SDZ",
+      "drug": "LORAZEPAM SUBLINGUAL",
       "doses": [
-        "5MG"
+        "1MG"
       ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
-      "drug": "CARBAMAZEPINE CR",
+      "drug": "MEZAVANT",
       "doses": [
-        "200MG"
+        "1.2G"
       ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
+    },
+    {
+      "drug": "SODIUM CHLORIDE BACTERIOSTATIC INJ",
+      "doses": [
+        "9MG"
+      ],
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "drug": "TETRACYCLINE",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "TRURAPI",
+      "doses": [
+        "100UNIT"
+      ],
+      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-07-30T10:18:35.402Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "LORAZEPAM SUBLINGUAL",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        },
+        {
+          "drug": "MEZAVANT",
+          "doses": [
+            "1.2G"
+          ],
+          "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
+        },
+        {
+          "drug": "SODIUM CHLORIDE BACTERIOSTATIC INJ",
+          "doses": [
+            "9MG"
+          ],
+          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+        },
+        {
+          "drug": "TETRACYCLINE",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "TRURAPI",
+          "doses": [
+            "100UNIT"
+          ],
+          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-29T10:33:24.918Z",
       "addedDrugsCount": 2,
@@ -281,69 +343,6 @@
             "10MG"
           ],
           "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-07-16T10:02:44.553Z",
-      "addedDrugsCount": 8,
-      "addedDrugs": [
-        {
-          "drug": "ACUVAIL",
-          "doses": [
-            "0.45%"
-          ],
-          "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
-        },
-        {
-          "drug": "ARICEPT",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-        },
-        {
-          "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
-          "doses": [
-            "1%",
-            "5%"
-          ],
-          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
-        },
-        {
-          "drug": "CANDESARTAN",
-          "doses": [
-            "4MG"
-          ],
-          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-        },
-        {
-          "drug": "CLOBETASOL TOPICAL SOLUTION USP, 0.05%",
-          "doses": [
-            "0.05%"
-          ],
-          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-        },
-        {
-          "drug": "CLOTRIMADERM VAGINAL 6",
-          "doses": [
-            "1%"
-          ],
-          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
-        },
-        {
-          "drug": "HYDROMORPH CONTIN",
-          "doses": [
-            "4.5MG"
-          ],
-          "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
-        },
-        {
-          "drug": "MONOPROST",
-          "doses": [
-            "50MCG"
-          ],
-          "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
         }
       ]
     }
