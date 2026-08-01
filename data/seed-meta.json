@@ -1,31 +1,116 @@
 {
-  "refreshedAt": "2026-07-31T10:31:59.511Z",
-  "count": 656,
-  "addedDrugsCount": 3,
+  "refreshedAt": "2026-08-01T09:52:58.478Z",
+  "count": 643,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "ABACAVIR",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
-    },
-    {
-      "drug": "APIDRA",
+      "drug": "ADMELOG SOLOSTAR",
       "doses": [
         "100UNIT"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
-      "drug": "TRAZODONE TABLETS 50MG",
+      "drug": "FEMYSO",
       "doses": [
-        "50MG"
+        "200MCG",
+        "200MG"
       ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "drug": "PRALUENT",
+      "doses": [
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "drug": "STANNOUS DISIDA KIT",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
+    },
+    {
+      "drug": "STANNOUS MAA KIT",
+      "doses": [
+        "2.1MG"
+      ],
+      "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
+    },
+    {
+      "drug": "STANNOUS MDP KIT",
+      "doses": [
+        "15MG"
+      ],
+      "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
+    },
+    {
+      "drug": "STANNOUS PYP KIT",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-01T09:52:58.478Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "ADMELOG SOLOSTAR",
+          "doses": [
+            "100UNIT"
+          ],
+          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+        },
+        {
+          "drug": "FEMYSO",
+          "doses": [
+            "200MCG",
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        },
+        {
+          "drug": "PRALUENT",
+          "doses": [
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+        },
+        {
+          "drug": "STANNOUS DISIDA KIT",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
+        },
+        {
+          "drug": "STANNOUS MAA KIT",
+          "doses": [
+            "2.1MG"
+          ],
+          "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
+        },
+        {
+          "drug": "STANNOUS MDP KIT",
+          "doses": [
+            "15MG"
+          ],
+          "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
+        },
+        {
+          "drug": "STANNOUS PYP KIT",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-07-31T10:31:59.511Z",
       "addedDrugsCount": 3,
@@ -296,11 +381,6 @@
     },
     {
       "refreshedAt": "2026-07-19T09:47:45.459Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-07-18T09:18:56.901Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
