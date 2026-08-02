@@ -1,61 +1,15 @@
 {
   "count": 377,
-  "refreshedAt": "2026-08-01T09:52:58.478Z",
+  "refreshedAt": "2026-08-02T09:51:12.083Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 7,
-  "addedDrugs": [
-    {
-      "drug": "ADMELOG SOLOSTAR",
-      "doses": [
-        "100UNIT"
-      ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-    },
-    {
-      "drug": "FEMYSO",
-      "doses": [
-        "200MCG",
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "drug": "PRALUENT",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
-    },
-    {
-      "drug": "STANNOUS DISIDA KIT",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "drug": "STANNOUS MAA KIT",
-      "doses": [
-        "2.1MG"
-      ],
-      "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "drug": "STANNOUS MDP KIT",
-      "doses": [
-        "15MG"
-      ],
-      "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
-    },
-    {
-      "drug": "STANNOUS PYP KIT",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-02T09:51:12.083Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-08-01T09:52:58.478Z",
       "addedDrugsCount": 7,
@@ -377,11 +331,6 @@
     },
     {
       "refreshedAt": "2026-07-20T10:45:17.196Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-07-19T09:47:45.459Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
