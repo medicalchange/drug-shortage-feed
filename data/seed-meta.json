@@ -1,9 +1,32 @@
 {
-  "refreshedAt": "2026-08-03T11:16:19.832Z",
-  "count": 643,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-08-04T10:30:58.544Z",
+  "count": 645,
+  "addedDrugsCount": 1,
+  "addedDrugs": [
+    {
+      "drug": "DORZOLAMIDE/TIMOLOL",
+      "doses": [
+        "20MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-04T10:30:58.544Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "DORZOLAMIDE/TIMOLOL",
+          "doses": [
+            "20MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-03T11:16:19.832Z",
       "addedDrugsCount": 0,
@@ -288,48 +311,6 @@
             "1MG"
           ],
           "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-07-21T10:20:16.994Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "DUOTRAV PQ",
-          "doses": [
-            "0.004%",
-            "0.5%"
-          ],
-          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
-        },
-        {
-          "drug": "ELETRIPTAN",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-        },
-        {
-          "drug": "EMEND IV",
-          "doses": [
-            "150MG"
-          ],
-          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-        },
-        {
-          "drug": "REVATIO",
-          "doses": [
-            "0.8MG"
-          ],
-          "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
-        },
-        {
-          "drug": "TRAVOPROST",
-          "doses": [
-            "0.004%"
-          ],
-          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
         }
       ]
     }
