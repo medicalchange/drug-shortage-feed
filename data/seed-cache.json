@@ -1,5 +1,89 @@
 [
   {
+    "id": "shortage:290593",
+    "reportId": 290593,
+    "type": "shortage",
+    "brandName": "M-ESZOPICLONE",
+    "status": "active_confirmed",
+    "din": "02551187",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-09-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-04T20:09:33.000Z",
+    "updateDate": "2026-08-04T20:09:33.000Z",
+    "postedDate": "2026-08-04T20:09:12.000Z"
+  },
+  {
+    "id": "shortage:290590",
+    "reportId": 290590,
+    "type": "shortage",
+    "brandName": "M-LETROZOLE",
+    "status": "active_confirmed",
+    "din": "02549972",
+    "strength": "2.5MG",
+    "expectedBackInStockDate": "2026-09-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-04T20:08:04.000Z",
+    "updateDate": "2026-08-04T20:08:04.000Z",
+    "postedDate": "2026-08-04T20:07:34.000Z"
+  },
+  {
+    "id": "shortage:235918",
+    "reportId": 235918,
+    "type": "shortage",
+    "brandName": "AURO-VALSARTAN HCT",
+    "status": "active_confirmed",
+    "din": "02408120",
+    "strength": "12.5MG\r\n160MG",
+    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-04T16:51:01.000Z",
+    "updateDate": "2026-08-04T16:51:01.000Z",
+    "postedDate": "2024-08-26T22:33:20.000Z"
+  },
+  {
+    "id": "shortage:219262",
+    "reportId": 219262,
+    "type": "shortage",
+    "brandName": "AURO-CEPHALEXIN",
+    "status": "active_confirmed",
+    "din": "02497743",
+    "strength": "125MG",
+    "expectedBackInStockDate": "2026-08-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-04T16:49:53.000Z",
+    "updateDate": "2026-08-04T16:49:53.000Z",
+    "postedDate": "2024-02-13T01:14:38.000Z"
+  },
+  {
+    "id": "shortage:276918",
+    "reportId": 276918,
+    "type": "shortage",
+    "brandName": "AURO-CEFIXIME",
+    "status": "active_confirmed",
+    "din": "02468689",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-08-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-04T16:49:14.000Z",
+    "updateDate": "2026-08-04T16:49:14.000Z",
+    "postedDate": "2026-01-29T20:51:02.000Z"
+  },
+  {
+    "id": "shortage:289166",
+    "reportId": 289166,
+    "type": "shortage",
+    "brandName": "ZADITOR",
+    "status": "active_confirmed",
+    "din": "02242324",
+    "strength": "0.25MG",
+    "expectedBackInStockDate": "2027-02-01T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-04T15:23:21.000Z",
+    "updateDate": "2026-08-04T15:23:21.000Z",
+    "postedDate": "2026-07-14T21:48:30.000Z"
+  },
+  {
     "id": "shortage:277670",
     "reportId": 277670,
     "type": "shortage",
@@ -194,20 +278,6 @@
     "updatedDate": "2026-08-01T00:06:37.000Z",
     "updateDate": "2026-08-01T00:06:37.000Z",
     "postedDate": "2026-08-01T00:04:41.000Z"
-  },
-  {
-    "id": "shortage:288993",
-    "reportId": 288993,
-    "type": "shortage",
-    "brandName": "ADMELOG SOLOSTAR",
-    "status": "active_confirmed",
-    "din": "02469871",
-    "strength": "100UNIT",
-    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-01T00:00:12.000Z",
-    "updateDate": "2026-08-01T00:00:12.000Z",
-    "postedDate": "2026-07-11T01:00:05.000Z"
   },
   {
     "id": "shortage:290181",
@@ -3934,34 +4004,6 @@
     "postedDate": "2026-01-14T01:25:16.000Z"
   },
   {
-    "id": "shortage:219262",
-    "reportId": 219262,
-    "type": "shortage",
-    "brandName": "AURO-CEPHALEXIN",
-    "status": "active_confirmed",
-    "din": "02497743",
-    "strength": "125MG",
-    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-10T16:48:33.000Z",
-    "updateDate": "2026-07-10T16:48:33.000Z",
-    "postedDate": "2024-02-13T01:14:38.000Z"
-  },
-  {
-    "id": "shortage:276918",
-    "reportId": 276918,
-    "type": "shortage",
-    "brandName": "AURO-CEFIXIME",
-    "status": "active_confirmed",
-    "din": "02468689",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-10T16:47:54.000Z",
-    "updateDate": "2026-07-10T16:47:54.000Z",
-    "postedDate": "2026-01-29T20:51:02.000Z"
-  },
-  {
     "id": "shortage:286223",
     "reportId": 286223,
     "type": "shortage",
@@ -4128,20 +4170,6 @@
     "updatedDate": "2026-07-07T21:02:54.000Z",
     "updateDate": "2026-07-07T21:02:54.000Z",
     "postedDate": "2025-01-14T21:50:27.000Z"
-  },
-  {
-    "id": "shortage:288712",
-    "reportId": 288712,
-    "type": "shortage",
-    "brandName": "M-LATANOPROST-TIMOLOL",
-    "status": "active_confirmed",
-    "din": "02514516",
-    "strength": "5MG\r\n50MCG",
-    "expectedBackInStockDate": "2026-08-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-07T17:43:42.000Z",
-    "updateDate": "2026-07-07T17:43:42.000Z",
-    "postedDate": "2026-07-07T17:43:02.000Z"
   },
   {
     "id": "shortage:286649",
@@ -4954,20 +4982,6 @@
     "updatedDate": "2026-06-29T17:32:41.000Z",
     "updateDate": "2026-06-29T17:32:41.000Z",
     "postedDate": "2025-10-30T15:58:04.000Z"
-  },
-  {
-    "id": "shortage:235918",
-    "reportId": 235918,
-    "type": "shortage",
-    "brandName": "AURO-VALSARTAN HCT",
-    "status": "active_confirmed",
-    "din": "02408120",
-    "strength": "12.5MG\r\n160MG",
-    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-29T17:26:53.000Z",
-    "updateDate": "2026-06-29T17:26:53.000Z",
-    "postedDate": "2024-08-26T22:33:20.000Z"
   },
   {
     "id": "shortage:288212",
@@ -5850,34 +5864,6 @@
     "updatedDate": "2026-06-16T19:48:32.000Z",
     "updateDate": "2026-06-16T19:48:32.000Z",
     "postedDate": "2025-11-04T10:24:21.000Z"
-  },
-  {
-    "id": "shortage:287302",
-    "reportId": 287302,
-    "type": "shortage",
-    "brandName": "M-LATANOPROST",
-    "status": "active_confirmed",
-    "din": "02513285",
-    "strength": "50MCG",
-    "expectedBackInStockDate": "2026-08-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-16T19:22:44.000Z",
-    "updateDate": "2026-06-16T19:22:44.000Z",
-    "postedDate": "2026-06-16T19:22:26.000Z"
-  },
-  {
-    "id": "shortage:283835",
-    "reportId": 283835,
-    "type": "shortage",
-    "brandName": "M-RIVAROXABAN",
-    "status": "active_confirmed",
-    "din": "02551616",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-07-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-16T19:17:06.000Z",
-    "updateDate": "2026-06-16T19:17:06.000Z",
-    "postedDate": "2026-04-27T23:10:13.000Z"
   },
   {
     "id": "shortage:276032",
@@ -7474,34 +7460,6 @@
     "updatedDate": "2026-04-24T01:05:39.000Z",
     "updateDate": "2026-04-24T01:05:39.000Z",
     "postedDate": "2024-01-21T01:36:56.000Z"
-  },
-  {
-    "id": "shortage:244478",
-    "reportId": 244478,
-    "type": "shortage",
-    "brandName": "PREGNANCY MULTIVITAMIN FOLIC 5",
-    "status": "active_confirmed",
-    "din": "02537478",
-    "strength": "5MG\r\n20MG\r\n3.4MG\r\n3MG\r\n300MG\r\n600UNIT\r\n12MCG\r\n15MG\r\n50MG\r\n0.15MG\r\n2MG\r\n120MG\r\n10MG\r\n35MG\r\n13.8MG\r\n5MG\r\n1.6MG",
-    "expectedBackInStockDate": "2026-12-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-24T01:03:06.000Z",
-    "updateDate": "2026-04-24T01:03:06.000Z",
-    "postedDate": "2024-12-03T02:01:56.000Z"
-  },
-  {
-    "id": "shortage:244475",
-    "reportId": 244475,
-    "type": "shortage",
-    "brandName": "PREGNANCY MULTIVITAMIN",
-    "status": "active_confirmed",
-    "din": "02535718",
-    "strength": "300MG\r\n600UNIT\r\n12MCG\r\n1.1MG\r\n15MG\r\n50MG\r\n35MG\r\n0.15MG\r\n2MG\r\n13.8MG\r\n120MG\r\n10MG\r\n5MG\r\n20MG\r\n3.4MG\r\n3MG\r\n1.6MG",
-    "expectedBackInStockDate": "2026-12-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-24T01:02:03.000Z",
-    "updateDate": "2026-04-24T01:02:03.000Z",
-    "postedDate": "2024-12-03T01:58:24.000Z"
   },
   {
     "id": "shortage:247865",
