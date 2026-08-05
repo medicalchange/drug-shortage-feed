@@ -1,19 +1,59 @@
 {
-  "count": 378,
-  "refreshedAt": "2026-08-04T10:30:58.544Z",
+  "count": 377,
+  "refreshedAt": "2026-08-05T10:29:10.083Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "DORZOLAMIDE/TIMOLOL",
+      "drug": "ESZOPICLONE",
       "doses": [
-        "20MG",
-        "5MG"
+        "1MG"
       ],
-      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "drug": "LETROZOLE",
+      "doses": [
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "drug": "ZADITOR",
+      "doses": [
+        "0.25MG"
+      ],
+      "expectedBackInStockDate": "2027-02-01T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-05T10:29:10.083Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "ESZOPICLONE",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+        },
+        {
+          "drug": "LETROZOLE",
+          "doses": [
+            "2.5MG"
+          ],
+          "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+        },
+        {
+          "drug": "ZADITOR",
+          "doses": [
+            "0.25MG"
+          ],
+          "expectedBackInStockDate": "2027-02-01T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-04T10:30:58.544Z",
       "addedDrugsCount": 1,
@@ -279,41 +319,6 @@
           "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-07-22T10:20:13.398Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "COSOPT PRESERVATIVE-FREE",
-          "doses": [
-            "20MG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
-        },
-        {
-          "drug": "LONITEN 10MG",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
-        },
-        {
-          "drug": "LONITEN 2.5MG",
-          "doses": [
-            "2.5MG"
-          ],
-          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
-        },
-        {
-          "drug": "METADOL",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -358,13 +363,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-07-02T04:00:00.000Z"
-    },
-    {
-      "drug": "ADMELOG SOLOSTAR",
-      "doses": [
-        "100UNIT"
-      ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "ALENDRONATE",
@@ -843,7 +841,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
     },
     {
       "drug": "CEFTRIAXONE FOR INJECTION",
@@ -857,7 +855,7 @@
       "doses": [
         "125MG"
       ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
     },
     {
       "drug": "CHLORHEXIDINE WITHOUT ALCOHOL",
@@ -1400,6 +1398,13 @@
       "expectedBackInStockDate": "2027-10-10T04:00:00.000Z"
     },
     {
+      "drug": "ESZOPICLONE",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+    },
+    {
       "drug": "EVEROLIMUS",
       "doses": [
         "2.5MG"
@@ -1753,15 +1758,7 @@
       "doses": [
         "50MCG"
       ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-    },
-    {
-      "drug": "LATANOPROST-TIMOLOL",
-      "doses": [
-        "50MCG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-25T04:00:00.000Z"
     },
     {
       "drug": "LATANOPROST/TIMOLOL",
@@ -1786,6 +1783,13 @@
         "15MG"
       ],
       "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "drug": "LETROZOLE",
+      "doses": [
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
     },
     {
       "drug": "LEUCOVORIN",
@@ -2445,51 +2449,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "drug": "PREGNANCY MULTIVITAMIN",
-      "doses": [
-        "0.15MG",
-        "1.1MG",
-        "1.6MG",
-        "10MG",
-        "120MG",
-        "12MCG",
-        "13.8MG",
-        "15MG",
-        "20MG",
-        "2MG",
-        "3.4MG",
-        "300MG",
-        "35MG",
-        "3MG",
-        "50MG",
-        "5MG",
-        "600UNIT"
-      ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "PREGNANCY MULTIVITAMIN FOLIC 5",
-      "doses": [
-        "0.15MG",
-        "1.6MG",
-        "10MG",
-        "120MG",
-        "12MCG",
-        "13.8MG",
-        "15MG",
-        "20MG",
-        "2MG",
-        "3.4MG",
-        "300MG",
-        "35MG",
-        "3MG",
-        "50MG",
-        "5MG",
-        "600UNIT"
-      ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
       "drug": "PROCTOFOAM HC",
@@ -3172,6 +3131,13 @@
         "2.5MG"
       ],
       "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+    },
+    {
+      "drug": "ZADITOR",
+      "doses": [
+        "0.25MG"
+      ],
+      "expectedBackInStockDate": "2027-02-01T05:00:00.000Z"
     },
     {
       "drug": "ZOLEDRONIC ACID FOR INJECTION",
