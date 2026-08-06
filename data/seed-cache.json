@@ -1,5 +1,271 @@
 [
   {
+    "id": "shortage:285493",
+    "reportId": 285493,
+    "type": "shortage",
+    "brandName": "TARO-LURASIDONE",
+    "status": "active_confirmed",
+    "din": "02504537",
+    "strength": "120MG",
+    "expectedBackInStockDate": "2026-08-21T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-06T00:48:20.000Z",
+    "updateDate": "2026-08-06T00:48:20.000Z",
+    "postedDate": "2026-05-20T00:31:39.000Z"
+  },
+  {
+    "id": "shortage:289721",
+    "reportId": 289721,
+    "type": "shortage",
+    "brandName": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
+    "status": "active_confirmed",
+    "din": "02193221",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-12-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-06T00:38:48.000Z",
+    "updateDate": "2026-08-06T00:38:48.000Z",
+    "postedDate": "2026-07-22T23:36:44.000Z"
+  },
+  {
+    "id": "shortage:288796",
+    "reportId": 288796,
+    "type": "shortage",
+    "brandName": "FAMOTIDINE OMEGA  -(WITH PRESERVATIVE,BENZYL ALCOHOL)",
+    "status": "active_confirmed",
+    "din": "02247745",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T21:10:20.000Z",
+    "updateDate": "2026-08-05T21:10:20.000Z",
+    "postedDate": "2026-07-08T21:43:59.000Z"
+  },
+  {
+    "id": "shortage:284570",
+    "reportId": 284570,
+    "type": "shortage",
+    "brandName": "DILTIAZEM HYDROCHLORIDE INJECTION",
+    "status": "active_confirmed",
+    "din": "02514095",
+    "strength": "5MG",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T21:08:44.000Z",
+    "updateDate": "2026-08-05T21:08:44.000Z",
+    "postedDate": "2026-05-06T17:52:46.000Z"
+  },
+  {
+    "id": "shortage:286002",
+    "reportId": 286002,
+    "type": "shortage",
+    "brandName": "AURO-BUSPIRONE",
+    "status": "active_confirmed",
+    "din": "02500213",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-08-27T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T21:06:44.000Z",
+    "updateDate": "2026-08-05T21:06:44.000Z",
+    "postedDate": "2026-05-28T21:51:44.000Z"
+  },
+  {
+    "id": "shortage:289689",
+    "reportId": 289689,
+    "type": "shortage",
+    "brandName": "DEXAMETHASONE OMEGA UNIDOSE",
+    "status": "active_confirmed",
+    "din": "02387743",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-12-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T20:59:19.000Z",
+    "updateDate": "2026-08-05T20:59:19.000Z",
+    "postedDate": "2026-07-22T21:48:28.000Z"
+  },
+  {
+    "id": "shortage:278479",
+    "reportId": 278479,
+    "type": "shortage",
+    "brandName": "DEXAMETHASONE-OMEGA",
+    "status": "active_confirmed",
+    "din": "02204266",
+    "strength": "4MG",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T20:57:24.000Z",
+    "updateDate": "2026-08-05T20:57:24.000Z",
+    "postedDate": "2026-02-20T18:55:47.000Z"
+  },
+  {
+    "id": "shortage:275972",
+    "reportId": 275972,
+    "type": "shortage",
+    "brandName": "TOBI",
+    "status": "active_confirmed",
+    "din": "02239630",
+    "strength": "300MG",
+    "expectedBackInStockDate": "2026-08-18T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T19:55:00.000Z",
+    "updateDate": "2026-08-05T19:55:00.000Z",
+    "postedDate": "2026-01-13T23:26:23.000Z"
+  },
+  {
+    "id": "shortage:287549",
+    "reportId": 287549,
+    "type": "shortage",
+    "brandName": "LIPITOR",
+    "status": "active_confirmed",
+    "din": "02243097",
+    "strength": "80MG",
+    "expectedBackInStockDate": "2026-09-08T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T19:54:36.000Z",
+    "updateDate": "2026-08-05T19:54:36.000Z",
+    "postedDate": "2026-06-18T16:21:30.000Z"
+  },
+  {
+    "id": "shortage:288791",
+    "reportId": 288791,
+    "type": "shortage",
+    "brandName": "BUPIVACAINE HYDROCHLORIDE IN DEXTROSE INJECTION USP",
+    "status": "active_confirmed",
+    "din": "02512424",
+    "strength": "7.5MG",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T19:54:01.000Z",
+    "updateDate": "2026-08-05T19:54:01.000Z",
+    "postedDate": "2026-07-08T21:25:58.000Z"
+  },
+  {
+    "id": "shortage:290694",
+    "reportId": 290694,
+    "type": "shortage",
+    "brandName": "MYLAN-ATORVASTATIN",
+    "status": "active_confirmed",
+    "din": "02392976",
+    "strength": "80MG",
+    "expectedBackInStockDate": "2026-11-24T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T19:52:59.000Z",
+    "updateDate": "2026-08-05T19:52:59.000Z",
+    "postedDate": "2026-08-05T19:52:50.000Z"
+  },
+  {
+    "id": "shortage:286708",
+    "reportId": 286708,
+    "type": "shortage",
+    "brandName": "CLARUS",
+    "status": "active_confirmed",
+    "din": "02257955",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-08-18T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T19:51:28.000Z",
+    "updateDate": "2026-08-05T19:51:28.000Z",
+    "postedDate": "2026-06-08T22:21:36.000Z"
+  },
+  {
+    "id": "shortage:286727",
+    "reportId": 286727,
+    "type": "shortage",
+    "brandName": "CLARUS",
+    "status": "active_confirmed",
+    "din": "02257963",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-08-25T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T19:51:03.000Z",
+    "updateDate": "2026-08-05T19:51:03.000Z",
+    "postedDate": "2026-06-08T22:26:56.000Z"
+  },
+  {
+    "id": "shortage:290108",
+    "reportId": 290108,
+    "type": "shortage",
+    "brandName": "MYLAN-LATANOPROST/TIMOLOL",
+    "status": "active_confirmed",
+    "din": "02373068",
+    "strength": "50MCG\r\n5MG",
+    "expectedBackInStockDate": "2026-09-29T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T19:50:32.000Z",
+    "updateDate": "2026-08-05T19:50:32.000Z",
+    "postedDate": "2026-07-29T14:47:25.000Z"
+  },
+  {
+    "id": "shortage:286287",
+    "reportId": 286287,
+    "type": "shortage",
+    "brandName": "MYLAN-NIFEDIPINE EXTENDED RELEASE",
+    "status": "active_confirmed",
+    "din": "02349167",
+    "strength": "30MG",
+    "expectedBackInStockDate": "2026-08-05T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T19:50:02.000Z",
+    "updateDate": "2026-08-05T19:50:02.000Z",
+    "postedDate": "2026-06-04T15:50:38.000Z"
+  },
+  {
+    "id": "shortage:289574",
+    "reportId": 289574,
+    "type": "shortage",
+    "brandName": "MYLAN-NIFEDIPINE EXTENDED RELEASE",
+    "status": "active_confirmed",
+    "din": "02321149",
+    "strength": "60MG",
+    "expectedBackInStockDate": "2026-08-05T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T19:49:34.000Z",
+    "updateDate": "2026-08-05T19:49:34.000Z",
+    "postedDate": "2026-07-20T23:02:53.000Z"
+  },
+  {
+    "id": "shortage:289802",
+    "reportId": 289802,
+    "type": "shortage",
+    "brandName": "ACID CONCENTRATE D12248",
+    "status": "active_confirmed",
+    "din": "02158329",
+    "strength": "7.49G\r\n90G\r\n10.8G\r\n263G\r\n1.61G\r\n6.7G",
+    "expectedBackInStockDate": "2026-08-06T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T19:16:44.000Z",
+    "updateDate": "2026-08-05T19:16:44.000Z",
+    "postedDate": "2026-07-23T21:37:59.000Z"
+  },
+  {
+    "id": "shortage:265046",
+    "reportId": 265046,
+    "type": "shortage",
+    "brandName": "OCUFLOX",
+    "status": "active_confirmed",
+    "din": "02143291",
+    "strength": "0.3%",
+    "expectedBackInStockDate": "2026-09-04T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T17:35:46.000Z",
+    "updateDate": "2026-08-05T17:35:46.000Z",
+    "postedDate": "2025-08-12T21:18:42.000Z"
+  },
+  {
+    "id": "shortage:158393",
+    "reportId": 158393,
+    "type": "shortage",
+    "brandName": "PROCTOFOAM HC",
+    "status": "active_confirmed",
+    "din": "00363014",
+    "strength": "1%\r\n1%",
+    "expectedBackInStockDate": "2027-04-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-05T17:09:22.000Z",
+    "updateDate": "2026-08-05T17:09:22.000Z",
+    "postedDate": "2022-04-08T20:25:49.000Z"
+  },
+  {
     "id": "shortage:290593",
     "reportId": 290593,
     "type": "shortage",
@@ -910,20 +1176,6 @@
     "postedDate": "2026-06-26T16:58:32.000Z"
   },
   {
-    "id": "shortage:289821",
-    "reportId": 289821,
-    "type": "shortage",
-    "brandName": "DICLOFENAC",
-    "status": "active_confirmed",
-    "din": "02475065",
-    "strength": "0.1%",
-    "expectedBackInStockDate": "2026-08-03T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-31T16:49:21.000Z",
-    "updateDate": "2026-07-31T16:49:21.000Z",
-    "postedDate": "2026-07-23T22:26:53.000Z"
-  },
-  {
     "id": "shortage:289488",
     "reportId": 289488,
     "type": "shortage",
@@ -1288,20 +1540,6 @@
     "postedDate": "2026-01-08T23:13:36.000Z"
   },
   {
-    "id": "shortage:289171",
-    "reportId": 289171,
-    "type": "shortage",
-    "brandName": "MEZAVANT",
-    "status": "active_confirmed",
-    "din": "02297558",
-    "strength": "1.2G",
-    "expectedBackInStockDate": "2026-07-27T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-30T02:08:52.000Z",
-    "updateDate": "2026-07-30T02:08:52.000Z",
-    "postedDate": "2026-07-14T22:53:32.000Z"
-  },
-  {
     "id": "shortage:285981",
     "reportId": 285981,
     "type": "shortage",
@@ -1484,20 +1722,6 @@
     "postedDate": "2023-12-05T23:30:47.000Z"
   },
   {
-    "id": "shortage:284604",
-    "reportId": 284604,
-    "type": "shortage",
-    "brandName": "STERILE LIGHT MINERAL OIL 100%",
-    "status": "active_confirmed",
-    "din": "02203375",
-    "strength": "100%",
-    "expectedBackInStockDate": "2026-08-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T23:27:21.000Z",
-    "updateDate": "2026-07-29T23:27:21.000Z",
-    "postedDate": "2026-05-06T18:52:59.000Z"
-  },
-  {
     "id": "shortage:284578",
     "reportId": 284578,
     "type": "shortage",
@@ -1524,20 +1748,6 @@
     "updatedDate": "2026-07-29T23:08:33.000Z",
     "updateDate": "2026-07-29T23:08:33.000Z",
     "postedDate": "2026-05-06T18:07:53.000Z"
-  },
-  {
-    "id": "shortage:288796",
-    "reportId": 288796,
-    "type": "shortage",
-    "brandName": "FAMOTIDINE OMEGA  -(WITH PRESERVATIVE,BENZYL ALCOHOL)",
-    "status": "active_confirmed",
-    "din": "02247745",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T22:55:04.000Z",
-    "updateDate": "2026-07-29T22:55:04.000Z",
-    "postedDate": "2026-07-08T21:43:59.000Z"
   },
   {
     "id": "shortage:279595",
@@ -1596,20 +1806,6 @@
     "postedDate": "2026-07-16T21:42:47.000Z"
   },
   {
-    "id": "shortage:284570",
-    "reportId": 284570,
-    "type": "shortage",
-    "brandName": "DILTIAZEM HYDROCHLORIDE INJECTION",
-    "status": "active_confirmed",
-    "din": "02514095",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T22:31:36.000Z",
-    "updateDate": "2026-07-29T22:31:36.000Z",
-    "postedDate": "2026-05-06T17:52:46.000Z"
-  },
-  {
     "id": "shortage:288363",
     "reportId": 288363,
     "type": "shortage",
@@ -1638,20 +1834,6 @@
     "postedDate": "2026-05-06T17:34:19.000Z"
   },
   {
-    "id": "shortage:289689",
-    "reportId": 289689,
-    "type": "shortage",
-    "brandName": "DEXAMETHASONE OMEGA UNIDOSE",
-    "status": "active_confirmed",
-    "din": "02387743",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T21:59:43.000Z",
-    "updateDate": "2026-07-29T21:59:43.000Z",
-    "postedDate": "2026-07-22T21:48:28.000Z"
-  },
-  {
     "id": "shortage:282403",
     "reportId": 282403,
     "type": "shortage",
@@ -1664,20 +1846,6 @@
     "updatedDate": "2026-07-29T21:58:20.000Z",
     "updateDate": "2026-07-29T21:58:20.000Z",
     "postedDate": "2026-04-08T20:09:52.000Z"
-  },
-  {
-    "id": "shortage:288791",
-    "reportId": 288791,
-    "type": "shortage",
-    "brandName": "BUPIVACAINE HYDROCHLORIDE IN DEXTROSE INJECTION USP",
-    "status": "active_confirmed",
-    "din": "02512424",
-    "strength": "7.5MG",
-    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T21:26:31.000Z",
-    "updateDate": "2026-07-29T21:26:31.000Z",
-    "postedDate": "2026-07-08T21:25:58.000Z"
   },
   {
     "id": "shortage:289686",
@@ -1750,20 +1918,6 @@
     "postedDate": "2026-05-19T20:04:33.000Z"
   },
   {
-    "id": "shortage:285462",
-    "reportId": 285462,
-    "type": "shortage",
-    "brandName": "TARO-CARBAMAZEPINE",
-    "status": "active_confirmed",
-    "din": "02367394",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-08-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T18:36:12.000Z",
-    "updateDate": "2026-07-29T18:36:12.000Z",
-    "postedDate": "2026-05-19T23:02:28.000Z"
-  },
-  {
     "id": "shortage:273731",
     "reportId": 273731,
     "type": "shortage",
@@ -1792,20 +1946,6 @@
     "postedDate": "2026-05-20T00:17:29.000Z"
   },
   {
-    "id": "shortage:285493",
-    "reportId": 285493,
-    "type": "shortage",
-    "brandName": "TARO-LURASIDONE",
-    "status": "active_confirmed",
-    "din": "02504537",
-    "strength": "120MG",
-    "expectedBackInStockDate": "2026-08-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T18:24:44.000Z",
-    "updateDate": "2026-07-29T18:24:44.000Z",
-    "postedDate": "2026-05-20T00:31:39.000Z"
-  },
-  {
     "id": "shortage:281864",
     "reportId": 281864,
     "type": "shortage",
@@ -1818,20 +1958,6 @@
     "updatedDate": "2026-07-29T17:23:08.000Z",
     "updateDate": "2026-07-29T17:23:08.000Z",
     "postedDate": "2026-03-30T23:38:18.000Z"
-  },
-  {
-    "id": "shortage:290108",
-    "reportId": 290108,
-    "type": "shortage",
-    "brandName": "MYLAN-LATANOPROST/TIMOLOL",
-    "status": "active_confirmed",
-    "din": "02373068",
-    "strength": "50MCG\r\n5MG",
-    "expectedBackInStockDate": "2026-09-29T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T14:47:38.000Z",
-    "updateDate": "2026-07-29T14:47:38.000Z",
-    "postedDate": "2026-07-29T14:47:25.000Z"
   },
   {
     "id": "shortage:288573",
@@ -2000,20 +2126,6 @@
     "updatedDate": "2026-07-29T09:48:08.000Z",
     "updateDate": "2026-07-29T09:48:08.000Z",
     "postedDate": "2026-03-20T23:32:47.000Z"
-  },
-  {
-    "id": "shortage:280958",
-    "reportId": 280958,
-    "type": "shortage",
-    "brandName": "JAMP ENTECAVIR",
-    "status": "active_confirmed",
-    "din": "02467232",
-    "strength": "0.5MG",
-    "expectedBackInStockDate": "2026-08-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T09:47:10.000Z",
-    "updateDate": "2026-07-29T09:47:10.000Z",
-    "postedDate": "2026-03-20T23:16:02.000Z"
   },
   {
     "id": "shortage:280961",
@@ -2364,20 +2476,6 @@
     "updatedDate": "2026-07-25T01:13:57.000Z",
     "updateDate": "2026-07-25T01:13:57.000Z",
     "postedDate": "2026-06-12T23:44:19.000Z"
-  },
-  {
-    "id": "shortage:286002",
-    "reportId": 286002,
-    "type": "shortage",
-    "brandName": "AURO-BUSPIRONE",
-    "status": "active_confirmed",
-    "din": "02500213",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-08-27T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-24T16:49:47.000Z",
-    "updateDate": "2026-07-24T16:49:47.000Z",
-    "postedDate": "2026-05-28T21:51:44.000Z"
   },
   {
     "id": "shortage:289836",
@@ -2772,20 +2870,6 @@
     "postedDate": "2026-07-22T23:43:01.000Z"
   },
   {
-    "id": "shortage:289721",
-    "reportId": 289721,
-    "type": "shortage",
-    "brandName": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
-    "status": "active_confirmed",
-    "din": "02193221",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-22T23:37:46.000Z",
-    "updateDate": "2026-07-22T23:37:46.000Z",
-    "postedDate": "2026-07-22T23:36:44.000Z"
-  },
-  {
     "id": "shortage:289718",
     "reportId": 289718,
     "type": "shortage",
@@ -3008,20 +3092,6 @@
     "updatedDate": "2026-07-21T18:22:19.000Z",
     "updateDate": "2026-07-21T18:22:19.000Z",
     "postedDate": "2026-07-21T18:21:25.000Z"
-  },
-  {
-    "id": "shortage:288248",
-    "reportId": 288248,
-    "type": "shortage",
-    "brandName": "MYLAN-CILAZAPRIL",
-    "status": "active_confirmed",
-    "din": "02283794",
-    "strength": "5.0MG",
-    "expectedBackInStockDate": "2026-08-11T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-20T23:16:03.000Z",
-    "updateDate": "2026-07-20T23:16:03.000Z",
-    "postedDate": "2026-06-29T19:58:48.000Z"
   },
   {
     "id": "shortage:283258",
@@ -3514,20 +3584,6 @@
     "postedDate": "2026-05-19T20:14:21.000Z"
   },
   {
-    "id": "shortage:285420",
-    "reportId": 285420,
-    "type": "shortage",
-    "brandName": "TARO-WARFARIN",
-    "status": "active_confirmed",
-    "din": "02242682",
-    "strength": "2.5MG",
-    "expectedBackInStockDate": "2026-08-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-15T17:20:03.000Z",
-    "updateDate": "2026-07-15T17:20:03.000Z",
-    "postedDate": "2026-05-19T21:01:39.000Z"
-  },
-  {
     "id": "shortage:237229",
     "reportId": 237229,
     "type": "shortage",
@@ -3668,34 +3724,6 @@
     "postedDate": "2026-05-19T21:46:57.000Z"
   },
   {
-    "id": "shortage:272781",
-    "reportId": 272781,
-    "type": "shortage",
-    "brandName": "DEXAMETHASONE-OMEGA",
-    "status": "active_confirmed",
-    "din": "02204266",
-    "strength": "4MG",
-    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-14T18:28:33.000Z",
-    "updateDate": "2026-07-14T18:28:33.000Z",
-    "postedDate": "2025-11-28T03:31:50.000Z"
-  },
-  {
-    "id": "shortage:278479",
-    "reportId": 278479,
-    "type": "shortage",
-    "brandName": "DEXAMETHASONE-OMEGA",
-    "status": "active_confirmed",
-    "din": "02204266",
-    "strength": "4MG",
-    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-14T18:27:55.000Z",
-    "updateDate": "2026-07-14T18:27:55.000Z",
-    "postedDate": "2026-02-20T18:55:47.000Z"
-  },
-  {
     "id": "shortage:285487",
     "reportId": 285487,
     "type": "shortage",
@@ -3806,34 +3834,6 @@
     "updatedDate": "2026-07-13T19:56:25.000Z",
     "updateDate": "2026-07-13T19:56:25.000Z",
     "postedDate": "2026-01-05T18:07:03.000Z"
-  },
-  {
-    "id": "shortage:286727",
-    "reportId": 286727,
-    "type": "shortage",
-    "brandName": "CLARUS",
-    "status": "active_confirmed",
-    "din": "02257963",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-09-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-13T19:56:00.000Z",
-    "updateDate": "2026-07-13T19:56:00.000Z",
-    "postedDate": "2026-06-08T22:26:56.000Z"
-  },
-  {
-    "id": "shortage:286708",
-    "reportId": 286708,
-    "type": "shortage",
-    "brandName": "CLARUS",
-    "status": "active_confirmed",
-    "din": "02257955",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-09-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-13T19:55:26.000Z",
-    "updateDate": "2026-07-13T19:55:26.000Z",
-    "postedDate": "2026-06-08T22:21:36.000Z"
   },
   {
     "id": "shortage:289089",
@@ -5516,20 +5516,6 @@
     "postedDate": "2026-06-19T17:47:24.000Z"
   },
   {
-    "id": "shortage:283960",
-    "reportId": 283960,
-    "type": "shortage",
-    "brandName": "PACLITAXEL POWDER FOR INJECTABLE SUSPENSION NANOPARTICLE, ALBUMIN-BOUND PACLITAXEL",
-    "status": "active_confirmed",
-    "din": "02496097",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-07-17T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-19T16:32:35.000Z",
-    "updateDate": "2026-06-19T16:32:35.000Z",
-    "postedDate": "2026-04-30T16:25:07.000Z"
-  },
-  {
     "id": "shortage:287099",
     "reportId": 287099,
     "type": "shortage",
@@ -6594,20 +6580,6 @@
     "postedDate": "2026-01-02T20:04:01.000Z"
   },
   {
-    "id": "shortage:284613",
-    "reportId": 284613,
-    "type": "shortage",
-    "brandName": "PHENYLEPHRINE HYDROCHLORIDE INJECTION USP 1%",
-    "status": "active_confirmed",
-    "din": "02238400",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-08-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-02T22:44:47.000Z",
-    "updateDate": "2026-06-02T22:44:47.000Z",
-    "postedDate": "2026-05-06T19:22:20.000Z"
-  },
-  {
     "id": "shortage:270539",
     "reportId": 270539,
     "type": "shortage",
@@ -6620,20 +6592,6 @@
     "updatedDate": "2026-06-02T22:19:03.000Z",
     "updateDate": "2026-06-02T22:19:03.000Z",
     "postedDate": "2025-10-30T06:53:16.000Z"
-  },
-  {
-    "id": "shortage:275972",
-    "reportId": 275972,
-    "type": "shortage",
-    "brandName": "TOBI",
-    "status": "active_confirmed",
-    "din": "02239630",
-    "strength": "300MG",
-    "expectedBackInStockDate": "2026-08-11T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-02T22:10:21.000Z",
-    "updateDate": "2026-06-02T22:10:21.000Z",
-    "postedDate": "2026-01-13T23:26:23.000Z"
   },
   {
     "id": "shortage:286159",
@@ -6746,20 +6704,6 @@
     "updatedDate": "2026-05-26T21:06:51.000Z",
     "updateDate": "2026-05-26T21:06:51.000Z",
     "postedDate": "2025-12-02T23:25:20.000Z"
-  },
-  {
-    "id": "shortage:158393",
-    "reportId": 158393,
-    "type": "shortage",
-    "brandName": "PROCTOFOAM HC",
-    "status": "active_confirmed",
-    "din": "00363014",
-    "strength": "1%\r\n1%",
-    "expectedBackInStockDate": "2026-08-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-26T20:29:08.000Z",
-    "updateDate": "2026-05-26T20:29:08.000Z",
-    "postedDate": "2022-04-08T20:25:49.000Z"
   },
   {
     "id": "shortage:280851",
@@ -7194,20 +7138,6 @@
     "updatedDate": "2026-05-05T16:46:54.000Z",
     "updateDate": "2026-05-05T16:46:54.000Z",
     "postedDate": "2023-12-27T19:00:21.000Z"
-  },
-  {
-    "id": "shortage:265046",
-    "reportId": 265046,
-    "type": "shortage",
-    "brandName": "OCUFLOX",
-    "status": "active_confirmed",
-    "din": "02143291",
-    "strength": "0.3%",
-    "expectedBackInStockDate": "2026-07-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-05T16:12:22.000Z",
-    "updateDate": "2026-05-05T16:12:22.000Z",
-    "postedDate": "2025-08-12T21:18:42.000Z"
   },
   {
     "id": "shortage:264174",
