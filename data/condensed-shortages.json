@@ -1,32 +1,71 @@
 {
-  "count": 377,
-  "refreshedAt": "2026-08-05T10:29:10.083Z",
+  "count": 373,
+  "refreshedAt": "2026-08-06T10:33:11.478Z",
   "source": "github-static-seed",
   "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "ESZOPICLONE",
+      "drug": "ACID CONCENTRATE D12248",
       "doses": [
-        "1MG"
+        "1.61G",
+        "10.8G",
+        "263G",
+        "6.7G",
+        "7.49G",
+        "90G"
       ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-06T04:00:00.000Z"
     },
     {
-      "drug": "LETROZOLE",
+      "drug": "LIPITOR",
       "doses": [
-        "2.5MG"
+        "80MG"
       ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
     },
     {
-      "drug": "ZADITOR",
+      "drug": "NIFEDIPINE EXTENDED RELEASE",
       "doses": [
-        "0.25MG"
+        "30MG",
+        "60MG"
       ],
-      "expectedBackInStockDate": "2027-02-01T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-06T10:33:11.478Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "ACID CONCENTRATE D12248",
+          "doses": [
+            "1.61G",
+            "10.8G",
+            "263G",
+            "6.7G",
+            "7.49G",
+            "90G"
+          ],
+          "expectedBackInStockDate": "2026-08-06T04:00:00.000Z"
+        },
+        {
+          "drug": "LIPITOR",
+          "doses": [
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
+        },
+        {
+          "drug": "NIFEDIPINE EXTENDED RELEASE",
+          "doses": [
+            "30MG",
+            "60MG"
+          ],
+          "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-05T10:29:10.083Z",
       "addedDrugsCount": 3,
@@ -262,63 +301,6 @@
           "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-07-23T10:14:48.834Z",
-      "addedDrugsCount": 7,
-      "addedDrugs": [
-        {
-          "drug": "BENZTROPINE OMEGA",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-        },
-        {
-          "drug": "DEXAMETHASONE OMEGA UNIDOSE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-        },
-        {
-          "drug": "OCTREOTIDE ACETATE OMEGA",
-          "doses": [
-            "100MCG",
-            "500MCG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        },
-        {
-          "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE",
-          "doses": [
-            "200mEq",
-            "20mEq"
-          ],
-          "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
-        },
-        {
-          "drug": "SCOPOLAMINE HYDROBROMIDE INJECTION",
-          "doses": [
-            "0.6MG"
-          ],
-          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-        },
-        {
-          "drug": "SUTENT",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-        },
-        {
-          "drug": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -349,6 +331,18 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
+    },
+    {
+      "drug": "ACID CONCENTRATE D12248",
+      "doses": [
+        "1.61G",
+        "10.8G",
+        "263G",
+        "6.7G",
+        "7.49G",
+        "90G"
+      ],
+      "expectedBackInStockDate": "2026-08-06T04:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR OINTMENT",
@@ -739,7 +733,7 @@
       "doses": [
         "7.5MG"
       ],
-      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
       "drug": "BUPROPION XL",
@@ -809,13 +803,6 @@
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
-      "drug": "CARBAMAZEPINE",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
-    },
-    {
       "drug": "CARBAMAZEPINE CR",
       "doses": [
         "200MG"
@@ -865,13 +852,6 @@
       "expectedBackInStockDate": "2026-08-12T04:00:00.000Z"
     },
     {
-      "drug": "CILAZAPRIL",
-      "doses": [
-        "5.0MG"
-      ],
-      "expectedBackInStockDate": "2026-08-11T04:00:00.000Z"
-    },
-    {
       "drug": "CINACALCET",
       "doses": [
         "30MG",
@@ -910,7 +890,7 @@
         "10MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-18T04:00:00.000Z"
     },
     {
       "drug": "CLIMARA 25",
@@ -1103,7 +1083,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
       "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJ USP 4MG/ML",
@@ -1124,7 +1104,7 @@
       "doses": [
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "DEXTROAMPHETAMINE SR",
@@ -1177,7 +1157,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "DILTIAZEM XC",
@@ -1423,7 +1403,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "FAMOTIDINE OMEGA -(WITHOUT PRESERVATIVE)",
@@ -1840,6 +1820,13 @@
       "expectedBackInStockDate": "2027-06-15T04:00:00.000Z"
     },
     {
+      "drug": "LIPITOR",
+      "doses": [
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
+    },
+    {
       "drug": "LISDEXAMFETAMINE CAPSULES",
       "doses": [
         "10MG",
@@ -1906,7 +1893,7 @@
       "doses": [
         "120MG"
       ],
-      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
       "drug": "MED-RIVASTIGMINE",
@@ -1993,13 +1980,6 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "drug": "MEZAVANT",
-      "doses": [
-        "1.2G"
-      ],
-      "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
     },
     {
       "drug": "MIOCHOL-E",
@@ -2121,6 +2101,14 @@
       "expectedBackInStockDate": "2026-08-25T04:00:00.000Z"
     },
     {
+      "drug": "NIFEDIPINE EXTENDED RELEASE",
+      "doses": [
+        "30MG",
+        "60MG"
+      ],
+      "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
+    },
+    {
       "drug": "NORFLOXACIN",
       "doses": [
         "400MG"
@@ -2192,7 +2180,7 @@
       "doses": [
         "0.3%"
       ],
-      "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "OLANZAPINE",
@@ -2293,13 +2281,6 @@
       "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
     },
     {
-      "drug": "PACLITAXEL POWDER FOR INJECTABLE SUSPENSION NANOPARTICLE, ALBUMIN-BOUND PACLITAXEL",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
-    },
-    {
       "drug": "PANTOPRAZOLE MAGNESIUM",
       "doses": [
         "40MG"
@@ -2359,13 +2340,6 @@
         "7MG"
       ],
       "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
-    },
-    {
-      "drug": "PHENYLEPHRINE HYDROCHLORIDE INJECTION USP 1%",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-08-24T04:00:00.000Z"
     },
     {
       "drug": "PHENYTOIN SODIUM INJECTION USP",
@@ -2455,7 +2429,7 @@
       "doses": [
         "1%"
       ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-04-30T04:00:00.000Z"
     },
     {
       "drug": "PROGESTERONE",
@@ -2753,13 +2727,6 @@
       "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
     },
     {
-      "drug": "STERILE LIGHT MINERAL OIL 100%",
-      "doses": [
-        "100%"
-      ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
-    },
-    {
       "drug": "SUFENTANIL CITRATE INJECTION USP",
       "doses": [
         "50MCG"
@@ -2880,7 +2847,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
       "drug": "TICAGRELOR",
@@ -2916,7 +2883,7 @@
       "doses": [
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-08-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-18T04:00:00.000Z"
     },
     {
       "drug": "TOLTERODINE LA",
@@ -3124,13 +3091,6 @@
         "200MG"
       ],
       "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "drug": "WARFARIN",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
     },
     {
       "drug": "ZADITOR",
