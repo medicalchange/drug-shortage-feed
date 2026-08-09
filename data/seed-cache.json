@@ -3038,20 +3038,6 @@
     "postedDate": "2026-06-19T00:14:43.000Z"
   },
   {
-    "id": "shortage:289610",
-    "reportId": 289610,
-    "type": "shortage",
-    "brandName": "COVERSYL",
-    "status": "active_confirmed",
-    "din": "02246624",
-    "strength": "8MG",
-    "expectedBackInStockDate": "2026-08-05T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-27T17:36:03.000Z",
-    "updateDate": "2026-07-27T17:36:03.000Z",
-    "postedDate": "2026-07-21T16:23:23.000Z"
-  },
-  {
     "id": "shortage:288504",
     "reportId": 288504,
     "type": "shortage",
