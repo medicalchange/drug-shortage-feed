@@ -1,5 +1,19 @@
 [
   {
+    "id": "shortage:290979",
+    "reportId": 290979,
+    "type": "shortage",
+    "brandName": "LUPIN-ESTRADIOL",
+    "status": "active_confirmed",
+    "din": "02449064",
+    "strength": "2MG",
+    "expectedBackInStockDate": "2026-08-21T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-09T14:13:53.000Z",
+    "updateDate": "2026-08-09T14:13:53.000Z",
+    "postedDate": "2026-08-09T14:13:29.000Z"
+  },
+  {
     "id": "shortage:288894",
     "reportId": 288894,
     "type": "shortage",
