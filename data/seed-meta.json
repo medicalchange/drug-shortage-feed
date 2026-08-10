@@ -1,9 +1,30 @@
 {
-  "refreshedAt": "2026-08-09T08:34:39.680Z",
-  "count": 643,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-08-10T09:12:17.400Z",
+  "count": 644,
+  "addedDrugsCount": 1,
+  "addedDrugs": [
+    {
+      "drug": "LUPIN-ESTRADIOL",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-10T09:12:17.400Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "LUPIN-ESTRADIOL",
+          "doses": [
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-09T08:34:39.680Z",
       "addedDrugsCount": 0,
@@ -331,11 +352,6 @@
           "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-07-27T11:14:06.767Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
