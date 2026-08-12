@@ -1,105 +1,45 @@
 {
-  "count": 381,
-  "refreshedAt": "2026-08-11T08:47:15.716Z",
+  "count": 380,
+  "refreshedAt": "2026-08-12T09:06:37.574Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 12,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "AMLODIPINE/ATORVASTATIN",
+      "drug": "DILAUDID",
       "doses": [
-        "10MG",
-        "5MG"
+        "2MG"
       ],
-      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
     },
     {
-      "drug": "CARVEDILOL",
+      "drug": "ONDEXXYA",
       "doses": [
-        "25MG"
+        "200MG"
       ],
-      "expectedBackInStockDate": "2026-09-16T04:00:00.000Z"
-    },
-    {
-      "drug": "DIANEAL PD4 CAPD SOLUTION WITH 1.5% DEXTROSE AND 2.5MEQ/L CALCIUM",
-      "doses": [
-        "1.5G",
-        "18.3MG",
-        "448MG",
-        "5.08MG",
-        "538MG"
-      ],
-      "expectedBackInStockDate": "2026-08-12T04:00:00.000Z"
-    },
-    {
-      "drug": "DIANEAL PD4 CAPD SOLUTION WITH 2.5% DEXTROSE AND 2.5MEQ/L CALCIUM",
-      "doses": [
-        "18.3MG",
-        "2.5G",
-        "448MG",
-        "5.08MG",
-        "538MG"
-      ],
-      "expectedBackInStockDate": "2026-08-12T04:00:00.000Z"
-    },
-    {
-      "drug": "DRAX EXAMETAZIME",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "DRAXIMAGE MAA",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
-    },
-    {
-      "drug": "DRAXIMAGE MDP",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "drug": "DRAXIMAGE MDP-25",
-      "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "NIFEDIPINE ER",
-      "doses": [
-        "30MG"
-      ],
-      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
-    },
-    {
-      "drug": "PHARIXIA ALCOHOL FREE",
-      "doses": [
-        "0.15%"
-      ],
-      "expectedBackInStockDate": "2026-11-12T05:00:00.000Z"
-    },
-    {
-      "drug": "PROPAFENONE",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
-    },
-    {
-      "drug": "ZELDOX",
-      "doses": [
-        "60MG",
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-12T09:06:37.574Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "DILAUDID",
+          "doses": [
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+        },
+        {
+          "drug": "ONDEXXYA",
+          "doses": [
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-11T08:47:15.716Z",
       "addedDrugsCount": 12,
@@ -505,26 +445,6 @@
             "100UNIT"
           ],
           "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-07-29T10:33:24.918Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "APIXABAN SDZ",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-        },
-        {
-          "drug": "CARBAMAZEPINE CR",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
         }
       ]
     }
@@ -1355,6 +1275,13 @@
       "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
+      "drug": "DILAUDID",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+    },
+    {
       "drug": "DILTIAZ CD",
       "doses": [
         "180MG",
@@ -1660,13 +1587,6 @@
       "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
-      "drug": "FENTANYL CITRATE INJECTION, USP",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-07-07T04:00:00.000Z"
-    },
-    {
       "drug": "FESOTERODINE FUMARATE",
       "doses": [
         "8MG"
@@ -1920,7 +1840,7 @@
       "doses": [
         "30MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "KIT FOR THE PREPARATION OF TECHNETIUM (99MTC) PYROPHOSPHATE INJECTION",
@@ -2503,6 +2423,13 @@
       "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
+      "drug": "ONDEXXYA",
+      "doses": [
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+    },
+    {
       "drug": "OPTIMYXIN",
       "doses": [
         "0.025MG",
@@ -2981,13 +2908,6 @@
       "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
     },
     {
-      "drug": "STANNOUS DISIDA KIT",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
-    },
-    {
       "drug": "STANNOUS MAA KIT",
       "doses": [
         "2.1MG"
@@ -3191,13 +3111,6 @@
         "100MG"
       ],
       "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "drug": "TRANEXAMIC ACID INJECTION BP",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "TRAVOPROST",
