@@ -1,5 +1,159 @@
 [
   {
+    "id": "shortage:290570",
+    "reportId": 290570,
+    "type": "shortage",
+    "brandName": "LACTATED RINGER'S INJECTION",
+    "status": "active_confirmed",
+    "din": "00039470",
+    "strength": "6MG\r\n0.3MG\r\n3.1MG\r\n0.2MG",
+    "expectedBackInStockDate": "2026-08-24T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-12T23:45:47.000Z",
+    "updateDate": "2026-08-12T23:45:47.000Z",
+    "postedDate": "2026-08-04T16:17:22.000Z"
+  },
+  {
+    "id": "shortage:291248",
+    "reportId": 291248,
+    "type": "shortage",
+    "brandName": "HYDROMORPH CONTIN",
+    "status": "active_confirmed",
+    "din": "02359502",
+    "strength": "4.5MG",
+    "expectedBackInStockDate": "2026-08-26T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-12T23:38:37.000Z",
+    "updateDate": "2026-08-12T23:38:37.000Z",
+    "postedDate": "2026-08-12T23:37:25.000Z"
+  },
+  {
+    "id": "shortage:291243",
+    "reportId": 291243,
+    "type": "shortage",
+    "brandName": "ULTRATAG RBC",
+    "status": "active_confirmed",
+    "din": "02329336",
+    "strength": "20MCI",
+    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-12T23:10:05.000Z",
+    "updateDate": "2026-08-12T23:10:05.000Z",
+    "postedDate": "2026-08-12T23:08:58.000Z"
+  },
+  {
+    "id": "shortage:281864",
+    "reportId": 281864,
+    "type": "shortage",
+    "brandName": "OLANZAPINE ODT",
+    "status": "active_confirmed",
+    "din": "02352982",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-08-14T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-12T21:50:09.000Z",
+    "updateDate": "2026-08-12T21:50:09.000Z",
+    "postedDate": "2026-03-30T23:38:18.000Z"
+  },
+  {
+    "id": "shortage:286146",
+    "reportId": 286146,
+    "type": "shortage",
+    "brandName": "BOOSTRIX",
+    "status": "active_confirmed",
+    "din": "02247600",
+    "strength": "2.5MCG\r\n20UNIT\r\n8MCG\r\n8MCG\r\n2UNIT",
+    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-12T21:35:31.000Z",
+    "updateDate": "2026-08-12T21:35:31.000Z",
+    "postedDate": "2026-06-02T21:08:47.000Z"
+  },
+  {
+    "id": "shortage:289488",
+    "reportId": 289488,
+    "type": "shortage",
+    "brandName": "TRURAPI",
+    "status": "active_confirmed",
+    "din": "02506564",
+    "strength": "100UNIT",
+    "expectedBackInStockDate": "2026-08-12T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-12T20:47:11.000Z",
+    "updateDate": "2026-08-12T20:47:11.000Z",
+    "postedDate": "2026-07-17T21:36:04.000Z"
+  },
+  {
+    "id": "shortage:285859",
+    "reportId": 285859,
+    "type": "shortage",
+    "brandName": "ATORVASTATIN",
+    "status": "active_confirmed",
+    "din": "02348748",
+    "strength": "80MG",
+    "expectedBackInStockDate": "2026-09-25T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-12T19:27:19.000Z",
+    "updateDate": "2026-08-12T19:27:19.000Z",
+    "postedDate": "2026-05-25T22:16:09.000Z"
+  },
+  {
+    "id": "shortage:284575",
+    "reportId": 284575,
+    "type": "shortage",
+    "brandName": "GLYCOPYRROLATE INJECTION",
+    "status": "active_confirmed",
+    "din": "02382857",
+    "strength": "0.2MG",
+    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-12T18:12:51.000Z",
+    "updateDate": "2026-08-12T18:12:51.000Z",
+    "postedDate": "2026-05-06T18:07:53.000Z"
+  },
+  {
+    "id": "shortage:288363",
+    "reportId": 288363,
+    "type": "shortage",
+    "brandName": "DEXTROSE INJECTION",
+    "status": "active_confirmed",
+    "din": "02517132",
+    "strength": "50%",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-12T17:56:34.000Z",
+    "updateDate": "2026-08-12T17:56:34.000Z",
+    "postedDate": "2026-07-02T19:08:09.000Z"
+  },
+  {
+    "id": "shortage:289689",
+    "reportId": 289689,
+    "type": "shortage",
+    "brandName": "DEXAMETHASONE OMEGA UNIDOSE",
+    "status": "active_confirmed",
+    "din": "02387743",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-12-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-12T17:55:11.000Z",
+    "updateDate": "2026-08-12T17:55:11.000Z",
+    "postedDate": "2026-07-22T21:48:28.000Z"
+  },
+  {
+    "id": "shortage:275569",
+    "reportId": 275569,
+    "type": "shortage",
+    "brandName": "OXYTOCIN INJECTION USP",
+    "status": "active_confirmed",
+    "din": "00497398",
+    "strength": "10UNIT",
+    "expectedBackInStockDate": "2027-01-11T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-12T15:21:35.000Z",
+    "updateDate": "2026-08-12T15:21:35.000Z",
+    "postedDate": "2026-01-09T00:02:19.000Z"
+  },
+  {
     "id": "shortage:289802",
     "reportId": 289802,
     "type": "shortage",
@@ -812,20 +966,6 @@
     "postedDate": "2026-06-22T16:37:30.000Z"
   },
   {
-    "id": "shortage:288363",
-    "reportId": 288363,
-    "type": "shortage",
-    "brandName": "DEXTROSE INJECTION",
-    "status": "active_confirmed",
-    "din": "02517132",
-    "strength": "50%",
-    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-07T16:13:41.000Z",
-    "updateDate": "2026-08-07T16:13:41.000Z",
-    "postedDate": "2026-07-02T19:08:09.000Z"
-  },
-  {
     "id": "shortage:288786",
     "reportId": 288786,
     "type": "shortage",
@@ -1454,20 +1594,6 @@
     "updatedDate": "2026-08-05T21:08:44.000Z",
     "updateDate": "2026-08-05T21:08:44.000Z",
     "postedDate": "2026-05-06T17:52:46.000Z"
-  },
-  {
-    "id": "shortage:289689",
-    "reportId": 289689,
-    "type": "shortage",
-    "brandName": "DEXAMETHASONE OMEGA UNIDOSE",
-    "status": "active_confirmed",
-    "din": "02387743",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-12-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-05T20:59:19.000Z",
-    "updateDate": "2026-08-05T20:59:19.000Z",
-    "postedDate": "2026-07-22T21:48:28.000Z"
   },
   {
     "id": "shortage:278479",
@@ -2296,20 +2422,6 @@
     "postedDate": "2026-05-07T18:11:54.000Z"
   },
   {
-    "id": "shortage:289488",
-    "reportId": 289488,
-    "type": "shortage",
-    "brandName": "TRURAPI",
-    "status": "active_confirmed",
-    "din": "02506564",
-    "strength": "100UNIT",
-    "expectedBackInStockDate": "2026-08-12T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-31T00:17:03.000Z",
-    "updateDate": "2026-07-31T00:17:03.000Z",
-    "postedDate": "2026-07-17T21:36:04.000Z"
-  },
-  {
     "id": "shortage:290294",
     "reportId": 290294,
     "type": "shortage",
@@ -2632,20 +2744,6 @@
     "postedDate": "2026-06-29T17:30:55.000Z"
   },
   {
-    "id": "shortage:290196",
-    "reportId": 290196,
-    "type": "shortage",
-    "brandName": "SODIUM CHLORIDE BACTERIOSTATIC INJ",
-    "status": "active_confirmed",
-    "din": "00402249",
-    "strength": "9MG",
-    "expectedBackInStockDate": "2026-08-14T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-30T00:56:43.000Z",
-    "updateDate": "2026-07-30T00:56:43.000Z",
-    "postedDate": "2026-07-30T00:56:15.000Z"
-  },
-  {
     "id": "shortage:290183",
     "reportId": 290183,
     "type": "shortage",
@@ -2686,20 +2784,6 @@
     "updatedDate": "2026-07-30T00:19:23.000Z",
     "updateDate": "2026-07-30T00:19:23.000Z",
     "postedDate": "2023-12-05T23:30:47.000Z"
-  },
-  {
-    "id": "shortage:284575",
-    "reportId": 284575,
-    "type": "shortage",
-    "brandName": "GLYCOPYRROLATE INJECTION",
-    "status": "active_confirmed",
-    "din": "02382857",
-    "strength": "0.2MG",
-    "expectedBackInStockDate": "2026-08-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T23:08:33.000Z",
-    "updateDate": "2026-07-29T23:08:33.000Z",
-    "postedDate": "2026-05-06T18:07:53.000Z"
   },
   {
     "id": "shortage:279595",
@@ -2868,20 +2952,6 @@
     "updatedDate": "2026-07-29T18:28:16.000Z",
     "updateDate": "2026-07-29T18:28:16.000Z",
     "postedDate": "2026-05-20T00:17:29.000Z"
-  },
-  {
-    "id": "shortage:281864",
-    "reportId": 281864,
-    "type": "shortage",
-    "brandName": "OLANZAPINE ODT",
-    "status": "active_confirmed",
-    "din": "02352982",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-08-14T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T17:23:08.000Z",
-    "updateDate": "2026-07-29T17:23:08.000Z",
-    "postedDate": "2026-03-30T23:38:18.000Z"
   },
   {
     "id": "shortage:288573",
@@ -3654,20 +3724,6 @@
     "postedDate": "2026-05-25T22:30:28.000Z"
   },
   {
-    "id": "shortage:287229",
-    "reportId": 287229,
-    "type": "shortage",
-    "brandName": "SUTENT",
-    "status": "active_confirmed",
-    "din": "02280809",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-22T20:18:14.000Z",
-    "updateDate": "2026-07-22T20:18:14.000Z",
-    "postedDate": "2026-06-16T00:57:16.000Z"
-  },
-  {
     "id": "shortage:288876",
     "reportId": 288876,
     "type": "shortage",
@@ -3806,20 +3862,6 @@
     "updatedDate": "2026-07-20T23:04:36.000Z",
     "updateDate": "2026-07-20T23:04:36.000Z",
     "postedDate": "2026-05-20T18:39:53.000Z"
-  },
-  {
-    "id": "shortage:288447",
-    "reportId": 288447,
-    "type": "shortage",
-    "brandName": "EMEND IV",
-    "status": "active_confirmed",
-    "din": "02363356",
-    "strength": "150MG",
-    "expectedBackInStockDate": "2026-08-14T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-20T21:12:33.000Z",
-    "updateDate": "2026-07-20T21:12:33.000Z",
-    "postedDate": "2026-07-03T21:15:04.000Z"
   },
   {
     "id": "shortage:289556",
@@ -4422,20 +4464,6 @@
     "updatedDate": "2026-07-11T01:35:17.000Z",
     "updateDate": "2026-07-11T01:35:17.000Z",
     "postedDate": "2026-06-04T22:22:56.000Z"
-  },
-  {
-    "id": "shortage:286223",
-    "reportId": 286223,
-    "type": "shortage",
-    "brandName": "VISIONBLUE",
-    "status": "active_confirmed",
-    "din": "02279525",
-    "strength": "0.06%",
-    "expectedBackInStockDate": "2026-07-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-10T00:52:59.000Z",
-    "updateDate": "2026-07-10T00:52:59.000Z",
-    "postedDate": "2026-06-03T18:51:22.000Z"
   },
   {
     "id": "shortage:286410",
@@ -5782,20 +5810,6 @@
     "postedDate": "2026-06-04T22:20:22.000Z"
   },
   {
-    "id": "shortage:286807",
-    "reportId": 286807,
-    "type": "shortage",
-    "brandName": "TEMODAL",
-    "status": "active_confirmed",
-    "din": "02312794",
-    "strength": "140MG",
-    "expectedBackInStockDate": "2026-06-26T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-19T19:28:49.000Z",
-    "updateDate": "2026-06-19T19:28:49.000Z",
-    "postedDate": "2026-06-09T18:19:42.000Z"
-  },
-  {
     "id": "shortage:287702",
     "reportId": 287702,
     "type": "shortage",
@@ -6844,20 +6858,6 @@
     "updatedDate": "2026-06-02T22:19:03.000Z",
     "updateDate": "2026-06-02T22:19:03.000Z",
     "postedDate": "2025-10-30T06:53:16.000Z"
-  },
-  {
-    "id": "shortage:286146",
-    "reportId": 286146,
-    "type": "shortage",
-    "brandName": "BOOSTRIX",
-    "status": "active_confirmed",
-    "din": "02247600",
-    "strength": "2.5MCG\r\n20UNIT\r\n8MCG\r\n8MCG\r\n2UNIT",
-    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-02T21:10:43.000Z",
-    "updateDate": "2026-06-02T21:10:43.000Z",
-    "postedDate": "2026-06-02T21:08:47.000Z"
   },
   {
     "id": "shortage:283116",
@@ -8426,20 +8426,6 @@
     "updatedDate": "2026-02-06T01:13:08.000Z",
     "updateDate": "2026-02-06T01:13:08.000Z",
     "postedDate": "2025-08-29T19:00:10.000Z"
-  },
-  {
-    "id": "shortage:207103",
-    "reportId": 207103,
-    "type": "shortage",
-    "brandName": "PMS-LITHIUM CARBONATE - CAP 300MG",
-    "status": "active_confirmed",
-    "din": "02216140",
-    "strength": "300MG",
-    "expectedBackInStockDate": "2027-01-01T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-02T18:59:03.000Z",
-    "updateDate": "2026-02-02T18:59:03.000Z",
-    "postedDate": "2023-10-16T18:56:28.000Z"
   },
   {
     "id": "shortage:274847",

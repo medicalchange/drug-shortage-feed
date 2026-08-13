@@ -1,25 +1,79 @@
 {
-  "count": 380,
-  "refreshedAt": "2026-08-12T09:06:37.574Z",
+  "count": 378,
+  "refreshedAt": "2026-08-13T09:06:06.798Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "DILAUDID",
+      "drug": "HYDROMORPH CONTIN",
       "doses": [
-        "2MG"
+        "4.5MG"
       ],
-      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-26T04:00:00.000Z"
     },
     {
-      "drug": "ONDEXXYA",
+      "drug": "LACTATED RINGER'S INJECTION",
       "doses": [
-        "200MG"
+        "0.2MG",
+        "0.3MG",
+        "3.1MG",
+        "6MG"
       ],
-      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-24T04:00:00.000Z"
+    },
+    {
+      "drug": "OXYTOCIN INJECTION USP",
+      "doses": [
+        "10UNIT"
+      ],
+      "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
+    },
+    {
+      "drug": "ULTRATAG RBC",
+      "doses": [
+        "20MCI"
+      ],
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-13T09:06:06.798Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "HYDROMORPH CONTIN",
+          "doses": [
+            "4.5MG"
+          ],
+          "expectedBackInStockDate": "2026-08-26T04:00:00.000Z"
+        },
+        {
+          "drug": "LACTATED RINGER'S INJECTION",
+          "doses": [
+            "0.2MG",
+            "0.3MG",
+            "3.1MG",
+            "6MG"
+          ],
+          "expectedBackInStockDate": "2026-08-24T04:00:00.000Z"
+        },
+        {
+          "drug": "OXYTOCIN INJECTION USP",
+          "doses": [
+            "10UNIT"
+          ],
+          "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
+        },
+        {
+          "drug": "ULTRATAG RBC",
+          "doses": [
+            "20MCI"
+          ],
+          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-12T09:06:37.574Z",
       "addedDrugsCount": 2,
@@ -404,47 +458,6 @@
             "50MG"
           ],
           "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-07-30T10:18:35.402Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "LORAZEPAM SUBLINGUAL",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
-        },
-        {
-          "drug": "MEZAVANT",
-          "doses": [
-            "1.2G"
-          ],
-          "expectedBackInStockDate": "2026-07-27T04:00:00.000Z"
-        },
-        {
-          "drug": "SODIUM CHLORIDE BACTERIOSTATIC INJ",
-          "doses": [
-            "9MG"
-          ],
-          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-        },
-        {
-          "drug": "TETRACYCLINE",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-        },
-        {
-          "drug": "TRURAPI",
-          "doses": [
-            "100UNIT"
-          ],
-          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
         }
       ]
     }
@@ -1462,13 +1475,6 @@
       "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
     },
     {
-      "drug": "EMEND IV",
-      "doses": [
-        "150MG"
-      ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-    },
-    {
       "drug": "ENALAPRILAT INJECTION USP",
       "doses": [
         "1.25MG"
@@ -1670,7 +1676,7 @@
       "doses": [
         "0.2MG"
       ],
-      "expectedBackInStockDate": "2026-08-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     },
     {
       "drug": "GUANFACINE XR",
@@ -1711,6 +1717,13 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPH CONTIN",
+      "doses": [
+        "4.5MG"
+      ],
+      "expectedBackInStockDate": "2026-08-26T04:00:00.000Z"
     },
     {
       "drug": "HYDROMORPHONE",
@@ -1864,6 +1877,16 @@
       "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
     },
     {
+      "drug": "LACTATED RINGER'S INJECTION",
+      "doses": [
+        "0.2MG",
+        "0.3MG",
+        "3.1MG",
+        "6MG"
+      ],
+      "expectedBackInStockDate": "2026-08-24T04:00:00.000Z"
+    },
+    {
       "drug": "LAMIVUDINE HBV",
       "doses": [
         "100MG"
@@ -1988,13 +2011,6 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
-    },
-    {
-      "drug": "LITHIUM CARBONATE - CAP 300MG",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2027-01-01T05:00:00.000Z"
     },
     {
       "drug": "LONITEN 10MG",
@@ -2469,6 +2485,13 @@
       "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
     },
     {
+      "drug": "OXYTOCIN INJECTION USP",
+      "doses": [
+        "10UNIT"
+      ],
+      "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
+    },
+    {
       "drug": "PANTOPRAZOLE",
       "doses": [
         "40MG"
@@ -2865,13 +2888,6 @@
       "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
     {
-      "drug": "SODIUM CHLORIDE BACTERIOSTATIC INJ",
-      "doses": [
-        "9MG"
-      ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-    },
-    {
       "drug": "SODIUM POLYSTYRENE SULFONATE",
       "doses": [
         "1G"
@@ -2943,13 +2959,6 @@
       "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     },
     {
-      "drug": "SUTENT",
-      "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-    },
-    {
       "drug": "TADALAFIL",
       "doses": [
         "20MG"
@@ -2998,13 +3007,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
-    },
-    {
-      "drug": "TEMODAL",
-      "doses": [
-        "140MG"
-      ],
-      "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
     {
       "drug": "TEMOZOLOMIDE",
@@ -3185,6 +3187,13 @@
       "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
     },
     {
+      "drug": "ULTRATAG RBC",
+      "doses": [
+        "20MCI"
+      ],
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+    },
+    {
       "drug": "UROMITEXAN",
       "doses": [
         "100MG"
@@ -3266,13 +3275,6 @@
         "10MG"
       ],
       "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "drug": "VISIONBLUE",
-      "doses": [
-        "0.06%"
-      ],
-      "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
       "drug": "VISUDYNE",
