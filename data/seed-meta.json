@@ -1,41 +1,86 @@
 {
-  "refreshedAt": "2026-08-13T09:06:06.798Z",
-  "count": 648,
-  "addedDrugsCount": 4,
+  "refreshedAt": "2026-08-14T09:03:07.573Z",
+  "count": 653,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "HYDROMORPH CONTIN",
+      "drug": "CABERGOLINE",
       "doses": [
-        "4.5MG"
+        "0.5MG"
       ],
-      "expectedBackInStockDate": "2026-08-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
-      "drug": "LACTATED RINGER'S INJECTION",
+      "drug": "DOXY-TABS",
       "doses": [
-        "0.2MG",
-        "0.3MG",
-        "3.1MG",
-        "6MG"
+        "100MG"
       ],
-      "expectedBackInStockDate": "2026-08-24T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
-      "drug": "OXYTOCIN INJECTION USP",
+      "drug": "METHOPRAZINE",
       "doses": [
-        "10UNIT"
+        "50MG"
       ],
-      "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
-      "drug": "ULTRATAG RBC",
+      "drug": "METHYLPHENIDATE",
       "doses": [
-        "20MCI"
+        "10MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "drug": "TERIPARATIDE INJECTION",
+      "doses": [
+        "250MCG"
+      ],
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-14T09:03:07.573Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "CABERGOLINE",
+          "doses": [
+            "0.5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        },
+        {
+          "drug": "DOXY-TABS",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        },
+        {
+          "drug": "METHOPRAZINE",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+        },
+        {
+          "drug": "METHYLPHENIDATE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        },
+        {
+          "drug": "TERIPARATIDE INJECTION",
+          "doses": [
+            "250MCG"
+          ],
+          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-13T09:06:06.798Z",
       "addedDrugsCount": 4,
@@ -430,33 +475,6 @@
             "20MG"
           ],
           "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-07-31T10:31:59.511Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "ABACAVIR",
-          "doses": [
-            "300MG"
-          ],
-          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
-        },
-        {
-          "drug": "APIDRA",
-          "doses": [
-            "100UNIT"
-          ],
-          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-        },
-        {
-          "drug": "TRAZODONE TABLETS 50MG",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
         }
       ]
     }
