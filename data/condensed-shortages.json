@@ -1,46 +1,33 @@
 {
   "count": 379,
-  "refreshedAt": "2026-08-14T09:03:07.573Z",
+  "refreshedAt": "2026-08-15T08:20:16.098Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 5,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "CABERGOLINE",
+      "drug": "VIMOVO",
       "doses": [
-        "0.5MG"
+        "20MG",
+        "375MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "drug": "DOXY-TABS",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "drug": "METHOPRAZINE",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-    },
-    {
-      "drug": "METHYLPHENIDATE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-    },
-    {
-      "drug": "TERIPARATIDE INJECTION",
-      "doses": [
-        "250MCG"
-      ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-15T08:20:16.098Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "VIMOVO",
+          "doses": [
+            "20MG",
+            "375MG"
+          ],
+          "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-14T09:03:07.573Z",
       "addedDrugsCount": 5,
@@ -422,62 +409,6 @@
       "refreshedAt": "2026-08-02T09:51:12.083Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-08-01T09:52:58.478Z",
-      "addedDrugsCount": 7,
-      "addedDrugs": [
-        {
-          "drug": "ADMELOG SOLOSTAR",
-          "doses": [
-            "100UNIT"
-          ],
-          "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
-        },
-        {
-          "drug": "FEMYSO",
-          "doses": [
-            "200MCG",
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-        },
-        {
-          "drug": "PRALUENT",
-          "doses": [
-            "300MG"
-          ],
-          "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
-        },
-        {
-          "drug": "STANNOUS DISIDA KIT",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
-        },
-        {
-          "drug": "STANNOUS MAA KIT",
-          "doses": [
-            "2.1MG"
-          ],
-          "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
-        },
-        {
-          "drug": "STANNOUS MDP KIT",
-          "doses": [
-            "15MG"
-          ],
-          "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
-        },
-        {
-          "drug": "STANNOUS PYP KIT",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-09-23T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -868,7 +799,7 @@
         "0.2%",
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
       "drug": "BRIMONIDINE/TIMOLOL",
@@ -1857,14 +1788,14 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
       "drug": "KENALOG-40 INJECTION",
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
       "drug": "KETOROLAC",
@@ -2144,7 +2075,7 @@
         "10MG",
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
       "drug": "METHOPRAZINE",
@@ -2226,13 +2157,6 @@
         "10MG"
       ],
       "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-    },
-    {
-      "drug": "MORPHINE SR",
-      "doses": [
-        "30MG"
-      ],
-      "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
     },
     {
       "drug": "MOXIFLOXACIN",
@@ -2438,7 +2362,7 @@
       "doses": [
         "518MG"
       ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
     },
     {
       "drug": "ONDANSETRON",
@@ -2694,7 +2618,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
       "drug": "PROPAFENONE",
@@ -3300,6 +3224,14 @@
         "10MG"
       ],
       "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "drug": "VIMOVO",
+      "doses": [
+        "20MG",
+        "375MG"
+      ],
+      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
     },
     {
       "drug": "VISUDYNE",
