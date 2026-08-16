@@ -1,19 +1,15 @@
 {
   "count": 379,
-  "refreshedAt": "2026-08-15T08:20:16.098Z",
+  "refreshedAt": "2026-08-16T08:21:00.317Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "VIMOVO",
-      "doses": [
-        "20MG",
-        "375MG"
-      ],
-      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-16T08:21:00.317Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-08-15T08:20:16.098Z",
       "addedDrugsCount": 1,
@@ -402,11 +398,6 @@
     },
     {
       "refreshedAt": "2026-08-03T11:16:19.832Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-08-02T09:51:12.083Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
