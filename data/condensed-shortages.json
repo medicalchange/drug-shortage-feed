@@ -1,10 +1,193 @@
 {
-  "count": 379,
-  "refreshedAt": "2026-08-17T08:36:09.196Z",
+  "count": 386,
+  "refreshedAt": "2026-08-18T08:28:23.318Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 12,
+  "addedDrugs": [
+    {
+      "drug": "ADMELOG SOLOSTAR",
+      "doses": [
+        "100UNIT"
+      ],
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "drug": "ESTRADOT 100",
+      "doses": [
+        "100MCG"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "LISDEXAMFETAMINE CHEWABLE TABLETS",
+      "doses": [
+        "60MG"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "drug": "MYOZYME",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-08-25T04:00:00.000Z"
+    },
+    {
+      "drug": "NYADERM",
+      "doses": [
+        "100000UNIT"
+      ],
+      "expectedBackInStockDate": "2027-03-26T04:00:00.000Z"
+    },
+    {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "0.5G",
+        "4G"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "drug": "SITAGLIPTIN FUMARATE",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "drug": "TECTA",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-09-21T04:00:00.000Z"
+    },
+    {
+      "drug": "TENOFOVIR",
+      "doses": [
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-10-01T04:00:00.000Z"
+    },
+    {
+      "drug": "TESTOSTERONE GEL",
+      "doses": [
+        "1%"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "drug": "VIADERM KC CRM",
+      "doses": [
+        "0.25MG",
+        "100000UNIT",
+        "1MG",
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "drug": "ZOLEDRONIC ACID CONCENTRATE",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-18T08:28:23.318Z",
+      "addedDrugsCount": 12,
+      "addedDrugs": [
+        {
+          "drug": "ADMELOG SOLOSTAR",
+          "doses": [
+            "100UNIT"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        },
+        {
+          "drug": "ESTRADOT 100",
+          "doses": [
+            "100MCG"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "LISDEXAMFETAMINE CHEWABLE TABLETS",
+          "doses": [
+            "60MG"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        },
+        {
+          "drug": "MYOZYME",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-08-25T04:00:00.000Z"
+        },
+        {
+          "drug": "NYADERM",
+          "doses": [
+            "100000UNIT"
+          ],
+          "expectedBackInStockDate": "2027-03-26T04:00:00.000Z"
+        },
+        {
+          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+          "doses": [
+            "0.5G",
+            "4G"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        },
+        {
+          "drug": "SITAGLIPTIN FUMARATE",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+        },
+        {
+          "drug": "TECTA",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-09-21T04:00:00.000Z"
+        },
+        {
+          "drug": "TENOFOVIR",
+          "doses": [
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-10-01T04:00:00.000Z"
+        },
+        {
+          "drug": "TESTOSTERONE GEL",
+          "doses": [
+            "1%"
+          ],
+          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+        },
+        {
+          "drug": "VIADERM KC CRM",
+          "doses": [
+            "0.25MG",
+            "100000UNIT",
+            "1MG",
+            "2.5MG"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        },
+        {
+          "drug": "ZOLEDRONIC ACID CONCENTRATE",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-17T08:36:09.196Z",
       "addedDrugsCount": 0,
@@ -386,20 +569,6 @@
           "expectedBackInStockDate": "2027-02-01T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-08-04T10:30:58.544Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "DORZOLAMIDE/TIMOLOL",
-          "doses": [
-            "20MG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -456,6 +625,13 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-07-02T04:00:00.000Z"
+    },
+    {
+      "drug": "ADMELOG SOLOSTAR",
+      "doses": [
+        "100UNIT"
+      ],
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "ALENDRONATE",
@@ -676,14 +852,6 @@
       "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
     },
     {
-      "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
-      "doses": [
-        "1%",
-        "5%"
-      ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
-    },
-    {
       "drug": "BENZTROPINE OMEGA",
       "doses": [
         "1MG"
@@ -729,13 +897,6 @@
         "8MCG"
       ],
       "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-    },
-    {
-      "drug": "BORTEZOMIB",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "BOSENTAN",
@@ -877,7 +1038,7 @@
       "doses": [
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
       "drug": "CANDESARTAN HCT",
@@ -953,7 +1114,7 @@
         "500MG",
         "750MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "CIPROFLOXACIN/DEXAMETHASONE",
@@ -997,14 +1158,7 @@
       "doses": [
         "0.05%"
       ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "drug": "CLOBETASOL TOPICAL SOLUTION USP, 0.05%",
-      "doses": [
-        "0.05%"
-      ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "CLOPIDOGREL",
@@ -1019,7 +1173,7 @@
       "doses": [
         "1%"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "CLOXACILLIN FOR INJECTION",
@@ -1078,7 +1232,7 @@
         "0.035MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
       "drug": "DABIGATRAN",
@@ -1139,7 +1293,7 @@
         "100MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "DETROL LA",
@@ -1392,13 +1546,6 @@
       "expectedBackInStockDate": "2026-07-13T04:00:00.000Z"
     },
     {
-      "drug": "DUTASTERIDE",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-08-01T04:00:00.000Z"
-    },
-    {
       "drug": "EDOXABAN",
       "doses": [
         "30MG"
@@ -1495,6 +1642,13 @@
         "40MG"
       ],
       "expectedBackInStockDate": "2027-10-10T04:00:00.000Z"
+    },
+    {
+      "drug": "ESTRADOT 100",
+      "doses": [
+        "100MCG"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "ESZOPICLONE",
@@ -1875,9 +2029,10 @@
       "drug": "LENALIDOMIDE",
       "doses": [
         "10MG",
-        "15MG"
+        "15MG",
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
     {
       "drug": "LETROZOLE",
@@ -1951,6 +2106,13 @@
       "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
     {
+      "drug": "LISDEXAMFETAMINE CHEWABLE TABLETS",
+      "doses": [
+        "60MG"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    },
+    {
       "drug": "LISINOPRIL",
       "doses": [
         "10MG",
@@ -2006,9 +2168,10 @@
     {
       "drug": "LURASIDONE",
       "doses": [
-        "120MG"
+        "120MG",
+        "40MG"
       ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "MED-RIVASTIGMINE",
@@ -2051,7 +2214,7 @@
         "1MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-09-07T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-24T04:00:00.000Z"
     },
     {
       "drug": "METFORMIN ER",
@@ -2162,6 +2325,13 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+    },
+    {
+      "drug": "MYOZYME",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-08-25T04:00:00.000Z"
     },
     {
       "drug": "NADOLOL",
@@ -2282,6 +2452,13 @@
         "8.408G"
       ],
       "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "drug": "NYADERM",
+      "doses": [
+        "100000UNIT"
+      ],
+      "expectedBackInStockDate": "2027-03-26T04:00:00.000Z"
     },
     {
       "drug": "OCTREOTIDE ACETATE OMEGA",
@@ -2514,6 +2691,14 @@
       "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
     },
     {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "0.5G",
+        "4G"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    },
+    {
       "drug": "PIRFENIDONE TABLETS",
       "doses": [
         "801MG"
@@ -2535,13 +2720,6 @@
         "20mEq"
       ],
       "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
-    },
-    {
-      "drug": "PRALUENT",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
     {
       "drug": "PRAMIPEXOLE",
@@ -2588,7 +2766,7 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "PRO-DILTIAZEM CD",
@@ -2689,7 +2867,7 @@
         "10MG",
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "RASAGILINE",
@@ -2809,6 +2987,13 @@
       "expectedBackInStockDate": "2027-01-07T05:00:00.000Z"
     },
     {
+      "drug": "SITAGLIPTIN FUMARATE",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
       "drug": "SITAGLIPTIN MALATE / METFORMIN",
       "doses": [
         "1000MG",
@@ -2903,7 +3088,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "TAMSULOSIN",
@@ -2949,6 +3134,13 @@
       "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
     },
     {
+      "drug": "TECTA",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-09-21T04:00:00.000Z"
+    },
+    {
       "drug": "TEMOZOLOMIDE",
       "doses": [
         "100MG",
@@ -2957,6 +3149,13 @@
         "250MG"
       ],
       "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "drug": "TENOFOVIR",
+      "doses": [
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-10-01T04:00:00.000Z"
     },
     {
       "drug": "TERAZOSIN",
@@ -2985,6 +3184,13 @@
         "250MCG"
       ],
       "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "drug": "TESTOSTERONE GEL",
+      "doses": [
+        "1%"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "TETRACYCLINE",
@@ -3165,9 +3371,10 @@
     {
       "drug": "VALSARTAN",
       "doses": [
+        "160MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "VALSARTAN HCT",
@@ -3208,6 +3415,16 @@
         "75MG"
       ],
       "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
+    },
+    {
+      "drug": "VIADERM KC CRM",
+      "doses": [
+        "0.25MG",
+        "100000UNIT",
+        "1MG",
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "VILAZODONE",
@@ -3252,6 +3469,13 @@
         "80MG"
       ],
       "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "drug": "ZOLEDRONIC ACID CONCENTRATE",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "ZOLEDRONIC ACID FOR INJECTION",
