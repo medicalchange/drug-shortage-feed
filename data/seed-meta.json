@@ -1,39 +1,74 @@
 {
-  "refreshedAt": "2026-08-19T08:28:56.529Z",
+  "refreshedAt": "2026-08-20T08:30:25.367Z",
   "count": 669,
   "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "ANDROGEL",
+      "drug": "APIXABAN",
       "doses": [
-        "1%"
+        "2.5MG"
       ],
-      "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
-      "drug": "CIPROFLOXACIN",
+      "drug": "AVENTYL",
       "doses": [
-        "250MG"
+        "10MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
-      "drug": "DUAVIVE",
+      "drug": "JANUMET XR",
       "doses": [
-        "0.45MG",
-        "20MG"
+        "1000MG",
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
-      "drug": "LANCORA",
+      "drug": "RESTORIL",
       "doses": [
-        "7.5MG"
+        "15MG"
       ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-20T08:30:25.367Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "APIXABAN",
+          "doses": [
+            "2.5MG"
+          ],
+          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+        },
+        {
+          "drug": "AVENTYL",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        },
+        {
+          "drug": "JANUMET XR",
+          "doses": [
+            "1000MG",
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+        },
+        {
+          "drug": "RESTORIL",
+          "doses": [
+            "15MG"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-19T08:28:56.529Z",
       "addedDrugsCount": 4,
@@ -482,39 +517,6 @@
             "10MG"
           ],
           "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-08-06T10:33:11.478Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "ACID CONCENTRATE D12248",
-          "doses": [
-            "1.61G",
-            "10.8G",
-            "263G",
-            "6.7G",
-            "7.49G",
-            "90G"
-          ],
-          "expectedBackInStockDate": "2026-08-06T04:00:00.000Z"
-        },
-        {
-          "drug": "LIPITOR",
-          "doses": [
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
-        },
-        {
-          "drug": "NIFEDIPINE EXTENDED RELEASE",
-          "doses": [
-            "30MG",
-            "60MG"
-          ],
-          "expectedBackInStockDate": "2026-08-05T04:00:00.000Z"
         }
       ]
     }
