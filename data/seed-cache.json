@@ -1,5 +1,75 @@
 [
   {
+    "id": "shortage:291243",
+    "reportId": 291243,
+    "type": "shortage",
+    "brandName": "ULTRATAG RBC",
+    "status": "active_confirmed",
+    "din": "02329336",
+    "strength": "20MCI",
+    "expectedBackInStockDate": "2026-08-19T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-21T01:21:27.000Z",
+    "updateDate": "2026-08-21T01:21:27.000Z",
+    "postedDate": "2026-08-12T23:08:58.000Z"
+  },
+  {
+    "id": "shortage:287682",
+    "reportId": 287682,
+    "type": "shortage",
+    "brandName": "NEXVIAZYME",
+    "status": "active_confirmed",
+    "din": "02522365",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-09-21T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-21T00:00:16.000Z",
+    "updateDate": "2026-08-21T00:00:16.000Z",
+    "postedDate": "2026-06-19T00:14:43.000Z"
+  },
+  {
+    "id": "shortage:291229",
+    "reportId": 291229,
+    "type": "shortage",
+    "brandName": "VIMPAT",
+    "status": "active_confirmed",
+    "din": "02357658",
+    "strength": "200MG",
+    "expectedBackInStockDate": "2026-09-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-20T19:50:51.000Z",
+    "updateDate": "2026-08-20T19:50:51.000Z",
+    "postedDate": "2026-08-12T21:03:06.000Z"
+  },
+  {
+    "id": "shortage:286874",
+    "reportId": 286874,
+    "type": "shortage",
+    "brandName": "OMNIPAQUE 240",
+    "status": "active_confirmed",
+    "din": "02172739",
+    "strength": "518MG",
+    "expectedBackInStockDate": "2026-08-20T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-20T18:41:48.000Z",
+    "updateDate": "2026-08-20T18:41:48.000Z",
+    "postedDate": "2026-06-11T17:37:02.000Z"
+  },
+  {
+    "id": "shortage:290630",
+    "reportId": 290630,
+    "type": "shortage",
+    "brandName": "GABAPENTIN",
+    "status": "active_confirmed",
+    "din": "02353261",
+    "strength": "400MG",
+    "expectedBackInStockDate": "2026-09-18T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-08-20T15:16:46.000Z",
+    "updateDate": "2026-08-20T15:16:46.000Z",
+    "postedDate": "2026-08-05T17:10:54.000Z"
+  },
+  {
     "id": "shortage:291719",
     "reportId": 291719,
     "type": "shortage",
@@ -1106,20 +1176,6 @@
     "postedDate": "2026-05-29T19:27:26.000Z"
   },
   {
-    "id": "shortage:286874",
-    "reportId": 286874,
-    "type": "shortage",
-    "brandName": "OMNIPAQUE 240",
-    "status": "active_confirmed",
-    "din": "02172739",
-    "strength": "518MG",
-    "expectedBackInStockDate": "2026-08-20T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-14T16:36:31.000Z",
-    "updateDate": "2026-08-14T16:36:31.000Z",
-    "postedDate": "2026-06-11T17:37:02.000Z"
-  },
-  {
     "id": "shortage:291370",
     "reportId": 291370,
     "type": "shortage",
@@ -1526,20 +1582,6 @@
     "postedDate": "2026-08-12T23:37:25.000Z"
   },
   {
-    "id": "shortage:291243",
-    "reportId": 291243,
-    "type": "shortage",
-    "brandName": "ULTRATAG RBC",
-    "status": "active_confirmed",
-    "din": "02329336",
-    "strength": "20MCI",
-    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-12T23:10:05.000Z",
-    "updateDate": "2026-08-12T23:10:05.000Z",
-    "postedDate": "2026-08-12T23:08:58.000Z"
-  },
-  {
     "id": "shortage:286146",
     "reportId": 286146,
     "type": "shortage",
@@ -1610,62 +1652,6 @@
     "postedDate": "2026-07-22T21:48:28.000Z"
   },
   {
-    "id": "shortage:289802",
-    "reportId": 289802,
-    "type": "shortage",
-    "brandName": "ACID CONCENTRATE D12248",
-    "status": "active_confirmed",
-    "din": "02158329",
-    "strength": "7.49G\r\n90G\r\n10.8G\r\n263G\r\n1.61G\r\n6.7G",
-    "expectedBackInStockDate": "2026-08-06T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-12T01:19:16.000Z",
-    "updateDate": "2026-08-12T01:19:16.000Z",
-    "postedDate": "2026-07-23T21:37:59.000Z"
-  },
-  {
-    "id": "shortage:291150",
-    "reportId": 291150,
-    "type": "shortage",
-    "brandName": "DIANEAL PD4 CAPD SOLUTION WITH 2.5% DEXTROSE AND 2.5MEQ/L CALCIUM",
-    "status": "active_confirmed",
-    "din": "00865109",
-    "strength": "538MG\r\n2.5G\r\n5.08MG\r\n18.3MG\r\n448MG",
-    "expectedBackInStockDate": "2026-08-12T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-12T01:18:04.000Z",
-    "updateDate": "2026-08-12T01:18:04.000Z",
-    "postedDate": "2026-08-11T00:59:00.000Z"
-  },
-  {
-    "id": "shortage:291156",
-    "reportId": 291156,
-    "type": "shortage",
-    "brandName": "DIANEAL PD4 CAPD SOLUTION WITH 1.5% DEXTROSE AND 2.5MEQ/L CALCIUM",
-    "status": "active_confirmed",
-    "din": "00865095",
-    "strength": "448MG\r\n18.3MG\r\n538MG\r\n1.5G\r\n5.08MG",
-    "expectedBackInStockDate": "2026-08-12T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-12T01:17:27.000Z",
-    "updateDate": "2026-08-12T01:17:27.000Z",
-    "postedDate": "2026-08-11T01:15:31.000Z"
-  },
-  {
-    "id": "shortage:291153",
-    "reportId": 291153,
-    "type": "shortage",
-    "brandName": "DIANEAL PD4 CAPD SOLUTION WITH 1.5% DEXTROSE AND 2.5MEQ/L CALCIUM",
-    "status": "active_confirmed",
-    "din": "00865095",
-    "strength": "448MG\r\n18.3MG\r\n538MG\r\n1.5G\r\n5.08MG",
-    "expectedBackInStockDate": "2026-08-12T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-12T01:16:46.000Z",
-    "updateDate": "2026-08-12T01:16:46.000Z",
-    "postedDate": "2026-08-11T01:11:58.000Z"
-  },
-  {
     "id": "shortage:280630",
     "reportId": 280630,
     "type": "shortage",
@@ -1692,20 +1678,6 @@
     "updatedDate": "2026-08-11T19:47:58.000Z",
     "updateDate": "2026-08-11T19:47:58.000Z",
     "postedDate": "2026-08-11T19:47:27.000Z"
-  },
-  {
-    "id": "shortage:291159",
-    "reportId": 291159,
-    "type": "shortage",
-    "brandName": "ONDEXXYA",
-    "status": "active_confirmed",
-    "din": "02538539",
-    "strength": "200MG",
-    "expectedBackInStockDate": "2026-08-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-11T17:13:07.000Z",
-    "updateDate": "2026-08-11T17:13:07.000Z",
-    "postedDate": "2026-08-11T17:07:18.000Z"
   },
   {
     "id": "shortage:291141",
@@ -4324,20 +4296,6 @@
     "updatedDate": "2026-07-28T02:02:40.000Z",
     "updateDate": "2026-07-28T02:02:40.000Z",
     "postedDate": "2025-11-18T01:11:19.000Z"
-  },
-  {
-    "id": "shortage:287682",
-    "reportId": 287682,
-    "type": "shortage",
-    "brandName": "NEXVIAZYME",
-    "status": "active_confirmed",
-    "din": "02522365",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-08-25T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-27T23:09:01.000Z",
-    "updateDate": "2026-07-27T23:09:01.000Z",
-    "postedDate": "2026-06-19T00:14:43.000Z"
   },
   {
     "id": "shortage:288504",
