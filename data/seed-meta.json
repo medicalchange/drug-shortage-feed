@@ -1,17 +1,90 @@
 {
-  "refreshedAt": "2026-08-21T08:32:37.049Z",
+  "refreshedAt": "2026-08-22T08:20:44.622Z",
   "count": 666,
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "VIMPAT",
+      "drug": "ALENDRONATE/VITAMIN D3",
       "doses": [
-        "200MG"
+        "5600UNIT",
+        "70MG"
       ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "FLUOXETINE",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "drug": "HYZAAR DS",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "drug": "OXCARBAZEPINE",
+      "doses": [
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "TRANEXAMIC ACID TABLETS",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-22T08:20:44.622Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "ALENDRONATE/VITAMIN D3",
+          "doses": [
+            "5600UNIT",
+            "70MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "FLUOXETINE",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        },
+        {
+          "drug": "HYZAAR DS",
+          "doses": [
+            "100MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        },
+        {
+          "drug": "OXCARBAZEPINE",
+          "doses": [
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "TRANEXAMIC ACID TABLETS",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-21T08:32:37.049Z",
       "addedDrugsCount": 1,
@@ -428,40 +501,6 @@
       "refreshedAt": "2026-08-09T08:34:39.680Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-08-08T08:32:57.382Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION HP 50",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        },
-        {
-          "drug": "NEUPRO",
-          "doses": [
-            "3MG"
-          ],
-          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
-        },
-        {
-          "drug": "OMNIPAQUE 240",
-          "doses": [
-            "518MG"
-          ],
-          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-        },
-        {
-          "drug": "PRO-DILTIAZEM CD",
-          "doses": [
-            "300MG"
-          ],
-          "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
-        }
-      ]
     }
   ]
 }
