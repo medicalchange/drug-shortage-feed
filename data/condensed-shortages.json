@@ -1,18 +1,91 @@
 {
-  "count": 384,
-  "refreshedAt": "2026-08-21T08:32:37.049Z",
+  "count": 385,
+  "refreshedAt": "2026-08-22T08:20:44.622Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "VIMPAT",
+      "drug": "ALENDRONATE/VITAMIN D3",
       "doses": [
-        "200MG"
+        "5600UNIT",
+        "70MG"
       ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "FLUOXETINE",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "drug": "HYZAAR DS",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+    },
+    {
+      "drug": "OXCARBAZEPINE",
+      "doses": [
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "TRANEXAMIC ACID TABLETS",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-22T08:20:44.622Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "ALENDRONATE/VITAMIN D3",
+          "doses": [
+            "5600UNIT",
+            "70MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "FLUOXETINE",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        },
+        {
+          "drug": "HYZAAR DS",
+          "doses": [
+            "100MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+        },
+        {
+          "drug": "OXCARBAZEPINE",
+          "doses": [
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "TRANEXAMIC ACID TABLETS",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-21T08:32:37.049Z",
       "addedDrugsCount": 1,
@@ -429,40 +502,6 @@
       "refreshedAt": "2026-08-09T08:34:39.680Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-08-08T08:32:57.382Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION HP 50",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        },
-        {
-          "drug": "NEUPRO",
-          "doses": [
-            "3MG"
-          ],
-          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
-        },
-        {
-          "drug": "OMNIPAQUE 240",
-          "doses": [
-            "518MG"
-          ],
-          "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-        },
-        {
-          "drug": "PRO-DILTIAZEM CD",
-          "doses": [
-            "300MG"
-          ],
-          "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -495,13 +534,6 @@
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
     {
-      "drug": "ACYCLOVIR OINTMENT",
-      "doses": [
-        "5%"
-      ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-    },
-    {
       "drug": "ACYCLOVIR SODIUM INJECTION",
       "doses": [
         "50MG"
@@ -521,6 +553,14 @@
         "70.0MG"
       ],
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "drug": "ALENDRONATE/VITAMIN D3",
+      "doses": [
+        "5600UNIT",
+        "70MG"
+      ],
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "ALFUZOSIN",
@@ -867,7 +907,8 @@
     {
       "drug": "BRIVARACETAM",
       "doses": [
-        "25MG"
+        "25MG",
+        "50MG"
       ],
       "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
@@ -1167,14 +1208,6 @@
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
-      "drug": "DARUNAVIR",
-      "doses": [
-        "600MG",
-        "800MG"
-      ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-    },
-    {
       "drug": "DESONIDE",
       "doses": [
         "0.05%"
@@ -1350,7 +1383,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "DOXYCYCLINE MR",
@@ -1468,13 +1501,6 @@
         "200MG"
       ],
       "expectedBackInStockDate": "2026-07-20T04:00:00.000Z"
-    },
-    {
-      "drug": "ENTECAVIR",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "EPINEPHRINE INJECTION USP",
@@ -1602,6 +1628,13 @@
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
     {
+      "drug": "FLUOXETINE",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+    },
+    {
       "drug": "FLUTICASONE HFA",
       "doses": [
         "50MCG"
@@ -1721,6 +1754,14 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "HYZAAR DS",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
     },
     {
       "drug": "IBUPROFEN TAB 600MG",
@@ -2004,7 +2045,7 @@
       "doses": [
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     },
     {
       "drug": "LORAZEPAM",
@@ -2110,13 +2151,6 @@
       "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
-      "drug": "METHYLPHENIDATE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-    },
-    {
       "drug": "METHYLPHENIDATE CR",
       "doses": [
         "15MG"
@@ -2209,8 +2243,7 @@
       "drug": "NAPROXEN",
       "doses": [
         "250MG",
-        "375MG",
-        "500MG"
+        "375MG"
       ],
       "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
@@ -2432,6 +2465,13 @@
         "250MCG"
       ],
       "expectedBackInStockDate": "2026-12-30T05:00:00.000Z"
+    },
+    {
+      "drug": "OXCARBAZEPINE",
+      "doses": [
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
     },
     {
       "drug": "OXYCOCET",
@@ -3025,7 +3065,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "TERBINAFINE",
@@ -3131,6 +3171,13 @@
       "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
+      "drug": "TRANEXAMIC ACID TABLETS",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+    },
+    {
       "drug": "TRAVOPROST",
       "doses": [
         "0.004%"
@@ -3150,14 +3197,14 @@
       "doses": [
         "150MG"
       ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "TRAZODONE TABLETS 50MG",
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
@@ -3261,7 +3308,7 @@
         "0.5MG",
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-08-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "VASOTEC",
