@@ -1,10 +1,77 @@
 {
-  "count": 385,
-  "refreshedAt": "2026-08-24T08:40:06.968Z",
+  "count": 386,
+  "refreshedAt": "2026-08-25T08:34:23.752Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 4,
+  "addedDrugs": [
+    {
+      "drug": "ESTALIS 140/50 MCG",
+      "doses": [
+        "140MCG",
+        "50MCG"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 18MG",
+      "doses": [
+        "18MG"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "drug": "TOPIRAMATE",
+      "doses": [
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
+    },
+    {
+      "drug": "VARDENAFIL",
+      "doses": [
+        "20MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-25T08:34:23.752Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "ESTALIS 140/50 MCG",
+          "doses": [
+            "140MCG",
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+        },
+        {
+          "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 18MG",
+          "doses": [
+            "18MG"
+          ],
+          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+        },
+        {
+          "drug": "TOPIRAMATE",
+          "doses": [
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
+        },
+        {
+          "drug": "VARDENAFIL",
+          "doses": [
+            "20MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-24T08:40:06.968Z",
       "addedDrugsCount": 0,
@@ -449,19 +516,6 @@
             "80MG"
           ],
           "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-08-10T09:12:17.400Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "LUPIN-ESTRADIOL",
-          "doses": [
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
         }
       ]
     }
@@ -967,7 +1021,7 @@
       "doses": [
         "200MG"
       ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "CARVEDILOL",
@@ -1023,13 +1077,6 @@
       "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
-      "drug": "CIPROFLOXACIN",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-    },
-    {
       "drug": "CIPROFLOXACIN/DEXAMETHASONE",
       "doses": [
         "0.1%",
@@ -1058,13 +1105,6 @@
         "25MCG"
       ],
       "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
-    },
-    {
-      "drug": "CLIMARA 50",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
       "drug": "CLOBETASOL SPRAY",
@@ -1136,7 +1176,7 @@
       "doses": [
         "110MG"
       ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "DANTRIUM INTRAVENOUS",
@@ -1251,9 +1291,10 @@
     {
       "drug": "DILAUDID",
       "doses": [
+        "1MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-27T04:00:00.000Z"
     },
     {
       "drug": "DILTIAZ CD",
@@ -1441,7 +1482,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
     },
     {
       "drug": "ENALAPRILAT INJECTION USP",
@@ -1510,6 +1551,14 @@
         "40MG"
       ],
       "expectedBackInStockDate": "2027-10-10T04:00:00.000Z"
+    },
+    {
+      "drug": "ESTALIS 140/50 MCG",
+      "doses": [
+        "140MCG",
+        "50MCG"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "ESTRADOT 100",
@@ -1702,6 +1751,13 @@
       "expectedBackInStockDate": "2026-08-26T04:00:00.000Z"
     },
     {
+      "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 18MG",
+      "doses": [
+        "18MG"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
       "drug": "HYDROMORPHONE",
       "doses": [
         "1MG",
@@ -1786,7 +1842,7 @@
         "25MG",
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "IRBESARTAN-HCTZ",
@@ -1895,7 +1951,7 @@
       "doses": [
         "50MCG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
     },
     {
       "drug": "LATANOPROST/TIMOLOL",
@@ -2037,7 +2093,7 @@
       "doses": [
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "LURASIDONE",
@@ -2485,7 +2541,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "PAROXETINE",
@@ -2629,6 +2685,9 @@
     {
       "drug": "PRO-DILTIAZEM CD",
       "doses": [
+        "120MG",
+        "180MG",
+        "240MG",
         "300MG"
       ],
       "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
@@ -2740,7 +2799,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
     },
     {
       "drug": "REPAGLINIDE",
@@ -3098,7 +3157,7 @@
       "doses": [
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "TOLTERODINE LA",
@@ -3107,6 +3166,13 @@
         "4MG"
       ],
       "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
+    },
+    {
+      "drug": "TOPIRAMATE",
+      "doses": [
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
     },
     {
       "drug": "TOPISONE",
@@ -3144,7 +3210,7 @@
       "doses": [
         "0.004%"
       ],
-      "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "TRAVOPROST-TIMOP PQ",
@@ -3205,13 +3271,6 @@
       "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
     },
     {
-      "drug": "ULTRATAG RBC",
-      "doses": [
-        "20MCI"
-      ],
-      "expectedBackInStockDate": "2026-08-19T04:00:00.000Z"
-    },
-    {
       "drug": "UROMITEXAN",
       "doses": [
         "100MG"
@@ -3252,7 +3311,9 @@
       "drug": "VALSARTAN HCT",
       "doses": [
         "12.5MG",
-        "160MG"
+        "160MG",
+        "25MG",
+        "320MG"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
@@ -3263,6 +3324,14 @@
         "5G"
       ],
       "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "drug": "VARDENAFIL",
+      "doses": [
+        "20MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
     },
     {
       "drug": "VARENICLINE",
@@ -3337,7 +3406,7 @@
         "60MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-06T04:00:00.000Z"
     },
     {
       "drug": "ZOLEDRONIC ACID CONCENTRATE",

@@ -1,9 +1,76 @@
 {
-  "refreshedAt": "2026-08-24T08:40:06.968Z",
-  "count": 666,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-08-25T08:34:23.752Z",
+  "count": 671,
+  "addedDrugsCount": 4,
+  "addedDrugs": [
+    {
+      "drug": "ESTALIS 140/50 MCG",
+      "doses": [
+        "140MCG",
+        "50MCG"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 18MG",
+      "doses": [
+        "18MG"
+      ],
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+    },
+    {
+      "drug": "TOPIRAMATE",
+      "doses": [
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
+    },
+    {
+      "drug": "VARDENAFIL",
+      "doses": [
+        "20MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-25T08:34:23.752Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "ESTALIS 140/50 MCG",
+          "doses": [
+            "140MCG",
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+        },
+        {
+          "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 18MG",
+          "doses": [
+            "18MG"
+          ],
+          "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+        },
+        {
+          "drug": "TOPIRAMATE",
+          "doses": [
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
+        },
+        {
+          "drug": "VARDENAFIL",
+          "doses": [
+            "20MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-24T08:40:06.968Z",
       "addedDrugsCount": 0,
@@ -448,19 +515,6 @@
             "80MG"
           ],
           "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-08-10T09:12:17.400Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "LUPIN-ESTRADIOL",
-          "doses": [
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
         }
       ]
     }
