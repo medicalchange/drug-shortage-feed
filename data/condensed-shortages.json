@@ -1,25 +1,75 @@
 {
-  "count": 385,
-  "refreshedAt": "2026-08-26T08:35:42.157Z",
+  "count": 382,
+  "refreshedAt": "2026-08-27T18:43:23.798Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "CHLORTHALIDONE",
+      "drug": "DEXTROAMPHETAMINE",
       "doses": [
-        "12.5MG"
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
     {
-      "drug": "STERILE LIGHT MINERAL OIL 100%",
+      "drug": "IPRAVENT",
       "doses": [
-        "100%"
+        "42MCG"
       ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "drug": "NITROFURANTOIN BID",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
+    },
+    {
+      "drug": "TEMODAL",
+      "doses": [
+        "100MG",
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-27T18:43:23.798Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "DEXTROAMPHETAMINE",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+        },
+        {
+          "drug": "IPRAVENT",
+          "doses": [
+            "42MCG"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        },
+        {
+          "drug": "NITROFURANTOIN BID",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
+        },
+        {
+          "drug": "TEMODAL",
+          "doses": [
+            "100MG",
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-26T08:35:42.157Z",
       "addedDrugsCount": 2,
@@ -402,26 +452,6 @@
           "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-08-12T09:06:37.574Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "DILAUDID",
-          "doses": [
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
-        },
-        {
-          "drug": "ONDEXXYA",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -545,7 +575,7 @@
         "10MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "AMLODIPINE/ATORVASTATIN",
@@ -703,9 +733,10 @@
     {
       "drug": "AVENTYL",
       "doses": [
-        "10MG"
+        "10MG",
+        "25MG"
       ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
     {
       "drug": "BENZTROPINE OMEGA",
@@ -853,13 +884,6 @@
         "300MG"
       ],
       "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-    },
-    {
-      "drug": "BUSPIRONE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-08-16T04:00:00.000Z"
     },
     {
       "drug": "BUSULFAN",
@@ -1014,7 +1038,7 @@
       "doses": [
         "0.05%"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
     {
       "drug": "CLOPIDOGREL",
@@ -1079,7 +1103,7 @@
       "doses": [
         "110MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     },
     {
       "drug": "DANTRIUM INTRAVENOUS",
@@ -1154,6 +1178,13 @@
         "4MG"
       ],
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "DEXTROAMPHETAMINE",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
     {
       "drug": "DEXTROAMPHETAMINE SR",
@@ -1275,7 +1306,7 @@
       "doses": [
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "DOXY-TABS",
@@ -1640,13 +1671,6 @@
       "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
     {
-      "drug": "HYDROMORPH CONTIN",
-      "doses": [
-        "4.5MG"
-      ],
-      "expectedBackInStockDate": "2026-08-26T04:00:00.000Z"
-    },
-    {
       "drug": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 18MG",
       "doses": [
         "18MG"
@@ -1657,10 +1681,11 @@
       "drug": "HYDROMORPHONE",
       "doses": [
         "1MG",
+        "2MG",
         "4MG",
         "8MG"
       ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION HP 50",
@@ -1729,6 +1754,13 @@
         "10000UNIT"
       ],
       "expectedBackInStockDate": "2026-08-03T04:00:00.000Z"
+    },
+    {
+      "drug": "IPRAVENT",
+      "doses": [
+        "42MCG"
+      ],
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "IRBESARTAN HCT",
@@ -1962,20 +1994,6 @@
       "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     },
     {
-      "drug": "LORAZEPAM",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-    },
-    {
-      "drug": "LORAZEPAM SUBLINGUAL",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
-    },
-    {
       "drug": "LOSARTAN",
       "doses": [
         "100MG",
@@ -1997,7 +2015,7 @@
         "120MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "MED-RIVASTIGMINE",
@@ -2025,7 +2043,7 @@
       "doses": [
         "5.0MG"
       ],
-      "expectedBackInStockDate": "2026-08-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "MESNA FOR INJECTION",
@@ -2062,7 +2080,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "METHYLPHENIDATE CR",
@@ -2125,13 +2143,6 @@
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
-      "drug": "MONTELUKAST FC",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
-    },
-    {
       "drug": "MOXIFLOXACIN",
       "doses": [
         "0.5%"
@@ -2173,7 +2184,7 @@
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "NAPROXEN/ESOMEPRAZOLE MR",
@@ -2204,6 +2215,13 @@
         "30MG"
       ],
       "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
+    },
+    {
+      "drug": "NITROFURANTOIN BID",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
     },
     {
       "drug": "NORFLOXACIN",
@@ -2440,13 +2458,6 @@
       "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
-      "drug": "PAROXETINE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-08-19T04:00:00.000Z"
-    },
-    {
       "drug": "PAXIL TAB 20MG",
       "doses": [
         "20MG"
@@ -2465,7 +2476,7 @@
       "doses": [
         "400MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
       "drug": "PERINDOPRIL",
@@ -2539,7 +2550,7 @@
         "1.0MG",
         "1.5MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "PRAVASTATIN",
@@ -2804,7 +2815,7 @@
       "doses": [
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "SITAGLIPTIN MALATE / METFORMIN",
@@ -2961,6 +2972,14 @@
       "expectedBackInStockDate": "2026-09-21T04:00:00.000Z"
     },
     {
+      "drug": "TEMODAL",
+      "doses": [
+        "100MG",
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+    },
+    {
       "drug": "TEMOZOLOMIDE",
       "doses": [
         "100MG",
@@ -2982,7 +3001,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "TERBINAFINE",
@@ -3004,13 +3023,6 @@
         "250MCG"
       ],
       "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-    },
-    {
-      "drug": "TESTOSTERONE GEL",
-      "doses": [
-        "1%"
-      ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "TETRACYCLINE",
@@ -3066,9 +3078,10 @@
     {
       "drug": "TOPIRAMATE",
       "doses": [
-        "200MG"
+        "200MG",
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-06T04:00:00.000Z"
     },
     {
       "drug": "TOPISONE",
@@ -3142,7 +3155,7 @@
       "doses": [
         "55MCG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "TROSPIUM",
@@ -3193,7 +3206,7 @@
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-12-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
     },
     {
       "drug": "VALSARTAN",

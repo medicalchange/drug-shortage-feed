@@ -1,24 +1,74 @@
 {
-  "refreshedAt": "2026-08-26T08:35:42.157Z",
+  "refreshedAt": "2026-08-27T18:43:23.798Z",
   "count": 669,
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "CHLORTHALIDONE",
+      "drug": "DEXTROAMPHETAMINE",
       "doses": [
-        "12.5MG"
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
     {
-      "drug": "STERILE LIGHT MINERAL OIL 100%",
+      "drug": "IPRAVENT",
       "doses": [
-        "100%"
+        "42MCG"
       ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "drug": "NITROFURANTOIN BID",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
+    },
+    {
+      "drug": "TEMODAL",
+      "doses": [
+        "100MG",
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-27T18:43:23.798Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "DEXTROAMPHETAMINE",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+        },
+        {
+          "drug": "IPRAVENT",
+          "doses": [
+            "42MCG"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        },
+        {
+          "drug": "NITROFURANTOIN BID",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
+        },
+        {
+          "drug": "TEMODAL",
+          "doses": [
+            "100MG",
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-26T08:35:42.157Z",
       "addedDrugsCount": 2,
@@ -399,26 +449,6 @@
             "20MCI"
           ],
           "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-08-12T09:06:37.574Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "DILAUDID",
-          "doses": [
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
-        },
-        {
-          "drug": "ONDEXXYA",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
         }
       ]
     }
