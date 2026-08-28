@@ -1,39 +1,46 @@
 {
-  "refreshedAt": "2026-08-27T18:43:23.798Z",
-  "count": 669,
-  "addedDrugsCount": 4,
+  "refreshedAt": "2026-08-28T19:50:21.323Z",
+  "count": 670,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "DEXTROAMPHETAMINE",
+      "drug": "LUPIN-PROPRANOLOL LA",
       "doses": [
-        "5MG"
+        "60MG"
       ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
     },
     {
-      "drug": "IPRAVENT",
+      "drug": "PRO-GABAPENTIN",
       "doses": [
-        "42MCG"
+        "600MG",
+        "800MG"
       ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "drug": "NITROFURANTOIN BID",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
-    },
-    {
-      "drug": "TEMODAL",
-      "doses": [
-        "100MG",
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-27T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-28T19:50:21.323Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "LUPIN-PROPRANOLOL LA",
+          "doses": [
+            "60MG"
+          ],
+          "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+        },
+        {
+          "drug": "PRO-GABAPENTIN",
+          "doses": [
+            "600MG",
+            "800MG"
+          ],
+          "expectedBackInStockDate": "2027-01-27T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-27T18:43:23.798Z",
       "addedDrugsCount": 4,
@@ -412,43 +419,6 @@
             "250MCG"
           ],
           "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-08-13T09:06:06.798Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "HYDROMORPH CONTIN",
-          "doses": [
-            "4.5MG"
-          ],
-          "expectedBackInStockDate": "2026-08-26T04:00:00.000Z"
-        },
-        {
-          "drug": "LACTATED RINGER'S INJECTION",
-          "doses": [
-            "0.2MG",
-            "0.3MG",
-            "3.1MG",
-            "6MG"
-          ],
-          "expectedBackInStockDate": "2026-08-24T04:00:00.000Z"
-        },
-        {
-          "drug": "OXYTOCIN INJECTION USP",
-          "doses": [
-            "10UNIT"
-          ],
-          "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
-        },
-        {
-          "drug": "ULTRATAG RBC",
-          "doses": [
-            "20MCI"
-          ],
-          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
         }
       ]
     }
