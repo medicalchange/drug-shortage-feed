@@ -1,26 +1,31 @@
 {
   "count": 378,
-  "refreshedAt": "2026-08-28T19:50:21.323Z",
+  "refreshedAt": "2026-08-29T13:32:20.195Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "LUPIN-PROPRANOLOL LA",
+      "drug": "DICLOFENAC POTASSIUM POWDER FOR ORAL SOLUTION",
       "doses": [
-        "60MG"
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
-    },
-    {
-      "drug": "PRO-GABAPENTIN",
-      "doses": [
-        "600MG",
-        "800MG"
-      ],
-      "expectedBackInStockDate": "2027-01-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-29T13:32:20.195Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "DICLOFENAC POTASSIUM POWDER FOR ORAL SOLUTION",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-28T19:50:21.323Z",
       "addedDrugsCount": 2,
@@ -379,47 +384,6 @@
             "375MG"
           ],
           "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-08-14T09:03:07.573Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "CABERGOLINE",
-          "doses": [
-            "0.5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        },
-        {
-          "drug": "DOXY-TABS",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-        },
-        {
-          "drug": "METHOPRAZINE",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-        },
-        {
-          "drug": "METHYLPHENIDATE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-        },
-        {
-          "drug": "TERIPARATIDE INJECTION",
-          "doses": [
-            "250MCG"
-          ],
-          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
         }
       ]
     }
@@ -846,7 +810,7 @@
         "150MG",
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-08-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
     },
     {
       "drug": "BUSULFAN",
@@ -876,13 +840,6 @@
         "300MG"
       ],
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-    },
-    {
-      "drug": "CANDESARTAN",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "CANDESARTAN HCT",
@@ -1001,7 +958,7 @@
       "doses": [
         "0.05%"
       ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "CLOPIDOGREL",
@@ -1170,6 +1127,13 @@
         "0.1%"
       ],
       "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+    },
+    {
+      "drug": "DICLOFENAC POTASSIUM POWDER FOR ORAL SOLUTION",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "DICLOFENAC RAPIDE",
@@ -1491,7 +1455,7 @@
         "200MCG",
         "200MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "FESOTERODINE FUMARATE",
