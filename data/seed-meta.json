@@ -1,17 +1,14 @@
 {
-  "refreshedAt": "2026-08-29T13:32:20.195Z",
+  "refreshedAt": "2026-08-30T13:28:07.683Z",
   "count": 670,
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "DICLOFENAC POTASSIUM POWDER FOR ORAL SOLUTION",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-30T13:28:07.683Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-08-29T13:32:20.195Z",
       "addedDrugsCount": 1,
@@ -371,20 +368,6 @@
       "refreshedAt": "2026-08-16T08:21:00.317Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-08-15T08:20:16.098Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "VIMOVO",
-          "doses": [
-            "20MG",
-            "375MG"
-          ],
-          "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
