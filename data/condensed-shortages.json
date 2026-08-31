@@ -1,10 +1,47 @@
 {
-  "count": 378,
-  "refreshedAt": "2026-08-30T13:28:07.683Z",
+  "count": 380,
+  "refreshedAt": "2026-08-31T15:45:00.204Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 2,
+  "addedDrugs": [
+    {
+      "drug": "CEFTRIAXONE SODIUM FOR INJECTION BP",
+      "doses": [
+        "2G"
+      ],
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "drug": "LOSARTAN HCT",
+      "doses": [
+        "100MG",
+        "12.5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-31T15:45:00.204Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CEFTRIAXONE SODIUM FOR INJECTION BP",
+          "doses": [
+            "2G"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        },
+        {
+          "drug": "LOSARTAN HCT",
+          "doses": [
+            "100MG",
+            "12.5MG"
+          ],
+          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-30T13:28:07.683Z",
       "addedDrugsCount": 0,
@@ -364,11 +401,6 @@
       "refreshedAt": "2026-08-17T08:36:09.196Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-08-16T08:21:00.317Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -384,7 +416,7 @@
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "ACETAMINOPHEN TABLETS USP 325 MG",
@@ -830,7 +862,7 @@
         "25MG",
         "32MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "CANDESARTAN PLUS",
@@ -845,7 +877,7 @@
       "doses": [
         "200MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "CARVEDILOL",
@@ -866,7 +898,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "CEFTRIAXONE FOR INJECTION",
@@ -876,11 +908,18 @@
       "expectedBackInStockDate": "2026-06-15T04:00:00.000Z"
     },
     {
+      "drug": "CEFTRIAXONE SODIUM FOR INJECTION BP",
+      "doses": [
+        "2G"
+      ],
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+    },
+    {
       "drug": "CEPHALEXIN",
       "doses": [
         "125MG"
       ],
-      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "CHLORTHALIDONE",
@@ -1445,7 +1484,7 @@
       "doses": [
         "8MG"
       ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "FINASTERIDE",
@@ -1904,6 +1943,14 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+    },
+    {
+      "drug": "LOSARTAN HCT",
+      "doses": [
+        "100MG",
+        "12.5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
     {
       "drug": "LUPIN-ESTRADIOL",
@@ -3016,7 +3063,7 @@
       "doses": [
         "0.004%"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "TRAVOPROST-TIMOP PQ",
@@ -3204,7 +3251,7 @@
         "60MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-10-06T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
     },
     {
       "drug": "ZOLEDRONIC ACID CONCENTRATE",

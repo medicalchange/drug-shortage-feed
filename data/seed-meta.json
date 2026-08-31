@@ -1,9 +1,46 @@
 {
-  "refreshedAt": "2026-08-30T13:28:07.683Z",
-  "count": 670,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-08-31T15:45:00.204Z",
+  "count": 672,
+  "addedDrugsCount": 2,
+  "addedDrugs": [
+    {
+      "drug": "CEFTRIAXONE SODIUM FOR INJECTION BP",
+      "doses": [
+        "2G"
+      ],
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+    },
+    {
+      "drug": "LOSARTAN HCT",
+      "doses": [
+        "100MG",
+        "12.5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-08-31T15:45:00.204Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CEFTRIAXONE SODIUM FOR INJECTION BP",
+          "doses": [
+            "2G"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        },
+        {
+          "drug": "LOSARTAN HCT",
+          "doses": [
+            "100MG",
+            "12.5MG"
+          ],
+          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-08-30T13:28:07.683Z",
       "addedDrugsCount": 0,
@@ -361,11 +398,6 @@
     },
     {
       "refreshedAt": "2026-08-17T08:36:09.196Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-08-16T08:21:00.317Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
