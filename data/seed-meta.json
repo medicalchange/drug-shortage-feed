@@ -1,49 +1,172 @@
 {
-  "refreshedAt": "2026-09-04T12:26:00.585Z",
-  "count": 666,
-  "addedDrugsCount": 5,
+  "refreshedAt": "2026-09-05T11:32:20.171Z",
+  "count": 671,
+  "addedDrugsCount": 11,
   "addedDrugs": [
     {
-      "drug": "ALPHAGAN P",
+      "drug": "AMIODARONE",
       "doses": [
-        "0.15%"
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
+      "doses": [
+        "1%",
+        "5%"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "CANDESARTAN",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "drug": "CELESTONE SOLUSPAN",
+      "doses": [
+        "3MG"
       ],
       "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
-      "drug": "DIANEAL PD101 CAPD SOLUTION WITH 4.25% DEXTROSE",
+      "drug": "DESMOPRESSIN SPRAY",
       "doses": [
-        "15.2MG",
-        "23.9MG",
-        "392MG",
-        "4.25G",
-        "567MG"
+        "10MCG"
       ],
-      "expectedBackInStockDate": "2026-09-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
-      "drug": "LIPITOR",
+      "drug": "DIAZEPAM",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "drug": "FAMPRIDINE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "drug": "FENOFIBRATE E",
+      "doses": [
+        "145MG"
+      ],
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "drug": "HYDRALAZINE",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "drug": "TESTOSTERONE GEL",
+      "doses": [
+        "1%"
+      ],
+      "expectedBackInStockDate": "2026-10-03T04:00:00.000Z"
+    },
+    {
+      "drug": "VERAP",
       "doses": [
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
-    },
-    {
-      "drug": "MAVIK",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
-    },
-    {
-      "drug": "NITROSTAT",
-      "doses": [
-        "0.6MG"
-      ],
-      "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-05T11:32:20.171Z",
+      "addedDrugsCount": 11,
+      "addedDrugs": [
+        {
+          "drug": "AMIODARONE",
+          "doses": [
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+        },
+        {
+          "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
+          "doses": [
+            "1%",
+            "5%"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "CANDESARTAN",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        },
+        {
+          "drug": "CELESTONE SOLUSPAN",
+          "doses": [
+            "3MG"
+          ],
+          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+        },
+        {
+          "drug": "DESMOPRESSIN SPRAY",
+          "doses": [
+            "10MCG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        },
+        {
+          "drug": "DIAZEPAM",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "drug": "FAMPRIDINE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        },
+        {
+          "drug": "FENOFIBRATE E",
+          "doses": [
+            "145MG"
+          ],
+          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+        },
+        {
+          "drug": "HYDRALAZINE",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "drug": "TESTOSTERONE GEL",
+          "doses": [
+            "1%"
+          ],
+          "expectedBackInStockDate": "2026-10-03T04:00:00.000Z"
+        },
+        {
+          "drug": "VERAP",
+          "doses": [
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-04T12:26:00.585Z",
       "addedDrugsCount": 5,
@@ -364,19 +487,6 @@
             "500MG"
           ],
           "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-08-21T08:32:37.049Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "VIMPAT",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
         }
       ]
     }
