@@ -1,89 +1,15 @@
 {
   "count": 380,
-  "refreshedAt": "2026-09-05T11:32:20.171Z",
+  "refreshedAt": "2026-09-06T11:52:39.477Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 11,
-  "addedDrugs": [
-    {
-      "drug": "AMIODARONE",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
-    },
-    {
-      "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
-      "doses": [
-        "1%",
-        "5%"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "drug": "CANDESARTAN",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "drug": "CELESTONE SOLUSPAN",
-      "doses": [
-        "3MG"
-      ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
-    },
-    {
-      "drug": "DESMOPRESSIN SPRAY",
-      "doses": [
-        "10MCG"
-      ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "drug": "DIAZEPAM",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-    },
-    {
-      "drug": "FAMPRIDINE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "drug": "FENOFIBRATE E",
-      "doses": [
-        "145MG"
-      ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
-    },
-    {
-      "drug": "HYDRALAZINE",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-    },
-    {
-      "drug": "TESTOSTERONE GEL",
-      "doses": [
-        "1%"
-      ],
-      "expectedBackInStockDate": "2026-10-03T04:00:00.000Z"
-    },
-    {
-      "drug": "VERAP",
-      "doses": [
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-06T11:52:39.477Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-09-05T11:32:20.171Z",
       "addedDrugsCount": 11,
@@ -447,49 +373,6 @@
       "refreshedAt": "2026-08-24T08:40:06.968Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-08-22T08:20:44.622Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "ALENDRONATE/VITAMIN D3",
-          "doses": [
-            "5600UNIT",
-            "70MG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "FLUOXETINE",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        },
-        {
-          "drug": "HYZAAR DS",
-          "doses": [
-            "100MG",
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-08-21T04:00:00.000Z"
-        },
-        {
-          "drug": "OXCARBAZEPINE",
-          "doses": [
-            "150MG"
-          ],
-          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-        },
-        {
-          "drug": "TRANEXAMIC ACID TABLETS",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
