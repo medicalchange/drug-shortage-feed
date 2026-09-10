@@ -1,10 +1,97 @@
 {
-  "count": 380,
-  "refreshedAt": "2026-09-08T12:30:25.281Z",
+  "count": 379,
+  "refreshedAt": "2026-09-10T12:36:12.079Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 5,
+  "addedDrugs": [
+    {
+      "drug": "ACID CONCENTRATE D12272",
+      "doses": [
+        "10.8G",
+        "2.14G",
+        "263G",
+        "45G",
+        "6.7G",
+        "7.49G"
+      ],
+      "expectedBackInStockDate": "2026-09-09T04:00:00.000Z"
+    },
+    {
+      "drug": "ALPHAGAN",
+      "doses": [
+        "0.2%"
+      ],
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+    },
+    {
+      "drug": "ERYTHROMYCIN",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+    },
+    {
+      "drug": "NITROJECT",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "OSELTAMIVIR",
+      "doses": [
+        "6MG"
+      ],
+      "expectedBackInStockDate": "2027-04-30T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-10T12:36:12.079Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "ACID CONCENTRATE D12272",
+          "doses": [
+            "10.8G",
+            "2.14G",
+            "263G",
+            "45G",
+            "6.7G",
+            "7.49G"
+          ],
+          "expectedBackInStockDate": "2026-09-09T04:00:00.000Z"
+        },
+        {
+          "drug": "ALPHAGAN",
+          "doses": [
+            "0.2%"
+          ],
+          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+        },
+        {
+          "drug": "ERYTHROMYCIN",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+        },
+        {
+          "drug": "NITROJECT",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "OSELTAMIVIR",
+          "doses": [
+            "6MG"
+          ],
+          "expectedBackInStockDate": "2027-04-30T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-08T12:30:25.281Z",
       "addedDrugsCount": 0,
@@ -322,26 +409,6 @@
           "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-08-26T08:35:42.157Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CHLORTHALIDONE",
-          "doses": [
-            "12.5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "STERILE LIGHT MINERAL OIL 100%",
-          "doses": [
-            "100%"
-          ],
-          "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -378,14 +445,26 @@
       "doses": [
         "200MG"
       ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+    },
+    {
+      "drug": "ACID CONCENTRATE D12272",
+      "doses": [
+        "10.8G",
+        "2.14G",
+        "263G",
+        "45G",
+        "6.7G",
+        "7.49G"
+      ],
+      "expectedBackInStockDate": "2026-09-09T04:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR",
       "doses": [
         "200MG"
       ],
-      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR SODIUM INJECTION",
@@ -445,6 +524,13 @@
       "expectedBackInStockDate": "2026-01-23T05:00:00.000Z"
     },
     {
+      "drug": "ALPHAGAN",
+      "doses": [
+        "0.2%"
+      ],
+      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+    },
+    {
       "drug": "ALPRAZ",
       "doses": [
         "0.5MG"
@@ -464,7 +550,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
     },
     {
       "drug": "AMINOPHYLLINE INJ 25MG/ML",
@@ -985,7 +1071,7 @@
       "doses": [
         "1000MG"
       ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-15T05:00:00.000Z"
     },
     {
       "drug": "CYCLOPHOSPHAMIDE FOR INJECTION USP",
@@ -1060,7 +1146,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     },
     {
       "drug": "DEXAMETHASONE SODIUM PHOSPHATE INJ USP 4MG/ML",
@@ -1170,16 +1256,6 @@
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
-      "drug": "DILTIAZEM XC",
-      "doses": [
-        "180MG",
-        "240MG",
-        "300MG",
-        "360MG"
-      ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
-    },
-    {
       "drug": "DIPENTUM",
       "doses": [
         "250MG"
@@ -1215,13 +1291,6 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-05-01T04:00:00.000Z"
-    },
-    {
-      "drug": "DORZOLAMIDE",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
     },
     {
       "drug": "DOXAZOSIN",
@@ -1316,7 +1385,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
     },
     {
       "drug": "ENALAPRILAT INJECTION USP",
@@ -1361,6 +1430,13 @@
         "25MG"
       ],
       "expectedBackInStockDate": "2027-06-30T04:00:00.000Z"
+    },
+    {
+      "drug": "ERYTHROMYCIN",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
     },
     {
       "drug": "ESCITALOPRAM",
@@ -1412,7 +1488,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "FAMOTIDINE OMEGA -(WITHOUT PRESERVATIVE)",
@@ -1690,7 +1766,7 @@
         "25MG",
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "IRBESARTAN-HCTZ",
@@ -1786,13 +1862,6 @@
         "30MG"
       ],
       "expectedBackInStockDate": "2026-01-30T05:00:00.000Z"
-    },
-    {
-      "drug": "LATANOPROST",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
     },
     {
       "drug": "LATANOPROST/TIMOLOL",
@@ -2129,11 +2198,18 @@
       "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
     },
     {
+      "drug": "NITROJECT",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
       "drug": "NITROSTAT",
       "doses": [
         "0.6MG"
       ],
-      "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
     },
     {
       "drug": "NRA-CITALOPRAM",
@@ -2284,6 +2360,13 @@
       "expectedBackInStockDate": "2026-06-01T04:00:00.000Z"
     },
     {
+      "drug": "OSELTAMIVIR",
+      "doses": [
+        "6MG"
+      ],
+      "expectedBackInStockDate": "2027-04-30T04:00:00.000Z"
+    },
+    {
       "drug": "OVIDREL",
       "doses": [
         "250MCG"
@@ -2305,7 +2388,7 @@
         "325MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-01T04:00:00.000Z"
     },
     {
       "drug": "OXYCODONE CR",
@@ -2322,13 +2405,6 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
-    },
-    {
-      "drug": "OXYTOCIN INJECTION USP",
-      "doses": [
-        "10UNIT"
-      ],
-      "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
     },
     {
       "drug": "PANTOPRAZOLE",
@@ -2433,7 +2509,7 @@
         "200mEq",
         "20mEq"
       ],
-      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "PRAMIPEXOLE",
@@ -2485,6 +2561,7 @@
     {
       "drug": "PRO-DILTIAZEM CD",
       "doses": [
+        "120MG",
         "240MG",
         "300MG"
       ],
@@ -2511,13 +2588,6 @@
         "100MG"
       ],
       "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "drug": "PROPRANOLOL",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
     },
     {
       "drug": "PRUCALOPRIDE",
@@ -2598,7 +2668,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
     },
     {
       "drug": "REPAGLINIDE",
@@ -2614,7 +2684,7 @@
       "doses": [
         "0.8MG"
       ],
-      "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
     },
     {
       "drug": "RILUZOLE",
@@ -2653,14 +2723,6 @@
         "10MG"
       ],
       "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "drug": "ROPINIROLE",
-      "doses": [
-        "0.25MG",
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
     },
     {
       "drug": "ROSUVASTATIN",
@@ -2797,7 +2859,7 @@
       "doses": [
         "12.5MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "TADALAFIL",
@@ -2873,7 +2935,7 @@
         "250MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
       "drug": "TENOFOVIR",
@@ -2985,7 +3047,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
       "drug": "TRAVOPROST",
@@ -3057,7 +3119,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "VALACYCLOVIR",
@@ -3102,7 +3164,7 @@
         "20MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "VARENICLINE",
@@ -3169,14 +3231,14 @@
       "doses": [
         "1000MCG"
       ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "VORICONAZOLE FOR INJECTION",
       "doses": [
         "200MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "ZADITOR",
@@ -3224,10 +3286,9 @@
     {
       "drug": "ZOLPIDEM ODT",
       "doses": [
-        "10MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
     },
     {
       "drug": "ZOPICLONE",
