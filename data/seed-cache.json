@@ -1,5 +1,103 @@
 [
   {
+    "id": "shortage:220290",
+    "reportId": 220290,
+    "type": "shortage",
+    "brandName": "PDP-DESONIDE",
+    "status": "active_confirmed",
+    "din": "02229323",
+    "strength": "0.05%",
+    "expectedBackInStockDate": "2026-09-28T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-11T16:27:35.000Z",
+    "updateDate": "2026-09-11T16:27:35.000Z",
+    "postedDate": "2024-02-23T00:59:34.000Z"
+  },
+  {
+    "id": "shortage:292427",
+    "reportId": 292427,
+    "type": "shortage",
+    "brandName": "DIANEAL PD101 CAPD SOLUTION WITH 4.25% DEXTROSE",
+    "status": "active_confirmed",
+    "din": "00799807",
+    "strength": "4.25G\r\n23.9MG\r\n392MG\r\n15.2MG\r\n567MG",
+    "expectedBackInStockDate": "2026-09-10T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-11T00:33:03.000Z",
+    "updateDate": "2026-09-11T00:33:03.000Z",
+    "postedDate": "2026-09-02T01:34:39.000Z"
+  },
+  {
+    "id": "shortage:290979",
+    "reportId": 290979,
+    "type": "shortage",
+    "brandName": "LUPIN-ESTRADIOL",
+    "status": "active_confirmed",
+    "din": "02449064",
+    "strength": "2MG",
+    "expectedBackInStockDate": "2026-09-11T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-10T21:30:36.000Z",
+    "updateDate": "2026-09-10T21:30:36.000Z",
+    "postedDate": "2026-08-09T14:13:29.000Z"
+  },
+  {
+    "id": "shortage:290613",
+    "reportId": 290613,
+    "type": "shortage",
+    "brandName": "NEUPRO",
+    "status": "active_confirmed",
+    "din": "02403919",
+    "strength": "3MG",
+    "expectedBackInStockDate": "2026-09-11T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-10T21:24:38.000Z",
+    "updateDate": "2026-09-10T21:24:38.000Z",
+    "postedDate": "2026-08-05T15:56:43.000Z"
+  },
+  {
+    "id": "shortage:292129",
+    "reportId": 292129,
+    "type": "shortage",
+    "brandName": "NEUPRO",
+    "status": "active_confirmed",
+    "din": "02403897",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-09-16T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-10T21:23:55.000Z",
+    "updateDate": "2026-09-10T21:23:55.000Z",
+    "postedDate": "2026-08-27T19:26:16.000Z"
+  },
+  {
+    "id": "shortage:289607",
+    "reportId": 289607,
+    "type": "shortage",
+    "brandName": "ALPHAGAN",
+    "status": "active_confirmed",
+    "din": "02236876",
+    "strength": "0.2%",
+    "expectedBackInStockDate": "2026-09-11T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-10T21:20:54.000Z",
+    "updateDate": "2026-09-10T21:20:54.000Z",
+    "postedDate": "2026-07-21T15:49:15.000Z"
+  },
+  {
+    "id": "shortage:291679",
+    "reportId": 291679,
+    "type": "shortage",
+    "brandName": "MULTIHANCE",
+    "status": "active_confirmed",
+    "din": "02248302",
+    "strength": "529MG",
+    "expectedBackInStockDate": "2026-09-18T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-10T16:36:55.000Z",
+    "updateDate": "2026-09-10T16:36:55.000Z",
+    "postedDate": "2026-08-19T17:37:34.000Z"
+  },
+  {
     "id": "shortage:285308",
     "reportId": 285308,
     "type": "shortage",
@@ -26,20 +124,6 @@
     "updatedDate": "2026-09-10T14:41:45.000Z",
     "updateDate": "2026-09-10T14:41:45.000Z",
     "postedDate": "2026-08-06T21:33:33.000Z"
-  },
-  {
-    "id": "shortage:289607",
-    "reportId": 289607,
-    "type": "shortage",
-    "brandName": "ALPHAGAN",
-    "status": "active_confirmed",
-    "din": "02236876",
-    "strength": "0.2%",
-    "expectedBackInStockDate": "2026-09-11T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-10T00:03:09.000Z",
-    "updateDate": "2026-09-10T00:03:09.000Z",
-    "postedDate": "2026-07-21T15:49:15.000Z"
   },
   {
     "id": "shortage:274981",
@@ -1316,20 +1400,6 @@
     "postedDate": "2026-08-28T01:21:39.000Z"
   },
   {
-    "id": "shortage:290979",
-    "reportId": 290979,
-    "type": "shortage",
-    "brandName": "LUPIN-ESTRADIOL",
-    "status": "active_confirmed",
-    "din": "02449064",
-    "strength": "2MG",
-    "expectedBackInStockDate": "2026-09-11T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-04T20:30:20.000Z",
-    "updateDate": "2026-09-04T20:30:20.000Z",
-    "postedDate": "2026-08-09T14:13:29.000Z"
-  },
-  {
     "id": "shortage:288232",
     "reportId": 288232,
     "type": "shortage",
@@ -1580,20 +1650,6 @@
     "updatedDate": "2026-09-03T22:03:22.000Z",
     "updateDate": "2026-09-03T22:03:22.000Z",
     "postedDate": "2026-08-01T00:10:49.000Z"
-  },
-  {
-    "id": "shortage:292427",
-    "reportId": 292427,
-    "type": "shortage",
-    "brandName": "DIANEAL PD101 CAPD SOLUTION WITH 4.25% DEXTROSE",
-    "status": "active_confirmed",
-    "din": "00799807",
-    "strength": "4.25G\r\n23.9MG\r\n392MG\r\n15.2MG\r\n567MG",
-    "expectedBackInStockDate": "2026-09-10T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-03T18:37:53.000Z",
-    "updateDate": "2026-09-03T18:37:53.000Z",
-    "postedDate": "2026-09-02T01:34:39.000Z"
   },
   {
     "id": "shortage:287549",
@@ -3806,20 +3862,6 @@
     "updatedDate": "2026-08-10T21:36:51.000Z",
     "updateDate": "2026-08-10T21:36:51.000Z",
     "postedDate": "2026-08-05T19:45:04.000Z"
-  },
-  {
-    "id": "shortage:290613",
-    "reportId": 290613,
-    "type": "shortage",
-    "brandName": "NEUPRO",
-    "status": "active_confirmed",
-    "din": "02403919",
-    "strength": "3MG",
-    "expectedBackInStockDate": "2026-09-11T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-10T19:41:25.000Z",
-    "updateDate": "2026-08-10T19:41:25.000Z",
-    "postedDate": "2026-08-05T15:56:43.000Z"
   },
   {
     "id": "shortage:291068",
@@ -8132,20 +8174,6 @@
     "updatedDate": "2026-04-13T23:54:50.000Z",
     "updateDate": "2026-04-13T23:54:50.000Z",
     "postedDate": "2024-11-18T22:43:39.000Z"
-  },
-  {
-    "id": "shortage:220290",
-    "reportId": 220290,
-    "type": "shortage",
-    "brandName": "PDP-DESONIDE",
-    "status": "active_confirmed",
-    "din": "02229323",
-    "strength": "0.05%",
-    "expectedBackInStockDate": "2026-09-09T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-13T17:38:39.000Z",
-    "updateDate": "2026-04-13T17:38:39.000Z",
-    "postedDate": "2024-02-23T00:59:34.000Z"
   },
   {
     "id": "shortage:249207",
