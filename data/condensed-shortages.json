@@ -1,18 +1,115 @@
 {
-  "count": 380,
-  "refreshedAt": "2026-09-11T12:29:55.636Z",
+  "count": 382,
+  "refreshedAt": "2026-09-12T11:53:11.937Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "MULTIHANCE",
+      "drug": "BECLOMETHASONE NASAL SPRAY",
       "doses": [
-        "529MG"
+        "50MCG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "BROMOCRIPTINE",
+      "doses": [
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "drug": "CIMETIDINE",
+      "doses": [
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "drug": "FENO-SUPER",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "PINAVERIUM",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "RESTORIL",
+      "doses": [
+        "30MG"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "TETRABENAZINE",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-12T11:53:11.937Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "BECLOMETHASONE NASAL SPRAY",
+          "doses": [
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "BROMOCRIPTINE",
+          "doses": [
+            "2.5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+        },
+        {
+          "drug": "CIMETIDINE",
+          "doses": [
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        },
+        {
+          "drug": "FENO-SUPER",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "PINAVERIUM",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "RESTORIL",
+          "doses": [
+            "30MG"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "TETRABENAZINE",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-11T12:29:55.636Z",
       "addedDrugsCount": 1,
@@ -333,27 +430,6 @@
           "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-08-28T19:50:21.323Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "LUPIN-PROPRANOLOL LA",
-          "doses": [
-            "60MG"
-          ],
-          "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
-        },
-        {
-          "drug": "PRO-GABAPENTIN",
-          "doses": [
-            "600MG",
-            "800MG"
-          ],
-          "expectedBackInStockDate": "2027-01-27T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -362,7 +438,7 @@
       "doses": [
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "ABIRATERONE",
@@ -673,12 +749,11 @@
       "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
     },
     {
-      "drug": "AVENTYL",
+      "drug": "BECLOMETHASONE NASAL SPRAY",
       "doses": [
-        "10MG",
-        "25MG"
+        "50MCG"
       ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
@@ -814,11 +889,18 @@
       "expectedBackInStockDate": "2027-03-26T04:00:00.000Z"
     },
     {
+      "drug": "BROMOCRIPTINE",
+      "doses": [
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+    },
+    {
       "drug": "BUPIVACAINE HYDROCHLORIDE IN DEXTROSE INJECTION USP",
       "doses": [
         "7.5MG"
       ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
     },
     {
       "drug": "BUPROPION XL",
@@ -943,6 +1025,13 @@
       "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
+      "drug": "CIMETIDINE",
+      "doses": [
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+    },
+    {
       "drug": "CINACALCET",
       "doses": [
         "30MG",
@@ -1060,6 +1149,7 @@
     {
       "drug": "DARIFENACIN",
       "doses": [
+        "15MG",
         "7.5MG"
       ],
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
@@ -1113,13 +1203,6 @@
         "4MG"
       ],
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "DEXTROAMPHETAMINE",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
     {
       "drug": "DEXTROAMPHETAMINE SR",
@@ -1223,13 +1306,6 @@
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
-      "drug": "DONEPEZIL TABLETS",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-    },
-    {
       "drug": "DORZO-TIMOP",
       "doses": [
         "20MG",
@@ -1240,6 +1316,7 @@
     {
       "drug": "DOXAZOSIN",
       "doses": [
+        "1MG",
         "4MG"
       ],
       "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
@@ -1456,6 +1533,13 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-05-15T04:00:00.000Z"
+    },
+    {
+      "drug": "FENO-SUPER",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "FENOFIBRATE E",
@@ -1701,7 +1785,7 @@
       "doses": [
         "42MCG"
       ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
       "drug": "IRBESARTAN HCT",
@@ -1938,14 +2022,6 @@
       "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
     {
-      "drug": "LUPIN-ESTRADIOL",
-      "doses": [
-        "1MG",
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
-    },
-    {
       "drug": "LUPIN-PROPRANOLOL LA",
       "doses": [
         "60MG"
@@ -1998,6 +2074,7 @@
     {
       "drug": "METADOL",
       "doses": [
+        "10MG",
         "1MG",
         "5MG"
       ],
@@ -2044,7 +2121,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-10-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-20T05:00:00.000Z"
     },
     {
       "drug": "MIRABEGRON",
@@ -2126,15 +2203,7 @@
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-    },
-    {
-      "drug": "NEUPRO",
-      "doses": [
-        "1MG",
-        "3MG"
-      ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "NEXVIAZYME",
@@ -2442,6 +2511,13 @@
       "expectedBackInStockDate": "2026-09-01T04:00:00.000Z"
     },
     {
+      "drug": "PINAVERIUM",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
       "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
       "doses": [
         "0.5G",
@@ -2595,6 +2671,7 @@
       "drug": "RAMIPRIL",
       "doses": [
         "10MG",
+        "15MG",
         "2.5MG",
         "5MG"
       ],
@@ -2633,6 +2710,13 @@
       "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
+      "drug": "RESTORIL",
+      "doses": [
+        "30MG"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
       "drug": "REVATIO",
       "doses": [
         "0.8MG"
@@ -2658,6 +2742,7 @@
       "drug": "RIVAROXABAN",
       "doses": [
         "10MG",
+        "15MG",
         "20MG"
       ],
       "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
@@ -2817,7 +2902,8 @@
     {
       "drug": "TADALAFIL",
       "doses": [
-        "20MG"
+        "20MG",
+        "5MG"
       ],
       "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
@@ -2916,7 +3002,7 @@
       "doses": [
         "250MCG"
       ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
     },
     {
       "drug": "TESTOSTERONE GEL",
@@ -2924,6 +3010,13 @@
         "1%"
       ],
       "expectedBackInStockDate": "2026-10-03T04:00:00.000Z"
+    },
+    {
+      "drug": "TETRABENAZINE",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
       "drug": "TETRACYCLINE",
@@ -3043,7 +3136,7 @@
       "doses": [
         "55MCG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "TROSPIUM",
