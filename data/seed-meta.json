@@ -1,17 +1,114 @@
 {
-  "refreshedAt": "2026-09-11T12:29:55.636Z",
-  "count": 661,
-  "addedDrugsCount": 1,
+  "refreshedAt": "2026-09-12T11:53:11.937Z",
+  "count": 674,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "MULTIHANCE",
+      "drug": "BECLOMETHASONE NASAL SPRAY",
       "doses": [
-        "529MG"
+        "50MCG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "BROMOCRIPTINE",
+      "doses": [
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "drug": "CIMETIDINE",
+      "doses": [
+        "300MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+    },
+    {
+      "drug": "FENO-SUPER",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "PINAVERIUM",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "RESTORIL",
+      "doses": [
+        "30MG"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "TETRABENAZINE",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-12T11:53:11.937Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "BECLOMETHASONE NASAL SPRAY",
+          "doses": [
+            "50MCG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "BROMOCRIPTINE",
+          "doses": [
+            "2.5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+        },
+        {
+          "drug": "CIMETIDINE",
+          "doses": [
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        },
+        {
+          "drug": "FENO-SUPER",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "PINAVERIUM",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "RESTORIL",
+          "doses": [
+            "30MG"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "TETRABENAZINE",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-11T12:29:55.636Z",
       "addedDrugsCount": 1,
@@ -330,27 +427,6 @@
             "50MG"
           ],
           "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-08-28T19:50:21.323Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "LUPIN-PROPRANOLOL LA",
-          "doses": [
-            "60MG"
-          ],
-          "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
-        },
-        {
-          "drug": "PRO-GABAPENTIN",
-          "doses": [
-            "600MG",
-            "800MG"
-          ],
-          "expectedBackInStockDate": "2027-01-27T05:00:00.000Z"
         }
       ]
     }
