@@ -1,9 +1,46 @@
 {
-  "refreshedAt": "2026-09-13T13:02:44.367Z",
-  "count": 674,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-09-14T14:38:24.410Z",
+  "count": 673,
+  "addedDrugsCount": 2,
+  "addedDrugs": [
+    {
+      "drug": "CANDESARTAN PLUS",
+      "doses": [
+        "12.5MG",
+        "16MG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "PERINDOPRIL ERBUMINE",
+      "doses": [
+        "8MG"
+      ],
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-14T14:38:24.410Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CANDESARTAN PLUS",
+          "doses": [
+            "12.5MG",
+            "16MG"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "PERINDOPRIL ERBUMINE",
+          "doses": [
+            "8MG"
+          ],
+          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-13T13:02:44.367Z",
       "addedDrugsCount": 0,
@@ -366,11 +403,6 @@
           "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-08-30T13:28:07.683Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
