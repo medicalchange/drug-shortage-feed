@@ -1,25 +1,136 @@
 {
-  "refreshedAt": "2026-09-14T14:38:24.410Z",
+  "refreshedAt": "2026-09-15T13:03:09.471Z",
   "count": 673,
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "CANDESARTAN PLUS",
+      "drug": "NEORAL",
       "doses": [
-        "12.5MG",
-        "16MG"
+        "10MG"
       ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
     },
     {
-      "drug": "PERINDOPRIL ERBUMINE",
+      "drug": "PREGNANCY MULTIVITAMIN",
       "doses": [
-        "8MG"
+        "0.15MG",
+        "1.1MG",
+        "1.6MG",
+        "10MG",
+        "120MG",
+        "12MCG",
+        "13.8MG",
+        "15MG",
+        "20MG",
+        "2MG",
+        "3.4MG",
+        "300MG",
+        "35MG",
+        "3MG",
+        "50MG",
+        "5MG",
+        "600UNIT"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "PREGNANCY MULTIVITAMIN FOLIC 5",
+      "doses": [
+        "0.15MG",
+        "1.6MG",
+        "10MG",
+        "120MG",
+        "12MCG",
+        "13.8MG",
+        "15MG",
+        "20MG",
+        "2MG",
+        "3.4MG",
+        "300MG",
+        "35MG",
+        "3MG",
+        "50MG",
+        "5MG",
+        "600UNIT"
+      ],
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "TRAMADOL/ACET",
+      "doses": [
+        "325MG",
+        "37.5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-15T13:03:09.471Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "NEORAL",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
+        },
+        {
+          "drug": "PREGNANCY MULTIVITAMIN",
+          "doses": [
+            "0.15MG",
+            "1.1MG",
+            "1.6MG",
+            "10MG",
+            "120MG",
+            "12MCG",
+            "13.8MG",
+            "15MG",
+            "20MG",
+            "2MG",
+            "3.4MG",
+            "300MG",
+            "35MG",
+            "3MG",
+            "50MG",
+            "5MG",
+            "600UNIT"
+          ],
+          "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+        },
+        {
+          "drug": "PREGNANCY MULTIVITAMIN FOLIC 5",
+          "doses": [
+            "0.15MG",
+            "1.6MG",
+            "10MG",
+            "120MG",
+            "12MCG",
+            "13.8MG",
+            "15MG",
+            "20MG",
+            "2MG",
+            "3.4MG",
+            "300MG",
+            "35MG",
+            "3MG",
+            "50MG",
+            "5MG",
+            "600UNIT"
+          ],
+          "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+        },
+        {
+          "drug": "TRAMADOL/ACET",
+          "doses": [
+            "325MG",
+            "37.5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-14T14:38:24.410Z",
       "addedDrugsCount": 2,
@@ -382,27 +493,6 @@
       "refreshedAt": "2026-09-01T12:57:48.363Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-08-31T15:45:00.204Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CEFTRIAXONE SODIUM FOR INJECTION BP",
-          "doses": [
-            "2G"
-          ],
-          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
-        },
-        {
-          "drug": "LOSARTAN HCT",
-          "doses": [
-            "100MG",
-            "12.5MG"
-          ],
-          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
