@@ -1,26 +1,137 @@
 {
-  "count": 379,
-  "refreshedAt": "2026-09-14T14:38:24.410Z",
+  "count": 377,
+  "refreshedAt": "2026-09-15T13:03:09.471Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "CANDESARTAN PLUS",
+      "drug": "NEORAL",
       "doses": [
-        "12.5MG",
-        "16MG"
+        "10MG"
       ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
     },
     {
-      "drug": "PERINDOPRIL ERBUMINE",
+      "drug": "PREGNANCY MULTIVITAMIN",
       "doses": [
-        "8MG"
+        "0.15MG",
+        "1.1MG",
+        "1.6MG",
+        "10MG",
+        "120MG",
+        "12MCG",
+        "13.8MG",
+        "15MG",
+        "20MG",
+        "2MG",
+        "3.4MG",
+        "300MG",
+        "35MG",
+        "3MG",
+        "50MG",
+        "5MG",
+        "600UNIT"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "PREGNANCY MULTIVITAMIN FOLIC 5",
+      "doses": [
+        "0.15MG",
+        "1.6MG",
+        "10MG",
+        "120MG",
+        "12MCG",
+        "13.8MG",
+        "15MG",
+        "20MG",
+        "2MG",
+        "3.4MG",
+        "300MG",
+        "35MG",
+        "3MG",
+        "50MG",
+        "5MG",
+        "600UNIT"
+      ],
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "TRAMADOL/ACET",
+      "doses": [
+        "325MG",
+        "37.5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-15T13:03:09.471Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "NEORAL",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
+        },
+        {
+          "drug": "PREGNANCY MULTIVITAMIN",
+          "doses": [
+            "0.15MG",
+            "1.1MG",
+            "1.6MG",
+            "10MG",
+            "120MG",
+            "12MCG",
+            "13.8MG",
+            "15MG",
+            "20MG",
+            "2MG",
+            "3.4MG",
+            "300MG",
+            "35MG",
+            "3MG",
+            "50MG",
+            "5MG",
+            "600UNIT"
+          ],
+          "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+        },
+        {
+          "drug": "PREGNANCY MULTIVITAMIN FOLIC 5",
+          "doses": [
+            "0.15MG",
+            "1.6MG",
+            "10MG",
+            "120MG",
+            "12MCG",
+            "13.8MG",
+            "15MG",
+            "20MG",
+            "2MG",
+            "3.4MG",
+            "300MG",
+            "35MG",
+            "3MG",
+            "50MG",
+            "5MG",
+            "600UNIT"
+          ],
+          "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+        },
+        {
+          "drug": "TRAMADOL/ACET",
+          "doses": [
+            "325MG",
+            "37.5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-14T14:38:24.410Z",
       "addedDrugsCount": 2,
@@ -383,27 +494,6 @@
       "refreshedAt": "2026-09-01T12:57:48.363Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-08-31T15:45:00.204Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CEFTRIAXONE SODIUM FOR INJECTION BP",
-          "doses": [
-            "2G"
-          ],
-          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
-        },
-        {
-          "drug": "LOSARTAN HCT",
-          "doses": [
-            "100MG",
-            "12.5MG"
-          ],
-          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -441,18 +531,6 @@
         "200MG"
       ],
       "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "drug": "ACID CONCENTRATE D12272",
-      "doses": [
-        "10.8G",
-        "2.14G",
-        "263G",
-        "45G",
-        "6.7G",
-        "7.49G"
-      ],
-      "expectedBackInStockDate": "2026-09-09T04:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR",
@@ -909,14 +987,6 @@
       "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
-      "drug": "CANDESARTAN PLUS",
-      "doses": [
-        "12.5MG",
-        "16MG"
-      ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-    },
-    {
       "drug": "CARBAMAZEPINE CR",
       "doses": [
         "200MG"
@@ -984,7 +1054,7 @@
       "doses": [
         "12.5MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
     },
     {
       "drug": "CIMETIDINE",
@@ -1009,7 +1079,7 @@
         "500MG",
         "750MG"
       ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "CIPROFLOXACIN/DEXAMETHASONE",
@@ -1031,7 +1101,7 @@
       "doses": [
         "0.05%"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
       "drug": "CLOPIDOGREL",
@@ -1136,7 +1206,7 @@
         "100MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
     },
     {
       "drug": "DEXAMETHASONE OMEGA UNIDOSE",
@@ -1182,17 +1252,6 @@
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
-      "drug": "DIANEAL PD101 CAPD SOLUTION WITH 4.25% DEXTROSE",
-      "doses": [
-        "15.2MG",
-        "23.9MG",
-        "392MG",
-        "4.25G",
-        "567MG"
-      ],
-      "expectedBackInStockDate": "2026-09-10T04:00:00.000Z"
-    },
-    {
       "drug": "DIAZEPAM",
       "doses": [
         "10MG"
@@ -1211,7 +1270,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "DILAUDID",
@@ -1495,13 +1554,6 @@
         "100MG"
       ],
       "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-    },
-    {
-      "drug": "FENOFIBRATE E",
-      "doses": [
-        "145MG"
-      ],
-      "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
     {
       "drug": "FESOTERODINE FUMARATE",
@@ -1860,6 +1912,8 @@
       "doses": [
         "10MG",
         "15MG",
+        "2.5MG",
+        "20MG",
         "5MG"
       ],
       "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
@@ -2151,6 +2205,13 @@
         "250MG"
       ],
       "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "NEORAL",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
     },
     {
       "drug": "NEXVIAZYME",
@@ -2539,7 +2600,52 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "PREGNANCY MULTIVITAMIN",
+      "doses": [
+        "0.15MG",
+        "1.1MG",
+        "1.6MG",
+        "10MG",
+        "120MG",
+        "12MCG",
+        "13.8MG",
+        "15MG",
+        "20MG",
+        "2MG",
+        "3.4MG",
+        "300MG",
+        "35MG",
+        "3MG",
+        "50MG",
+        "5MG",
+        "600UNIT"
+      ],
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "PREGNANCY MULTIVITAMIN FOLIC 5",
+      "doses": [
+        "0.15MG",
+        "1.6MG",
+        "10MG",
+        "120MG",
+        "12MCG",
+        "13.8MG",
+        "15MG",
+        "20MG",
+        "2MG",
+        "3.4MG",
+        "300MG",
+        "35MG",
+        "3MG",
+        "50MG",
+        "5MG",
+        "600UNIT"
+      ],
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
       "drug": "PRO-DILTIAZEM CD",
@@ -2675,7 +2781,7 @@
       "doses": [
         "0.8MG"
       ],
-      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
     },
     {
       "drug": "RILUZOLE",
@@ -2859,7 +2965,7 @@
         "20MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "TAMSULOSIN",
@@ -2909,7 +3015,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-09-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
     },
     {
       "drug": "TEMODAL",
@@ -3003,13 +3109,6 @@
       "expectedBackInStockDate": "2027-07-30T04:00:00.000Z"
     },
     {
-      "drug": "TOBI",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-09-08T04:00:00.000Z"
-    },
-    {
       "drug": "TOLTERODINE LA",
       "doses": [
         "2MG",
@@ -3033,6 +3132,14 @@
       "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
     },
     {
+      "drug": "TRAMADOL/ACET",
+      "doses": [
+        "325MG",
+        "37.5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+    },
+    {
       "drug": "TRANDOLAPRIL",
       "doses": [
         "0.5MG",
@@ -3048,13 +3155,6 @@
         "100MG"
       ],
       "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    },
-    {
-      "drug": "TRAVOPROST",
-      "doses": [
-        "0.004%"
-      ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "TRAVOPROST-TIMOP PQ",
