@@ -1,5 +1,61 @@
 [
   {
+    "id": "shortage:241511",
+    "reportId": 241511,
+    "type": "shortage",
+    "brandName": "PEGASYS",
+    "status": "active_confirmed",
+    "din": "02248077",
+    "strength": "180MCG",
+    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-16T01:18:48.000Z",
+    "updateDate": "2026-09-16T01:18:48.000Z",
+    "postedDate": "2024-10-30T00:30:01.000Z"
+  },
+  {
+    "id": "shortage:289613",
+    "reportId": 289613,
+    "type": "shortage",
+    "brandName": "METADOL",
+    "status": "active_confirmed",
+    "din": "02247694",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-09-07T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-15T22:34:48.000Z",
+    "updateDate": "2026-09-15T22:34:48.000Z",
+    "postedDate": "2026-07-21T16:37:20.000Z"
+  },
+  {
+    "id": "shortage:293436",
+    "reportId": 293436,
+    "type": "shortage",
+    "brandName": "NIVESTYM",
+    "status": "active_confirmed",
+    "din": "02485591",
+    "strength": "300MCG",
+    "expectedBackInStockDate": "2026-10-26T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-15T22:23:22.000Z",
+    "updateDate": "2026-09-15T22:23:22.000Z",
+    "postedDate": "2026-09-15T22:21:52.000Z"
+  },
+  {
+    "id": "shortage:290814",
+    "reportId": 290814,
+    "type": "shortage",
+    "brandName": "METADOL",
+    "status": "active_confirmed",
+    "din": "02247699",
+    "strength": "5MG",
+    "expectedBackInStockDate": "2026-09-21T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-15T22:04:10.000Z",
+    "updateDate": "2026-09-15T22:04:10.000Z",
+    "postedDate": "2026-08-06T22:02:52.000Z"
+  },
+  {
     "id": "shortage:291194",
     "reportId": 291194,
     "type": "shortage",
@@ -516,20 +572,6 @@
     "updatedDate": "2026-09-14T16:23:21.000Z",
     "updateDate": "2026-09-14T16:23:21.000Z",
     "postedDate": "2026-08-24T21:49:17.000Z"
-  },
-  {
-    "id": "shortage:290630",
-    "reportId": 290630,
-    "type": "shortage",
-    "brandName": "GABAPENTIN",
-    "status": "active_confirmed",
-    "din": "02353261",
-    "strength": "400MG",
-    "expectedBackInStockDate": "2026-09-18T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-14T16:19:26.000Z",
-    "updateDate": "2026-09-14T16:19:26.000Z",
-    "postedDate": "2026-08-05T17:10:54.000Z"
   },
   {
     "id": "shortage:291395",
@@ -2590,20 +2632,6 @@
     "postedDate": "2026-04-27T21:10:40.000Z"
   },
   {
-    "id": "shortage:290303",
-    "reportId": 290303,
-    "type": "shortage",
-    "brandName": "METADOL",
-    "status": "active_confirmed",
-    "din": "02247698",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-08-24T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-02T22:07:09.000Z",
-    "updateDate": "2026-09-02T22:07:09.000Z",
-    "postedDate": "2026-07-31T00:12:11.000Z"
-  },
-  {
     "id": "shortage:289577",
     "reportId": 289577,
     "type": "shortage",
@@ -2756,20 +2784,6 @@
     "updatedDate": "2026-09-02T02:29:38.000Z",
     "updateDate": "2026-09-02T02:29:38.000Z",
     "postedDate": "2026-08-01T00:04:41.000Z"
-  },
-  {
-    "id": "shortage:291874",
-    "reportId": 291874,
-    "type": "shortage",
-    "brandName": "HYDROMORPH CONTIN-CONTROLLED RELEASE CAP - 18MG",
-    "status": "active_confirmed",
-    "din": "02243562",
-    "strength": "18MG",
-    "expectedBackInStockDate": "2026-09-03T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-31T20:27:21.000Z",
-    "updateDate": "2026-08-31T20:27:21.000Z",
-    "postedDate": "2026-08-24T16:18:45.000Z"
   },
   {
     "id": "shortage:292360",
@@ -4480,20 +4494,6 @@
     "postedDate": "2026-06-13T00:49:28.000Z"
   },
   {
-    "id": "shortage:290814",
-    "reportId": 290814,
-    "type": "shortage",
-    "brandName": "METADOL",
-    "status": "active_confirmed",
-    "din": "02247699",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-09-21T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-06T22:04:14.000Z",
-    "updateDate": "2026-08-06T22:04:14.000Z",
-    "postedDate": "2026-08-06T22:02:52.000Z"
-  },
-  {
     "id": "shortage:262196",
     "reportId": 262196,
     "type": "shortage",
@@ -5096,20 +5096,6 @@
     "postedDate": "2026-01-08T23:13:36.000Z"
   },
   {
-    "id": "shortage:241511",
-    "reportId": 241511,
-    "type": "shortage",
-    "brandName": "PEGASYS",
-    "status": "active_confirmed",
-    "din": "02248077",
-    "strength": "180MCG",
-    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-30T00:42:44.000Z",
-    "updateDate": "2026-07-30T00:42:44.000Z",
-    "postedDate": "2024-10-30T00:30:01.000Z"
-  },
-  {
     "id": "shortage:212529",
     "reportId": 212529,
     "type": "shortage",
@@ -5388,20 +5374,6 @@
     "updatedDate": "2026-07-29T09:08:00.000Z",
     "updateDate": "2026-07-29T09:08:00.000Z",
     "postedDate": "2026-03-10T19:06:00.000Z"
-  },
-  {
-    "id": "shortage:289613",
-    "reportId": 289613,
-    "type": "shortage",
-    "brandName": "METADOL",
-    "status": "active_confirmed",
-    "din": "02247694",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-09-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-28T21:49:42.000Z",
-    "updateDate": "2026-07-28T21:49:42.000Z",
-    "postedDate": "2026-07-21T16:37:20.000Z"
   },
   {
     "id": "shortage:279490",
@@ -8734,20 +8706,6 @@
     "updatedDate": "2026-03-02T20:04:55.000Z",
     "updateDate": "2026-03-02T20:04:55.000Z",
     "postedDate": "2025-05-05T22:57:40.000Z"
-  },
-  {
-    "id": "shortage:124877",
-    "reportId": 124877,
-    "type": "shortage",
-    "brandName": "OPTIMYXIN",
-    "status": "active_confirmed",
-    "din": "00701785",
-    "strength": "0.025MG\r\n10000UNIT",
-    "expectedBackInStockDate": "2026-06-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-02-20T18:41:57.000Z",
-    "updateDate": "2026-02-20T18:41:57.000Z",
-    "postedDate": "2020-09-24T19:21:41.000Z"
   },
   {
     "id": "shortage:272009",
