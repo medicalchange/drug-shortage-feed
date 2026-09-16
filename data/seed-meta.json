@@ -1,70 +1,30 @@
 {
-  "refreshedAt": "2026-09-15T13:03:09.471Z",
-  "count": 673,
-  "addedDrugsCount": 4,
+  "refreshedAt": "2026-09-16T13:00:56.149Z",
+  "count": 670,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "NEORAL",
+      "drug": "NIVESTYM",
       "doses": [
-        "10MG"
+        "300MCG"
       ],
-      "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
-    },
-    {
-      "drug": "PREGNANCY MULTIVITAMIN",
-      "doses": [
-        "0.15MG",
-        "1.1MG",
-        "1.6MG",
-        "10MG",
-        "120MG",
-        "12MCG",
-        "13.8MG",
-        "15MG",
-        "20MG",
-        "2MG",
-        "3.4MG",
-        "300MG",
-        "35MG",
-        "3MG",
-        "50MG",
-        "5MG",
-        "600UNIT"
-      ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "PREGNANCY MULTIVITAMIN FOLIC 5",
-      "doses": [
-        "0.15MG",
-        "1.6MG",
-        "10MG",
-        "120MG",
-        "12MCG",
-        "13.8MG",
-        "15MG",
-        "20MG",
-        "2MG",
-        "3.4MG",
-        "300MG",
-        "35MG",
-        "3MG",
-        "50MG",
-        "5MG",
-        "600UNIT"
-      ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "TRAMADOL/ACET",
-      "doses": [
-        "325MG",
-        "37.5MG"
-      ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-16T13:00:56.149Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "NIVESTYM",
+          "doses": [
+            "300MCG"
+          ],
+          "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-15T13:03:09.471Z",
       "addedDrugsCount": 4,
@@ -486,11 +446,6 @@
     },
     {
       "refreshedAt": "2026-09-02T12:26:56.174Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-09-01T12:57:48.363Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
