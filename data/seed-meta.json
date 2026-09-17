@@ -1,17 +1,90 @@
 {
-  "refreshedAt": "2026-09-16T13:00:56.149Z",
-  "count": 670,
-  "addedDrugsCount": 1,
+  "refreshedAt": "2026-09-17T12:56:56.712Z",
+  "count": 669,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "NIVESTYM",
+      "drug": "BACTERIOSTATIC WATER FOR INJECTION USP",
       "doses": [
-        "300MCG"
+        "30ML"
       ],
-      "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "drug": "COSOPT PRESERVATIVE-FREE",
+      "doses": [
+        "20MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "drug": "HIZENTRA",
+      "doses": [
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-09-16T04:00:00.000Z"
+    },
+    {
+      "drug": "OLMESARTAN",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+    },
+    {
+      "drug": "SILENOR",
+      "doses": [
+        "3MG",
+        "6MG"
+      ],
+      "expectedBackInStockDate": "2026-10-15T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-17T12:56:56.712Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "BACTERIOSTATIC WATER FOR INJECTION USP",
+          "doses": [
+            "30ML"
+          ],
+          "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+        },
+        {
+          "drug": "COSOPT PRESERVATIVE-FREE",
+          "doses": [
+            "20MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+        },
+        {
+          "drug": "HIZENTRA",
+          "doses": [
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-09-16T04:00:00.000Z"
+        },
+        {
+          "drug": "OLMESARTAN",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+        },
+        {
+          "drug": "SILENOR",
+          "doses": [
+            "3MG",
+            "6MG"
+          ],
+          "expectedBackInStockDate": "2026-10-15T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-16T13:00:56.149Z",
       "addedDrugsCount": 1,
@@ -443,11 +516,6 @@
           "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-02T12:26:56.174Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
