@@ -1,5 +1,103 @@
 [
   {
+    "id": "shortage:287682",
+    "reportId": 287682,
+    "type": "shortage",
+    "brandName": "NEXVIAZYME",
+    "status": "active_confirmed",
+    "din": "02522365",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-10-05T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-17T22:45:15.000Z",
+    "updateDate": "2026-09-17T22:45:15.000Z",
+    "postedDate": "2026-06-19T00:14:43.000Z"
+  },
+  {
+    "id": "shortage:205711",
+    "reportId": 205711,
+    "type": "shortage",
+    "brandName": "SANDOMIGRAN DS",
+    "status": "active_confirmed",
+    "din": "00511552",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-12-12T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-17T22:37:58.000Z",
+    "updateDate": "2026-09-17T22:37:58.000Z",
+    "postedDate": "2023-10-02T21:39:44.000Z"
+  },
+  {
+    "id": "shortage:293572",
+    "reportId": 293572,
+    "type": "shortage",
+    "brandName": "SANDOMIGRAN DS",
+    "status": "active_confirmed",
+    "din": "00511552",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-12-12T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-17T22:33:16.000Z",
+    "updateDate": "2026-09-17T22:33:16.000Z",
+    "postedDate": "2026-09-17T22:30:27.000Z"
+  },
+  {
+    "id": "shortage:289503",
+    "reportId": 289503,
+    "type": "shortage",
+    "brandName": "ASMANEX TWISTHALER",
+    "status": "active_confirmed",
+    "din": "02243596",
+    "strength": "400MCG",
+    "expectedBackInStockDate": "2027-04-27T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-17T19:58:24.000Z",
+    "updateDate": "2026-09-17T19:58:24.000Z",
+    "postedDate": "2026-07-17T23:25:37.000Z"
+  },
+  {
+    "id": "shortage:293538",
+    "reportId": 293538,
+    "type": "shortage",
+    "brandName": "PMS-TENOFOVIR",
+    "status": "active_confirmed",
+    "din": "02453940",
+    "strength": "300MG",
+    "expectedBackInStockDate": "2027-01-12T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-17T18:30:42.000Z",
+    "updateDate": "2026-09-17T18:30:42.000Z",
+    "postedDate": "2026-09-17T18:30:16.000Z"
+  },
+  {
+    "id": "shortage:284619",
+    "reportId": 284619,
+    "type": "shortage",
+    "brandName": "SCOPOLAMINE HYDROBROMIDE INJECTION",
+    "status": "active_confirmed",
+    "din": "02242810",
+    "strength": "0.4MG",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-17T17:10:37.000Z",
+    "updateDate": "2026-09-17T17:10:37.000Z",
+    "postedDate": "2026-05-06T19:29:48.000Z"
+  },
+  {
+    "id": "shortage:292976",
+    "reportId": 292976,
+    "type": "shortage",
+    "brandName": "NITROJECT",
+    "status": "active_confirmed",
+    "din": "00778869",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-09-17T17:08:54.000Z",
+    "updateDate": "2026-09-17T17:08:54.000Z",
+    "postedDate": "2026-09-09T18:01:47.000Z"
+  },
+  {
     "id": "shortage:291138",
     "reportId": 291138,
     "type": "shortage",
@@ -1512,20 +1610,6 @@
     "postedDate": "2026-08-24T22:00:41.000Z"
   },
   {
-    "id": "shortage:292976",
-    "reportId": 292976,
-    "type": "shortage",
-    "brandName": "NITROJECT",
-    "status": "active_confirmed",
-    "din": "00778869",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-09T18:02:05.000Z",
-    "updateDate": "2026-09-09T18:02:05.000Z",
-    "postedDate": "2026-09-09T18:01:47.000Z"
-  },
-  {
     "id": "shortage:289708",
     "reportId": 289708,
     "type": "shortage",
@@ -2226,34 +2310,6 @@
     "postedDate": "2026-09-04T22:36:58.000Z"
   },
   {
-    "id": "shortage:292726",
-    "reportId": 292726,
-    "type": "shortage",
-    "brandName": "PMS-AMIODARONE",
-    "status": "active_confirmed",
-    "din": "02242472",
-    "strength": "200MG",
-    "expectedBackInStockDate": "2026-09-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-04T22:35:14.000Z",
-    "updateDate": "2026-09-04T22:35:14.000Z",
-    "postedDate": "2026-09-04T22:33:58.000Z"
-  },
-  {
-    "id": "shortage:290187",
-    "reportId": 290187,
-    "type": "shortage",
-    "brandName": "PMS-TRANDOLAPRIL",
-    "status": "active_confirmed",
-    "din": "02357798",
-    "strength": "4MG",
-    "expectedBackInStockDate": "2026-09-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-04T22:25:53.000Z",
-    "updateDate": "2026-09-04T22:25:53.000Z",
-    "postedDate": "2026-07-30T00:51:46.000Z"
-  },
-  {
     "id": "shortage:290183",
     "reportId": 290183,
     "type": "shortage",
@@ -2434,34 +2490,6 @@
     "updatedDate": "2026-09-04T21:47:52.000Z",
     "updateDate": "2026-09-04T21:47:52.000Z",
     "postedDate": "2026-09-04T21:47:30.000Z"
-  },
-  {
-    "id": "shortage:288232",
-    "reportId": 288232,
-    "type": "shortage",
-    "brandName": "PMS-MEMANTINE",
-    "status": "active_confirmed",
-    "din": "02382830",
-    "strength": "5.0MG",
-    "expectedBackInStockDate": "2026-09-08T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-04T20:13:07.000Z",
-    "updateDate": "2026-09-04T20:13:07.000Z",
-    "postedDate": "2026-06-29T17:30:55.000Z"
-  },
-  {
-    "id": "shortage:291035",
-    "reportId": 291035,
-    "type": "shortage",
-    "brandName": "PMS-LOSARTAN",
-    "status": "active_confirmed",
-    "din": "02309769",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-09-29T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-04T20:12:03.000Z",
-    "updateDate": "2026-09-04T20:12:03.000Z",
-    "postedDate": "2026-08-10T17:16:11.000Z"
   },
   {
     "id": "shortage:288876",
@@ -3808,20 +3836,6 @@
     "postedDate": "2026-06-17T14:49:25.000Z"
   },
   {
-    "id": "shortage:287682",
-    "reportId": 287682,
-    "type": "shortage",
-    "brandName": "NEXVIAZYME",
-    "status": "active_confirmed",
-    "din": "02522365",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-09-21T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-21T00:00:16.000Z",
-    "updateDate": "2026-08-21T00:00:16.000Z",
-    "postedDate": "2026-06-19T00:14:43.000Z"
-  },
-  {
     "id": "shortage:291229",
     "reportId": 291229,
     "type": "shortage",
@@ -4228,20 +4242,6 @@
     "postedDate": "2026-02-05T20:46:45.000Z"
   },
   {
-    "id": "shortage:286146",
-    "reportId": 286146,
-    "type": "shortage",
-    "brandName": "BOOSTRIX",
-    "status": "active_confirmed",
-    "din": "02247600",
-    "strength": "2.5MCG\r\n20UNIT\r\n8MCG\r\n8MCG\r\n2UNIT",
-    "expectedBackInStockDate": "2026-08-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-12T21:35:31.000Z",
-    "updateDate": "2026-08-12T21:35:31.000Z",
-    "postedDate": "2026-06-02T21:08:47.000Z"
-  },
-  {
     "id": "shortage:285859",
     "reportId": 285859,
     "type": "shortage",
@@ -4366,20 +4366,6 @@
     "updatedDate": "2026-08-10T17:41:09.000Z",
     "updateDate": "2026-08-10T17:41:09.000Z",
     "postedDate": "2023-09-15T21:35:53.000Z"
-  },
-  {
-    "id": "shortage:291032",
-    "reportId": 291032,
-    "type": "shortage",
-    "brandName": "PMS-CARVEDILOL",
-    "status": "active_confirmed",
-    "din": "02245917",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-09-16T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-10T17:12:52.000Z",
-    "updateDate": "2026-08-10T17:12:52.000Z",
-    "postedDate": "2026-08-10T17:12:21.000Z"
   },
   {
     "id": "shortage:288894",
@@ -5334,20 +5320,6 @@
     "postedDate": "2026-03-21T00:59:36.000Z"
   },
   {
-    "id": "shortage:281039",
-    "reportId": 281039,
-    "type": "shortage",
-    "brandName": "JAMP RALOXIFENE",
-    "status": "active_confirmed",
-    "din": "02540681",
-    "strength": "60MG",
-    "expectedBackInStockDate": "2026-08-21T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T09:52:06.000Z",
-    "updateDate": "2026-07-29T09:52:06.000Z",
-    "postedDate": "2026-03-21T00:56:25.000Z"
-  },
-  {
     "id": "shortage:281033",
     "reportId": 281033,
     "type": "shortage",
@@ -5360,20 +5332,6 @@
     "updatedDate": "2026-07-29T09:51:00.000Z",
     "updateDate": "2026-07-29T09:51:00.000Z",
     "postedDate": "2026-03-21T00:47:49.000Z"
-  },
-  {
-    "id": "shortage:280961",
-    "reportId": 280961,
-    "type": "shortage",
-    "brandName": "ESOMEPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02520699",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-08-14T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T09:46:27.000Z",
-    "updateDate": "2026-07-29T09:46:27.000Z",
-    "postedDate": "2026-03-20T23:17:54.000Z"
   },
   {
     "id": "shortage:280955",
@@ -6032,20 +5990,6 @@
     "updatedDate": "2026-07-04T01:40:28.000Z",
     "updateDate": "2026-07-04T01:40:28.000Z",
     "postedDate": "2026-07-04T01:39:18.000Z"
-  },
-  {
-    "id": "shortage:288555",
-    "reportId": 288555,
-    "type": "shortage",
-    "brandName": "JAMP QUINAPRIL / HCTZ",
-    "status": "active_confirmed",
-    "din": "02547449",
-    "strength": "25MG\r\n20MG",
-    "expectedBackInStockDate": "2026-08-14T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-04T01:32:58.000Z",
-    "updateDate": "2026-07-04T01:32:58.000Z",
-    "postedDate": "2026-07-04T01:32:30.000Z"
   },
   {
     "id": "shortage:283708",
@@ -6914,20 +6858,6 @@
     "updatedDate": "2026-06-16T19:48:32.000Z",
     "updateDate": "2026-06-16T19:48:32.000Z",
     "postedDate": "2025-11-04T10:24:21.000Z"
-  },
-  {
-    "id": "shortage:285287",
-    "reportId": 285287,
-    "type": "shortage",
-    "brandName": "TWINRIX JUNIOR",
-    "status": "active_confirmed",
-    "din": "02237548",
-    "strength": "10MCG\r\n360UNIT",
-    "expectedBackInStockDate": "2026-06-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-16T00:28:11.000Z",
-    "updateDate": "2026-06-16T00:28:11.000Z",
-    "postedDate": "2026-05-15T18:03:16.000Z"
   },
   {
     "id": "shortage:286870",
@@ -8190,48 +8120,6 @@
     "postedDate": "2025-12-03T22:00:08.000Z"
   },
   {
-    "id": "shortage:271015",
-    "reportId": 271015,
-    "type": "shortage",
-    "brandName": "JAMP REPAGLINIDE",
-    "status": "active_confirmed",
-    "din": "02354942",
-    "strength": "2MG",
-    "expectedBackInStockDate": "2026-09-04T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-16T00:42:56.000Z",
-    "updateDate": "2026-04-16T00:42:56.000Z",
-    "postedDate": "2025-11-04T11:25:18.000Z"
-  },
-  {
-    "id": "shortage:271012",
-    "reportId": 271012,
-    "type": "shortage",
-    "brandName": "JAMP REPAGLINIDE",
-    "status": "active_confirmed",
-    "din": "02354934",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-09-04T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-16T00:41:57.000Z",
-    "updateDate": "2026-04-16T00:41:57.000Z",
-    "postedDate": "2025-11-04T11:18:14.000Z"
-  },
-  {
-    "id": "shortage:271009",
-    "reportId": 271009,
-    "type": "shortage",
-    "brandName": "JAMP REPAGLINIDE",
-    "status": "active_confirmed",
-    "din": "02354926",
-    "strength": "0.5MG",
-    "expectedBackInStockDate": "2026-09-04T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-16T00:40:58.000Z",
-    "updateDate": "2026-04-16T00:40:58.000Z",
-    "postedDate": "2025-11-04T11:08:31.000Z"
-  },
-  {
     "id": "shortage:263439",
     "reportId": 263439,
     "type": "shortage",
@@ -8608,20 +8496,6 @@
     "updatedDate": "2026-03-26T22:00:44.000Z",
     "updateDate": "2026-03-26T22:00:44.000Z",
     "postedDate": "2025-02-07T01:26:39.000Z"
-  },
-  {
-    "id": "shortage:205711",
-    "reportId": 205711,
-    "type": "shortage",
-    "brandName": "SANDOMIGRAN DS",
-    "status": "active_confirmed",
-    "din": "00511552",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-07-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-03-26T21:20:12.000Z",
-    "updateDate": "2026-03-26T21:20:12.000Z",
-    "postedDate": "2023-10-02T21:39:44.000Z"
   },
   {
     "id": "shortage:265004",
