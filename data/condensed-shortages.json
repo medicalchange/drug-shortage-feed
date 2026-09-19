@@ -1,18 +1,59 @@
 {
-  "count": 368,
-  "refreshedAt": "2026-09-18T12:35:15.865Z",
+  "count": 366,
+  "refreshedAt": "2026-09-19T12:12:37.201Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "SCOPOLAMINE HYDROBROMIDE INJECTION",
+      "drug": "ACETAMINOPHEN EXTRA STRENGTH",
       "doses": [
-        "0.4MG"
+        "500MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "DORMINAL",
+      "doses": [
+        "240MG"
+      ],
+      "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
+    },
+    {
+      "drug": "TRIMEBUTINE",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-19T12:12:37.201Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "ACETAMINOPHEN EXTRA STRENGTH",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "DORMINAL",
+          "doses": [
+            "240MG"
+          ],
+          "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
+        },
+        {
+          "drug": "TRIMEBUTINE",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-18T12:35:15.865Z",
       "addedDrugsCount": 1,
@@ -386,67 +427,22 @@
           "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-04T12:26:00.585Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "ALPHAGAN P",
-          "doses": [
-            "0.15%"
-          ],
-          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
-        },
-        {
-          "drug": "DIANEAL PD101 CAPD SOLUTION WITH 4.25% DEXTROSE",
-          "doses": [
-            "15.2MG",
-            "23.9MG",
-            "392MG",
-            "4.25G",
-            "567MG"
-          ],
-          "expectedBackInStockDate": "2026-09-10T04:00:00.000Z"
-        },
-        {
-          "drug": "LIPITOR",
-          "doses": [
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
-        },
-        {
-          "drug": "MAVIK",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
-        },
-        {
-          "drug": "NITROSTAT",
-          "doses": [
-            "0.6MG"
-          ],
-          "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
-    {
-      "drug": "ABACAVIR",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-    },
     {
       "drug": "ABIRATERONE",
       "doses": [
         "500MG"
       ],
       "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "drug": "ACETAMINOPHEN EXTRA STRENGTH",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "ACETAMINOPHEN TABLETS USP 325 MG",
@@ -561,7 +557,7 @@
         "10MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "AMLODIPINE/ATORVASTATIN",
@@ -730,7 +726,7 @@
         "1%",
         "5%"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "BENZTROPINE OMEGA",
@@ -990,10 +986,9 @@
       "drug": "CIPROFLOX",
       "doses": [
         "250MG",
-        "500MG",
         "750MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     },
     {
       "drug": "CIPROFLOXACIN/DEXAMETHASONE",
@@ -1015,7 +1010,7 @@
       "doses": [
         "0.05%"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     },
     {
       "drug": "CLOPIDOGREL",
@@ -1073,7 +1068,7 @@
       "doses": [
         "110MG"
       ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "DAPAGLIFLOZIN",
@@ -1120,7 +1115,7 @@
         "100MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "DEXAMETHASONE OMEGA UNIDOSE",
@@ -1180,13 +1175,6 @@
       "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
-      "drug": "DICLOFENAC POTASSIUM POWDER FOR ORAL SOLUTION",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-    },
-    {
       "drug": "DILAUDID",
       "doses": [
         "2MG"
@@ -1241,6 +1229,13 @@
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
+      "drug": "DORMINAL",
+      "doses": [
+        "240MG"
+      ],
+      "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
+    },
+    {
       "drug": "DORZO-TIMOP",
       "doses": [
         "20MG",
@@ -1254,7 +1249,7 @@
         "1MG",
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "DOXYCYCLINE MR",
@@ -1363,7 +1358,7 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-21T05:00:00.000Z"
     },
     {
       "drug": "ERIBULIN",
@@ -1526,13 +1521,6 @@
       "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
     },
     {
-      "drug": "FOLOTYN",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
-    },
-    {
       "drug": "FUROSEMIDE INJECTION USP",
       "doses": [
         "20MG"
@@ -1553,7 +1541,7 @@
       "doses": [
         "0.3%"
       ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-15T05:00:00.000Z"
     },
     {
       "drug": "GEFITINIB",
@@ -1606,7 +1594,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "HYDROCHLOROTHIAZIDE",
@@ -1623,7 +1611,7 @@
         "4MG",
         "8MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION HP 50",
@@ -1822,7 +1810,7 @@
         "20MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
       "drug": "LETROZOLE",
@@ -1890,8 +1878,7 @@
       "drug": "LISDEXAMFETAMINE CAPSULES",
       "doses": [
         "10MG",
-        "40MG",
-        "60MG"
+        "40MG"
       ],
       "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
     },
@@ -2425,16 +2412,6 @@
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
-      "drug": "PRAMIPEXOLE",
-      "doses": [
-        "0.25MG",
-        "0.5MG",
-        "1.0MG",
-        "1.5MG"
-      ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-    },
-    {
       "drug": "PRAVASTATIN",
       "doses": [
         "10MG"
@@ -2444,7 +2421,8 @@
     {
       "drug": "PRAZO",
       "doses": [
-        "1MG"
+        "1MG",
+        "5MG"
       ],
       "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
     },
@@ -2597,7 +2575,7 @@
         "10MG",
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
       "drug": "RASAGILINE",
@@ -2825,7 +2803,7 @@
         "20MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
       "drug": "TAMSULOSIN",
@@ -2997,7 +2975,7 @@
         "325MG",
         "37.5MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "TRANDOLAPRIL",
@@ -3052,6 +3030,13 @@
       "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
+      "drug": "TRIMEBUTINE",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+    },
+    {
       "drug": "TROSPIUM",
       "doses": [
         "20MG"
@@ -3099,7 +3084,7 @@
       "doses": [
         "160MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "VALSARTAN HCT",
@@ -3147,13 +3132,6 @@
         "80MG"
       ],
       "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "drug": "VILAZODONE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "VIMOVO",
@@ -3211,7 +3189,7 @@
       "doses": [
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
       "drug": "ZOLEDRONIC ACID FOR INJECTION",

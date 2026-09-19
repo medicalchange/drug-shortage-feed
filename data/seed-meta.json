@@ -1,17 +1,58 @@
 {
-  "refreshedAt": "2026-09-18T12:35:15.865Z",
-  "count": 660,
-  "addedDrugsCount": 1,
+  "refreshedAt": "2026-09-19T12:12:37.201Z",
+  "count": 650,
+  "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "SCOPOLAMINE HYDROBROMIDE INJECTION",
+      "drug": "ACETAMINOPHEN EXTRA STRENGTH",
       "doses": [
-        "0.4MG"
+        "500MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "DORMINAL",
+      "doses": [
+        "240MG"
+      ],
+      "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
+    },
+    {
+      "drug": "TRIMEBUTINE",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-19T12:12:37.201Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "ACETAMINOPHEN EXTRA STRENGTH",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "DORMINAL",
+          "doses": [
+            "240MG"
+          ],
+          "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
+        },
+        {
+          "drug": "TRIMEBUTINE",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-18T12:35:15.865Z",
       "addedDrugsCount": 1,
@@ -383,51 +424,6 @@
             "80MG"
           ],
           "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-04T12:26:00.585Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "ALPHAGAN P",
-          "doses": [
-            "0.15%"
-          ],
-          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
-        },
-        {
-          "drug": "DIANEAL PD101 CAPD SOLUTION WITH 4.25% DEXTROSE",
-          "doses": [
-            "15.2MG",
-            "23.9MG",
-            "392MG",
-            "4.25G",
-            "567MG"
-          ],
-          "expectedBackInStockDate": "2026-09-10T04:00:00.000Z"
-        },
-        {
-          "drug": "LIPITOR",
-          "doses": [
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
-        },
-        {
-          "drug": "MAVIK",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
-        },
-        {
-          "drug": "NITROSTAT",
-          "doses": [
-            "0.6MG"
-          ],
-          "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
         }
       ]
     }
