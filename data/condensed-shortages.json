@@ -1,32 +1,47 @@
 {
-  "count": 366,
-  "refreshedAt": "2026-09-19T12:12:37.201Z",
+  "count": 368,
+  "refreshedAt": "2026-09-20T12:48:13.745Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 3,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "ACETAMINOPHEN EXTRA STRENGTH",
+      "drug": "AVENTYL",
       "doses": [
-        "500MG"
+        "10MG",
+        "25MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
-      "drug": "DORMINAL",
+      "drug": "MIDAMOR",
       "doses": [
-        "240MG"
+        "5.0MG"
       ],
-      "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
-    },
-    {
-      "drug": "TRIMEBUTINE",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-20T12:48:13.745Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "AVENTYL",
+          "doses": [
+            "10MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+        },
+        {
+          "drug": "MIDAMOR",
+          "doses": [
+            "5.0MG"
+          ],
+          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-19T12:12:37.201Z",
       "addedDrugsCount": 3,
@@ -343,90 +358,6 @@
       "refreshedAt": "2026-09-06T11:52:39.477Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-09-05T11:32:20.171Z",
-      "addedDrugsCount": 11,
-      "addedDrugs": [
-        {
-          "drug": "AMIODARONE",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
-        },
-        {
-          "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
-          "doses": [
-            "1%",
-            "5%"
-          ],
-          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-        },
-        {
-          "drug": "CANDESARTAN",
-          "doses": [
-            "4MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        },
-        {
-          "drug": "CELESTONE SOLUSPAN",
-          "doses": [
-            "3MG"
-          ],
-          "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
-        },
-        {
-          "drug": "DESMOPRESSIN SPRAY",
-          "doses": [
-            "10MCG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        },
-        {
-          "drug": "DIAZEPAM",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-        },
-        {
-          "drug": "FAMPRIDINE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        },
-        {
-          "drug": "FENOFIBRATE E",
-          "doses": [
-            "145MG"
-          ],
-          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
-        },
-        {
-          "drug": "HYDRALAZINE",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-        },
-        {
-          "drug": "TESTOSTERONE GEL",
-          "doses": [
-            "1%"
-          ],
-          "expectedBackInStockDate": "2026-10-03T04:00:00.000Z"
-        },
-        {
-          "drug": "VERAP",
-          "doses": [
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -705,6 +636,14 @@
         "80MG"
       ],
       "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+    },
+    {
+      "drug": "AVENTYL",
+      "doses": [
+        "10MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "BACTERIOSTATIC WATER FOR INJECTION USP",
@@ -1100,7 +1039,7 @@
       "doses": [
         "10MCG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     },
     {
       "drug": "DESONIDE",
@@ -1733,7 +1672,7 @@
       "doses": [
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-24T05:00:00.000Z"
     },
     {
       "drug": "KETOROLAC TROMETHAMINE INJECTION, USP",
@@ -2002,6 +1941,13 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
+    },
+    {
+      "drug": "MIDAMOR",
+      "doses": [
+        "5.0MG"
+      ],
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
       "drug": "MIOCHOL-E",
