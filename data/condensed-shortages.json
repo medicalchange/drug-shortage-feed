@@ -1,26 +1,15 @@
 {
-  "count": 368,
-  "refreshedAt": "2026-09-20T12:48:13.745Z",
+  "count": 367,
+  "refreshedAt": "2026-09-21T14:45:45.868Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
-  "addedDrugs": [
-    {
-      "drug": "AVENTYL",
-      "doses": [
-        "10MG",
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "drug": "MIDAMOR",
-      "doses": [
-        "5.0MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-21T14:45:45.868Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-09-20T12:48:13.745Z",
       "addedDrugsCount": 2,
@@ -353,11 +342,6 @@
       "refreshedAt": "2026-09-07T13:52:37.060Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-09-06T11:52:39.477Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -564,7 +548,7 @@
         "20MG",
         "30MG"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "APRI 28",
@@ -824,7 +808,7 @@
         "100MG",
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "CANDESARTAN",
@@ -1589,7 +1573,7 @@
         "50MG",
         "75MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "INDAPAMIDE",
@@ -1859,7 +1843,7 @@
       "doses": [
         "60MG"
       ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "LURASIDONE",
@@ -1999,7 +1983,7 @@
       "doses": [
         "529MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "MYCOPHENOLATE",
@@ -2333,14 +2317,6 @@
         "100MG"
       ],
       "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-      "doses": [
-        "0.5G",
-        "4G"
-      ],
-      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "PIRFENIDONE TABLETS",
@@ -3092,7 +3068,7 @@
       "doses": [
         "200MG"
       ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "VISUDYNE",
@@ -3106,7 +3082,7 @@
       "doses": [
         "1000MCG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "VORICONAZOLE FOR INJECTION",
@@ -3149,14 +3125,14 @@
       "doses": [
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2028-01-03T05:00:00.000Z"
+      "expectedBackInStockDate": "2028-09-08T04:00:00.000Z"
     },
     {
       "drug": "ZOLMITRIPTAN ODT",
       "doses": [
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2028-01-03T05:00:00.000Z"
+      "expectedBackInStockDate": "2028-09-08T04:00:00.000Z"
     },
     {
       "drug": "ZOLPIDEM ODT",
