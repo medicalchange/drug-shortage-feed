@@ -1,25 +1,14 @@
 {
-  "refreshedAt": "2026-09-20T12:48:13.745Z",
+  "refreshedAt": "2026-09-21T14:45:45.868Z",
   "count": 654,
-  "addedDrugsCount": 2,
-  "addedDrugs": [
-    {
-      "drug": "AVENTYL",
-      "doses": [
-        "10MG",
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "drug": "MIDAMOR",
-      "doses": [
-        "5.0MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-21T14:45:45.868Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-09-20T12:48:13.745Z",
       "addedDrugsCount": 2,
@@ -350,11 +339,6 @@
     },
     {
       "refreshedAt": "2026-09-07T13:52:37.060Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-09-06T11:52:39.477Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
     }
