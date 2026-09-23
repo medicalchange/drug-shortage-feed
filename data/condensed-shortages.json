@@ -1,39 +1,165 @@
 {
-  "count": 369,
-  "refreshedAt": "2026-09-22T13:00:27.850Z",
+  "count": 370,
+  "refreshedAt": "2026-09-23T13:13:37.837Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 4,
+  "addedDrugsCount": 10,
   "addedDrugs": [
     {
-      "drug": "CLIMARA 50",
+      "drug": "ANDROGEL",
       "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
-    },
-    {
-      "drug": "PAROXETINE TABLETS",
-      "doses": [
-        "30MG"
-      ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-    },
-    {
-      "drug": "REDDY-BOSUTINIB",
-      "doses": [
-        "100MG"
+        "1%"
       ],
       "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
-      "drug": "REDDY-DASATINIB",
+      "drug": "BRIMONIDINE",
       "doses": [
-        "140MG"
+        "0.2%"
       ],
-      "expectedBackInStockDate": "2027-09-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+    },
+    {
+      "drug": "CREON MINIMICROSPHERES 25",
+      "doses": [
+        "1600UNIT",
+        "25000UNIT",
+        "25500UNIT"
+      ],
+      "expectedBackInStockDate": "2026-11-02T05:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-10-24T04:00:00.000Z"
+    },
+    {
+      "drug": "RIMSO-50",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "drug": "STERILE LIGHT MINERAL OIL 100%",
+      "doses": [
+        "100%"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "TELMISARTAN-HCT",
+      "doses": [
+        "12.5MG",
+        "25MG",
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "drug": "TIMOLOL",
+      "doses": [
+        "0.5%"
+      ],
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "drug": "TOLTERODINE",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "drug": "TRAVOPROST Z",
+      "doses": [
+        "0.004%"
+      ],
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-23T13:13:37.837Z",
+      "addedDrugsCount": 10,
+      "addedDrugs": [
+        {
+          "drug": "ANDROGEL",
+          "doses": [
+            "1%"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "BRIMONIDINE",
+          "doses": [
+            "0.2%"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        },
+        {
+          "drug": "CREON MINIMICROSPHERES 25",
+          "doses": [
+            "1600UNIT",
+            "25000UNIT",
+            "25500UNIT"
+          ],
+          "expectedBackInStockDate": "2026-11-02T05:00:00.000Z"
+        },
+        {
+          "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-10-24T04:00:00.000Z"
+        },
+        {
+          "drug": "RIMSO-50",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+        },
+        {
+          "drug": "STERILE LIGHT MINERAL OIL 100%",
+          "doses": [
+            "100%"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "TELMISARTAN-HCT",
+          "doses": [
+            "12.5MG",
+            "25MG",
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+        },
+        {
+          "drug": "TIMOLOL",
+          "doses": [
+            "0.5%"
+          ],
+          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+        },
+        {
+          "drug": "TOLTERODINE",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+        },
+        {
+          "drug": "TRAVOPROST Z",
+          "doses": [
+            "0.004%"
+          ],
+          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-22T13:00:27.850Z",
       "addedDrugsCount": 4,
@@ -395,11 +521,6 @@
           "expectedBackInStockDate": "2027-04-30T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-08T12:30:25.281Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -446,13 +567,6 @@
       "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
     },
     {
-      "drug": "ACYCLOVIR SODIUM INJECTION",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-07-02T04:00:00.000Z"
-    },
-    {
       "drug": "AFATINIB",
       "doses": [
         "20MG"
@@ -496,13 +610,6 @@
       "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
-      "drug": "ALMOTRIPTAN",
-      "doses": [
-        "12.5MG"
-      ],
-      "expectedBackInStockDate": "2026-01-23T05:00:00.000Z"
-    },
-    {
       "drug": "ALPRAZ",
       "doses": [
         "0.5MG"
@@ -538,7 +645,7 @@
         "10MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
     },
     {
       "drug": "AMOXI CLAV",
@@ -600,6 +707,13 @@
       "expectedBackInStockDate": "2026-07-30T04:00:00.000Z"
     },
     {
+      "drug": "ANDROGEL",
+      "doses": [
+        "1%"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
       "drug": "APREMILAST",
       "doses": [
         "10MG",
@@ -650,14 +764,6 @@
         "400MCG"
       ],
       "expectedBackInStockDate": "2026-08-07T04:00:00.000Z"
-    },
-    {
-      "drug": "ATENIDONE",
-      "doses": [
-        "25MG",
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
       "drug": "ATOMOXETINE",
@@ -778,6 +884,13 @@
         "1MG"
       ],
       "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
+    },
+    {
+      "drug": "BRIMONIDINE",
+      "doses": [
+        "0.2%"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
     },
     {
       "drug": "BRIMONIDINE P",
@@ -1038,6 +1151,15 @@
       "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
+      "drug": "CREON MINIMICROSPHERES 25",
+      "doses": [
+        "1600UNIT",
+        "25000UNIT",
+        "25500UNIT"
+      ],
+      "expectedBackInStockDate": "2026-11-02T05:00:00.000Z"
+    },
+    {
       "drug": "CYCLOSPORINE",
       "doses": [
         "100MG"
@@ -1188,13 +1310,6 @@
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
-      "drug": "DIPENTUM",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-04-01T04:00:00.000Z"
-    },
-    {
       "drug": "DIVALPROEX",
       "doses": [
         "250MG"
@@ -1289,13 +1404,6 @@
         "0.5%"
       ],
       "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
-    },
-    {
-      "drug": "DUREZOL",
-      "doses": [
-        "0.05%"
-      ],
-      "expectedBackInStockDate": "2026-07-13T04:00:00.000Z"
     },
     {
       "drug": "EDOXABAN",
@@ -1457,7 +1565,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-07-17T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
       "drug": "FLUCONAZOLE",
@@ -1798,7 +1906,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "LEVETIRACETAM",
@@ -1910,13 +2018,6 @@
         "1MG"
       ],
       "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
-    },
-    {
-      "drug": "MED-RIVASTIGMINE",
-      "doses": [
-        "1.5MG"
-      ],
-      "expectedBackInStockDate": "2025-09-15T04:00:00.000Z"
     },
     {
       "drug": "MELOXICAM",
@@ -2106,7 +2207,7 @@
       "doses": [
         "0.6MG"
       ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
     },
     {
       "drug": "NIVESTYM",
@@ -2204,13 +2305,6 @@
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
     },
     {
-      "drug": "OMNIPAQUE 240",
-      "doses": [
-        "518MG"
-      ],
-      "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
-    },
-    {
       "drug": "ONDANSETRON",
       "doses": [
         "4MG",
@@ -2295,6 +2389,13 @@
       "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
+      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-10-24T04:00:00.000Z"
+    },
+    {
       "drug": "PAROXETINE TABLETS",
       "doses": [
         "30MG"
@@ -2360,7 +2461,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
     },
     {
       "drug": "PHENYTOIN SODIUM INJECTION USP",
@@ -2503,7 +2604,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
       "drug": "PRUCALOPRIDE",
@@ -2529,7 +2630,7 @@
         "400MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2025-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
     },
     {
       "drug": "RABEPRAZOLE",
@@ -2594,18 +2695,18 @@
       "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
-      "drug": "REVATIO",
-      "doses": [
-        "0.8MG"
-      ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-    },
-    {
       "drug": "RILUZOLE",
       "doses": [
         "50MG"
       ],
       "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
+    },
+    {
+      "drug": "RIMSO-50",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "RISPERIDONE",
@@ -2686,6 +2787,7 @@
       "drug": "SIMVASTATIN",
       "doses": [
         "20MG",
+        "40MG",
         "5MG",
         "80MG"
       ],
@@ -2751,7 +2853,7 @@
         "100MG",
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-04-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
     },
     {
       "drug": "STANNOUS MAA KIT",
@@ -2773,6 +2875,13 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "drug": "STERILE LIGHT MINERAL OIL 100%",
+      "doses": [
+        "100%"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "SUFENTANIL CITRATE INJECTION USP",
@@ -2852,6 +2961,15 @@
         "40MG"
       ],
       "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "drug": "TELMISARTAN-HCT",
+      "doses": [
+        "12.5MG",
+        "25MG",
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "TEMODAL",
@@ -2937,12 +3055,26 @@
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
     },
     {
+      "drug": "TIMOLOL",
+      "doses": [
+        "0.5%"
+      ],
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+    },
+    {
       "drug": "TIMOLOL MALEATE-EX",
       "doses": [
         "0.25%",
         "0.5%"
       ],
       "expectedBackInStockDate": "2027-07-30T04:00:00.000Z"
+    },
+    {
+      "drug": "TOLTERODINE",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "TOLTERODINE LA",
@@ -2989,7 +3121,14 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "TRAVOPROST Z",
+      "doses": [
+        "0.004%"
+      ],
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     },
     {
       "drug": "TRAVOPROST-TIMOP PQ",
@@ -3090,15 +3229,14 @@
         "12.5MG",
         "160MG"
       ],
-      "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
     },
     {
       "drug": "VARDENAFIL",
       "doses": [
-        "20MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
     },
     {
       "drug": "VARENICLINE",
@@ -3188,13 +3326,6 @@
         "4MG"
       ],
       "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "drug": "ZOLEDRONIC ACID FOR INJECTION",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-07-06T04:00:00.000Z"
     },
     {
       "drug": "ZOLMITRIPTAN",
