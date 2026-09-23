@@ -1,38 +1,164 @@
 {
-  "refreshedAt": "2026-09-22T13:00:27.850Z",
-  "count": 662,
-  "addedDrugsCount": 4,
+  "refreshedAt": "2026-09-23T13:13:37.837Z",
+  "count": 666,
+  "addedDrugsCount": 10,
   "addedDrugs": [
     {
-      "drug": "CLIMARA 50",
+      "drug": "ANDROGEL",
       "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
-    },
-    {
-      "drug": "PAROXETINE TABLETS",
-      "doses": [
-        "30MG"
-      ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-    },
-    {
-      "drug": "REDDY-BOSUTINIB",
-      "doses": [
-        "100MG"
+        "1%"
       ],
       "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
-      "drug": "REDDY-DASATINIB",
+      "drug": "BRIMONIDINE",
       "doses": [
-        "140MG"
+        "0.2%"
       ],
-      "expectedBackInStockDate": "2027-09-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+    },
+    {
+      "drug": "CREON MINIMICROSPHERES 25",
+      "doses": [
+        "1600UNIT",
+        "25000UNIT",
+        "25500UNIT"
+      ],
+      "expectedBackInStockDate": "2026-11-02T05:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-10-24T04:00:00.000Z"
+    },
+    {
+      "drug": "RIMSO-50",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "drug": "STERILE LIGHT MINERAL OIL 100%",
+      "doses": [
+        "100%"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "TELMISARTAN-HCT",
+      "doses": [
+        "12.5MG",
+        "25MG",
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "drug": "TIMOLOL",
+      "doses": [
+        "0.5%"
+      ],
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "drug": "TOLTERODINE",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+    },
+    {
+      "drug": "TRAVOPROST Z",
+      "doses": [
+        "0.004%"
+      ],
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-23T13:13:37.837Z",
+      "addedDrugsCount": 10,
+      "addedDrugs": [
+        {
+          "drug": "ANDROGEL",
+          "doses": [
+            "1%"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "BRIMONIDINE",
+          "doses": [
+            "0.2%"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        },
+        {
+          "drug": "CREON MINIMICROSPHERES 25",
+          "doses": [
+            "1600UNIT",
+            "25000UNIT",
+            "25500UNIT"
+          ],
+          "expectedBackInStockDate": "2026-11-02T05:00:00.000Z"
+        },
+        {
+          "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-10-24T04:00:00.000Z"
+        },
+        {
+          "drug": "RIMSO-50",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+        },
+        {
+          "drug": "STERILE LIGHT MINERAL OIL 100%",
+          "doses": [
+            "100%"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "TELMISARTAN-HCT",
+          "doses": [
+            "12.5MG",
+            "25MG",
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+        },
+        {
+          "drug": "TIMOLOL",
+          "doses": [
+            "0.5%"
+          ],
+          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+        },
+        {
+          "drug": "TOLTERODINE",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+        },
+        {
+          "drug": "TRAVOPROST Z",
+          "doses": [
+            "0.004%"
+          ],
+          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-22T13:00:27.850Z",
       "addedDrugsCount": 4,
@@ -394,11 +520,6 @@
           "expectedBackInStockDate": "2027-04-30T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-08T12:30:25.281Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
