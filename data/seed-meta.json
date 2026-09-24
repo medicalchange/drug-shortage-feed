@@ -1,84 +1,104 @@
 {
-  "refreshedAt": "2026-09-23T13:13:37.837Z",
-  "count": 666,
-  "addedDrugsCount": 10,
+  "refreshedAt": "2026-09-24T13:05:30.061Z",
+  "count": 665,
+  "addedDrugsCount": 6,
   "addedDrugs": [
     {
-      "drug": "ANDROGEL",
+      "drug": "AMITRIPTYLINE",
       "doses": [
-        "1%"
+        "25MG"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
-      "drug": "BRIMONIDINE",
+      "drug": "CLINDAMYCIN",
       "doses": [
-        "0.2%"
+        "150MG",
+        "300MG"
       ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-22T04:00:00.000Z"
     },
     {
-      "drug": "CREON MINIMICROSPHERES 25",
+      "drug": "DONEPEZIL TABLETS",
       "doses": [
-        "1600UNIT",
-        "25000UNIT",
-        "25500UNIT"
-      ],
-      "expectedBackInStockDate": "2026-11-02T05:00:00.000Z"
-    },
-    {
-      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-10-24T04:00:00.000Z"
-    },
-    {
-      "drug": "RIMSO-50",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "drug": "STERILE LIGHT MINERAL OIL 100%",
-      "doses": [
-        "100%"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "TELMISARTAN-HCT",
-      "doses": [
-        "12.5MG",
-        "25MG",
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
-    },
-    {
-      "drug": "TIMOLOL",
-      "doses": [
-        "0.5%"
-      ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
-    },
-    {
-      "drug": "TOLTERODINE",
-      "doses": [
-        "1MG"
+        "10MG"
       ],
       "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
-      "drug": "TRAVOPROST Z",
+      "drug": "EPLERENONE",
       "doses": [
-        "0.004%"
+        "25MG"
       ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+    },
+    {
+      "drug": "LABETALOL HYDROCHLORIDE INJECTION USP",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "LATANOPROST / TIMOLOL",
+      "doses": [
+        "50MCG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-24T13:05:30.061Z",
+      "addedDrugsCount": 6,
+      "addedDrugs": [
+        {
+          "drug": "AMITRIPTYLINE",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        },
+        {
+          "drug": "CLINDAMYCIN",
+          "doses": [
+            "150MG",
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-10-22T04:00:00.000Z"
+        },
+        {
+          "drug": "DONEPEZIL TABLETS",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+        },
+        {
+          "drug": "EPLERENONE",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+        },
+        {
+          "drug": "LABETALOL HYDROCHLORIDE INJECTION USP",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "LATANOPROST / TIMOLOL",
+          "doses": [
+            "50MCG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-23T13:13:37.837Z",
       "addedDrugsCount": 10,
@@ -472,52 +492,6 @@
             "529MG"
           ],
           "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-10T12:36:12.079Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "ACID CONCENTRATE D12272",
-          "doses": [
-            "10.8G",
-            "2.14G",
-            "263G",
-            "45G",
-            "6.7G",
-            "7.49G"
-          ],
-          "expectedBackInStockDate": "2026-09-09T04:00:00.000Z"
-        },
-        {
-          "drug": "ALPHAGAN",
-          "doses": [
-            "0.2%"
-          ],
-          "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
-        },
-        {
-          "drug": "ERYTHROMYCIN",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
-        },
-        {
-          "drug": "NITROJECT",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        },
-        {
-          "drug": "OSELTAMIVIR",
-          "doses": [
-            "6MG"
-          ],
-          "expectedBackInStockDate": "2027-04-30T04:00:00.000Z"
         }
       ]
     }
