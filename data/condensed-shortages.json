@@ -1,55 +1,49 @@
 {
-  "count": 370,
-  "refreshedAt": "2026-09-24T13:05:30.061Z",
+  "count": 368,
+  "refreshedAt": "2026-09-25T13:10:15.241Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 6,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "AMITRIPTYLINE",
+      "drug": "ANTICOAGULANT SODIUM CITRATE SOLUTION, USP",
       "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "drug": "CLINDAMYCIN",
-      "doses": [
-        "150MG",
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-10-22T04:00:00.000Z"
-    },
-    {
-      "drug": "DONEPEZIL TABLETS",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "drug": "EPLERENONE",
-      "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
-    },
-    {
-      "drug": "LABETALOL HYDROCHLORIDE INJECTION USP",
-      "doses": [
-        "5MG"
+        "4G"
       ],
       "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
-      "drug": "LATANOPROST / TIMOLOL",
+      "drug": "COTAZYM",
       "doses": [
-        "50MCG",
-        "5MG"
+        "10000UNIT",
+        "35000UNIT",
+        "40000UNIT"
       ],
-      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-25T13:10:15.241Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "ANTICOAGULANT SODIUM CITRATE SOLUTION, USP",
+          "doses": [
+            "4G"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "COTAZYM",
+          "doses": [
+            "10000UNIT",
+            "35000UNIT",
+            "40000UNIT"
+          ],
+          "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-24T13:05:30.061Z",
       "addedDrugsCount": 6,
@@ -482,19 +476,6 @@
           "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-11T12:29:55.636Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "MULTIHANCE",
-          "doses": [
-            "529MG"
-          ],
-          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -651,10 +632,9 @@
     {
       "drug": "AMOXICILLIN",
       "doses": [
-        "125MG",
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
       "drug": "AMOXICILLIN SODIUM AND POTASSIUM CLAVULANATE FOR INJECTION",
@@ -693,6 +673,13 @@
         "1%"
       ],
       "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "ANTICOAGULANT SODIUM CITRATE SOLUTION, USP",
+      "doses": [
+        "4G"
+      ],
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "APREMILAST",
@@ -811,14 +798,6 @@
       "expectedBackInStockDate": "2027-01-01T05:00:00.000Z"
     },
     {
-      "drug": "BETAMETHASONE/ CALCIPOTRIOL",
-      "doses": [
-        "0.5MG",
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-09-10T04:00:00.000Z"
-    },
-    {
       "drug": "BICILLIN L-A",
       "doses": [
         "1200000UNIT"
@@ -923,14 +902,6 @@
         "7.5MG"
       ],
       "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
-    },
-    {
-      "drug": "BUPROPION XL",
-      "doses": [
-        "150MG",
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
     },
     {
       "drug": "BUSULFAN",
@@ -1139,6 +1110,15 @@
       "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
+      "drug": "COTAZYM",
+      "doses": [
+        "10000UNIT",
+        "35000UNIT",
+        "40000UNIT"
+      ],
+      "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
+    },
+    {
       "drug": "CREON MINIMICROSPHERES 25",
       "doses": [
         "1600UNIT",
@@ -1239,10 +1219,9 @@
     {
       "drug": "DEXTROAMPHETAMINE SR",
       "doses": [
-        "10MG",
         "15MG"
       ],
-      "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
     },
     {
       "drug": "DEXTROSE INJECTION",
@@ -1406,7 +1385,7 @@
         "30MG",
         "60MG"
       ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE",
@@ -1503,7 +1482,7 @@
       "doses": [
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-08-10T04:00:00.000Z"
     },
     {
       "drug": "FAMOTIDINE OMEGA  -(WITH PRESERVATIVE,BENZYL ALCOHOL)",
@@ -1588,14 +1567,14 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-08-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
     },
     {
       "drug": "FLUVOXAMINE",
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "FUROSEMIDE INJECTION USP",
@@ -1608,10 +1587,9 @@
       "drug": "GABAPENTIN",
       "doses": [
         "400MG",
-        "600MG",
         "800MG"
       ],
-      "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
     {
       "drug": "GATIFLOXACIN",
@@ -1719,15 +1697,6 @@
         "400MG"
       ],
       "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
-    },
-    {
-      "drug": "IMIPRAMINE",
-      "doses": [
-        "25MG",
-        "50MG",
-        "75MG"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "INDOMETHACIN",
@@ -2611,7 +2580,7 @@
         "400MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-01-30T05:00:00.000Z"
     },
     {
       "drug": "RABEPRAZOLE",
@@ -2728,10 +2697,8 @@
     {
       "drug": "ROSUVASTATIN",
       "doses": [
-        "10MG",
         "20MG",
-        "40MG",
-        "5MG"
+        "40MG"
       ],
       "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
@@ -2918,16 +2885,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
-    },
-    {
-      "drug": "TECNAL C 1/4",
-      "doses": [
-        "15MG",
-        "330MG",
-        "40MG",
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
     },
     {
       "drug": "TECTA",
@@ -3234,7 +3191,7 @@
         "37.5MG",
         "75MG"
       ],
-      "expectedBackInStockDate": "2026-08-20T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
       "drug": "VERAP",

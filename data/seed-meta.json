@@ -1,54 +1,48 @@
 {
-  "refreshedAt": "2026-09-24T13:05:30.061Z",
-  "count": 665,
-  "addedDrugsCount": 6,
+  "refreshedAt": "2026-09-25T13:10:15.241Z",
+  "count": 649,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "AMITRIPTYLINE",
+      "drug": "ANTICOAGULANT SODIUM CITRATE SOLUTION, USP",
       "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-    },
-    {
-      "drug": "CLINDAMYCIN",
-      "doses": [
-        "150MG",
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-10-22T04:00:00.000Z"
-    },
-    {
-      "drug": "DONEPEZIL TABLETS",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "drug": "EPLERENONE",
-      "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
-    },
-    {
-      "drug": "LABETALOL HYDROCHLORIDE INJECTION USP",
-      "doses": [
-        "5MG"
+        "4G"
       ],
       "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
-      "drug": "LATANOPROST / TIMOLOL",
+      "drug": "COTAZYM",
       "doses": [
-        "50MCG",
-        "5MG"
+        "10000UNIT",
+        "35000UNIT",
+        "40000UNIT"
       ],
-      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-25T13:10:15.241Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "ANTICOAGULANT SODIUM CITRATE SOLUTION, USP",
+          "doses": [
+            "4G"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "COTAZYM",
+          "doses": [
+            "10000UNIT",
+            "35000UNIT",
+            "40000UNIT"
+          ],
+          "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-24T13:05:30.061Z",
       "addedDrugsCount": 6,
@@ -479,19 +473,6 @@
             "25MG"
           ],
           "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-11T12:29:55.636Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "MULTIHANCE",
-          "doses": [
-            "529MG"
-          ],
-          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
         }
       ]
     }
