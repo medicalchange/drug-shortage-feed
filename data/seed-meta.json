@@ -1,26 +1,102 @@
 {
-  "refreshedAt": "2026-09-25T13:10:15.241Z",
-  "count": 649,
-  "addedDrugsCount": 2,
+  "refreshedAt": "2026-09-26T12:37:07.223Z",
+  "count": 656,
+  "addedDrugsCount": 6,
   "addedDrugs": [
     {
-      "drug": "ANTICOAGULANT SODIUM CITRATE SOLUTION, USP",
+      "drug": "AWIQLI",
       "doses": [
-        "4G"
+        "2100UNIT"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
-      "drug": "COTAZYM",
+      "drug": "CHLORAPREP",
       "doses": [
-        "10000UNIT",
-        "35000UNIT",
-        "40000UNIT"
+        "2%",
+        "70%"
       ],
-      "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "drug": "DEXMEDETOMIDINE HYDROCHLORIDE INJECTION",
+      "doses": [
+        "4MCG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "FEBUXOSTAT",
+      "doses": [
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
+    },
+    {
+      "drug": "NORFLOXACIN",
+      "doses": [
+        "400MG"
+      ],
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+    },
+    {
+      "drug": "PROCHLORAZINE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-26T12:37:07.223Z",
+      "addedDrugsCount": 6,
+      "addedDrugs": [
+        {
+          "drug": "AWIQLI",
+          "doses": [
+            "2100UNIT"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        },
+        {
+          "drug": "CHLORAPREP",
+          "doses": [
+            "2%",
+            "70%"
+          ],
+          "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+        },
+        {
+          "drug": "DEXMEDETOMIDINE HYDROCHLORIDE INJECTION",
+          "doses": [
+            "4MCG"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "FEBUXOSTAT",
+          "doses": [
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
+        },
+        {
+          "drug": "NORFLOXACIN",
+          "doses": [
+            "400MG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        },
+        {
+          "drug": "PROCHLORAZINE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-25T13:10:15.241Z",
       "addedDrugsCount": 2,
@@ -420,61 +496,6 @@
       "refreshedAt": "2026-09-13T13:02:44.367Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-09-12T11:53:11.937Z",
-      "addedDrugsCount": 7,
-      "addedDrugs": [
-        {
-          "drug": "BECLOMETHASONE NASAL SPRAY",
-          "doses": [
-            "50MCG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "BROMOCRIPTINE",
-          "doses": [
-            "2.5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-        },
-        {
-          "drug": "CIMETIDINE",
-          "doses": [
-            "300MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        },
-        {
-          "drug": "FENO-SUPER",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "PINAVERIUM",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-        },
-        {
-          "drug": "RESTORIL",
-          "doses": [
-            "30MG"
-          ],
-          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-        },
-        {
-          "drug": "TETRABENAZINE",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
