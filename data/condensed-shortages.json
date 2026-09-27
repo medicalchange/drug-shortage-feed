@@ -1,54 +1,15 @@
 {
   "count": 369,
-  "refreshedAt": "2026-09-26T12:37:07.223Z",
+  "refreshedAt": "2026-09-27T13:28:20.420Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 6,
-  "addedDrugs": [
-    {
-      "drug": "AWIQLI",
-      "doses": [
-        "2100UNIT"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-    },
-    {
-      "drug": "CHLORAPREP",
-      "doses": [
-        "2%",
-        "70%"
-      ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "drug": "DEXMEDETOMIDINE HYDROCHLORIDE INJECTION",
-      "doses": [
-        "4MCG"
-      ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-    },
-    {
-      "drug": "FEBUXOSTAT",
-      "doses": [
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
-    },
-    {
-      "drug": "NORFLOXACIN",
-      "doses": [
-        "400MG"
-      ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-    },
-    {
-      "drug": "PROCHLORAZINE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-27T13:28:20.420Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-09-26T12:37:07.223Z",
       "addedDrugsCount": 6,
@@ -492,11 +453,6 @@
           "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-13T13:02:44.367Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
