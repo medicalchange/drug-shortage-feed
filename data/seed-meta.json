@@ -1,9 +1,46 @@
 {
-  "refreshedAt": "2026-09-27T13:28:20.420Z",
-  "count": 656,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-09-28T16:22:03.133Z",
+  "count": 657,
+  "addedDrugsCount": 2,
+  "addedDrugs": [
+    {
+      "drug": "CARMUSTINE FOR INJECTION USP",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "0.5G",
+        "4G"
+      ],
+      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-28T16:22:03.133Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CARMUSTINE FOR INJECTION USP",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+          "doses": [
+            "0.5G",
+            "4G"
+          ],
+          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-27T13:28:20.420Z",
       "addedDrugsCount": 0,
@@ -429,27 +466,6 @@
             "37.5MG"
           ],
           "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-14T14:38:24.410Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CANDESARTAN PLUS",
-          "doses": [
-            "12.5MG",
-            "16MG"
-          ],
-          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-        },
-        {
-          "drug": "PERINDOPRIL ERBUMINE",
-          "doses": [
-            "8MG"
-          ],
-          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
         }
       ]
     }
