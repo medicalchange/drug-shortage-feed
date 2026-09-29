@@ -1,26 +1,31 @@
 {
   "count": 370,
-  "refreshedAt": "2026-09-28T16:22:03.133Z",
+  "refreshedAt": "2026-09-29T14:31:33.617Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "CARMUSTINE FOR INJECTION USP",
+      "drug": "NIFEDIPINE EXTENDED RELEASE",
       "doses": [
-        "100MG"
+        "30MG"
       ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-    },
-    {
-      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-      "doses": [
-        "0.5G",
-        "4G"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-29T14:31:33.617Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "NIFEDIPINE EXTENDED RELEASE",
+          "doses": [
+            "30MG"
+          ],
+          "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-28T16:22:03.133Z",
       "addedDrugsCount": 2,
@@ -401,72 +406,6 @@
             "300MCG"
           ],
           "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-15T13:03:09.471Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "NEORAL",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
-        },
-        {
-          "drug": "PREGNANCY MULTIVITAMIN",
-          "doses": [
-            "0.15MG",
-            "1.1MG",
-            "1.6MG",
-            "10MG",
-            "120MG",
-            "12MCG",
-            "13.8MG",
-            "15MG",
-            "20MG",
-            "2MG",
-            "3.4MG",
-            "300MG",
-            "35MG",
-            "3MG",
-            "50MG",
-            "5MG",
-            "600UNIT"
-          ],
-          "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-        },
-        {
-          "drug": "PREGNANCY MULTIVITAMIN FOLIC 5",
-          "doses": [
-            "0.15MG",
-            "1.6MG",
-            "10MG",
-            "120MG",
-            "12MCG",
-            "13.8MG",
-            "15MG",
-            "20MG",
-            "2MG",
-            "3.4MG",
-            "300MG",
-            "35MG",
-            "3MG",
-            "50MG",
-            "5MG",
-            "600UNIT"
-          ],
-          "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-        },
-        {
-          "drug": "TRAMADOL/ACET",
-          "doses": [
-            "325MG",
-            "37.5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
         }
       ]
     }
@@ -1546,7 +1485,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-04-16T04:00:00.000Z"
     },
     {
       "drug": "FLECAINIDE",
@@ -2144,6 +2083,13 @@
       "expectedBackInStockDate": "2026-10-05T04:00:00.000Z"
     },
     {
+      "drug": "NIFEDIPINE EXTENDED RELEASE",
+      "doses": [
+        "30MG"
+      ],
+      "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
+    },
+    {
       "drug": "NITROFURANTOIN BID",
       "doses": [
         "100MG"
@@ -2671,13 +2617,6 @@
       "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
     },
     {
-      "drug": "RIMSO-50",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-    },
-    {
       "drug": "RISPERIDONE",
       "doses": [
         "0.25MG",
@@ -2854,7 +2793,8 @@
     {
       "drug": "SUMATRIPTAN",
       "doses": [
-        "100MG"
+        "100MG",
+        "50MG"
       ],
       "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
     },
@@ -3122,7 +3062,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
     },
     {
       "drug": "TRYPTOPHAN",
@@ -3191,7 +3131,7 @@
         "0.5MG",
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-08-28T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "VASOTEC",
