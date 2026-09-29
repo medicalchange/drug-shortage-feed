@@ -1,25 +1,30 @@
 {
-  "refreshedAt": "2026-09-28T16:22:03.133Z",
-  "count": 657,
-  "addedDrugsCount": 2,
+  "refreshedAt": "2026-09-29T14:31:33.617Z",
+  "count": 658,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "CARMUSTINE FOR INJECTION USP",
+      "drug": "NIFEDIPINE EXTENDED RELEASE",
       "doses": [
-        "100MG"
+        "30MG"
       ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-    },
-    {
-      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-      "doses": [
-        "0.5G",
-        "4G"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-29T14:31:33.617Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "NIFEDIPINE EXTENDED RELEASE",
+          "doses": [
+            "30MG"
+          ],
+          "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-28T16:22:03.133Z",
       "addedDrugsCount": 2,
@@ -400,72 +405,6 @@
             "300MCG"
           ],
           "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-15T13:03:09.471Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "NEORAL",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
-        },
-        {
-          "drug": "PREGNANCY MULTIVITAMIN",
-          "doses": [
-            "0.15MG",
-            "1.1MG",
-            "1.6MG",
-            "10MG",
-            "120MG",
-            "12MCG",
-            "13.8MG",
-            "15MG",
-            "20MG",
-            "2MG",
-            "3.4MG",
-            "300MG",
-            "35MG",
-            "3MG",
-            "50MG",
-            "5MG",
-            "600UNIT"
-          ],
-          "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-        },
-        {
-          "drug": "PREGNANCY MULTIVITAMIN FOLIC 5",
-          "doses": [
-            "0.15MG",
-            "1.6MG",
-            "10MG",
-            "120MG",
-            "12MCG",
-            "13.8MG",
-            "15MG",
-            "20MG",
-            "2MG",
-            "3.4MG",
-            "300MG",
-            "35MG",
-            "3MG",
-            "50MG",
-            "5MG",
-            "600UNIT"
-          ],
-          "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-        },
-        {
-          "drug": "TRAMADOL/ACET",
-          "doses": [
-            "325MG",
-            "37.5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
         }
       ]
     }
