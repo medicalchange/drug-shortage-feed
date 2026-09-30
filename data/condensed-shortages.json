@@ -1,18 +1,89 @@
 {
-  "count": 370,
-  "refreshedAt": "2026-09-29T14:31:33.617Z",
+  "count": 372,
+  "refreshedAt": "2026-09-30T14:30:07.002Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "NIFEDIPINE EXTENDED RELEASE",
+      "drug": "ALMOTRIPTAN",
       "doses": [
-        "30MG"
+        "12.5MG"
       ],
-      "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
+    },
+    {
+      "drug": "BILASTINE",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "drug": "DROSPIRENONE AND ETHINYL ESTRADIOL TABLETS USP 28",
+      "doses": [
+        "0.03MG",
+        "3MG"
+      ],
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "drug": "MAEVE",
+      "doses": [
+        "0.35MG"
+      ],
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+    },
+    {
+      "drug": "YESAFILI",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-09-30T14:30:07.002Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "ALMOTRIPTAN",
+          "doses": [
+            "12.5MG"
+          ],
+          "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
+        },
+        {
+          "drug": "BILASTINE",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+        },
+        {
+          "drug": "DROSPIRENONE AND ETHINYL ESTRADIOL TABLETS USP 28",
+          "doses": [
+            "0.03MG",
+            "3MG"
+          ],
+          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "drug": "MAEVE",
+          "doses": [
+            "0.35MG"
+          ],
+          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+        },
+        {
+          "drug": "YESAFILI",
+          "doses": [
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-29T14:31:33.617Z",
       "addedDrugsCount": 1,
@@ -395,19 +466,6 @@
           "expectedBackInStockDate": "2026-10-15T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-16T13:00:56.149Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "NIVESTYM",
-          "doses": [
-            "300MCG"
-          ],
-          "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -495,6 +553,13 @@
         "200MG"
       ],
       "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
+    },
+    {
+      "drug": "ALMOTRIPTAN",
+      "doses": [
+        "12.5MG"
+      ],
+      "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
     },
     {
       "drug": "ALPRAZ",
@@ -590,13 +655,6 @@
         "1MG"
       ],
       "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
-    },
-    {
-      "drug": "ANDROGEL",
-      "doses": [
-        "1%"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "ANTICOAGULANT SODIUM CITRATE SOLUTION, USP",
@@ -734,6 +792,13 @@
         "1200000UNIT"
       ],
       "expectedBackInStockDate": "2027-02-26T05:00:00.000Z"
+    },
+    {
+      "drug": "BILASTINE",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "BOSENTAN",
@@ -980,7 +1045,7 @@
         "0.1%",
         "0.3%"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
     },
     {
       "drug": "CITALOPRAM",
@@ -1048,14 +1113,6 @@
       "expectedBackInStockDate": "2027-02-15T05:00:00.000Z"
     },
     {
-      "drug": "COSOPT PRESERVATIVE-FREE",
-      "doses": [
-        "20MG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-    },
-    {
       "drug": "COTAZYM",
       "doses": [
         "10000UNIT",
@@ -1071,7 +1128,7 @@
         "25000UNIT",
         "25500UNIT"
       ],
-      "expectedBackInStockDate": "2026-11-02T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
     },
     {
       "drug": "CYCLOSPORINE",
@@ -1227,7 +1284,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
     },
     {
       "drug": "DIVALPROEX",
@@ -1314,6 +1371,14 @@
         "25MG"
       ],
       "expectedBackInStockDate": "2027-02-15T05:00:00.000Z"
+    },
+    {
+      "drug": "DROSPIRENONE AND ETHINYL ESTRADIOL TABLETS USP 28",
+      "doses": [
+        "0.03MG",
+        "3MG"
+      ],
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
     },
     {
       "drug": "DULOXETINE",
@@ -1921,9 +1986,17 @@
       "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
     },
     {
+      "drug": "MAEVE",
+      "doses": [
+        "0.35MG"
+      ],
+      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+    },
+    {
       "drug": "MAVIK",
       "doses": [
-        "1MG"
+        "1MG",
+        "2MG"
       ],
       "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
     },
@@ -2108,7 +2181,7 @@
       "doses": [
         "0.6MG"
       ],
-      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-20T04:00:00.000Z"
     },
     {
       "drug": "NIVESTYM",
@@ -2933,7 +3006,6 @@
     {
       "drug": "TICAGRELOR",
       "doses": [
-        "60MG",
         "90MG"
       ],
       "expectedBackInStockDate": "2026-07-31T04:00:00.000Z"
@@ -2974,7 +3046,7 @@
         "200MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-10-06T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
       "drug": "TOPISONE",
@@ -2984,21 +3056,13 @@
       "expectedBackInStockDate": "2026-08-10T04:00:00.000Z"
     },
     {
-      "drug": "TRAMADOL/ACET",
-      "doses": [
-        "325MG",
-        "37.5MG"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-    },
-    {
       "drug": "TRANDOLAPRIL",
       "doses": [
         "0.5MG",
         "1MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-10-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
     },
     {
       "drug": "TRANEXAMIC ACID INJECTION",
@@ -3191,6 +3255,13 @@
         "200MG"
       ],
       "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "drug": "YESAFILI",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
       "drug": "ZADITOR",
