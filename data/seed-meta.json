@@ -1,46 +1,44 @@
 {
-  "refreshedAt": "2026-09-30T14:30:07.002Z",
-  "count": 663,
-  "addedDrugsCount": 5,
+  "refreshedAt": "2026-10-01T14:59:49.133Z",
+  "count": 665,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "ALMOTRIPTAN",
+      "drug": "CAPECITABINE",
       "doses": [
-        "12.5MG"
+        "150MG"
       ],
-      "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
-      "drug": "BILASTINE",
+      "drug": "SERTRALINE",
       "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "drug": "DROSPIRENONE AND ETHINYL ESTRADIOL TABLETS USP 28",
-      "doses": [
-        "0.03MG",
-        "3MG"
-      ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-    },
-    {
-      "drug": "MAEVE",
-      "doses": [
-        "0.35MG"
-      ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-    },
-    {
-      "drug": "YESAFILI",
-      "doses": [
-        "2MG"
+        "25MG"
       ],
       "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-01T14:59:49.133Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CAPECITABINE",
+          "doses": [
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+        },
+        {
+          "drug": "SERTRALINE",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-30T14:30:07.002Z",
       "addedDrugsCount": 5,
@@ -420,49 +418,6 @@
             "0.4MG"
           ],
           "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-17T12:56:56.712Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "BACTERIOSTATIC WATER FOR INJECTION USP",
-          "doses": [
-            "30ML"
-          ],
-          "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-        },
-        {
-          "drug": "COSOPT PRESERVATIVE-FREE",
-          "doses": [
-            "20MG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-        },
-        {
-          "drug": "HIZENTRA",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-09-16T04:00:00.000Z"
-        },
-        {
-          "drug": "OLMESARTAN",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-        },
-        {
-          "drug": "SILENOR",
-          "doses": [
-            "3MG",
-            "6MG"
-          ],
-          "expectedBackInStockDate": "2026-10-15T04:00:00.000Z"
         }
       ]
     }
