@@ -1,47 +1,45 @@
 {
   "count": 372,
-  "refreshedAt": "2026-09-30T14:30:07.002Z",
+  "refreshedAt": "2026-10-01T14:59:49.133Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 5,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "ALMOTRIPTAN",
+      "drug": "CAPECITABINE",
       "doses": [
-        "12.5MG"
+        "150MG"
       ],
-      "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
-      "drug": "BILASTINE",
+      "drug": "SERTRALINE",
       "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-    },
-    {
-      "drug": "DROSPIRENONE AND ETHINYL ESTRADIOL TABLETS USP 28",
-      "doses": [
-        "0.03MG",
-        "3MG"
-      ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-    },
-    {
-      "drug": "MAEVE",
-      "doses": [
-        "0.35MG"
-      ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-    },
-    {
-      "drug": "YESAFILI",
-      "doses": [
-        "2MG"
+        "25MG"
       ],
       "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-01T14:59:49.133Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CAPECITABINE",
+          "doses": [
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+        },
+        {
+          "drug": "SERTRALINE",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-09-30T14:30:07.002Z",
       "addedDrugsCount": 5,
@@ -421,49 +419,6 @@
             "0.4MG"
           ],
           "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-17T12:56:56.712Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "BACTERIOSTATIC WATER FOR INJECTION USP",
-          "doses": [
-            "30ML"
-          ],
-          "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-        },
-        {
-          "drug": "COSOPT PRESERVATIVE-FREE",
-          "doses": [
-            "20MG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-        },
-        {
-          "drug": "HIZENTRA",
-          "doses": [
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-09-16T04:00:00.000Z"
-        },
-        {
-          "drug": "OLMESARTAN",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-        },
-        {
-          "drug": "SILENOR",
-          "doses": [
-            "3MG",
-            "6MG"
-          ],
-          "expectedBackInStockDate": "2026-10-15T04:00:00.000Z"
         }
       ]
     }
@@ -945,6 +900,13 @@
       "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
     },
     {
+      "drug": "CAPECITABINE",
+      "doses": [
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+    },
+    {
       "drug": "CARBAMAZEPINE CR",
       "doses": [
         "200MG"
@@ -1006,7 +968,7 @@
         "2%",
         "70%"
       ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "CHLORTHALIDONE",
@@ -1257,9 +1219,10 @@
     {
       "drug": "DILAUDID",
       "doses": [
+        "1MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-12T04:00:00.000Z"
     },
     {
       "drug": "DILTIAZ CD",
@@ -2142,13 +2105,6 @@
       "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
     },
     {
-      "drug": "NEORAL",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-09-22T04:00:00.000Z"
-    },
-    {
       "drug": "NEXVIAZYME",
       "doses": [
         "100MG"
@@ -2406,13 +2362,6 @@
       "expectedBackInStockDate": "2026-05-08T04:00:00.000Z"
     },
     {
-      "drug": "PERINDOPRIL ERBUMINE",
-      "doses": [
-        "8MG"
-      ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-    },
-    {
       "drug": "PERINDOPRIL/AMLODIPINE",
       "doses": [
         "10MG",
@@ -2592,7 +2541,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "PRUCALOPRIDE",
@@ -2754,6 +2703,13 @@
         "0.4MG"
       ],
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "SERTRALINE",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
       "drug": "SILENOR",
