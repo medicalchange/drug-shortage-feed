@@ -1,25 +1,73 @@
 {
   "count": 372,
-  "refreshedAt": "2026-10-01T14:59:49.133Z",
+  "refreshedAt": "2026-10-02T14:22:58.771Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "CAPECITABINE",
+      "drug": "FLUMIST",
       "doses": [
-        "150MG"
+        "32000000FFU"
       ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
     },
     {
-      "drug": "SERTRALINE",
+      "drug": "MEDROXY",
       "doses": [
-        "25MG"
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "drug": "MINOCYCLINE",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+    },
+    {
+      "drug": "TOMUDEX",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2028-12-31T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-02T14:22:58.771Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "FLUMIST",
+          "doses": [
+            "32000000FFU"
+          ],
+          "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+        },
+        {
+          "drug": "MEDROXY",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+        },
+        {
+          "drug": "MINOCYCLINE",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+        },
+        {
+          "drug": "TOMUDEX",
+          "doses": [
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2028-12-31T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-01T14:59:49.133Z",
       "addedDrugsCount": 2,
@@ -408,19 +456,6 @@
           "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-18T12:35:15.865Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "SCOPOLAMINE HYDROBROMIDE INJECTION",
-          "doses": [
-            "0.4MG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -807,7 +842,7 @@
       "doses": [
         "0.15%"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "BRIMONIDINE-TIMOP",
@@ -828,8 +863,7 @@
     {
       "drug": "BRIVARACETAM",
       "doses": [
-        "25MG",
-        "50MG"
+        "25MG"
       ],
       "expectedBackInStockDate": "2026-04-03T04:00:00.000Z"
     },
@@ -867,13 +901,6 @@
         "10MG"
       ],
       "expectedBackInStockDate": "2027-06-30T04:00:00.000Z"
-    },
-    {
-      "drug": "CABERGOLINE",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "CANAGLIFLOZIN",
@@ -1100,13 +1127,6 @@
       "expectedBackInStockDate": "2028-03-31T04:00:00.000Z"
     },
     {
-      "drug": "DABIGATRAN",
-      "doses": [
-        "110MG"
-      ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-    },
-    {
       "drug": "DAPAGLIFLOZIN",
       "doses": [
         "10MG",
@@ -1136,7 +1156,7 @@
       "doses": [
         "10MCG"
       ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     },
     {
       "drug": "DESONIDE",
@@ -1207,7 +1227,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
     },
     {
       "drug": "DICLOFENAC",
@@ -1291,7 +1311,7 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-12T05:00:00.000Z"
     },
     {
       "drug": "DOXYCYCLINE MR",
@@ -1530,6 +1550,13 @@
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
     },
     {
+      "drug": "FLUMIST",
+      "doses": [
+        "32000000FFU"
+      ],
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+    },
+    {
       "drug": "FLUOXETINE",
       "doses": [
         "20MG"
@@ -1555,7 +1582,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "FUROSEMIDE INJECTION USP",
@@ -1638,13 +1665,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
-    },
-    {
-      "drug": "HYDROMORPHONE",
-      "doses": [
-        "8MG"
-      ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
     },
     {
       "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION HP 50",
@@ -1964,6 +1984,13 @@
       "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
     },
     {
+      "drug": "MEDROXY",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+    },
+    {
       "drug": "MELOXICAM",
       "doses": [
         "1.5G"
@@ -2019,6 +2046,13 @@
       "drug": "MIDAMOR",
       "doses": [
         "5.0MG"
+      ],
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+    },
+    {
+      "drug": "MINOCYCLINE",
+      "doses": [
+        "100MG"
       ],
       "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
@@ -2151,7 +2185,7 @@
       "doses": [
         "400MG"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
       "drug": "NRA-CITALOPRAM",
@@ -2308,7 +2342,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-01T05:00:00.000Z"
     },
     {
       "drug": "PANTOPRAZOLE T",
@@ -2397,7 +2431,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
@@ -2629,7 +2663,7 @@
       "doses": [
         "30MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "RILUZOLE",
@@ -2654,7 +2688,6 @@
       "drug": "RIVAROXABAN",
       "doses": [
         "10MG",
-        "15MG",
         "20MG"
       ],
       "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
@@ -2779,8 +2812,7 @@
     {
       "drug": "SPIRONOLACTONE",
       "doses": [
-        "100MG",
-        "25MG"
+        "100MG"
       ],
       "expectedBackInStockDate": "2026-08-30T04:00:00.000Z"
     },
@@ -2997,6 +3029,13 @@
       "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
+      "drug": "TOMUDEX",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2028-12-31T05:00:00.000Z"
+    },
+    {
       "drug": "TOPIRAMATE",
       "doses": [
         "200MG",
@@ -3174,7 +3213,7 @@
       "doses": [
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "VIMOVO",
@@ -3183,13 +3222,6 @@
         "375MG"
       ],
       "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
-    },
-    {
-      "drug": "VIMPAT",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
     },
     {
       "drug": "VISUDYNE",
