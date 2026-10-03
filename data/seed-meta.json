@@ -1,38 +1,116 @@
 {
-  "refreshedAt": "2026-10-02T14:22:58.771Z",
-  "count": 654,
-  "addedDrugsCount": 4,
+  "refreshedAt": "2026-10-03T12:56:36.334Z",
+  "count": 667,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "FLUMIST",
+      "drug": "ACETAMINOPHEN CAPLETS",
       "doses": [
-        "32000000FFU"
+        "325MG"
       ],
-      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
-      "drug": "MEDROXY",
+      "drug": "ACETAMINOPHEN CAPLETS 500 MG",
       "doses": [
-        "5MG"
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+    },
+    {
+      "drug": "DUTASTERIDE",
+      "doses": [
+        "0.5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "EMTRICITABINE-TENOFOVIR",
+      "doses": [
+        "200MG",
+        "300MG"
       ],
       "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     },
     {
-      "drug": "MINOCYCLINE",
+      "drug": "MAGNESIUM-45 0.5-4.5",
       "doses": [
-        "100MG"
+        "20.5G"
       ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-09-28T04:00:00.000Z"
     },
     {
-      "drug": "TOMUDEX",
+      "drug": "METHYLPHENIDATE",
       "doses": [
-        "2MG"
+        "5MG"
       ],
-      "expectedBackInStockDate": "2028-12-31T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "OMNIPAQUE 240",
+      "doses": [
+        "518MG"
+      ],
+      "expectedBackInStockDate": "2026-10-06T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-03T12:56:36.334Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "ACETAMINOPHEN CAPLETS",
+          "doses": [
+            "325MG"
+          ],
+          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+        },
+        {
+          "drug": "ACETAMINOPHEN CAPLETS 500 MG",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+        },
+        {
+          "drug": "DUTASTERIDE",
+          "doses": [
+            "0.5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "EMTRICITABINE-TENOFOVIR",
+          "doses": [
+            "200MG",
+            "300MG"
+          ],
+          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+        },
+        {
+          "drug": "MAGNESIUM-45 0.5-4.5",
+          "doses": [
+            "20.5G"
+          ],
+          "expectedBackInStockDate": "2026-09-28T04:00:00.000Z"
+        },
+        {
+          "drug": "METHYLPHENIDATE",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "OMNIPAQUE 240",
+          "doses": [
+            "518MG"
+          ],
+          "expectedBackInStockDate": "2026-10-06T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-02T14:22:58.771Z",
       "addedDrugsCount": 4,
@@ -426,33 +504,6 @@
             "5.0MG"
           ],
           "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-19T12:12:37.201Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "ACETAMINOPHEN EXTRA STRENGTH",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "DORMINAL",
-          "doses": [
-            "240MG"
-          ],
-          "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
-        },
-        {
-          "drug": "TRIMEBUTINE",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
         }
       ]
     }
