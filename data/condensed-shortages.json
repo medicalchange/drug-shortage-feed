@@ -1,61 +1,15 @@
 {
   "count": 379,
-  "refreshedAt": "2026-10-03T12:56:36.334Z",
+  "refreshedAt": "2026-10-04T13:37:15.307Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 7,
-  "addedDrugs": [
-    {
-      "drug": "ACETAMINOPHEN CAPLETS",
-      "doses": [
-        "325MG"
-      ],
-      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-    },
-    {
-      "drug": "ACETAMINOPHEN CAPLETS 500 MG",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
-    },
-    {
-      "drug": "DUTASTERIDE",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-    },
-    {
-      "drug": "EMTRICITABINE-TENOFOVIR",
-      "doses": [
-        "200MG",
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-    },
-    {
-      "drug": "MAGNESIUM-45 0.5-4.5",
-      "doses": [
-        "20.5G"
-      ],
-      "expectedBackInStockDate": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "drug": "METHYLPHENIDATE",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-    },
-    {
-      "drug": "OMNIPAQUE 240",
-      "doses": [
-        "518MG"
-      ],
-      "expectedBackInStockDate": "2026-10-06T04:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-04T13:37:15.307Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-10-03T12:56:36.334Z",
       "addedDrugsCount": 7,
@@ -486,27 +440,6 @@
       "refreshedAt": "2026-09-21T14:45:45.868Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-09-20T12:48:13.745Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "AVENTYL",
-          "doses": [
-            "10MG",
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-        },
-        {
-          "drug": "MIDAMOR",
-          "doses": [
-            "5.0MG"
-          ],
-          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
