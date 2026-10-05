@@ -1,10 +1,59 @@
 {
-  "count": 379,
-  "refreshedAt": "2026-10-04T13:37:15.307Z",
+  "count": 376,
+  "refreshedAt": "2026-10-05T16:41:50.624Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 3,
+  "addedDrugs": [
+    {
+      "drug": "DEFERASIROX (TYPE J)",
+      "doses": [
+        "360MG"
+      ],
+      "expectedBackInStockDate": "2026-11-12T05:00:00.000Z"
+    },
+    {
+      "drug": "DICLOFENAC RAPIDE",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "RUPALL",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-05T16:41:50.624Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "DEFERASIROX (TYPE J)",
+          "doses": [
+            "360MG"
+          ],
+          "expectedBackInStockDate": "2026-11-12T05:00:00.000Z"
+        },
+        {
+          "drug": "DICLOFENAC RAPIDE",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "RUPALL",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-04T13:37:15.307Z",
       "addedDrugsCount": 0,
@@ -435,11 +484,6 @@
           "expectedBackInStockDate": "2027-09-21T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-21T14:45:45.868Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -659,7 +703,7 @@
         "20MG",
         "30MG"
       ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "APRI 28",
@@ -947,13 +991,6 @@
       "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
     },
     {
-      "drug": "CARVEDILOL",
-      "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-    },
-    {
       "drug": "CEFAZOLIN FOR INJECTION USP",
       "doses": [
         "1G"
@@ -1151,6 +1188,13 @@
       "expectedBackInStockDate": "2026-07-10T04:00:00.000Z"
     },
     {
+      "drug": "DEFERASIROX (TYPE J)",
+      "doses": [
+        "360MG"
+      ],
+      "expectedBackInStockDate": "2026-11-12T05:00:00.000Z"
+    },
+    {
       "drug": "DESMOPRESSIN SPRAY",
       "doses": [
         "10MCG"
@@ -1234,6 +1278,13 @@
         "0.1%"
       ],
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+    },
+    {
+      "drug": "DICLOFENAC RAPIDE",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "DILAUDID",
@@ -1388,6 +1439,7 @@
     {
       "drug": "EDOXABAN",
       "doses": [
+        "15MG",
         "30MG",
         "60MG"
       ],
@@ -1510,7 +1562,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "FEBUXOSTAT",
@@ -1742,7 +1794,7 @@
         "150MG",
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
       "drug": "ISOPROTERENOL HYDROCHLORIDE INJECTION USP",
@@ -1870,7 +1922,7 @@
         "20MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "LETROZOLE",
@@ -2038,6 +2090,7 @@
     {
       "drug": "METFORMIN FC",
       "doses": [
+        "500MG",
         "850MG"
       ],
       "expectedBackInStockDate": "2026-09-04T04:00:00.000Z"
@@ -2222,7 +2275,7 @@
         "10MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "NYADERM",
@@ -2249,7 +2302,9 @@
     {
       "drug": "OLANZAPINE",
       "doses": [
-        "15MG"
+        "15MG",
+        "2.5MG",
+        "5.0MG"
       ],
       "expectedBackInStockDate": "2026-07-24T04:00:00.000Z"
     },
@@ -2259,7 +2314,7 @@
         "15MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     },
     {
       "drug": "OLESTYR",
@@ -2267,13 +2322,6 @@
         "4G"
       ],
       "expectedBackInStockDate": "2027-07-06T04:00:00.000Z"
-    },
-    {
-      "drug": "OLMESARTAN",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "OLOPATADINE",
@@ -2393,13 +2441,6 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-10-24T04:00:00.000Z"
-    },
-    {
-      "drug": "PAROXETINE TABLETS",
-      "doses": [
-        "30MG"
-      ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
     },
     {
       "drug": "PAXIL TAB 20MG",
@@ -2611,7 +2652,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
     },
     {
       "drug": "PRUCALOPRIDE",
@@ -2754,6 +2795,13 @@
       "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
+      "drug": "RUPALL",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+    },
+    {
       "drug": "SANDOMIGRAN DS",
       "doses": [
         "1MG"
@@ -2775,13 +2823,6 @@
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
-      "drug": "SERTRALINE",
-      "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-    },
-    {
       "drug": "SILENOR",
       "doses": [
         "3MG",
@@ -2800,18 +2841,11 @@
       "expectedBackInStockDate": "2026-05-29T04:00:00.000Z"
     },
     {
-      "drug": "SITAGLIPTIN",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2027-01-07T05:00:00.000Z"
-    },
-    {
       "drug": "SITAGLIPTIN FUMARATE",
       "doses": [
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "SITAGLIPTIN MALATE / METFORMIN",
@@ -2844,7 +2878,7 @@
       "doses": [
         "160MG"
       ],
-      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-12-31T05:00:00.000Z"
     },
     {
       "drug": "SPIRONOLACTONE",
@@ -2909,7 +2943,7 @@
         "20MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
     },
     {
       "drug": "TAMSULOSIN",
@@ -2964,7 +2998,8 @@
       "drug": "TEMODAL",
       "doses": [
         "100MG",
-        "250MG"
+        "250MG",
+        "5MG"
       ],
       "expectedBackInStockDate": "2026-09-11T04:00:00.000Z"
     },
@@ -3012,7 +3047,7 @@
       "doses": [
         "1%"
       ],
-      "expectedBackInStockDate": "2026-10-03T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "TETRABENAZINE",
@@ -3268,13 +3303,6 @@
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
-      "drug": "VITAMIN B12",
-      "doses": [
-        "1000MCG"
-      ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-    },
-    {
       "drug": "VORICONAZOLE FOR INJECTION",
       "doses": [
         "200MG"
@@ -3308,7 +3336,7 @@
       "doses": [
         "4MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     },
     {
       "drug": "ZOLMITRIPTAN",

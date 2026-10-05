@@ -1,9 +1,58 @@
 {
-  "refreshedAt": "2026-10-04T13:37:15.307Z",
-  "count": 667,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-10-05T16:41:50.624Z",
+  "count": 666,
+  "addedDrugsCount": 3,
+  "addedDrugs": [
+    {
+      "drug": "DEFERASIROX (TYPE J)",
+      "doses": [
+        "360MG"
+      ],
+      "expectedBackInStockDate": "2026-11-12T05:00:00.000Z"
+    },
+    {
+      "drug": "DICLOFENAC RAPIDE",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "RUPALL",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-05T16:41:50.624Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "DEFERASIROX (TYPE J)",
+          "doses": [
+            "360MG"
+          ],
+          "expectedBackInStockDate": "2026-11-12T05:00:00.000Z"
+        },
+        {
+          "drug": "DICLOFENAC RAPIDE",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "RUPALL",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-04T13:37:15.307Z",
       "addedDrugsCount": 0,
@@ -434,11 +483,6 @@
           "expectedBackInStockDate": "2027-09-21T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-21T14:45:45.868Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
