@@ -1,5 +1,117 @@
 [
   {
+    "id": "shortage:274386",
+    "reportId": 274386,
+    "type": "shortage",
+    "brandName": "UROMITEXAN",
+    "status": "active_confirmed",
+    "din": "02371839",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-10-06T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-06T23:15:51.000Z",
+    "updateDate": "2026-10-06T23:15:51.000Z",
+    "postedDate": "2025-12-15T20:40:58.000Z"
+  },
+  {
+    "id": "shortage:286954",
+    "reportId": 286954,
+    "type": "shortage",
+    "brandName": "UROMITEXAN",
+    "status": "active_confirmed",
+    "din": "02241411",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-10-06T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-06T23:14:21.000Z",
+    "updateDate": "2026-10-06T23:14:21.000Z",
+    "postedDate": "2026-06-11T21:49:09.000Z"
+  },
+  {
+    "id": "shortage:287221",
+    "reportId": 287221,
+    "type": "shortage",
+    "brandName": "UROMITEXAN",
+    "status": "active_confirmed",
+    "din": "02241411",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-10-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-06T23:13:40.000Z",
+    "updateDate": "2026-10-06T23:13:40.000Z",
+    "postedDate": "2026-06-16T00:40:02.000Z"
+  },
+  {
+    "id": "shortage:273129",
+    "reportId": 273129,
+    "type": "shortage",
+    "brandName": "IFEX",
+    "status": "active_confirmed",
+    "din": "02241356",
+    "strength": "3G",
+    "expectedBackInStockDate": "2026-10-06T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-06T23:12:59.000Z",
+    "updateDate": "2026-10-06T23:12:59.000Z",
+    "postedDate": "2025-12-03T22:00:08.000Z"
+  },
+  {
+    "id": "shortage:273126",
+    "reportId": 273126,
+    "type": "shortage",
+    "brandName": "IFEX",
+    "status": "active_confirmed",
+    "din": "02241357",
+    "strength": "1G",
+    "expectedBackInStockDate": "2026-10-06T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-06T23:12:34.000Z",
+    "updateDate": "2026-10-06T23:12:34.000Z",
+    "postedDate": "2025-12-03T21:58:18.000Z"
+  },
+  {
+    "id": "shortage:292935",
+    "reportId": 292935,
+    "type": "shortage",
+    "brandName": "RESTASIS MULTIDOSE",
+    "status": "active_confirmed",
+    "din": "02476835",
+    "strength": "0.05%",
+    "expectedBackInStockDate": "2026-12-07T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-06T23:01:17.000Z",
+    "updateDate": "2026-10-06T23:01:17.000Z",
+    "postedDate": "2026-09-08T22:18:16.000Z"
+  },
+  {
+    "id": "shortage:272933",
+    "reportId": 272933,
+    "type": "shortage",
+    "brandName": "MIOCHOL-E",
+    "status": "active_confirmed",
+    "din": "02133326",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-12-20T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-06T19:21:01.000Z",
+    "updateDate": "2026-10-06T19:21:01.000Z",
+    "postedDate": "2025-12-01T21:48:41.000Z"
+  },
+  {
+    "id": "shortage:293982",
+    "reportId": 293982,
+    "type": "shortage",
+    "brandName": "MIOSTAT OPHTHALMIC LIQ 0.01%",
+    "status": "active_confirmed",
+    "din": "00042544",
+    "strength": ".01%",
+    "expectedBackInStockDate": "2027-01-04T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-06T19:16:07.000Z",
+    "updateDate": "2026-10-06T19:16:07.000Z",
+    "postedDate": "2026-09-22T00:13:21.000Z"
+  },
+  {
     "id": "shortage:279685",
     "reportId": 279685,
     "type": "shortage",
@@ -1470,20 +1582,6 @@
     "postedDate": "2026-09-26T00:07:25.000Z"
   },
   {
-    "id": "shortage:288990",
-    "reportId": 288990,
-    "type": "shortage",
-    "brandName": "JANUMET XR",
-    "status": "active_confirmed",
-    "din": "02416808",
-    "strength": "1000MG\r\n100MG",
-    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-29T22:28:48.000Z",
-    "updateDate": "2026-09-29T22:28:48.000Z",
-    "postedDate": "2026-07-11T00:01:02.000Z"
-  },
-  {
     "id": "shortage:285469",
     "reportId": 285469,
     "type": "shortage",
@@ -1804,20 +1902,6 @@
     "updatedDate": "2026-09-28T21:54:58.000Z",
     "updateDate": "2026-09-28T21:54:58.000Z",
     "postedDate": "2025-01-04T13:01:27.000Z"
-  },
-  {
-    "id": "shortage:291194",
-    "reportId": 291194,
-    "type": "shortage",
-    "brandName": "TECTA",
-    "status": "active_confirmed",
-    "din": "02267233",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-09-29T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-28T21:42:56.000Z",
-    "updateDate": "2026-09-28T21:42:56.000Z",
-    "postedDate": "2026-08-12T05:45:46.000Z"
   },
   {
     "id": "shortage:192650",
@@ -4410,20 +4494,6 @@
     "postedDate": "2026-08-15T00:41:42.000Z"
   },
   {
-    "id": "shortage:272933",
-    "reportId": 272933,
-    "type": "shortage",
-    "brandName": "MIOCHOL-E",
-    "status": "active_confirmed",
-    "din": "02133326",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-12-20T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-11T19:33:27.000Z",
-    "updateDate": "2026-09-11T19:33:27.000Z",
-    "postedDate": "2025-12-01T21:48:41.000Z"
-  },
-  {
     "id": "shortage:288791",
     "reportId": 288791,
     "type": "shortage",
@@ -4646,20 +4716,6 @@
     "updatedDate": "2026-09-09T17:08:06.000Z",
     "updateDate": "2026-09-09T17:08:06.000Z",
     "postedDate": "2026-07-22T21:48:28.000Z"
-  },
-  {
-    "id": "shortage:287221",
-    "reportId": 287221,
-    "type": "shortage",
-    "brandName": "UROMITEXAN",
-    "status": "active_confirmed",
-    "din": "02241411",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-08T20:01:41.000Z",
-    "updateDate": "2026-09-08T20:01:41.000Z",
-    "postedDate": "2026-06-16T00:40:02.000Z"
   },
   {
     "id": "shortage:292803",
@@ -5864,20 +5920,6 @@
     "updatedDate": "2026-08-12T17:56:34.000Z",
     "updateDate": "2026-08-12T17:56:34.000Z",
     "postedDate": "2026-07-02T19:08:09.000Z"
-  },
-  {
-    "id": "shortage:280630",
-    "reportId": 280630,
-    "type": "shortage",
-    "brandName": "KETOROLAC TROMETHAMINE INJECTION, USP",
-    "status": "active_confirmed",
-    "din": "02244947",
-    "strength": "30MG",
-    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-11T22:41:38.000Z",
-    "updateDate": "2026-08-11T22:41:38.000Z",
-    "postedDate": "2026-03-17T01:11:14.000Z"
   },
   {
     "id": "shortage:291141",
@@ -7798,20 +7840,6 @@
     "postedDate": "2025-07-10T21:55:07.000Z"
   },
   {
-    "id": "shortage:285537",
-    "reportId": 285537,
-    "type": "shortage",
-    "brandName": "ARIDOL",
-    "status": "active_confirmed",
-    "din": "02489562",
-    "strength": "40MG\r\n10MG\r\n20MG\r\n5MG",
-    "expectedBackInStockDate": "2026-08-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-05-20T18:32:20.000Z",
-    "updateDate": "2026-05-20T18:32:20.000Z",
-    "postedDate": "2026-05-20T18:32:07.000Z"
-  },
-  {
     "id": "shortage:255238",
     "reportId": 255238,
     "type": "shortage",
@@ -8216,34 +8244,6 @@
     "updatedDate": "2026-04-22T21:14:36.000Z",
     "updateDate": "2026-04-22T21:14:36.000Z",
     "postedDate": "2026-03-21T00:29:57.000Z"
-  },
-  {
-    "id": "shortage:273126",
-    "reportId": 273126,
-    "type": "shortage",
-    "brandName": "IFEX",
-    "status": "active_confirmed",
-    "din": "02241357",
-    "strength": "1G",
-    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-17T23:02:04.000Z",
-    "updateDate": "2026-04-17T23:02:04.000Z",
-    "postedDate": "2025-12-03T21:58:18.000Z"
-  },
-  {
-    "id": "shortage:273129",
-    "reportId": 273129,
-    "type": "shortage",
-    "brandName": "IFEX",
-    "status": "active_confirmed",
-    "din": "02241356",
-    "strength": "3G",
-    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-04-17T23:01:40.000Z",
-    "updateDate": "2026-04-17T23:01:40.000Z",
-    "postedDate": "2025-12-03T22:00:08.000Z"
   },
   {
     "id": "shortage:129553",
