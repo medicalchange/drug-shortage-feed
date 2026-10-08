@@ -1,25 +1,45 @@
 {
-  "count": 365,
-  "refreshedAt": "2026-10-07T14:59:15.552Z",
+  "count": 364,
+  "refreshedAt": "2026-10-08T15:07:57.316Z",
   "source": "github-static-seed",
   "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "MIOSTAT OPHTHALMIC LIQ 0.01%",
+      "drug": "DEXTROSE INJECTION USP",
       "doses": [
-        ".01%"
+        "500MG"
       ],
-      "expectedBackInStockDate": "2027-01-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
-      "drug": "RESTASIS MULTIDOSE",
+      "drug": "RABEPRAZOLE EC",
       "doses": [
-        "0.05%"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2026-12-07T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-08T15:07:57.316Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "DEXTROSE INJECTION USP",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "RABEPRAZOLE EC",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-07T14:59:15.552Z",
       "addedDrugsCount": 2,
@@ -353,56 +373,6 @@
           "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-24T13:05:30.061Z",
-      "addedDrugsCount": 6,
-      "addedDrugs": [
-        {
-          "drug": "AMITRIPTYLINE",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        },
-        {
-          "drug": "CLINDAMYCIN",
-          "doses": [
-            "150MG",
-            "300MG"
-          ],
-          "expectedBackInStockDate": "2026-10-22T04:00:00.000Z"
-        },
-        {
-          "drug": "DONEPEZIL TABLETS",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-        },
-        {
-          "drug": "EPLERENONE",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
-        },
-        {
-          "drug": "LABETALOL HYDROCHLORIDE INJECTION USP",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "LATANOPROST / TIMOLOL",
-          "doses": [
-            "50MCG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -527,7 +497,7 @@
       "doses": [
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-10-01T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
     },
     {
       "drug": "AMITRIPTYLINE",
@@ -888,7 +858,7 @@
       "doses": [
         "150MG"
       ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
       "drug": "CARMUSTINE FOR INJECTION USP",
@@ -1148,6 +1118,13 @@
       "drug": "DEXTROSE INJECTION",
       "doses": [
         "50%"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "DEXTROSE INJECTION USP",
+      "doses": [
+        "500MG"
       ],
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
@@ -1413,13 +1390,6 @@
         "100MCG"
       ],
       "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-    },
-    {
-      "drug": "ESZOPICLONE",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
     },
     {
       "drug": "EVEROLIMUS",
@@ -1731,13 +1701,6 @@
       "expectedBackInStockDate": "2026-07-03T04:00:00.000Z"
     },
     {
-      "drug": "LANCORA",
-      "doses": [
-        "7.5MG"
-      ],
-      "expectedBackInStockDate": "2026-10-07T04:00:00.000Z"
-    },
-    {
       "drug": "LANSOPRAZOLE",
       "doses": [
         "15MG",
@@ -1779,13 +1742,6 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-    },
-    {
-      "drug": "LETROZOLE",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2026-09-15T04:00:00.000Z"
     },
     {
       "drug": "LEUCOVORIN",
@@ -1926,7 +1882,7 @@
         "1MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-10-07T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-15T04:00:00.000Z"
     },
     {
       "drug": "METFORMIN ER",
@@ -2286,7 +2242,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
     },
     {
       "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
@@ -2525,6 +2481,13 @@
         "20MG"
       ],
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "drug": "RABEPRAZOLE EC",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
     },
     {
       "drug": "RAMIPRIL",

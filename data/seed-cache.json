@@ -1,5 +1,117 @@
 [
   {
+    "id": "shortage:293281",
+    "reportId": 293281,
+    "type": "shortage",
+    "brandName": "RABEPRAZOLE EC",
+    "status": "active_confirmed",
+    "din": "02356538",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2027-01-08T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-08T18:17:00.000Z",
+    "updateDate": "2026-10-08T18:17:00.000Z",
+    "postedDate": "2026-09-14T16:48:45.000Z"
+  },
+  {
+    "id": "shortage:279817",
+    "reportId": 279817,
+    "type": "shortage",
+    "brandName": "PANTOPRAZOLE T",
+    "status": "active_confirmed",
+    "din": "02466147",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2027-01-08T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-08T18:16:02.000Z",
+    "updateDate": "2026-10-08T18:16:02.000Z",
+    "postedDate": "2026-03-05T23:24:10.000Z"
+  },
+  {
+    "id": "shortage:291978",
+    "reportId": 291978,
+    "type": "shortage",
+    "brandName": "CAPECITABINE",
+    "status": "active_confirmed",
+    "din": "02514982",
+    "strength": "150MG",
+    "expectedBackInStockDate": "2026-10-16T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-08T18:10:18.000Z",
+    "updateDate": "2026-10-08T18:10:18.000Z",
+    "postedDate": "2026-08-24T21:43:16.000Z"
+  },
+  {
+    "id": "shortage:287226",
+    "reportId": 287226,
+    "type": "shortage",
+    "brandName": "DEXTROSE INJECTION USP",
+    "status": "active_confirmed",
+    "din": "02468514",
+    "strength": "500MG",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-08T17:41:52.000Z",
+    "updateDate": "2026-10-08T17:41:52.000Z",
+    "postedDate": "2026-06-16T00:47:19.000Z"
+  },
+  {
+    "id": "shortage:290814",
+    "reportId": 290814,
+    "type": "shortage",
+    "brandName": "METADOL",
+    "status": "active_confirmed",
+    "din": "02247699",
+    "strength": "5MG",
+    "expectedBackInStockDate": "2026-10-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-08T17:27:53.000Z",
+    "updateDate": "2026-10-08T17:27:53.000Z",
+    "postedDate": "2026-08-06T22:02:52.000Z"
+  },
+  {
+    "id": "shortage:293239",
+    "reportId": 293239,
+    "type": "shortage",
+    "brandName": "METADOL",
+    "status": "active_confirmed",
+    "din": "02247700",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-10-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-08T17:26:42.000Z",
+    "updateDate": "2026-10-08T17:26:42.000Z",
+    "postedDate": "2026-09-11T19:44:35.000Z"
+  },
+  {
+    "id": "shortage:294878",
+    "reportId": 294878,
+    "type": "shortage",
+    "brandName": "METADOL",
+    "status": "active_confirmed",
+    "din": "02247698",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-10-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-08T17:25:56.000Z",
+    "updateDate": "2026-10-08T17:25:56.000Z",
+    "postedDate": "2026-10-01T20:47:07.000Z"
+  },
+  {
+    "id": "shortage:284545",
+    "reportId": 284545,
+    "type": "shortage",
+    "brandName": "AMINOPHYLLINE INJ 25MG/ML",
+    "status": "active_confirmed",
+    "din": "00582662",
+    "strength": "25MG",
+    "expectedBackInStockDate": "2026-10-19T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-08T03:30:38.000Z",
+    "updateDate": "2026-10-08T03:30:38.000Z",
+    "postedDate": "2026-05-06T17:34:19.000Z"
+  },
+  {
     "id": "shortage:274386",
     "reportId": 274386,
     "type": "shortage",
@@ -812,20 +924,6 @@
     "postedDate": "2026-05-29T19:27:26.000Z"
   },
   {
-    "id": "shortage:291625",
-    "reportId": 291625,
-    "type": "shortage",
-    "brandName": "LANCORA",
-    "status": "active_confirmed",
-    "din": "02459981",
-    "strength": "7.5MG",
-    "expectedBackInStockDate": "2026-10-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-02T19:58:57.000Z",
-    "updateDate": "2026-10-02T19:58:57.000Z",
-    "postedDate": "2026-08-18T16:00:57.000Z"
-  },
-  {
     "id": "shortage:295059",
     "reportId": 295059,
     "type": "shortage",
@@ -1456,20 +1554,6 @@
     "postedDate": "2025-08-27T19:13:37.000Z"
   },
   {
-    "id": "shortage:294878",
-    "reportId": 294878,
-    "type": "shortage",
-    "brandName": "METADOL",
-    "status": "active_confirmed",
-    "din": "02247698",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-01T20:48:00.000Z",
-    "updateDate": "2026-10-01T20:48:00.000Z",
-    "postedDate": "2026-10-01T20:47:07.000Z"
-  },
-  {
     "id": "shortage:282805",
     "reportId": 282805,
     "type": "shortage",
@@ -1496,20 +1580,6 @@
     "updatedDate": "2026-10-01T16:25:47.000Z",
     "updateDate": "2026-10-01T16:25:47.000Z",
     "postedDate": "2026-08-05T17:13:37.000Z"
-  },
-  {
-    "id": "shortage:291978",
-    "reportId": 291978,
-    "type": "shortage",
-    "brandName": "CAPECITABINE",
-    "status": "active_confirmed",
-    "din": "02514982",
-    "strength": "150MG",
-    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-01T16:22:56.000Z",
-    "updateDate": "2026-10-01T16:22:56.000Z",
-    "postedDate": "2026-08-24T21:43:16.000Z"
   },
   {
     "id": "shortage:291969",
@@ -1944,34 +2014,6 @@
     "updatedDate": "2026-09-28T17:27:54.000Z",
     "updateDate": "2026-09-28T17:27:54.000Z",
     "postedDate": "2026-08-20T17:07:05.000Z"
-  },
-  {
-    "id": "shortage:293239",
-    "reportId": 293239,
-    "type": "shortage",
-    "brandName": "METADOL",
-    "status": "active_confirmed",
-    "din": "02247700",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-10-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-28T17:15:12.000Z",
-    "updateDate": "2026-09-28T17:15:12.000Z",
-    "postedDate": "2026-09-11T19:44:35.000Z"
-  },
-  {
-    "id": "shortage:290814",
-    "reportId": 290814,
-    "type": "shortage",
-    "brandName": "METADOL",
-    "status": "active_confirmed",
-    "din": "02247699",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-10-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-28T17:14:35.000Z",
-    "updateDate": "2026-09-28T17:14:35.000Z",
-    "postedDate": "2026-08-06T22:02:52.000Z"
   },
   {
     "id": "shortage:289613",
@@ -3850,20 +3892,6 @@
     "postedDate": "2025-10-08T16:13:46.000Z"
   },
   {
-    "id": "shortage:290593",
-    "reportId": 290593,
-    "type": "shortage",
-    "brandName": "M-ESZOPICLONE",
-    "status": "active_confirmed",
-    "din": "02551187",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-09-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-18T23:26:47.000Z",
-    "updateDate": "2026-09-18T23:26:47.000Z",
-    "postedDate": "2026-08-04T20:09:12.000Z"
-  },
-  {
     "id": "shortage:293775",
     "reportId": 293775,
     "type": "shortage",
@@ -5586,20 +5614,6 @@
     "postedDate": "2026-07-22T23:26:32.000Z"
   },
   {
-    "id": "shortage:284545",
-    "reportId": 284545,
-    "type": "shortage",
-    "brandName": "AMINOPHYLLINE INJ 25MG/ML",
-    "status": "active_confirmed",
-    "din": "00582662",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-10-01T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-26T05:44:08.000Z",
-    "updateDate": "2026-08-26T05:44:08.000Z",
-    "postedDate": "2026-05-06T17:34:19.000Z"
-  },
-  {
     "id": "shortage:291999",
     "reportId": 291999,
     "type": "shortage",
@@ -5626,20 +5640,6 @@
     "updatedDate": "2026-08-24T21:38:08.000Z",
     "updateDate": "2026-08-24T21:38:08.000Z",
     "postedDate": "2026-07-13T18:17:38.000Z"
-  },
-  {
-    "id": "shortage:279817",
-    "reportId": 279817,
-    "type": "shortage",
-    "brandName": "PANTOPRAZOLE T",
-    "status": "active_confirmed",
-    "din": "02466147",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-24T21:37:36.000Z",
-    "updateDate": "2026-08-24T21:37:36.000Z",
-    "postedDate": "2026-03-05T23:24:10.000Z"
   },
   {
     "id": "shortage:291850",
@@ -6172,20 +6172,6 @@
     "updatedDate": "2026-08-05T17:09:22.000Z",
     "updateDate": "2026-08-05T17:09:22.000Z",
     "postedDate": "2022-04-08T20:25:49.000Z"
-  },
-  {
-    "id": "shortage:290590",
-    "reportId": 290590,
-    "type": "shortage",
-    "brandName": "M-LETROZOLE",
-    "status": "active_confirmed",
-    "din": "02549972",
-    "strength": "2.5MG",
-    "expectedBackInStockDate": "2026-09-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-04T20:08:04.000Z",
-    "updateDate": "2026-08-04T20:08:04.000Z",
-    "postedDate": "2026-08-04T20:07:34.000Z"
   },
   {
     "id": "shortage:289166",
