@@ -1,24 +1,92 @@
 {
-  "refreshedAt": "2026-10-08T15:07:57.316Z",
-  "count": 651,
-  "addedDrugsCount": 2,
+  "refreshedAt": "2026-10-09T14:52:45.257Z",
+  "count": 654,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "DEXTROSE INJECTION USP",
+      "drug": "FEMYSO",
       "doses": [
-        "500MG"
+        "200MCG",
+        "200MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
     },
     {
-      "drug": "RABEPRAZOLE EC",
+      "drug": "LATANOPROST-TIMOLOL",
       "doses": [
-        "20MG"
+        "50MCG",
+        "5MG"
       ],
-      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+    },
+    {
+      "drug": "LEVOCARB CR",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "drug": "MEFENAMIC",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+    },
+    {
+      "drug": "TRIHEXYPHENIDYL",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-09T14:52:45.257Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "FEMYSO",
+          "doses": [
+            "200MCG",
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
+        },
+        {
+          "drug": "LATANOPROST-TIMOLOL",
+          "doses": [
+            "50MCG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+        },
+        {
+          "drug": "LEVOCARB CR",
+          "doses": [
+            "100MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "drug": "MEFENAMIC",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+        },
+        {
+          "drug": "TRIHEXYPHENIDYL",
+          "doses": [
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-08T15:07:57.316Z",
       "addedDrugsCount": 2,
@@ -348,28 +416,6 @@
             "10MG"
           ],
           "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-25T13:10:15.241Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "ANTICOAGULANT SODIUM CITRATE SOLUTION, USP",
-          "doses": [
-            "4G"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "COTAZYM",
-          "doses": [
-            "10000UNIT",
-            "35000UNIT",
-            "40000UNIT"
-          ],
-          "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
         }
       ]
     }
