@@ -1,49 +1,125 @@
 {
-  "count": 367,
-  "refreshedAt": "2026-10-09T14:52:45.257Z",
+  "count": 372,
+  "refreshedAt": "2026-10-10T14:09:23.010Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 5,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "FEMYSO",
+      "drug": "ACETAMINOPHEN CAPLETS EXTRA STRENGTH",
       "doses": [
-        "200MCG",
-        "200MG"
+        "500MG"
       ],
-      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
-      "drug": "LATANOPROST-TIMOLOL",
+      "drug": "COSOPT PRESERVATIVE-FREE",
       "doses": [
-        "50MCG",
+        "20MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
     },
     {
-      "drug": "LEVOCARB CR",
+      "drug": "COTAZYM ECS 20",
       "doses": [
-        "100MG",
-        "25MG"
+        "100000UNIT",
+        "25000UNIT"
       ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     },
     {
-      "drug": "MEFENAMIC",
+      "drug": "COTAZYM ECS 8",
+      "doses": [
+        "10800UNIT",
+        "42000UNIT",
+        "45000UNIT"
+      ],
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+    },
+    {
+      "drug": "DEXEDRINE SPANSULE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+    },
+    {
+      "drug": "NAPROXEN / ESOMEPRAZOLE",
+      "doses": [
+        "20MG",
+        "375MG"
+      ],
+      "expectedBackInStockDate": "2027-04-23T04:00:00.000Z"
+    },
+    {
+      "drug": "NAPROXEN EC TABLETS",
       "doses": [
         "250MG"
       ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-    },
-    {
-      "drug": "TRIHEXYPHENIDYL",
-      "doses": [
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-10T14:09:23.010Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "ACETAMINOPHEN CAPLETS EXTRA STRENGTH",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        },
+        {
+          "drug": "COSOPT PRESERVATIVE-FREE",
+          "doses": [
+            "20MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "COTAZYM ECS 20",
+          "doses": [
+            "100000UNIT",
+            "25000UNIT"
+          ],
+          "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+        },
+        {
+          "drug": "COTAZYM ECS 8",
+          "doses": [
+            "10800UNIT",
+            "42000UNIT",
+            "45000UNIT"
+          ],
+          "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+        },
+        {
+          "drug": "DEXEDRINE SPANSULE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+        },
+        {
+          "drug": "NAPROXEN / ESOMEPRAZOLE",
+          "doses": [
+            "20MG",
+            "375MG"
+          ],
+          "expectedBackInStockDate": "2027-04-23T04:00:00.000Z"
+        },
+        {
+          "drug": "NAPROXEN EC TABLETS",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-09T14:52:45.257Z",
       "addedDrugsCount": 5,
@@ -370,55 +446,6 @@
       "refreshedAt": "2026-09-27T13:28:20.420Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-09-26T12:37:07.223Z",
-      "addedDrugsCount": 6,
-      "addedDrugs": [
-        {
-          "drug": "AWIQLI",
-          "doses": [
-            "2100UNIT"
-          ],
-          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
-        },
-        {
-          "drug": "CHLORAPREP",
-          "doses": [
-            "2%",
-            "70%"
-          ],
-          "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-        },
-        {
-          "drug": "DEXMEDETOMIDINE HYDROCHLORIDE INJECTION",
-          "doses": [
-            "4MCG"
-          ],
-          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-        },
-        {
-          "drug": "FEBUXOSTAT",
-          "doses": [
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
-        },
-        {
-          "drug": "NORFLOXACIN",
-          "doses": [
-            "400MG"
-          ],
-          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-        },
-        {
-          "drug": "PROCHLORAZINE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -442,6 +469,13 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+    },
+    {
+      "drug": "ACETAMINOPHEN CAPLETS EXTRA STRENGTH",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "ACETAMINOPHEN EXTRA STRENGTH",
@@ -493,7 +527,7 @@
         "5600UNIT",
         "70MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     },
     {
       "drug": "ALFUZOSIN",
@@ -824,7 +858,7 @@
         "0.2%",
         "0.5%"
       ],
-      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
     },
     {
       "drug": "BRIMONIDINE/TIMOLOL",
@@ -940,7 +974,7 @@
         "2%",
         "70%"
       ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-14T04:00:00.000Z"
     },
     {
       "drug": "CHLORTHALIDONE",
@@ -1047,13 +1081,38 @@
       "expectedBackInStockDate": "2027-02-15T05:00:00.000Z"
     },
     {
+      "drug": "COSOPT PRESERVATIVE-FREE",
+      "doses": [
+        "20MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
       "drug": "COTAZYM",
       "doses": [
         "10000UNIT",
         "35000UNIT",
         "40000UNIT"
       ],
-      "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+    },
+    {
+      "drug": "COTAZYM ECS 20",
+      "doses": [
+        "100000UNIT",
+        "25000UNIT"
+      ],
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+    },
+    {
+      "drug": "COTAZYM ECS 8",
+      "doses": [
+        "10800UNIT",
+        "42000UNIT",
+        "45000UNIT"
+      ],
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     },
     {
       "drug": "CREON MINIMICROSPHERES 25",
@@ -1147,6 +1206,13 @@
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
+      "drug": "DEXEDRINE SPANSULE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
+    },
+    {
       "drug": "DEXMEDETOMIDINE HYDROCHLORIDE INJECTION",
       "doses": [
         "4MCG"
@@ -1194,14 +1260,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-    },
-    {
-      "drug": "DILAUDID",
-      "doses": [
-        "1MG",
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-10-12T04:00:00.000Z"
     },
     {
       "drug": "DILTIAZ CD",
@@ -1343,7 +1401,7 @@
       "doses": [
         "0.5MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
       "drug": "EDOXABAN",
@@ -1412,7 +1470,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-10T04:00:00.000Z"
     },
     {
       "drug": "ESOMEPRAZOLE",
@@ -1626,7 +1684,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
     },
     {
       "drug": "HYDROCHLOROTHIAZIDE",
@@ -2094,11 +2152,26 @@
       "expectedBackInStockDate": "2026-06-12T04:00:00.000Z"
     },
     {
+      "drug": "NAPROXEN / ESOMEPRAZOLE",
+      "doses": [
+        "20MG",
+        "375MG"
+      ],
+      "expectedBackInStockDate": "2027-04-23T04:00:00.000Z"
+    },
+    {
       "drug": "NAPROXEN EC",
       "doses": [
         "500MG"
       ],
       "expectedBackInStockDate": "2026-04-24T04:00:00.000Z"
+    },
+    {
+      "drug": "NAPROXEN EC TABLETS",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
       "drug": "NIFEDIPINE EXTENDED RELEASE",
@@ -3066,7 +3139,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     },
     {
       "drug": "TROSPIUM",
@@ -3135,14 +3208,6 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
-    },
-    {
-      "drug": "VARENICLINE",
-      "doses": [
-        "0.5MG",
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "VASOTEC",
