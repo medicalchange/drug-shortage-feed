@@ -1,64 +1,14 @@
 {
-  "refreshedAt": "2026-10-10T14:09:23.010Z",
+  "refreshedAt": "2026-10-11T14:33:24.495Z",
   "count": 664,
-  "addedDrugsCount": 7,
-  "addedDrugs": [
-    {
-      "drug": "ACETAMINOPHEN CAPLETS EXTRA STRENGTH",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-    },
-    {
-      "drug": "COSOPT PRESERVATIVE-FREE",
-      "doses": [
-        "20MG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-    },
-    {
-      "drug": "COTAZYM ECS 20",
-      "doses": [
-        "100000UNIT",
-        "25000UNIT"
-      ],
-      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
-    },
-    {
-      "drug": "COTAZYM ECS 8",
-      "doses": [
-        "10800UNIT",
-        "42000UNIT",
-        "45000UNIT"
-      ],
-      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
-    },
-    {
-      "drug": "DEXEDRINE SPANSULE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-    },
-    {
-      "drug": "NAPROXEN / ESOMEPRAZOLE",
-      "doses": [
-        "20MG",
-        "375MG"
-      ],
-      "expectedBackInStockDate": "2027-04-23T04:00:00.000Z"
-    },
-    {
-      "drug": "NAPROXEN EC TABLETS",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-11T14:33:24.495Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-10-10T14:09:23.010Z",
       "addedDrugsCount": 7,
@@ -440,11 +390,6 @@
           "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-09-27T13:28:20.420Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }
