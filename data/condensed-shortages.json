@@ -1,10 +1,31 @@
 {
-  "count": 372,
-  "refreshedAt": "2026-10-11T14:33:24.495Z",
+  "count": 373,
+  "refreshedAt": "2026-10-12T17:14:03.065Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 1,
+  "addedDrugs": [
+    {
+      "drug": "DIGOXIN",
+      "doses": [
+        "0.0625MG"
+      ],
+      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-12T17:14:03.065Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "DIGOXIN",
+          "doses": [
+            "0.0625MG"
+          ],
+          "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-11T14:33:24.495Z",
       "addedDrugsCount": 0,
@@ -368,27 +389,6 @@
             "30MG"
           ],
           "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-28T16:22:03.133Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CARMUSTINE FOR INJECTION USP",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-        },
-        {
-          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-          "doses": [
-            "0.5G",
-            "4G"
-          ],
-          "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
         }
       ]
     }
@@ -1205,6 +1205,13 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+    },
+    {
+      "drug": "DIGOXIN",
+      "doses": [
+        "0.0625MG"
+      ],
+      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
     },
     {
       "drug": "DILTIAZ CD",
@@ -2130,7 +2137,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-14T04:00:00.000Z"
     },
     {
       "drug": "NITROJECT",
@@ -2200,7 +2207,6 @@
     {
       "drug": "OLANZAPINE ODT",
       "doses": [
-        "15MG",
         "20MG",
         "5MG"
       ],
@@ -3240,7 +3246,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     }
   ]
 }
