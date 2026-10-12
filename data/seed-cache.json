@@ -1,5 +1,61 @@
 [
   {
+    "id": "shortage:292729",
+    "reportId": 292729,
+    "type": "shortage",
+    "brandName": "PMS-PRAVASTATIN",
+    "status": "active_confirmed",
+    "din": "02247655",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-12T18:45:34.000Z",
+    "updateDate": "2026-10-12T18:45:34.000Z",
+    "postedDate": "2026-09-04T22:36:58.000Z"
+  },
+  {
+    "id": "shortage:292064",
+    "reportId": 292064,
+    "type": "shortage",
+    "brandName": "PMS-TOPIRAMATE",
+    "status": "active_confirmed",
+    "din": "02312085",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-10-14T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-12T18:44:58.000Z",
+    "updateDate": "2026-10-12T18:44:58.000Z",
+    "postedDate": "2026-08-26T16:41:33.000Z"
+  },
+  {
+    "id": "shortage:292061",
+    "reportId": 292061,
+    "type": "shortage",
+    "brandName": "PMS-NITROFURANTOIN BID",
+    "status": "active_confirmed",
+    "din": "02455676",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-10-14T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-12T18:44:34.000Z",
+    "updateDate": "2026-10-12T18:44:34.000Z",
+    "postedDate": "2026-08-26T16:38:41.000Z"
+  },
+  {
+    "id": "shortage:295630",
+    "reportId": 295630,
+    "type": "shortage",
+    "brandName": "PMS-DIGOXIN",
+    "status": "active_confirmed",
+    "din": "02335700",
+    "strength": "0.0625MG",
+    "expectedBackInStockDate": "2026-12-01T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-12T18:16:00.000Z",
+    "updateDate": "2026-10-12T18:16:00.000Z",
+    "postedDate": "2026-10-12T18:15:38.000Z"
+  },
+  {
     "id": "shortage:286595",
     "reportId": 286595,
     "type": "shortage",
@@ -1496,20 +1552,6 @@
     "updatedDate": "2026-10-05T16:40:06.000Z",
     "updateDate": "2026-10-05T16:40:06.000Z",
     "postedDate": "2024-08-23T21:30:42.000Z"
-  },
-  {
-    "id": "shortage:290183",
-    "reportId": 290183,
-    "type": "shortage",
-    "brandName": "PMS-OLANZAPINE ODT",
-    "status": "active_confirmed",
-    "din": "02303213",
-    "strength": "15MG",
-    "expectedBackInStockDate": "2026-12-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-05T16:39:03.000Z",
-    "updateDate": "2026-10-05T16:39:03.000Z",
-    "postedDate": "2026-07-30T00:49:51.000Z"
   },
   {
     "id": "shortage:188954",
@@ -4998,34 +5040,6 @@
     "postedDate": "2026-07-22T21:48:28.000Z"
   },
   {
-    "id": "shortage:292732",
-    "reportId": 292732,
-    "type": "shortage",
-    "brandName": "PMS-ZOLPIDEM ODT",
-    "status": "active_confirmed",
-    "din": "02436175",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-09-29T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-04T22:39:33.000Z",
-    "updateDate": "2026-09-04T22:39:33.000Z",
-    "postedDate": "2026-09-04T22:38:43.000Z"
-  },
-  {
-    "id": "shortage:292729",
-    "reportId": 292729,
-    "type": "shortage",
-    "brandName": "PMS-PRAVASTATIN",
-    "status": "active_confirmed",
-    "din": "02247655",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-10-07T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-04T22:37:50.000Z",
-    "updateDate": "2026-09-04T22:37:50.000Z",
-    "postedDate": "2026-09-04T22:36:58.000Z"
-  },
-  {
     "id": "shortage:289227",
     "reportId": 289227,
     "type": "shortage",
@@ -5780,34 +5794,6 @@
     "updatedDate": "2026-08-26T16:47:25.000Z",
     "updateDate": "2026-08-26T16:47:25.000Z",
     "postedDate": "2025-03-17T17:43:18.000Z"
-  },
-  {
-    "id": "shortage:292064",
-    "reportId": 292064,
-    "type": "shortage",
-    "brandName": "PMS-TOPIRAMATE",
-    "status": "active_confirmed",
-    "din": "02312085",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-10-06T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-26T16:42:27.000Z",
-    "updateDate": "2026-08-26T16:42:27.000Z",
-    "postedDate": "2026-08-26T16:41:33.000Z"
-  },
-  {
-    "id": "shortage:292061",
-    "reportId": 292061,
-    "type": "shortage",
-    "brandName": "PMS-NITROFURANTOIN BID",
-    "status": "active_confirmed",
-    "din": "02455676",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2027-01-05T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-26T16:40:28.000Z",
-    "updateDate": "2026-08-26T16:40:28.000Z",
-    "postedDate": "2026-08-26T16:38:41.000Z"
   },
   {
     "id": "shortage:289713",
