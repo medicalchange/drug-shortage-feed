@@ -1,18 +1,33 @@
 {
-  "count": 373,
-  "refreshedAt": "2026-10-12T17:14:03.065Z",
+  "count": 374,
+  "refreshedAt": "2026-10-13T15:29:28.798Z",
   "source": "github-static-seed",
   "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "DIGOXIN",
+      "drug": "TWYNSTA",
       "doses": [
-        "0.0625MG"
+        "5MG",
+        "80MG"
       ],
-      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-13T15:29:28.798Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "TWYNSTA",
+          "doses": [
+            "5MG",
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-12T17:14:03.065Z",
       "addedDrugsCount": 1,
@@ -376,19 +391,6 @@
             "2MG"
           ],
           "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-29T14:31:33.617Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "NIFEDIPINE EXTENDED RELEASE",
-          "doses": [
-            "30MG"
-          ],
-          "expectedBackInStockDate": "2026-10-27T04:00:00.000Z"
         }
       ]
     }
@@ -3105,6 +3107,14 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-06-26T04:00:00.000Z"
+    },
+    {
+      "drug": "TWYNSTA",
+      "doses": [
+        "5MG",
+        "80MG"
+      ],
+      "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
     },
     {
       "drug": "UROMITEXAN",
