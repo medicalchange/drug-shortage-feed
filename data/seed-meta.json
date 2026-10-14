@@ -1,18 +1,36 @@
 {
-  "refreshedAt": "2026-10-13T15:29:28.798Z",
-  "count": 664,
+  "refreshedAt": "2026-10-14T13:14:50.747Z",
+  "count": 665,
   "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "TWYNSTA",
+      "drug": "TISSEEL",
       "doses": [
-        "5MG",
-        "80MG"
+        "125MG",
+        "3000KIU",
+        "40MCMOL",
+        "500UNIT"
       ],
-      "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-14T13:14:50.747Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "TISSEEL",
+          "doses": [
+            "125MG",
+            "3000KIU",
+            "40MCMOL",
+            "500UNIT"
+          ],
+          "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-13T15:29:28.798Z",
       "addedDrugsCount": 1,
@@ -346,48 +364,6 @@
           "drug": "SERTRALINE",
           "doses": [
             "25MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-09-30T14:30:07.002Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "ALMOTRIPTAN",
-          "doses": [
-            "12.5MG"
-          ],
-          "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
-        },
-        {
-          "drug": "BILASTINE",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
-        },
-        {
-          "drug": "DROSPIRENONE AND ETHINYL ESTRADIOL TABLETS USP 28",
-          "doses": [
-            "0.03MG",
-            "3MG"
-          ],
-          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-        },
-        {
-          "drug": "MAEVE",
-          "doses": [
-            "0.35MG"
-          ],
-          "expectedBackInStockDate": "2026-09-29T04:00:00.000Z"
-        },
-        {
-          "drug": "YESAFILI",
-          "doses": [
-            "2MG"
           ],
           "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
         }

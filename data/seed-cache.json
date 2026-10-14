@@ -1,5 +1,75 @@
 [
   {
+    "id": "shortage:295716",
+    "reportId": 295716,
+    "type": "shortage",
+    "brandName": "TISSEEL",
+    "status": "active_confirmed",
+    "din": "02326132",
+    "strength": "3000KIU\r\n500UNIT\r\n125MG\r\n40MCMOL",
+    "expectedBackInStockDate": "2026-12-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-13T23:59:39.000Z",
+    "updateDate": "2026-10-13T23:59:39.000Z",
+    "postedDate": "2026-10-13T23:59:18.000Z"
+  },
+  {
+    "id": "shortage:291552",
+    "reportId": 291552,
+    "type": "shortage",
+    "brandName": "TARO-VALSARTAN",
+    "status": "active_confirmed",
+    "din": "02363119",
+    "strength": "160MG",
+    "expectedBackInStockDate": "2026-10-23T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-13T23:27:57.000Z",
+    "updateDate": "2026-10-13T23:27:57.000Z",
+    "postedDate": "2026-08-17T23:27:02.000Z"
+  },
+  {
+    "id": "shortage:295705",
+    "reportId": 295705,
+    "type": "shortage",
+    "brandName": "TISSEEL",
+    "status": "active_confirmed",
+    "din": "02326132",
+    "strength": "3000KIU\r\n500UNIT\r\n125MG\r\n40MCMOL",
+    "expectedBackInStockDate": "2026-12-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-13T23:12:22.000Z",
+    "updateDate": "2026-10-13T23:12:22.000Z",
+    "postedDate": "2026-10-13T23:08:15.000Z"
+  },
+  {
+    "id": "shortage:283842",
+    "reportId": 283842,
+    "type": "shortage",
+    "brandName": "VASOTEC",
+    "status": "active_confirmed",
+    "din": "00708879",
+    "strength": "4MG",
+    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-13T21:53:26.000Z",
+    "updateDate": "2026-10-13T21:53:26.000Z",
+    "postedDate": "2026-04-27T23:29:22.000Z"
+  },
+  {
+    "id": "shortage:282788",
+    "reportId": 282788,
+    "type": "shortage",
+    "brandName": "NAT-SUNITINIB",
+    "status": "active_confirmed",
+    "din": "02552892",
+    "strength": "12.5MG",
+    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-13T20:40:21.000Z",
+    "updateDate": "2026-10-13T20:40:21.000Z",
+    "postedDate": "2026-04-13T23:52:03.000Z"
+  },
+  {
     "id": "shortage:293982",
     "reportId": 293982,
     "type": "shortage",
@@ -2520,20 +2590,6 @@
     "postedDate": "2023-05-17T18:27:35.000Z"
   },
   {
-    "id": "shortage:282788",
-    "reportId": 282788,
-    "type": "shortage",
-    "brandName": "NAT-SUNITINIB",
-    "status": "active_confirmed",
-    "din": "02552892",
-    "strength": "12.5MG",
-    "expectedBackInStockDate": "2026-10-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-28T17:28:04.000Z",
-    "updateDate": "2026-09-28T17:28:04.000Z",
-    "postedDate": "2026-04-13T23:52:03.000Z"
-  },
-  {
     "id": "shortage:291724",
     "reportId": 291724,
     "type": "shortage",
@@ -4436,34 +4492,6 @@
     "updatedDate": "2026-09-18T17:37:13.000Z",
     "updateDate": "2026-09-18T17:37:13.000Z",
     "postedDate": "2026-04-08T22:48:41.000Z"
-  },
-  {
-    "id": "shortage:292674",
-    "reportId": 292674,
-    "type": "shortage",
-    "brandName": "TARO-BENZOYL PEROXIDE / CLINDAMYCIN KIT",
-    "status": "active_confirmed",
-    "din": "02464519",
-    "strength": "1%\r\n5%",
-    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-18T17:36:41.000Z",
-    "updateDate": "2026-09-18T17:36:41.000Z",
-    "postedDate": "2026-09-04T21:47:30.000Z"
-  },
-  {
-    "id": "shortage:291552",
-    "reportId": 291552,
-    "type": "shortage",
-    "brandName": "TARO-VALSARTAN",
-    "status": "active_confirmed",
-    "din": "02363119",
-    "strength": "160MG",
-    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-18T17:27:59.000Z",
-    "updateDate": "2026-09-18T17:27:59.000Z",
-    "postedDate": "2026-08-17T23:27:02.000Z"
   },
   {
     "id": "shortage:205711",
@@ -7236,20 +7264,6 @@
     "updatedDate": "2026-07-02T22:19:27.000Z",
     "updateDate": "2026-07-02T22:19:27.000Z",
     "postedDate": "2026-05-22T00:22:13.000Z"
-  },
-  {
-    "id": "shortage:283842",
-    "reportId": 283842,
-    "type": "shortage",
-    "brandName": "VASOTEC",
-    "status": "active_confirmed",
-    "din": "00708879",
-    "strength": "4MG",
-    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-06-26T07:20:28.000Z",
-    "updateDate": "2026-06-26T07:20:28.000Z",
-    "postedDate": "2026-04-27T23:29:22.000Z"
   },
   {
     "id": "shortage:284859",
