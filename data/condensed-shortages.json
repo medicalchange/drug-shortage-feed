@@ -1,21 +1,95 @@
 {
-  "count": 374,
-  "refreshedAt": "2026-10-14T13:14:50.747Z",
+  "count": 377,
+  "refreshedAt": "2026-10-15T13:00:35.210Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "TISSEEL",
+      "drug": "ATOVAQUONE",
       "doses": [
-        "125MG",
-        "3000KIU",
-        "40MCMOL",
-        "500UNIT"
+        "750MG"
       ],
-      "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "drug": "CREON MINIMICROSPHERES 35",
+      "doses": [
+        "2240UNIT",
+        "35000UNIT",
+        "35700UNIT"
+      ],
+      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+    },
+    {
+      "drug": "NEURONTIN",
+      "doses": [
+        "400MG",
+        "800MG"
+      ],
+      "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "drug": "ZOLOFT",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-15T13:00:35.210Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "ATOVAQUONE",
+          "doses": [
+            "750MG"
+          ],
+          "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
+        },
+        {
+          "drug": "CREON MINIMICROSPHERES 35",
+          "doses": [
+            "2240UNIT",
+            "35000UNIT",
+            "35700UNIT"
+          ],
+          "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+        },
+        {
+          "drug": "NEURONTIN",
+          "doses": [
+            "400MG",
+            "800MG"
+          ],
+          "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
+        },
+        {
+          "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
+        },
+        {
+          "drug": "ZOLOFT",
+          "doses": [
+            "100MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-14T13:14:50.747Z",
       "addedDrugsCount": 1,
@@ -349,26 +423,6 @@
           "expectedBackInStockDate": "2028-12-31T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-01T14:59:49.133Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CAPECITABINE",
-          "doses": [
-            "150MG"
-          ],
-          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-        },
-        {
-          "drug": "SERTRALINE",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -513,7 +567,8 @@
       "drug": "AMLODIPINE/ATORVASTATIN",
       "doses": [
         "10MG",
-        "5MG"
+        "5MG",
+        "80MG"
       ],
       "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
     },
@@ -654,6 +709,13 @@
         "80MG"
       ],
       "expectedBackInStockDate": "2026-05-22T04:00:00.000Z"
+    },
+    {
+      "drug": "ATOVAQUONE",
+      "doses": [
+        "750MG"
+      ],
+      "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
     },
     {
       "drug": "AVENTYL",
@@ -1039,6 +1101,15 @@
       "expectedBackInStockDate": "2026-11-03T05:00:00.000Z"
     },
     {
+      "drug": "CREON MINIMICROSPHERES 35",
+      "doses": [
+        "2240UNIT",
+        "35000UNIT",
+        "35700UNIT"
+      ],
+      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+    },
+    {
       "drug": "CYCLOSPORINE",
       "doses": [
         "100MG"
@@ -1119,13 +1190,6 @@
         "4MG"
       ],
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "DEXEDRINE SPANSULE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
     },
     {
       "drug": "DEXMEDETOMIDINE HYDROCHLORIDE INJECTION",
@@ -1409,13 +1473,6 @@
         "40MG"
       ],
       "expectedBackInStockDate": "2027-10-27T04:00:00.000Z"
-    },
-    {
-      "drug": "ESTRADOT 100",
-      "doses": [
-        "100MCG"
-      ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "EVEROLIMUS",
@@ -2096,6 +2153,14 @@
       "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
+      "drug": "NEURONTIN",
+      "doses": [
+        "400MG",
+        "800MG"
+      ],
+      "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
+    },
+    {
       "drug": "NIFEDIPINE EXTENDED RELEASE",
       "doses": [
         "30MG"
@@ -2158,7 +2223,7 @@
         "100MCG",
         "500MCG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
       "drug": "OCUFLOX",
@@ -2307,6 +2372,13 @@
         "40MG"
       ],
       "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
     },
     {
       "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
@@ -2549,6 +2621,7 @@
     {
       "drug": "RABEPRAZOLE EC",
       "doses": [
+        "10MG",
         "20MG"
       ],
       "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
@@ -3146,7 +3219,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-10-13T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
     },
     {
       "drug": "VASOTEC",
@@ -3203,6 +3276,7 @@
     {
       "drug": "ZELDOX",
       "doses": [
+        "40MG",
         "60MG",
         "80MG"
       ],
@@ -3228,6 +3302,14 @@
         "2.5MG"
       ],
       "expectedBackInStockDate": "2028-09-08T04:00:00.000Z"
+    },
+    {
+      "drug": "ZOLOFT",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
     },
     {
       "drug": "ZOLPIDEM ODT",
