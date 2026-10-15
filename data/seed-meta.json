@@ -1,20 +1,94 @@
 {
-  "refreshedAt": "2026-10-14T13:14:50.747Z",
-  "count": 665,
-  "addedDrugsCount": 1,
+  "refreshedAt": "2026-10-15T13:00:35.210Z",
+  "count": 672,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "TISSEEL",
+      "drug": "ATOVAQUONE",
       "doses": [
-        "125MG",
-        "3000KIU",
-        "40MCMOL",
-        "500UNIT"
+        "750MG"
       ],
-      "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "drug": "CREON MINIMICROSPHERES 35",
+      "doses": [
+        "2240UNIT",
+        "35000UNIT",
+        "35700UNIT"
+      ],
+      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+    },
+    {
+      "drug": "NEURONTIN",
+      "doses": [
+        "400MG",
+        "800MG"
+      ],
+      "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
+    },
+    {
+      "drug": "ZOLOFT",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-15T13:00:35.210Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "ATOVAQUONE",
+          "doses": [
+            "750MG"
+          ],
+          "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
+        },
+        {
+          "drug": "CREON MINIMICROSPHERES 35",
+          "doses": [
+            "2240UNIT",
+            "35000UNIT",
+            "35700UNIT"
+          ],
+          "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+        },
+        {
+          "drug": "NEURONTIN",
+          "doses": [
+            "400MG",
+            "800MG"
+          ],
+          "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
+        },
+        {
+          "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
+        },
+        {
+          "drug": "ZOLOFT",
+          "doses": [
+            "100MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-14T13:14:50.747Z",
       "addedDrugsCount": 1,
@@ -346,26 +420,6 @@
             "2MG"
           ],
           "expectedBackInStockDate": "2028-12-31T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-01T14:59:49.133Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CAPECITABINE",
-          "doses": [
-            "150MG"
-          ],
-          "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
-        },
-        {
-          "drug": "SERTRALINE",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
         }
       ]
     }
