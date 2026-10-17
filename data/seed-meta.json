@@ -1,52 +1,46 @@
 {
-  "refreshedAt": "2026-10-16T12:56:50.986Z",
+  "refreshedAt": "2026-10-17T11:55:29.986Z",
   "count": 680,
-  "addedDrugsCount": 5,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "ACID CONCENTRATE D12272",
+      "drug": "DARUNAVIR",
       "doses": [
-        "10.8G",
-        "2.14G",
-        "263G",
-        "45G",
-        "6.7G",
-        "7.49G"
+        "800MG"
       ],
-      "expectedBackInStockDate": "2026-10-22T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
-      "drug": "ERYTHROMYCIN OPHTHALMIC OINTMENT USP",
+      "drug": "POTASSIUM PHOSPHATES INJECTION, USP",
       "doses": [
-        "5MG"
+        "224MG",
+        "236MG"
       ],
-      "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
-    },
-    {
-      "drug": "ISOPTIN SR",
-      "doses": [
-        "180MG",
-        "240MG"
-      ],
-      "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
-    },
-    {
-      "drug": "MONOPROST",
-      "doses": [
-        "50MCG"
-      ],
-      "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
-    },
-    {
-      "drug": "VANFLYTA",
-      "doses": [
-        "17.7MG",
-        "26.5MG"
-      ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-17T11:55:29.986Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "DARUNAVIR",
+          "doses": [
+            "800MG"
+          ],
+          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+        },
+        {
+          "drug": "POTASSIUM PHOSPHATES INJECTION, USP",
+          "doses": [
+            "224MG",
+            "236MG"
+          ],
+          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-16T12:56:50.986Z",
       "addedDrugsCount": 5,
@@ -383,62 +377,6 @@
       "refreshedAt": "2026-10-04T13:37:15.307Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-10-03T12:56:36.334Z",
-      "addedDrugsCount": 7,
-      "addedDrugs": [
-        {
-          "drug": "ACETAMINOPHEN CAPLETS",
-          "doses": [
-            "325MG"
-          ],
-          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-        },
-        {
-          "drug": "ACETAMINOPHEN CAPLETS 500 MG",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
-        },
-        {
-          "drug": "DUTASTERIDE",
-          "doses": [
-            "0.5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "EMTRICITABINE-TENOFOVIR",
-          "doses": [
-            "200MG",
-            "300MG"
-          ],
-          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-        },
-        {
-          "drug": "MAGNESIUM-45 0.5-4.5",
-          "doses": [
-            "20.5G"
-          ],
-          "expectedBackInStockDate": "2026-09-28T04:00:00.000Z"
-        },
-        {
-          "drug": "METHYLPHENIDATE",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "OMNIPAQUE 240",
-          "doses": [
-            "518MG"
-          ],
-          "expectedBackInStockDate": "2026-10-06T04:00:00.000Z"
-        }
-      ]
     }
   ]
 }
