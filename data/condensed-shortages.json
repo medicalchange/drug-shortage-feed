@@ -1,26 +1,15 @@
 {
   "count": 374,
-  "refreshedAt": "2026-10-17T11:55:29.986Z",
+  "refreshedAt": "2026-10-18T12:22:32.540Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
-  "addedDrugs": [
-    {
-      "drug": "DARUNAVIR",
-      "doses": [
-        "800MG"
-      ],
-      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-    },
-    {
-      "drug": "POTASSIUM PHOSPHATES INJECTION, USP",
-      "doses": [
-        "224MG",
-        "236MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-18T12:22:32.540Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-10-17T11:55:29.986Z",
       "addedDrugsCount": 2,
@@ -373,11 +362,6 @@
           "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-04T13:37:15.307Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
