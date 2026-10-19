@@ -1,9 +1,58 @@
 {
-  "refreshedAt": "2026-10-18T12:22:32.540Z",
+  "refreshedAt": "2026-10-19T15:11:47.193Z",
   "count": 680,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 3,
+  "addedDrugs": [
+    {
+      "drug": "ESTRADOT 25",
+      "doses": [
+        "25MCG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "ESTRADOT 37.5",
+      "doses": [
+        "37.5MCG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "ESTRADOT 75",
+      "doses": [
+        "75MCG"
+      ],
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-19T15:11:47.193Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "ESTRADOT 25",
+          "doses": [
+            "25MCG"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "ESTRADOT 37.5",
+          "doses": [
+            "37.5MCG"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "ESTRADOT 75",
+          "doses": [
+            "75MCG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-18T12:22:32.540Z",
       "addedDrugsCount": 0,
@@ -332,33 +381,6 @@
             "0.2%"
           ],
           "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-05T16:41:50.624Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "DEFERASIROX (TYPE J)",
-          "doses": [
-            "360MG"
-          ],
-          "expectedBackInStockDate": "2026-11-12T05:00:00.000Z"
-        },
-        {
-          "drug": "DICLOFENAC RAPIDE",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "RUPALL",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
         }
       ]
     }

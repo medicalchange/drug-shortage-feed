@@ -1,10 +1,59 @@
 {
-  "count": 374,
-  "refreshedAt": "2026-10-18T12:22:32.540Z",
+  "count": 377,
+  "refreshedAt": "2026-10-19T15:11:47.193Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 3,
+  "addedDrugs": [
+    {
+      "drug": "ESTRADOT 25",
+      "doses": [
+        "25MCG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "ESTRADOT 37.5",
+      "doses": [
+        "37.5MCG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "ESTRADOT 75",
+      "doses": [
+        "75MCG"
+      ],
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-19T15:11:47.193Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "ESTRADOT 25",
+          "doses": [
+            "25MCG"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "ESTRADOT 37.5",
+          "doses": [
+            "37.5MCG"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "ESTRADOT 75",
+          "doses": [
+            "75MCG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-18T12:22:32.540Z",
       "addedDrugsCount": 0,
@@ -335,33 +384,6 @@
           "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-05T16:41:50.624Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "DEFERASIROX (TYPE J)",
-          "doses": [
-            "360MG"
-          ],
-          "expectedBackInStockDate": "2026-11-12T05:00:00.000Z"
-        },
-        {
-          "drug": "DICLOFENAC RAPIDE",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "RUPALL",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-10-19T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -433,7 +455,7 @@
         "30MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "ALENDRONATE",
@@ -1186,7 +1208,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     },
     {
       "drug": "DIGOXIN",
@@ -1423,6 +1445,27 @@
         "40MG"
       ],
       "expectedBackInStockDate": "2027-10-27T04:00:00.000Z"
+    },
+    {
+      "drug": "ESTRADOT 25",
+      "doses": [
+        "25MCG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "ESTRADOT 37.5",
+      "doses": [
+        "37.5MCG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "ESTRADOT 75",
+      "doses": [
+        "75MCG"
+      ],
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
       "drug": "EVEROLIMUS",
@@ -1936,11 +1979,9 @@
     {
       "drug": "METADOL",
       "doses": [
-        "10MG",
-        "1MG",
-        "5MG"
+        "1MG"
       ],
-      "expectedBackInStockDate": "2026-10-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     },
     {
       "drug": "METFORMIN ER",
@@ -2717,7 +2758,7 @@
         "3MG",
         "6MG"
       ],
-      "expectedBackInStockDate": "2026-10-15T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-15T05:00:00.000Z"
     },
     {
       "drug": "SIMVASTATIN",
