@@ -1,31 +1,74 @@
 {
-  "refreshedAt": "2026-10-19T15:11:47.193Z",
+  "refreshedAt": "2026-10-20T13:12:17.342Z",
   "count": 680,
-  "addedDrugsCount": 3,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "ESTRADOT 25",
+      "drug": "ANDROGEL",
       "doses": [
-        "25MCG"
+        "1%"
       ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
     },
     {
-      "drug": "ESTRADOT 37.5",
+      "drug": "ATENOLOL",
       "doses": [
-        "37.5MCG"
+        "100MG",
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
     },
     {
-      "drug": "ESTRADOT 75",
+      "drug": "DANTROLENE SODIUM FOR INJECTION, USP",
       "doses": [
-        "75MCG"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
+    },
+    {
+      "drug": "TRINIPATCH 0.2",
+      "doses": [
+        "0.2MG"
+      ],
+      "expectedBackInStockDate": "2026-12-16T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-20T13:12:17.342Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "ANDROGEL",
+          "doses": [
+            "1%"
+          ],
+          "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
+        },
+        {
+          "drug": "ATENOLOL",
+          "doses": [
+            "100MG",
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        },
+        {
+          "drug": "DANTROLENE SODIUM FOR INJECTION, USP",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
+        },
+        {
+          "drug": "TRINIPATCH 0.2",
+          "doses": [
+            "0.2MG"
+          ],
+          "expectedBackInStockDate": "2026-12-16T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-19T15:11:47.193Z",
       "addedDrugsCount": 3,
@@ -361,26 +404,6 @@
             "0.05%"
           ],
           "expectedBackInStockDate": "2026-12-07T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-06T14:39:25.684Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "LONITEN 10MG",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
-        },
-        {
-          "drug": "OLOPATADINE 0.2%",
-          "doses": [
-            "0.2%"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
         }
       ]
     }
