@@ -1,39 +1,30 @@
 {
-  "refreshedAt": "2026-10-20T13:12:17.342Z",
-  "count": 680,
-  "addedDrugsCount": 4,
+  "refreshedAt": "2026-10-21T13:21:47.999Z",
+  "count": 683,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "ANDROGEL",
+      "drug": "NETSPOT",
       "doses": [
-        "1%"
-      ],
-      "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
-    },
-    {
-      "drug": "ATENOLOL",
-      "doses": [
-        "100MG",
-        "50MG"
+        "40MCG"
       ],
       "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-    },
-    {
-      "drug": "DANTROLENE SODIUM FOR INJECTION, USP",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
-    },
-    {
-      "drug": "TRINIPATCH 0.2",
-      "doses": [
-        "0.2MG"
-      ],
-      "expectedBackInStockDate": "2026-12-16T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-21T13:21:47.999Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "NETSPOT",
+          "doses": [
+            "40MCG"
+          ],
+          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-20T13:12:17.342Z",
       "addedDrugsCount": 4,
@@ -384,26 +375,6 @@
             "20MG"
           ],
           "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-07T14:59:15.552Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "MIOSTAT OPHTHALMIC LIQ 0.01%",
-          "doses": [
-            ".01%"
-          ],
-          "expectedBackInStockDate": "2027-01-04T05:00:00.000Z"
-        },
-        {
-          "drug": "RESTASIS MULTIDOSE",
-          "doses": [
-            "0.05%"
-          ],
-          "expectedBackInStockDate": "2026-12-07T05:00:00.000Z"
         }
       ]
     }
