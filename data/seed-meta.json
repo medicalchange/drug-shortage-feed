@@ -1,17 +1,30 @@
 {
-  "refreshedAt": "2026-10-21T13:21:47.999Z",
-  "count": 683,
+  "refreshedAt": "2026-10-22T13:22:12.051Z",
+  "count": 684,
   "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "NETSPOT",
+      "drug": "DIASTAT",
       "doses": [
-        "40MCG"
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-22T13:22:12.051Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "DIASTAT",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-21T13:21:47.999Z",
       "addedDrugsCount": 1,
@@ -355,26 +368,6 @@
             "2MG"
           ],
           "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-08T15:07:57.316Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "DEXTROSE INJECTION USP",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        },
-        {
-          "drug": "RABEPRAZOLE EC",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
         }
       ]
     }
