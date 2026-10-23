@@ -1,17 +1,30 @@
 {
-  "refreshedAt": "2026-10-22T13:22:12.051Z",
+  "refreshedAt": "2026-10-23T13:00:39.613Z",
   "count": 684,
   "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "DIASTAT",
+      "drug": "COVERSYL",
       "doses": [
-        "5MG"
+        "4MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-23T13:00:39.613Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "COVERSYL",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-22T13:22:12.051Z",
       "addedDrugsCount": 1,
@@ -324,50 +337,6 @@
             "250MG"
           ],
           "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-09T14:52:45.257Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "FEMYSO",
-          "doses": [
-            "200MCG",
-            "200MG"
-          ],
-          "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
-        },
-        {
-          "drug": "LATANOPROST-TIMOLOL",
-          "doses": [
-            "50MCG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
-        },
-        {
-          "drug": "LEVOCARB CR",
-          "doses": [
-            "100MG",
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-        },
-        {
-          "drug": "MEFENAMIC",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-        },
-        {
-          "drug": "TRIHEXYPHENIDYL",
-          "doses": [
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
         }
       ]
     }
