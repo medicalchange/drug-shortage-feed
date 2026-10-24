@@ -1,17 +1,86 @@
 {
-  "refreshedAt": "2026-10-23T13:00:39.613Z",
-  "count": 684,
-  "addedDrugsCount": 1,
+  "refreshedAt": "2026-10-24T12:23:57.244Z",
+  "count": 681,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "COVERSYL",
+      "drug": "ACETAZOLAMIDE",
       "doses": [
-        "4MG"
+        "250MG"
       ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "COLESEVELAM",
+      "doses": [
+        "625MG"
+      ],
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+    },
+    {
+      "drug": "HYDRALAZINE HYDROCHLORIDE INJECTION, USP",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
+      "drug": "IMITREX",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-11-07T05:00:00.000Z"
+    },
+    {
+      "drug": "METHYLDOPA",
+      "doses": [
+        "125MG"
+      ],
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-24T12:23:57.244Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "ACETAZOLAMIDE",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "COLESEVELAM",
+          "doses": [
+            "625MG"
+          ],
+          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+        },
+        {
+          "drug": "HYDRALAZINE HYDROCHLORIDE INJECTION, USP",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "IMITREX",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-11-07T05:00:00.000Z"
+        },
+        {
+          "drug": "METHYLDOPA",
+          "doses": [
+            "125MG"
+          ],
+          "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-23T13:00:39.613Z",
       "addedDrugsCount": 1,
@@ -279,66 +348,6 @@
       "refreshedAt": "2026-10-11T14:33:24.495Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-10-10T14:09:23.010Z",
-      "addedDrugsCount": 7,
-      "addedDrugs": [
-        {
-          "drug": "ACETAMINOPHEN CAPLETS EXTRA STRENGTH",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-        },
-        {
-          "drug": "COSOPT PRESERVATIVE-FREE",
-          "doses": [
-            "20MG",
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-        },
-        {
-          "drug": "COTAZYM ECS 20",
-          "doses": [
-            "100000UNIT",
-            "25000UNIT"
-          ],
-          "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
-        },
-        {
-          "drug": "COTAZYM ECS 8",
-          "doses": [
-            "10800UNIT",
-            "42000UNIT",
-            "45000UNIT"
-          ],
-          "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
-        },
-        {
-          "drug": "DEXEDRINE SPANSULE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-09-18T04:00:00.000Z"
-        },
-        {
-          "drug": "NAPROXEN / ESOMEPRAZOLE",
-          "doses": [
-            "20MG",
-            "375MG"
-          ],
-          "expectedBackInStockDate": "2027-04-23T04:00:00.000Z"
-        },
-        {
-          "drug": "NAPROXEN EC TABLETS",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-        }
-      ]
     }
   ]
 }
