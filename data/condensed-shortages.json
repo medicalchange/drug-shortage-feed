@@ -1,46 +1,15 @@
 {
   "count": 379,
-  "refreshedAt": "2026-10-24T12:23:57.244Z",
+  "refreshedAt": "2026-10-25T12:54:18.405Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 5,
-  "addedDrugs": [
-    {
-      "drug": "ACETAZOLAMIDE",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-    },
-    {
-      "drug": "COLESEVELAM",
-      "doses": [
-        "625MG"
-      ],
-      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-    },
-    {
-      "drug": "HYDRALAZINE HYDROCHLORIDE INJECTION, USP",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-    },
-    {
-      "drug": "IMITREX",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-11-07T05:00:00.000Z"
-    },
-    {
-      "drug": "METHYLDOPA",
-      "doses": [
-        "125MG"
-      ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-25T12:54:18.405Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-10-24T12:23:57.244Z",
       "addedDrugsCount": 5,
@@ -344,11 +313,6 @@
           "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-11T14:33:24.495Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
