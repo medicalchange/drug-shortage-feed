@@ -1,10 +1,33 @@
 {
-  "count": 379,
-  "refreshedAt": "2026-10-25T12:54:18.405Z",
+  "count": 376,
+  "refreshedAt": "2026-10-26T14:45:09.167Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "addedDrugsCount": 1,
+  "addedDrugs": [
+    {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "36G",
+        "4.5G"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-26T14:45:09.167Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+          "doses": [
+            "36G",
+            "4.5G"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-25T12:54:18.405Z",
       "addedDrugsCount": 0,
@@ -300,19 +323,6 @@
           "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-12T17:14:03.065Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "DIGOXIN",
-          "doses": [
-            "0.0625MG"
-          ],
-          "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -460,13 +470,6 @@
       "expectedBackInStockDate": "2026-10-29T04:00:00.000Z"
     },
     {
-      "drug": "AMITRIPTYLINE",
-      "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
-    },
-    {
       "drug": "AMLODIPINE/ATORVASTATIN",
       "doses": [
         "10MG",
@@ -494,13 +497,6 @@
         "62.5MG"
       ],
       "expectedBackInStockDate": "2026-09-28T04:00:00.000Z"
-    },
-    {
-      "drug": "AMOXICILLIN",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
       "drug": "AMOXICILLIN SODIUM AND POTASSIUM CLAVULANATE FOR INJECTION",
@@ -879,14 +875,6 @@
       "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
     },
     {
-      "drug": "CLINDAMYCIN",
-      "doses": [
-        "150MG",
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2026-10-22T04:00:00.000Z"
-    },
-    {
       "drug": "CLOBETASOL SPRAY",
       "doses": [
         "0.05%"
@@ -1170,13 +1158,6 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    },
-    {
-      "drug": "DONEPEZIL TABLETS",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
     },
     {
       "drug": "DORMINAL",
@@ -1500,8 +1481,7 @@
       "drug": "GABAPENTIN",
       "doses": [
         "100MG",
-        "400MG",
-        "800MG"
+        "400MG"
       ],
       "expectedBackInStockDate": "2026-08-14T04:00:00.000Z"
     },
@@ -2375,6 +2355,14 @@
       "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
     },
     {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "36G",
+        "4.5G"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    },
+    {
       "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE",
       "doses": [
         "200mEq",
@@ -2784,7 +2772,7 @@
       "doses": [
         "50MCG"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     },
     {
       "drug": "SUMATRIPTAN",
@@ -3132,7 +3120,7 @@
         "17.7MG",
         "26.5MG"
       ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
     },
     {
       "drug": "VARDENAFIL",

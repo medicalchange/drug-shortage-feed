@@ -1,5 +1,75 @@
 [
   {
+    "id": "shortage:295152",
+    "reportId": 295152,
+    "type": "shortage",
+    "brandName": "SANDOZ RABEPRAZOLE",
+    "status": "active_confirmed",
+    "din": "02314185",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-26T16:39:16.000Z",
+    "updateDate": "2026-10-26T16:39:16.000Z",
+    "postedDate": "2026-10-05T17:23:53.000Z"
+  },
+  {
+    "id": "shortage:295680",
+    "reportId": 295680,
+    "type": "shortage",
+    "brandName": "SUFENTANIL CITRATE INJECTION USP",
+    "status": "active_confirmed",
+    "din": "02244147",
+    "strength": "50MCG",
+    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-26T16:37:37.000Z",
+    "updateDate": "2026-10-26T16:37:37.000Z",
+    "postedDate": "2026-10-13T17:15:46.000Z"
+  },
+  {
+    "id": "shortage:296021",
+    "reportId": 296021,
+    "type": "shortage",
+    "brandName": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+    "status": "active_confirmed",
+    "din": "02521539",
+    "strength": "36G\r\n4.5G",
+    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-26T16:36:26.000Z",
+    "updateDate": "2026-10-26T16:36:26.000Z",
+    "postedDate": "2026-10-19T16:53:59.000Z"
+  },
+  {
+    "id": "shortage:289975",
+    "reportId": 289975,
+    "type": "shortage",
+    "brandName": "VANFLYTA",
+    "status": "active_confirmed",
+    "din": "02558378",
+    "strength": "26.5MG",
+    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-26T15:43:14.000Z",
+    "updateDate": "2026-10-26T15:43:14.000Z",
+    "postedDate": "2026-07-28T00:51:24.000Z"
+  },
+  {
+    "id": "shortage:289970",
+    "reportId": 289970,
+    "type": "shortage",
+    "brandName": "VANFLYTA",
+    "status": "active_confirmed",
+    "din": "02558351",
+    "strength": "17.7MG",
+    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-26T15:42:38.000Z",
+    "updateDate": "2026-10-26T15:42:38.000Z",
+    "postedDate": "2026-07-28T00:37:07.000Z"
+  },
+  {
     "id": "shortage:296369",
     "reportId": 296369,
     "type": "shortage",
@@ -1666,34 +1736,6 @@
     "postedDate": "2026-09-21T18:54:18.000Z"
   },
   {
-    "id": "shortage:289970",
-    "reportId": 289970,
-    "type": "shortage",
-    "brandName": "VANFLYTA",
-    "status": "active_confirmed",
-    "din": "02558351",
-    "strength": "17.7MG",
-    "expectedBackInStockDate": "2026-10-23T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-16T01:17:36.000Z",
-    "updateDate": "2026-10-16T01:17:36.000Z",
-    "postedDate": "2026-07-28T00:37:07.000Z"
-  },
-  {
-    "id": "shortage:289975",
-    "reportId": 289975,
-    "type": "shortage",
-    "brandName": "VANFLYTA",
-    "status": "active_confirmed",
-    "din": "02558378",
-    "strength": "26.5MG",
-    "expectedBackInStockDate": "2026-10-23T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-16T01:13:16.000Z",
-    "updateDate": "2026-10-16T01:13:16.000Z",
-    "postedDate": "2026-07-28T00:51:24.000Z"
-  },
-  {
     "id": "shortage:295862",
     "reportId": 295862,
     "type": "shortage",
@@ -2616,20 +2658,6 @@
     "updatedDate": "2026-10-06T15:52:01.000Z",
     "updateDate": "2026-10-06T15:52:01.000Z",
     "postedDate": "2026-10-05T17:26:53.000Z"
-  },
-  {
-    "id": "shortage:295152",
-    "reportId": 295152,
-    "type": "shortage",
-    "brandName": "SANDOZ RABEPRAZOLE",
-    "status": "active_confirmed",
-    "din": "02314185",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-06T15:51:39.000Z",
-    "updateDate": "2026-10-06T15:51:39.000Z",
-    "postedDate": "2026-10-05T17:23:53.000Z"
   },
   {
     "id": "shortage:287708",
@@ -4018,20 +4046,6 @@
     "postedDate": "2026-09-23T23:35:37.000Z"
   },
   {
-    "id": "shortage:294230",
-    "reportId": 294230,
-    "type": "shortage",
-    "brandName": "JAMP-DONEPEZIL TABLETS",
-    "status": "active_confirmed",
-    "din": "02416956",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-10-09T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-23T23:33:39.000Z",
-    "updateDate": "2026-09-23T23:33:39.000Z",
-    "postedDate": "2026-09-23T23:32:44.000Z"
-  },
-  {
     "id": "shortage:294227",
     "reportId": 294227,
     "type": "shortage",
@@ -4044,48 +4058,6 @@
     "updatedDate": "2026-09-23T23:31:00.000Z",
     "updateDate": "2026-09-23T23:31:00.000Z",
     "postedDate": "2026-09-23T23:30:00.000Z"
-  },
-  {
-    "id": "shortage:294224",
-    "reportId": 294224,
-    "type": "shortage",
-    "brandName": "JAMP CLINDAMYCIN",
-    "status": "active_confirmed",
-    "din": "02483742",
-    "strength": "300MG",
-    "expectedBackInStockDate": "2026-10-22T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-23T23:27:58.000Z",
-    "updateDate": "2026-09-23T23:27:58.000Z",
-    "postedDate": "2026-09-23T23:26:43.000Z"
-  },
-  {
-    "id": "shortage:294219",
-    "reportId": 294219,
-    "type": "shortage",
-    "brandName": "JAMP CLINDAMYCIN",
-    "status": "active_confirmed",
-    "din": "02483734",
-    "strength": "150MG",
-    "expectedBackInStockDate": "2026-10-22T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-23T23:24:52.000Z",
-    "updateDate": "2026-09-23T23:24:52.000Z",
-    "postedDate": "2026-09-23T23:23:41.000Z"
-  },
-  {
-    "id": "shortage:294213",
-    "reportId": 294213,
-    "type": "shortage",
-    "brandName": "JAMP-AMITRIPTYLINE",
-    "status": "active_confirmed",
-    "din": "02457695",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-10-02T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-23T23:21:17.000Z",
-    "updateDate": "2026-09-23T23:21:17.000Z",
-    "postedDate": "2026-09-23T23:19:28.000Z"
   },
   {
     "id": "shortage:280187",
@@ -4648,20 +4620,6 @@
     "postedDate": "2026-07-04T01:44:20.000Z"
   },
   {
-    "id": "shortage:285163",
-    "reportId": 285163,
-    "type": "shortage",
-    "brandName": "JAMP-AMOXICILLIN",
-    "status": "active_confirmed",
-    "din": "02535815",
-    "strength": "250MG",
-    "expectedBackInStockDate": "2026-11-13T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-21T19:59:07.000Z",
-    "updateDate": "2026-09-21T19:59:07.000Z",
-    "postedDate": "2026-05-14T01:22:42.000Z"
-  },
-  {
     "id": "shortage:283708",
     "reportId": 283708,
     "type": "shortage",
@@ -4856,20 +4814,6 @@
     "updatedDate": "2026-09-21T18:45:00.000Z",
     "updateDate": "2026-09-21T18:45:00.000Z",
     "postedDate": "2026-03-20T23:08:09.000Z"
-  },
-  {
-    "id": "shortage:280502",
-    "reportId": 280502,
-    "type": "shortage",
-    "brandName": "GABAPENTIN",
-    "status": "active_confirmed",
-    "din": "02432080",
-    "strength": "800MG",
-    "expectedBackInStockDate": "2026-10-16T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-21T18:42:53.000Z",
-    "updateDate": "2026-09-21T18:42:53.000Z",
-    "postedDate": "2026-03-14T01:45:00.000Z"
   },
   {
     "id": "shortage:280193",

@@ -1,9 +1,32 @@
 {
-  "refreshedAt": "2026-10-25T12:54:18.405Z",
-  "count": 681,
-  "addedDrugsCount": 0,
-  "addedDrugs": [],
+  "refreshedAt": "2026-10-26T14:45:09.167Z",
+  "count": 677,
+  "addedDrugsCount": 1,
+  "addedDrugs": [
+    {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "36G",
+        "4.5G"
+      ],
+      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+    }
+  ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-26T14:45:09.167Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+          "doses": [
+            "36G",
+            "4.5G"
+          ],
+          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-25T12:54:18.405Z",
       "addedDrugsCount": 0,
@@ -297,19 +320,6 @@
             "80MG"
           ],
           "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-12T17:14:03.065Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "DIGOXIN",
-          "doses": [
-            "0.0625MG"
-          ],
-          "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
         }
       ]
     }
