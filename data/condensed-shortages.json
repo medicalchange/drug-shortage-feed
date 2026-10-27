@@ -1,19 +1,79 @@
 {
   "count": 376,
-  "refreshedAt": "2026-10-26T14:45:09.167Z",
+  "refreshedAt": "2026-10-27T13:51:45.571Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "drug": "CIPRO ORAL SUSPENSION",
       "doses": [
-        "36G",
-        "4.5G"
+        "500MG"
       ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-01T05:00:00.000Z"
+    },
+    {
+      "drug": "EFAVIRENZ",
+      "doses": [
+        "600MG"
+      ],
+      "expectedBackInStockDate": "2027-07-13T04:00:00.000Z"
+    },
+    {
+      "drug": "NAPROXEN/ESOMEPRAZOLE MR",
+      "doses": [
+        "20MG",
+        "375MG",
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+    },
+    {
+      "drug": "PROCYTOX",
+      "doses": [
+        "1000MG",
+        "2000MG"
+      ],
+      "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-27T13:51:45.571Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "CIPRO ORAL SUSPENSION",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2027-03-01T05:00:00.000Z"
+        },
+        {
+          "drug": "EFAVIRENZ",
+          "doses": [
+            "600MG"
+          ],
+          "expectedBackInStockDate": "2027-07-13T04:00:00.000Z"
+        },
+        {
+          "drug": "NAPROXEN/ESOMEPRAZOLE MR",
+          "doses": [
+            "20MG",
+            "375MG",
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+        },
+        {
+          "drug": "PROCYTOX",
+          "doses": [
+            "1000MG",
+            "2000MG"
+          ],
+          "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-26T14:45:09.167Z",
       "addedDrugsCount": 1,
@@ -309,20 +369,6 @@
           "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-13T15:29:28.798Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "TWYNSTA",
-          "doses": [
-            "5MG",
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -374,18 +420,6 @@
         "250MG"
       ],
       "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-    },
-    {
-      "drug": "ACID CONCENTRATE D12272",
-      "doses": [
-        "10.8G",
-        "2.14G",
-        "263G",
-        "45G",
-        "6.7G",
-        "7.49G"
-      ],
-      "expectedBackInStockDate": "2026-10-22T04:00:00.000Z"
     },
     {
       "drug": "ACYCLOVIR",
@@ -845,6 +879,13 @@
       "expectedBackInStockDate": "2026-06-19T04:00:00.000Z"
     },
     {
+      "drug": "CIPRO ORAL SUSPENSION",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2027-03-01T05:00:00.000Z"
+    },
+    {
       "drug": "CIPROFLOX",
       "doses": [
         "250MG",
@@ -957,13 +998,6 @@
         "45000UNIT"
       ],
       "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
-    },
-    {
-      "drug": "COVERSYL",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
     },
     {
       "drug": "CREON MINIMICROSPHERES 35",
@@ -1112,13 +1146,6 @@
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
-      "drug": "DICLOFENAC RAPIDE",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-    },
-    {
       "drug": "DIGOXIN",
       "doses": [
         "0.0625MG"
@@ -1262,6 +1289,13 @@
         "60MG"
       ],
       "expectedBackInStockDate": "2026-09-30T04:00:00.000Z"
+    },
+    {
+      "drug": "EFAVIRENZ",
+      "doses": [
+        "600MG"
+      ],
+      "expectedBackInStockDate": "2027-07-13T04:00:00.000Z"
     },
     {
       "drug": "EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE",
@@ -1438,6 +1472,7 @@
     {
       "drug": "FLUCONAZOLE",
       "doses": [
+        "100MG",
         "50MG"
       ],
       "expectedBackInStockDate": "2026-06-05T04:00:00.000Z"
@@ -1854,7 +1889,7 @@
         "1MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
     },
     {
       "drug": "MEDROXY",
@@ -1953,7 +1988,7 @@
       "doses": [
         ".01%"
       ],
-      "expectedBackInStockDate": "2027-01-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
     },
     {
       "drug": "MIRABEGRON",
@@ -2053,6 +2088,15 @@
       "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
     },
     {
+      "drug": "NAPROXEN/ESOMEPRAZOLE MR",
+      "doses": [
+        "20MG",
+        "375MG",
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+    },
+    {
       "drug": "NETSPOT",
       "doses": [
         "40MCG"
@@ -2065,7 +2109,7 @@
         "400MG",
         "800MG"
       ],
-      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
     },
     {
       "drug": "NIFEDIPINE EXTENDED RELEASE",
@@ -2094,13 +2138,6 @@
         "0.6MG"
       ],
       "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
-    },
-    {
-      "drug": "NIVESTYM",
-      "doses": [
-        "300MCG"
-      ],
-      "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
     },
     {
       "drug": "NORFLOXACIN",
@@ -2493,6 +2530,14 @@
       "expectedBackInStockDate": "2027-04-30T04:00:00.000Z"
     },
     {
+      "drug": "PROCYTOX",
+      "doses": [
+        "1000MG",
+        "2000MG"
+      ],
+      "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
+    },
+    {
       "drug": "PROGESTERONE",
       "doses": [
         "100MG"
@@ -2600,7 +2645,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-09T05:00:00.000Z"
     },
     {
       "drug": "RISPERIDONE",
@@ -3181,7 +3226,7 @@
         "60MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
     },
     {
       "drug": "ZOLEDRONIC ACID CONCENTRATE",
@@ -3210,7 +3255,7 @@
         "100MG",
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
     },
     {
       "drug": "ZOLPIDEM ODT",

@@ -1,18 +1,78 @@
 {
-  "refreshedAt": "2026-10-26T14:45:09.167Z",
-  "count": 677,
-  "addedDrugsCount": 1,
+  "refreshedAt": "2026-10-27T13:51:45.571Z",
+  "count": 681,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "drug": "CIPRO ORAL SUSPENSION",
       "doses": [
-        "36G",
-        "4.5G"
+        "500MG"
       ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-01T05:00:00.000Z"
+    },
+    {
+      "drug": "EFAVIRENZ",
+      "doses": [
+        "600MG"
+      ],
+      "expectedBackInStockDate": "2027-07-13T04:00:00.000Z"
+    },
+    {
+      "drug": "NAPROXEN/ESOMEPRAZOLE MR",
+      "doses": [
+        "20MG",
+        "375MG",
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+    },
+    {
+      "drug": "PROCYTOX",
+      "doses": [
+        "1000MG",
+        "2000MG"
+      ],
+      "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-27T13:51:45.571Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "CIPRO ORAL SUSPENSION",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2027-03-01T05:00:00.000Z"
+        },
+        {
+          "drug": "EFAVIRENZ",
+          "doses": [
+            "600MG"
+          ],
+          "expectedBackInStockDate": "2027-07-13T04:00:00.000Z"
+        },
+        {
+          "drug": "NAPROXEN/ESOMEPRAZOLE MR",
+          "doses": [
+            "20MG",
+            "375MG",
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+        },
+        {
+          "drug": "PROCYTOX",
+          "doses": [
+            "1000MG",
+            "2000MG"
+          ],
+          "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-26T14:45:09.167Z",
       "addedDrugsCount": 1,
@@ -306,20 +366,6 @@
             "500UNIT"
           ],
           "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-13T15:29:28.798Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "TWYNSTA",
-          "doses": [
-            "5MG",
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
         }
       ]
     }
