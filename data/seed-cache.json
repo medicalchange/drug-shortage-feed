@@ -1,5 +1,159 @@
 [
   {
+    "id": "shortage:292973",
+    "reportId": 292973,
+    "type": "shortage",
+    "brandName": "COMBIGAN",
+    "status": "active_confirmed",
+    "din": "02248347",
+    "strength": "0.5%\n0.2%",
+    "expectedBackInStockDate": "2026-12-11T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-29T18:32:03.000Z",
+    "updateDate": "2026-10-29T18:32:03.000Z",
+    "postedDate": "2026-09-09T17:50:12.000Z"
+  },
+  {
+    "id": "shortage:297032",
+    "reportId": 297032,
+    "type": "shortage",
+    "brandName": "GLN-OLMESARTAN",
+    "status": "active_confirmed",
+    "din": "02469820",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-29T18:03:49.000Z",
+    "updateDate": "2026-10-29T18:03:49.000Z",
+    "postedDate": "2026-10-29T18:03:33.000Z"
+  },
+  {
+    "id": "shortage:297029",
+    "reportId": 297029,
+    "type": "shortage",
+    "brandName": "GLN-OLMESARTAN HCTZ",
+    "status": "active_confirmed",
+    "din": "02475707",
+    "strength": "20MG\n12.5MG",
+    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-29T18:00:16.000Z",
+    "updateDate": "2026-10-29T18:00:16.000Z",
+    "postedDate": "2026-10-29T17:59:43.000Z"
+  },
+  {
+    "id": "shortage:277256",
+    "reportId": 277256,
+    "type": "shortage",
+    "brandName": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
+    "status": "active_confirmed",
+    "din": "01977563",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-29T17:50:47.000Z",
+    "updateDate": "2026-10-29T17:50:47.000Z",
+    "postedDate": "2026-02-05T20:46:45.000Z"
+  },
+  {
+    "id": "shortage:266032",
+    "reportId": 266032,
+    "type": "shortage",
+    "brandName": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
+    "status": "active_confirmed",
+    "din": "01977563",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-29T17:50:14.000Z",
+    "updateDate": "2026-10-29T17:50:14.000Z",
+    "postedDate": "2025-08-28T19:33:41.000Z"
+  },
+  {
+    "id": "shortage:295677",
+    "reportId": 295677,
+    "type": "shortage",
+    "brandName": "ESTRADOT 75",
+    "status": "active_confirmed",
+    "din": "02244001",
+    "strength": "75MCG",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-29T17:30:38.000Z",
+    "updateDate": "2026-10-29T17:30:38.000Z",
+    "postedDate": "2026-10-13T17:13:34.000Z"
+  },
+  {
+    "id": "shortage:295674",
+    "reportId": 295674,
+    "type": "shortage",
+    "brandName": "ESTRADOT 37.5",
+    "status": "active_confirmed",
+    "din": "02243999",
+    "strength": "37.5MCG",
+    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-29T17:30:38.000Z",
+    "updateDate": "2026-10-29T17:30:38.000Z",
+    "postedDate": "2026-10-13T17:12:11.000Z"
+  },
+  {
+    "id": "shortage:295669",
+    "reportId": 295669,
+    "type": "shortage",
+    "brandName": "ESTRADOT 25",
+    "status": "active_confirmed",
+    "din": "02245676",
+    "strength": "25MCG",
+    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-29T17:30:38.000Z",
+    "updateDate": "2026-10-29T17:30:38.000Z",
+    "postedDate": "2026-10-13T17:10:57.000Z"
+  },
+  {
+    "id": "shortage:293520",
+    "reportId": 293520,
+    "type": "shortage",
+    "brandName": "CLIMARA 50",
+    "status": "active_confirmed",
+    "din": "02231509",
+    "strength": "50MCG",
+    "expectedBackInStockDate": "2026-12-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-29T17:30:38.000Z",
+    "updateDate": "2026-10-29T17:30:38.000Z",
+    "postedDate": "2026-09-17T16:53:51.000Z"
+  },
+  {
+    "id": "shortage:290493",
+    "reportId": 290493,
+    "type": "shortage",
+    "brandName": "STANNOUS MDP KIT",
+    "status": "active_confirmed",
+    "din": "02485834",
+    "strength": "15MG",
+    "expectedBackInStockDate": "2026-12-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-28T23:32:11.000Z",
+    "updateDate": "2026-10-28T23:32:11.000Z",
+    "postedDate": "2026-08-01T00:04:41.000Z"
+  },
+  {
+    "id": "shortage:290498",
+    "reportId": 290498,
+    "type": "shortage",
+    "brandName": "STANNOUS PYP KIT",
+    "status": "active_confirmed",
+    "din": "02486016",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-11-05T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-28T23:31:38.000Z",
+    "updateDate": "2026-10-28T23:31:38.000Z",
+    "postedDate": "2026-08-01T00:10:49.000Z"
+  },
+  {
     "id": "shortage:285862",
     "reportId": 285862,
     "type": "shortage",
@@ -182,6 +336,20 @@
     "postedDate": "2026-10-05T18:31:09.000Z"
   },
   {
+    "id": "shortage:295838",
+    "reportId": 295838,
+    "type": "shortage",
+    "brandName": "TECTA",
+    "status": "active_confirmed",
+    "din": "02267233",
+    "strength": "40MG",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:16:23.000Z",
+    "updateDate": "2026-10-27T22:16:23.000Z",
+    "postedDate": "2026-10-15T05:21:00.000Z"
+  },
+  {
     "id": "shortage:294292",
     "reportId": 294292,
     "type": "shortage",
@@ -196,18 +364,18 @@
     "postedDate": "2026-09-25T02:45:54.000Z"
   },
   {
-    "id": "shortage:295838",
-    "reportId": 295838,
+    "id": "shortage:289074",
+    "reportId": 289074,
     "type": "shortage",
-    "brandName": "TECTA",
+    "brandName": "TADALAFIL",
     "status": "active_confirmed",
-    "din": "02267233",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "din": "02457016",
+    "strength": "5MG",
+    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
     "resolved": false,
-    "updatedDate": "2026-10-27T22:16:23.000Z",
-    "updateDate": "2026-10-27T22:16:23.000Z",
-    "postedDate": "2026-10-15T05:21:00.000Z"
+    "updatedDate": "2026-10-27T22:16:21.000Z",
+    "updateDate": "2026-10-27T22:16:21.000Z",
+    "postedDate": "2026-07-13T18:20:53.000Z"
   },
   {
     "id": "shortage:294506",
@@ -238,20 +406,6 @@
     "postedDate": "2026-09-23T17:08:13.000Z"
   },
   {
-    "id": "shortage:289074",
-    "reportId": 289074,
-    "type": "shortage",
-    "brandName": "TADALAFIL",
-    "status": "active_confirmed",
-    "din": "02457016",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:21.000Z",
-    "updateDate": "2026-10-27T22:16:21.000Z",
-    "postedDate": "2026-07-13T18:20:53.000Z"
-  },
-  {
     "id": "shortage:296433",
     "reportId": 296433,
     "type": "shortage",
@@ -278,20 +432,6 @@
     "updatedDate": "2026-10-27T22:16:18.000Z",
     "updateDate": "2026-10-27T22:16:18.000Z",
     "postedDate": "2026-08-24T21:55:47.000Z"
-  },
-  {
-    "id": "shortage:295608",
-    "reportId": 295608,
-    "type": "shortage",
-    "brandName": "SODIUM CHLORIDE INJECTION USP",
-    "status": "active_confirmed",
-    "din": "00037796",
-    "strength": "9MG",
-    "expectedBackInStockDate": "2026-11-02T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:18.000Z",
-    "updateDate": "2026-10-27T22:16:18.000Z",
-    "postedDate": "2026-10-09T21:25:14.000Z"
   },
   {
     "id": "shortage:295683",
@@ -392,20 +532,6 @@
     "postedDate": "2026-02-20T20:48:00.000Z"
   },
   {
-    "id": "shortage:292421",
-    "reportId": 292421,
-    "type": "shortage",
-    "brandName": "OMNISCAN",
-    "status": "active_confirmed",
-    "din": "02172771",
-    "strength": "287MG",
-    "expectedBackInStockDate": "2026-12-01T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:01.000Z",
-    "updateDate": "2026-10-27T22:16:01.000Z",
-    "postedDate": "2026-09-02T00:26:30.000Z"
-  },
-  {
     "id": "shortage:283449",
     "reportId": 283449,
     "type": "shortage",
@@ -448,20 +574,6 @@
     "postedDate": "2026-09-29T17:13:44.000Z"
   },
   {
-    "id": "shortage:290046",
-    "reportId": 290046,
-    "type": "shortage",
-    "brandName": "MINT-VENLAFAXINE XR",
-    "status": "active_confirmed",
-    "din": "02522985",
-    "strength": "75MG",
-    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:52.000Z",
-    "updateDate": "2026-10-27T22:15:52.000Z",
-    "postedDate": "2026-07-28T21:59:05.000Z"
-  },
-  {
     "id": "shortage:290049",
     "reportId": 290049,
     "type": "shortage",
@@ -474,6 +586,20 @@
     "updatedDate": "2026-10-27T22:15:52.000Z",
     "updateDate": "2026-10-27T22:15:52.000Z",
     "postedDate": "2026-07-28T22:00:20.000Z"
+  },
+  {
+    "id": "shortage:290046",
+    "reportId": 290046,
+    "type": "shortage",
+    "brandName": "MINT-VENLAFAXINE XR",
+    "status": "active_confirmed",
+    "din": "02522985",
+    "strength": "75MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:52.000Z",
+    "updateDate": "2026-10-27T22:15:52.000Z",
+    "postedDate": "2026-07-28T21:59:05.000Z"
   },
   {
     "id": "shortage:290043",
@@ -602,20 +728,6 @@
     "postedDate": "2026-10-09T19:12:29.000Z"
   },
   {
-    "id": "shortage:292537",
-    "reportId": 292537,
-    "type": "shortage",
-    "brandName": "GENOTROPIN",
-    "status": "active_confirmed",
-    "din": "02401703",
-    "strength": "5.3MG",
-    "expectedBackInStockDate": "2027-02-12T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:30.000Z",
-    "updateDate": "2026-10-27T22:15:30.000Z",
-    "postedDate": "2026-09-03T00:09:36.000Z"
-  },
-  {
     "id": "shortage:290937",
     "reportId": 290937,
     "type": "shortage",
@@ -628,6 +740,20 @@
     "updatedDate": "2026-10-27T22:15:30.000Z",
     "updateDate": "2026-10-27T22:15:30.000Z",
     "postedDate": "2026-08-07T20:29:39.000Z"
+  },
+  {
+    "id": "shortage:292537",
+    "reportId": 292537,
+    "type": "shortage",
+    "brandName": "GENOTROPIN",
+    "status": "active_confirmed",
+    "din": "02401703",
+    "strength": "5.3MG",
+    "expectedBackInStockDate": "2027-02-12T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:30.000Z",
+    "updateDate": "2026-10-27T22:15:30.000Z",
+    "postedDate": "2026-09-03T00:09:36.000Z"
   },
   {
     "id": "shortage:296044",
@@ -768,20 +894,6 @@
     "updatedDate": "2026-10-27T22:15:19.000Z",
     "updateDate": "2026-10-27T22:15:19.000Z",
     "postedDate": "2026-10-13T17:09:10.000Z"
-  },
-  {
-    "id": "shortage:292973",
-    "reportId": 292973,
-    "type": "shortage",
-    "brandName": "COMBIGAN",
-    "status": "active_confirmed",
-    "din": "02248347",
-    "strength": "0.5%\r\n0.2%",
-    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:18.000Z",
-    "updateDate": "2026-10-27T22:15:18.000Z",
-    "postedDate": "2026-09-09T17:50:12.000Z"
   },
   {
     "id": "shortage:295190",
@@ -1652,20 +1764,6 @@
     "postedDate": "2026-06-19T17:47:24.000Z"
   },
   {
-    "id": "shortage:292893",
-    "reportId": 292893,
-    "type": "shortage",
-    "brandName": "OMNIPAQUE 240",
-    "status": "active_confirmed",
-    "din": "02172739",
-    "strength": "518MG",
-    "expectedBackInStockDate": "2026-10-28T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-23T17:24:27.000Z",
-    "updateDate": "2026-10-23T17:24:27.000Z",
-    "postedDate": "2026-09-08T18:12:34.000Z"
-  },
-  {
     "id": "shortage:289613",
     "reportId": 289613,
     "type": "shortage",
@@ -1706,20 +1804,6 @@
     "updatedDate": "2026-10-22T21:54:48.000Z",
     "updateDate": "2026-10-22T21:54:48.000Z",
     "postedDate": "2026-10-05T18:06:30.000Z"
-  },
-  {
-    "id": "shortage:293879",
-    "reportId": 293879,
-    "type": "shortage",
-    "brandName": "PARIET, ENTERIC-COATED TABLET 20MG",
-    "status": "active_confirmed",
-    "din": "02243797",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-22T20:47:11.000Z",
-    "updateDate": "2026-10-22T20:47:11.000Z",
-    "postedDate": "2026-09-21T18:45:34.000Z"
   },
   {
     "id": "shortage:250148",
@@ -2056,48 +2140,6 @@
     "updatedDate": "2026-10-19T21:08:05.000Z",
     "updateDate": "2026-10-19T21:08:05.000Z",
     "postedDate": "2026-03-30T19:35:48.000Z"
-  },
-  {
-    "id": "shortage:295677",
-    "reportId": 295677,
-    "type": "shortage",
-    "brandName": "ESTRADOT 75",
-    "status": "active_confirmed",
-    "din": "02244001",
-    "strength": "75MCG",
-    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-19T17:02:04.000Z",
-    "updateDate": "2026-10-19T17:02:04.000Z",
-    "postedDate": "2026-10-13T17:13:34.000Z"
-  },
-  {
-    "id": "shortage:295674",
-    "reportId": 295674,
-    "type": "shortage",
-    "brandName": "ESTRADOT 37.5",
-    "status": "active_confirmed",
-    "din": "02243999",
-    "strength": "37.5MCG",
-    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-19T17:01:15.000Z",
-    "updateDate": "2026-10-19T17:01:15.000Z",
-    "postedDate": "2026-10-13T17:12:11.000Z"
-  },
-  {
-    "id": "shortage:295669",
-    "reportId": 295669,
-    "type": "shortage",
-    "brandName": "ESTRADOT 25",
-    "status": "active_confirmed",
-    "din": "02245676",
-    "strength": "25MCG",
-    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-19T17:00:32.000Z",
-    "updateDate": "2026-10-19T17:00:32.000Z",
-    "postedDate": "2026-10-13T17:10:57.000Z"
   },
   {
     "id": "shortage:293308",
@@ -3500,20 +3542,6 @@
     "postedDate": "2026-10-05T16:31:29.000Z"
   },
   {
-    "id": "shortage:290498",
-    "reportId": 290498,
-    "type": "shortage",
-    "brandName": "STANNOUS PYP KIT",
-    "status": "active_confirmed",
-    "din": "02486016",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-10-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-02T23:22:08.000Z",
-    "updateDate": "2026-10-02T23:22:08.000Z",
-    "postedDate": "2026-08-01T00:10:49.000Z"
-  },
-  {
     "id": "shortage:285457",
     "reportId": 285457,
     "type": "shortage",
@@ -4774,20 +4802,6 @@
     "postedDate": "2026-09-22T17:03:42.000Z"
   },
   {
-    "id": "shortage:293520",
-    "reportId": 293520,
-    "type": "shortage",
-    "brandName": "CLIMARA 50",
-    "status": "active_confirmed",
-    "din": "02231509",
-    "strength": "50MCG",
-    "expectedBackInStockDate": "2026-12-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-22T15:40:51.000Z",
-    "updateDate": "2026-09-22T15:40:51.000Z",
-    "postedDate": "2026-09-17T16:53:51.000Z"
-  },
-  {
     "id": "shortage:152140",
     "reportId": 152140,
     "type": "shortage",
@@ -5418,20 +5432,6 @@
     "postedDate": "2026-08-10T23:40:42.000Z"
   },
   {
-    "id": "shortage:293493",
-    "reportId": 293493,
-    "type": "shortage",
-    "brandName": "BACTERIOSTATIC WATER FOR INJECTION USP",
-    "status": "active_confirmed",
-    "din": "00038202",
-    "strength": "30ML",
-    "expectedBackInStockDate": "2026-09-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-16T21:53:20.000Z",
-    "updateDate": "2026-09-16T21:53:20.000Z",
-    "postedDate": "2026-09-16T21:53:02.000Z"
-  },
-  {
     "id": "shortage:293419",
     "reportId": 293419,
     "type": "shortage",
@@ -5922,20 +5922,6 @@
     "postedDate": "2025-11-28T03:31:50.000Z"
   },
   {
-    "id": "shortage:290493",
-    "reportId": 290493,
-    "type": "shortage",
-    "brandName": "STANNOUS MDP KIT",
-    "status": "active_confirmed",
-    "din": "02485834",
-    "strength": "15MG",
-    "expectedBackInStockDate": "2026-10-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-02T02:29:38.000Z",
-    "updateDate": "2026-09-02T02:29:38.000Z",
-    "postedDate": "2026-08-01T00:04:41.000Z"
-  },
-  {
     "id": "shortage:286626",
     "reportId": 286626,
     "type": "shortage",
@@ -6060,20 +6046,6 @@
     "updatedDate": "2026-08-28T17:50:03.000Z",
     "updateDate": "2026-08-28T17:50:03.000Z",
     "postedDate": "2026-05-06T19:41:00.000Z"
-  },
-  {
-    "id": "shortage:266032",
-    "reportId": 266032,
-    "type": "shortage",
-    "brandName": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
-    "status": "active_confirmed",
-    "din": "01977563",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-28T17:48:26.000Z",
-    "updateDate": "2026-08-28T17:48:26.000Z",
-    "postedDate": "2025-08-28T19:33:41.000Z"
   },
   {
     "id": "shortage:247669",
@@ -6272,20 +6244,6 @@
     "postedDate": "2025-04-16T18:35:17.000Z"
   },
   {
-    "id": "shortage:277256",
-    "reportId": 277256,
-    "type": "shortage",
-    "brandName": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
-    "status": "active_confirmed",
-    "din": "01977563",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-13T16:46:48.000Z",
-    "updateDate": "2026-08-13T16:46:48.000Z",
-    "postedDate": "2026-02-05T20:46:45.000Z"
-  },
-  {
     "id": "shortage:288363",
     "reportId": 288363,
     "type": "shortage",
@@ -6368,20 +6326,6 @@
     "updatedDate": "2026-08-07T17:31:44.000Z",
     "updateDate": "2026-08-07T17:31:44.000Z",
     "postedDate": "2026-06-26T16:58:32.000Z"
-  },
-  {
-    "id": "shortage:262196",
-    "reportId": 262196,
-    "type": "shortage",
-    "brandName": "MINT-SPIRONOLACTONE",
-    "status": "active_confirmed",
-    "din": "02488159",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-08-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-06T19:11:38.000Z",
-    "updateDate": "2026-08-06T19:11:38.000Z",
-    "postedDate": "2025-07-08T21:54:06.000Z"
   },
   {
     "id": "shortage:289043",

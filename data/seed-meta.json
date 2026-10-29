@@ -1,267 +1,46 @@
 {
-  "refreshedAt": "2026-10-28T14:46:06.662Z",
-  "count": 550,
-  "addedDrugsCount": 36,
+  "refreshedAt": "2026-10-29T14:52:45.423Z",
+  "count": 546,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "ABACAVIR",
+      "drug": "OLMESARTAN",
       "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
-    },
-    {
-      "drug": "ARTISS",
-      "doses": [
-        "125MG",
-        "3000KIU",
-        "40MCMOL",
-        "4UNIT"
-      ],
-      "expectedBackInStockDate": "2027-03-15T04:00:00.000Z"
-    },
-    {
-      "drug": "BESIVANCE",
-      "doses": [
-        "0.6%"
-      ],
-      "expectedBackInStockDate": "2026-11-02T05:00:00.000Z"
-    },
-    {
-      "drug": "CALCIUM CHLORIDE INJECTION USP",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2027-08-30T04:00:00.000Z"
-    },
-    {
-      "drug": "CELECOXIB",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    },
-    {
-      "drug": "COMBIGAN",
-      "doses": [
-        "0.2%",
-        "0.5%"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "DAPTOMYCIN FOR INJECTION",
-      "doses": [
-        "500MG"
+        "40MG"
       ],
       "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
-      "drug": "DEXAMETHASONE SOD PHOSPH INJ 10MG/ML USP",
+      "drug": "OLMESARTAN HCTZ",
       "doses": [
-        "10MG"
+        "12.5MG",
+        "20MG"
       ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    },
-    {
-      "drug": "DIFLUCAN",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "DRAXIMAGE GLUCEPTATE",
-      "doses": [
-        "25MG",
-        "3MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "ENTACAPONE",
-      "doses": [
-        "200MG"
-      ],
-      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
-    },
-    {
-      "drug": "ERFA HYDROQUINONE",
-      "doses": [
-        "4%"
-      ],
-      "expectedBackInStockDate": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "drug": "FENTORA",
-      "doses": [
-        "800MCG"
-      ],
-      "expectedBackInStockDate": "2027-03-01T05:00:00.000Z"
-    },
-    {
-      "drug": "FINACEA",
-      "doses": [
-        "15%"
-      ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
-    },
-    {
-      "drug": "GEMCITABINE INJECTION",
-      "doses": [
-        "38MG"
-      ],
-      "expectedBackInStockDate": "2028-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "GENOTROPIN",
-      "doses": [
-        "5.3MG"
-      ],
-      "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
-    },
-    {
-      "drug": "HYDROMORPHONE HYDROCHLORIDE INJECTION",
-      "doses": [
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "ILEVRO",
-      "doses": [
-        "0.3%"
-      ],
-      "expectedBackInStockDate": "2026-10-15T04:00:00.000Z"
-    },
-    {
-      "drug": "INNOHEP",
-      "doses": [
-        "20000UNIT"
-      ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-    },
-    {
-      "drug": "MAR-DILTIAZEM CD",
-      "doses": [
-        "300MG"
-      ],
-      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
-    },
-    {
-      "drug": "MEDROL",
-      "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "MEMANTINE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
-    },
-    {
-      "drug": "NUCYNTA EXTENDED-RELEASE",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-11-11T05:00:00.000Z"
-    },
-    {
-      "drug": "OMNISCAN",
-      "doses": [
-        "287MG"
-      ],
-      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
-    },
-    {
-      "drug": "OXALIPLATIN INJECTION, USP",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2027-04-22T04:00:00.000Z"
-    },
-    {
-      "drug": "PAXIL CR",
-      "doses": [
-        "12.5MG"
-      ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-    },
-    {
-      "drug": "PRALUENT",
-      "doses": [
-        "75MG"
-      ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-    },
-    {
-      "drug": "RITONAVIR",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
-    },
-    {
-      "drug": "SODIUM CHLORIDE INJECTION USP",
-      "doses": [
-        "9MG"
-      ],
-      "expectedBackInStockDate": "2026-11-02T05:00:00.000Z"
-    },
-    {
-      "drug": "SYNTHROID",
-      "doses": [
-        "100MCG"
-      ],
-      "expectedBackInStockDate": "2026-11-03T05:00:00.000Z"
-    },
-    {
-      "drug": "TAMIFLU",
-      "doses": [
-        "6MG"
-      ],
-      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
-    },
-    {
-      "drug": "TECTA",
-      "doses": [
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-    },
-    {
-      "drug": "TEGRETOL SUSPENSION",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    },
-    {
-      "drug": "TRAVATAN Z",
-      "doses": [
-        "0.004%"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "VANCOMYCIN HYDROCHLORIDE FOR INJECTION, USP",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
-    },
-    {
-      "drug": "ZAROXOLYN",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-29T14:52:45.423Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "OLMESARTAN",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+        },
+        {
+          "drug": "OLMESARTAN HCTZ",
+          "doses": [
+            "12.5MG",
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-28T14:46:06.662Z",
       "addedDrugsCount": 36,
@@ -794,51 +573,6 @@
             "26.5MG"
           ],
           "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-15T13:00:35.210Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "ATOVAQUONE",
-          "doses": [
-            "750MG"
-          ],
-          "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
-        },
-        {
-          "drug": "CREON MINIMICROSPHERES 35",
-          "doses": [
-            "2240UNIT",
-            "35000UNIT",
-            "35700UNIT"
-          ],
-          "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
-        },
-        {
-          "drug": "NEURONTIN",
-          "doses": [
-            "400MG",
-            "800MG"
-          ],
-          "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
-        },
-        {
-          "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-10-21T04:00:00.000Z"
-        },
-        {
-          "drug": "ZOLOFT",
-          "doses": [
-            "100MG",
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
         }
       ]
     }
