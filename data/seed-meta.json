@@ -1,25 +1,172 @@
 {
-  "refreshedAt": "2026-10-29T14:52:45.423Z",
-  "count": 546,
-  "addedDrugsCount": 2,
+  "refreshedAt": "2026-10-30T14:45:00.109Z",
+  "count": 529,
+  "addedDrugsCount": 11,
   "addedDrugs": [
     {
-      "drug": "OLMESARTAN",
+      "drug": "CITALOPRAM",
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
-      "drug": "OLMESARTAN HCTZ",
+      "drug": "HALOPERIDOL",
       "doses": [
-        "12.5MG",
-        "20MG"
+        "1MG",
+        "2MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "METHAZOLAMIDE",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "drug": "MYCOPHENOLIC ACID",
+      "doses": [
+        "360MG"
+      ],
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "drug": "NOVO-GESIC",
+      "doses": [
+        "325MG"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "NOVO-GESIC FORTE",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "PROPRANOLOL",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "RUPATADINE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+    },
+    {
+      "drug": "SAXAGLIPTIN",
+      "doses": [
+        "2.5MG"
+      ],
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+    },
+    {
+      "drug": "ULTRATAG RBC",
+      "doses": [
+        "20MCI"
+      ],
+      "expectedBackInStockDate": "2026-12-16T05:00:00.000Z"
+    },
+    {
+      "drug": "ZADITEN",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-30T14:45:00.109Z",
+      "addedDrugsCount": 11,
+      "addedDrugs": [
+        {
+          "drug": "CITALOPRAM",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        },
+        {
+          "drug": "HALOPERIDOL",
+          "doses": [
+            "1MG",
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "METHAZOLAMIDE",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+        },
+        {
+          "drug": "MYCOPHENOLIC ACID",
+          "doses": [
+            "360MG"
+          ],
+          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+        },
+        {
+          "drug": "NOVO-GESIC",
+          "doses": [
+            "325MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "NOVO-GESIC FORTE",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "PROPRANOLOL",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "RUPATADINE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+        },
+        {
+          "drug": "SAXAGLIPTIN",
+          "doses": [
+            "2.5MG"
+          ],
+          "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+        },
+        {
+          "drug": "ULTRATAG RBC",
+          "doses": [
+            "20MCI"
+          ],
+          "expectedBackInStockDate": "2026-12-16T05:00:00.000Z"
+        },
+        {
+          "drug": "ZADITEN",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-29T14:52:45.423Z",
       "addedDrugsCount": 2,
@@ -525,54 +672,6 @@
             "236MG"
           ],
           "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-16T12:56:50.986Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "ACID CONCENTRATE D12272",
-          "doses": [
-            "10.8G",
-            "2.14G",
-            "263G",
-            "45G",
-            "6.7G",
-            "7.49G"
-          ],
-          "expectedBackInStockDate": "2026-10-22T04:00:00.000Z"
-        },
-        {
-          "drug": "ERYTHROMYCIN OPHTHALMIC OINTMENT USP",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
-        },
-        {
-          "drug": "ISOPTIN SR",
-          "doses": [
-            "180MG",
-            "240MG"
-          ],
-          "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
-        },
-        {
-          "drug": "MONOPROST",
-          "doses": [
-            "50MCG"
-          ],
-          "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
-        },
-        {
-          "drug": "VANFLYTA",
-          "doses": [
-            "17.7MG",
-            "26.5MG"
-          ],
-          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
         }
       ]
     }
