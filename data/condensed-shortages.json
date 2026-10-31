@@ -1,89 +1,33 @@
 {
-  "count": 326,
-  "refreshedAt": "2026-10-30T14:45:00.109Z",
+  "count": 325,
+  "refreshedAt": "2026-10-31T14:10:16.885Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 11,
+  "addedDrugsCount": 1,
   "addedDrugs": [
     {
-      "drug": "CITALOPRAM",
+      "drug": "AVALIDE",
       "doses": [
-        "40MG"
+        "12.5MG",
+        "150MG"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-    },
-    {
-      "drug": "HALOPERIDOL",
-      "doses": [
-        "1MG",
-        "2MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "METHAZOLAMIDE",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-    },
-    {
-      "drug": "MYCOPHENOLIC ACID",
-      "doses": [
-        "360MG"
-      ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-    },
-    {
-      "drug": "NOVO-GESIC",
-      "doses": [
-        "325MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "NOVO-GESIC FORTE",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "PROPRANOLOL",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "RUPATADINE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    },
-    {
-      "drug": "SAXAGLIPTIN",
-      "doses": [
-        "2.5MG"
-      ],
-      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
-    },
-    {
-      "drug": "ULTRATAG RBC",
-      "doses": [
-        "20MCI"
-      ],
-      "expectedBackInStockDate": "2026-12-16T05:00:00.000Z"
-    },
-    {
-      "drug": "ZADITEN",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-10-31T14:10:16.885Z",
+      "addedDrugsCount": 1,
+      "addedDrugs": [
+        {
+          "drug": "AVALIDE",
+          "doses": [
+            "12.5MG",
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-30T14:45:00.109Z",
       "addedDrugsCount": 11,
@@ -654,27 +598,6 @@
       "refreshedAt": "2026-10-18T12:22:32.540Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-10-17T11:55:29.986Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "DARUNAVIR",
-          "doses": [
-            "800MG"
-          ],
-          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-        },
-        {
-          "drug": "POTASSIUM PHOSPHATES INJECTION, USP",
-          "doses": [
-            "224MG",
-            "236MG"
-          ],
-          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -849,6 +772,14 @@
       "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
+      "drug": "AVALIDE",
+      "doses": [
+        "12.5MG",
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+    },
+    {
       "drug": "AVENTYL",
       "doses": [
         "10MG"
@@ -921,7 +852,7 @@
       "doses": [
         "0.2%"
       ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
     },
     {
       "drug": "BRIMONIDINE P",
@@ -1436,7 +1367,7 @@
         "300MG",
         "600MG"
       ],
-      "expectedBackInStockDate": "2027-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2028-01-01T05:00:00.000Z"
     },
     {
       "drug": "ELETRIPTAN",
@@ -1673,7 +1604,7 @@
       "doses": [
         "0.3%"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-30T05:00:00.000Z"
     },
     {
       "drug": "GEFITINIB",
@@ -1789,20 +1720,6 @@
       "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
     },
     {
-      "drug": "KENALOG-10 INJECTION",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "KENALOG-40 INJECTION",
-      "doses": [
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-    },
-    {
       "drug": "KETOROLAC",
       "doses": [
         "0.5%"
@@ -1853,7 +1770,7 @@
         "50MCG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2027-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2028-01-01T05:00:00.000Z"
     },
     {
       "drug": "LEFLUNOMIDE",
@@ -1947,7 +1864,7 @@
         "25MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+      "expectedBackInStockDate": "2028-01-01T05:00:00.000Z"
     },
     {
       "drug": "LURASIDONE",
@@ -2653,7 +2570,7 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-09T05:00:00.000Z"
     },
     {
       "drug": "RUPATADINE",
@@ -2825,12 +2742,11 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     },
     {
       "drug": "TELMISARTAN-HCT",
       "doses": [
-        "12.5MG",
         "25MG",
         "80MG"
       ],
@@ -2919,7 +2835,7 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-10-09T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
     },
     {
       "drug": "TOLTERODINE LA",
@@ -2975,7 +2891,7 @@
       "doses": [
         "0.004%"
       ],
-      "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
     },
     {
       "drug": "TRIAMCINOLONE ACETONIDE INJECTABLE SUSPENSION USP",
