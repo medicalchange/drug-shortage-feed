@@ -1,19 +1,49 @@
 {
-  "count": 325,
-  "refreshedAt": "2026-10-31T14:10:16.885Z",
+  "count": 327,
+  "refreshedAt": "2026-11-01T14:39:48.531Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 1,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "AVALIDE",
+      "drug": "ACCEL-ONDANSETRON ODT",
+      "doses": [
+        "4MG",
+        "8MG"
+      ],
+      "expectedBackInStockDate": "2026-11-15T05:00:00.000Z"
+    },
+    {
+      "drug": "LOSARTAN-HCTZ",
       "doses": [
         "12.5MG",
-        "150MG"
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-06-21T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-01T14:39:48.531Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "ACCEL-ONDANSETRON ODT",
+          "doses": [
+            "4MG",
+            "8MG"
+          ],
+          "expectedBackInStockDate": "2026-11-15T05:00:00.000Z"
+        },
+        {
+          "drug": "LOSARTAN-HCTZ",
+          "doses": [
+            "12.5MG",
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2027-06-21T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-10-31T14:10:16.885Z",
       "addedDrugsCount": 1,
@@ -593,11 +623,6 @@
           "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-18T12:22:32.540Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -614,6 +639,14 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+    },
+    {
+      "drug": "ACCEL-ONDANSETRON ODT",
+      "doses": [
+        "4MG",
+        "8MG"
+      ],
+      "expectedBackInStockDate": "2026-11-15T05:00:00.000Z"
     },
     {
       "drug": "ACETAMINOPHEN CAPLETS",
@@ -1867,6 +1900,14 @@
       "expectedBackInStockDate": "2028-01-01T05:00:00.000Z"
     },
     {
+      "drug": "LOSARTAN-HCTZ",
+      "doses": [
+        "12.5MG",
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2027-06-21T04:00:00.000Z"
+    },
+    {
       "drug": "LURASIDONE",
       "doses": [
         "40MG"
@@ -2108,7 +2149,8 @@
       "drug": "NRA-CITALOPRAM",
       "doses": [
         "10MG",
-        "20MG"
+        "20MG",
+        "40MG"
       ],
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
