@@ -1,5 +1,159 @@
 [
   {
+    "id": "shortage:293905",
+    "reportId": 293905,
+    "type": "shortage",
+    "brandName": "TWYNSTA",
+    "status": "active_confirmed",
+    "din": "02371022",
+    "strength": "40MG\n5MG",
+    "expectedBackInStockDate": "2027-02-01T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-02T22:28:30.000Z",
+    "updateDate": "2026-11-02T22:28:30.000Z",
+    "postedDate": "2026-09-21T19:18:38.000Z"
+  },
+  {
+    "id": "shortage:297446",
+    "reportId": 297446,
+    "type": "shortage",
+    "brandName": "PARIET, ENTERIC-COATED TABLET 20MG",
+    "status": "active_confirmed",
+    "din": "02243797",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-11-16T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-02T20:58:00.000Z",
+    "updateDate": "2026-11-02T20:58:00.000Z",
+    "postedDate": "2026-11-02T20:57:31.000Z"
+  },
+  {
+    "id": "shortage:297443",
+    "reportId": 297443,
+    "type": "shortage",
+    "brandName": "PARIET, ENTERIC-COATED TABLET 10MG",
+    "status": "active_confirmed",
+    "din": "02243796",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2027-01-11T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-02T20:51:59.000Z",
+    "updateDate": "2026-11-02T20:51:59.000Z",
+    "postedDate": "2026-11-02T20:50:02.000Z"
+  },
+  {
+    "id": "shortage:289613",
+    "reportId": 289613,
+    "type": "shortage",
+    "brandName": "METADOL",
+    "status": "active_confirmed",
+    "din": "02247694",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-02T19:55:43.000Z",
+    "updateDate": "2026-11-02T19:55:43.000Z",
+    "postedDate": "2026-07-21T16:37:20.000Z"
+  },
+  {
+    "id": "shortage:248781",
+    "reportId": 248781,
+    "type": "shortage",
+    "brandName": "NRA-OLMESARTAN HCTZ",
+    "status": "active_confirmed",
+    "din": "02508273",
+    "strength": "20MG\n12.5MG",
+    "expectedBackInStockDate": "2027-03-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-02T19:00:11.000Z",
+    "updateDate": "2026-11-02T19:00:11.000Z",
+    "postedDate": "2025-01-28T22:10:03.000Z"
+  },
+  {
+    "id": "shortage:248784",
+    "reportId": 248784,
+    "type": "shortage",
+    "brandName": "NRA-OLMESARTAN HCTZ",
+    "status": "active_confirmed",
+    "din": "02508281",
+    "strength": "40MG\n12.5MG",
+    "expectedBackInStockDate": "2027-03-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-02T18:59:28.000Z",
+    "updateDate": "2026-11-02T18:59:28.000Z",
+    "postedDate": "2025-01-28T22:11:56.000Z"
+  },
+  {
+    "id": "shortage:248787",
+    "reportId": 248787,
+    "type": "shortage",
+    "brandName": "NRA-OLMESARTAN HCTZ",
+    "status": "active_confirmed",
+    "din": "02508303",
+    "strength": "40MG\n25MG",
+    "expectedBackInStockDate": "2027-03-31T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-02T18:58:25.000Z",
+    "updateDate": "2026-11-02T18:58:25.000Z",
+    "postedDate": "2025-01-28T22:13:11.000Z"
+  },
+  {
+    "id": "shortage:295674",
+    "reportId": 295674,
+    "type": "shortage",
+    "brandName": "ESTRADOT 37.5",
+    "status": "active_confirmed",
+    "din": "02243999",
+    "strength": "37.5MCG",
+    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-02T18:37:19.000Z",
+    "updateDate": "2026-11-02T18:37:19.000Z",
+    "postedDate": "2026-10-13T17:12:11.000Z"
+  },
+  {
+    "id": "shortage:286626",
+    "reportId": 286626,
+    "type": "shortage",
+    "brandName": "SANDOZ ABIRATERONE",
+    "status": "active_confirmed",
+    "din": "02521644",
+    "strength": "500MG",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-02T18:36:45.000Z",
+    "updateDate": "2026-11-02T18:36:45.000Z",
+    "postedDate": "2026-06-08T16:42:35.000Z"
+  },
+  {
+    "id": "shortage:297401",
+    "reportId": 297401,
+    "type": "shortage",
+    "brandName": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+    "status": "active_confirmed",
+    "din": "02299658",
+    "strength": "0.5G\n4G",
+    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-02T18:36:03.000Z",
+    "updateDate": "2026-11-02T18:36:03.000Z",
+    "postedDate": "2026-11-02T18:35:50.000Z"
+  },
+  {
+    "id": "shortage:297398",
+    "reportId": 297398,
+    "type": "shortage",
+    "brandName": "SANDOZ PANTOPRAZOLE",
+    "status": "active_confirmed",
+    "din": "02301075",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-12-11T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-02T18:34:42.000Z",
+    "updateDate": "2026-11-02T18:34:42.000Z",
+    "postedDate": "2026-11-02T18:34:27.000Z"
+  },
+  {
     "id": "shortage:295098",
     "reportId": 295098,
     "type": "shortage",
@@ -12,34 +166,6 @@
     "updatedDate": "2026-11-01T10:00:08.000Z",
     "updateDate": "2026-11-01T10:00:08.000Z",
     "postedDate": "2026-10-05T16:29:37.000Z"
-  },
-  {
-    "id": "shortage:271125",
-    "reportId": 271125,
-    "type": "shortage",
-    "brandName": "NRA-CITALOPRAM",
-    "status": "active_confirmed",
-    "din": "02477653",
-    "strength": "40MG",
-    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-01T10:00:07.000Z",
-    "updateDate": "2026-11-01T10:00:07.000Z",
-    "postedDate": "2025-11-06T21:54:14.000Z"
-  },
-  {
-    "id": "shortage:296420",
-    "reportId": 296420,
-    "type": "shortage",
-    "brandName": "ACCEL-ONDANSETRON ODT",
-    "status": "active_confirmed",
-    "din": "02535327",
-    "strength": "8MG",
-    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-01T10:00:02.000Z",
-    "updateDate": "2026-11-01T10:00:02.000Z",
-    "postedDate": "2026-10-26T18:00:02.000Z"
   },
   {
     "id": "shortage:296417",
@@ -56,18 +182,18 @@
     "postedDate": "2026-10-26T17:58:16.000Z"
   },
   {
-    "id": "shortage:288567",
-    "reportId": 288567,
+    "id": "shortage:296420",
+    "reportId": 296420,
     "type": "shortage",
-    "brandName": "JAMP AMOXI CLAV SUSPENSION",
+    "brandName": "ACCEL-ONDANSETRON ODT",
     "status": "active_confirmed",
-    "din": "02539446",
-    "strength": "57MG\n400MG",
-    "expectedBackInStockDate": "2026-09-28T04:00:00.000Z",
+    "din": "02535327",
+    "strength": "8MG",
+    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
     "resolved": false,
-    "updatedDate": "2026-10-31T03:02:28.000Z",
-    "updateDate": "2026-10-31T03:02:28.000Z",
-    "postedDate": "2026-07-04T01:44:20.000Z"
+    "updatedDate": "2026-11-01T10:00:02.000Z",
+    "updateDate": "2026-11-01T10:00:02.000Z",
+    "postedDate": "2026-10-26T18:00:02.000Z"
   },
   {
     "id": "shortage:294292",
@@ -1414,48 +1540,6 @@
     "postedDate": "2025-08-28T19:33:41.000Z"
   },
   {
-    "id": "shortage:295677",
-    "reportId": 295677,
-    "type": "shortage",
-    "brandName": "ESTRADOT 75",
-    "status": "active_confirmed",
-    "din": "02244001",
-    "strength": "75MCG",
-    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-29T17:30:38.000Z",
-    "updateDate": "2026-10-29T17:30:38.000Z",
-    "postedDate": "2026-10-13T17:13:34.000Z"
-  },
-  {
-    "id": "shortage:295674",
-    "reportId": 295674,
-    "type": "shortage",
-    "brandName": "ESTRADOT 37.5",
-    "status": "active_confirmed",
-    "din": "02243999",
-    "strength": "37.5MCG",
-    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-29T17:30:38.000Z",
-    "updateDate": "2026-10-29T17:30:38.000Z",
-    "postedDate": "2026-10-13T17:12:11.000Z"
-  },
-  {
-    "id": "shortage:295669",
-    "reportId": 295669,
-    "type": "shortage",
-    "brandName": "ESTRADOT 25",
-    "status": "active_confirmed",
-    "din": "02245676",
-    "strength": "25MCG",
-    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-29T17:30:38.000Z",
-    "updateDate": "2026-10-29T17:30:38.000Z",
-    "postedDate": "2026-10-13T17:10:57.000Z"
-  },
-  {
     "id": "shortage:293520",
     "reportId": 293520,
     "type": "shortage",
@@ -1468,6 +1552,20 @@
     "updatedDate": "2026-10-29T17:30:38.000Z",
     "updateDate": "2026-10-29T17:30:38.000Z",
     "postedDate": "2026-09-17T16:53:51.000Z"
+  },
+  {
+    "id": "shortage:295677",
+    "reportId": 295677,
+    "type": "shortage",
+    "brandName": "ESTRADOT 75",
+    "status": "active_confirmed",
+    "din": "02244001",
+    "strength": "75MCG",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-29T17:30:38.000Z",
+    "updateDate": "2026-10-29T17:30:38.000Z",
+    "postedDate": "2026-10-13T17:13:34.000Z"
   },
   {
     "id": "shortage:290493",
@@ -1638,20 +1736,6 @@
     "postedDate": "2026-09-25T18:29:16.000Z"
   },
   {
-    "id": "shortage:289080",
-    "reportId": 289080,
-    "type": "shortage",
-    "brandName": "TOPIRAMATE",
-    "status": "active_confirmed",
-    "din": "02356856",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:48.000Z",
-    "updateDate": "2026-10-27T22:16:48.000Z",
-    "postedDate": "2026-07-13T18:23:34.000Z"
-  },
-  {
     "id": "shortage:289077",
     "reportId": 289077,
     "type": "shortage",
@@ -1664,6 +1748,20 @@
     "updatedDate": "2026-10-27T22:16:48.000Z",
     "updateDate": "2026-10-27T22:16:48.000Z",
     "postedDate": "2026-07-13T18:22:28.000Z"
+  },
+  {
+    "id": "shortage:289080",
+    "reportId": 289080,
+    "type": "shortage",
+    "brandName": "TOPIRAMATE",
+    "status": "active_confirmed",
+    "din": "02356856",
+    "strength": "25MG",
+    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:16:48.000Z",
+    "updateDate": "2026-10-27T22:16:48.000Z",
+    "postedDate": "2026-07-13T18:23:34.000Z"
   },
   {
     "id": "shortage:295211",
@@ -1792,20 +1890,6 @@
     "postedDate": "2026-10-26T16:43:41.000Z"
   },
   {
-    "id": "shortage:295208",
-    "reportId": 295208,
-    "type": "shortage",
-    "brandName": "PREGABALIN",
-    "status": "active_confirmed",
-    "din": "02405598",
-    "strength": "300MG",
-    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:07.000Z",
-    "updateDate": "2026-10-27T22:16:07.000Z",
-    "postedDate": "2026-10-05T18:21:58.000Z"
-  },
-  {
     "id": "shortage:284628",
     "reportId": 284628,
     "type": "shortage",
@@ -1818,6 +1902,20 @@
     "updatedDate": "2026-10-27T22:16:07.000Z",
     "updateDate": "2026-10-27T22:16:07.000Z",
     "postedDate": "2026-05-06T19:39:42.000Z"
+  },
+  {
+    "id": "shortage:295208",
+    "reportId": 295208,
+    "type": "shortage",
+    "brandName": "PREGABALIN",
+    "status": "active_confirmed",
+    "din": "02405598",
+    "strength": "300MG",
+    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:16:07.000Z",
+    "updateDate": "2026-10-27T22:16:07.000Z",
+    "postedDate": "2026-10-05T18:21:58.000Z"
   },
   {
     "id": "shortage:296372",
@@ -1946,20 +2044,6 @@
     "postedDate": "2026-07-28T21:57:08.000Z"
   },
   {
-    "id": "shortage:290040",
-    "reportId": 290040,
-    "type": "shortage",
-    "brandName": "MINT-MEMANTINE",
-    "status": "active_confirmed",
-    "din": "02531887",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:50.000Z",
-    "updateDate": "2026-10-27T22:15:50.000Z",
-    "postedDate": "2026-07-28T21:53:29.000Z"
-  },
-  {
     "id": "shortage:290037",
     "reportId": 290037,
     "type": "shortage",
@@ -1972,6 +2056,20 @@
     "updatedDate": "2026-10-27T22:15:50.000Z",
     "updateDate": "2026-10-27T22:15:50.000Z",
     "postedDate": "2026-07-28T21:51:43.000Z"
+  },
+  {
+    "id": "shortage:290040",
+    "reportId": 290040,
+    "type": "shortage",
+    "brandName": "MINT-MEMANTINE",
+    "status": "active_confirmed",
+    "din": "02531887",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:50.000Z",
+    "updateDate": "2026-10-27T22:15:50.000Z",
+    "postedDate": "2026-07-28T21:53:29.000Z"
   },
   {
     "id": "shortage:289967",
@@ -2044,20 +2142,6 @@
     "postedDate": "2026-10-09T19:12:29.000Z"
   },
   {
-    "id": "shortage:290937",
-    "reportId": 290937,
-    "type": "shortage",
-    "brandName": "GEMCITABINE INJECTION",
-    "status": "active_confirmed",
-    "din": "02402831",
-    "strength": "38MG",
-    "expectedBackInStockDate": "2028-12-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:30.000Z",
-    "updateDate": "2026-10-27T22:15:30.000Z",
-    "postedDate": "2026-08-07T20:29:39.000Z"
-  },
-  {
     "id": "shortage:292537",
     "reportId": 292537,
     "type": "shortage",
@@ -2070,6 +2154,20 @@
     "updatedDate": "2026-10-27T22:15:30.000Z",
     "updateDate": "2026-10-27T22:15:30.000Z",
     "postedDate": "2026-09-03T00:09:36.000Z"
+  },
+  {
+    "id": "shortage:290937",
+    "reportId": 290937,
+    "type": "shortage",
+    "brandName": "GEMCITABINE INJECTION",
+    "status": "active_confirmed",
+    "din": "02402831",
+    "strength": "38MG",
+    "expectedBackInStockDate": "2028-12-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:30.000Z",
+    "updateDate": "2026-10-27T22:15:30.000Z",
+    "postedDate": "2026-08-07T20:29:39.000Z"
   },
   {
     "id": "shortage:295205",
@@ -2114,20 +2212,6 @@
     "postedDate": "2026-10-20T17:15:46.000Z"
   },
   {
-    "id": "shortage:282362",
-    "reportId": 282362,
-    "type": "shortage",
-    "brandName": "ERFA HYDROQUINONE",
-    "status": "active_confirmed",
-    "din": "02491702",
-    "strength": "4%",
-    "expectedBackInStockDate": "2026-10-15T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:25.000Z",
-    "updateDate": "2026-10-27T22:15:25.000Z",
-    "postedDate": "2026-04-08T01:49:25.000Z"
-  },
-  {
     "id": "shortage:295199",
     "reportId": 295199,
     "type": "shortage",
@@ -2140,6 +2224,20 @@
     "updatedDate": "2026-10-27T22:15:25.000Z",
     "updateDate": "2026-10-27T22:15:25.000Z",
     "postedDate": "2026-10-05T18:07:32.000Z"
+  },
+  {
+    "id": "shortage:282362",
+    "reportId": 282362,
+    "type": "shortage",
+    "brandName": "ERFA HYDROQUINONE",
+    "status": "active_confirmed",
+    "din": "02491702",
+    "strength": "4%",
+    "expectedBackInStockDate": "2026-10-15T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:25.000Z",
+    "updateDate": "2026-10-27T22:15:25.000Z",
+    "postedDate": "2026-04-08T01:49:25.000Z"
   },
   {
     "id": "shortage:291132",
@@ -2826,20 +2924,6 @@
     "updatedDate": "2026-10-23T17:43:58.000Z",
     "updateDate": "2026-10-23T17:43:58.000Z",
     "postedDate": "2026-06-19T17:47:24.000Z"
-  },
-  {
-    "id": "shortage:289613",
-    "reportId": 289613,
-    "type": "shortage",
-    "brandName": "METADOL",
-    "status": "active_confirmed",
-    "din": "02247694",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-10-31T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-22T23:52:16.000Z",
-    "updateDate": "2026-10-22T23:52:16.000Z",
-    "postedDate": "2026-07-21T16:37:20.000Z"
   },
   {
     "id": "shortage:273071",
@@ -3582,20 +3666,6 @@
     "updatedDate": "2026-10-13T20:40:21.000Z",
     "updateDate": "2026-10-13T20:40:21.000Z",
     "postedDate": "2026-04-13T23:52:03.000Z"
-  },
-  {
-    "id": "shortage:293527",
-    "reportId": 293527,
-    "type": "shortage",
-    "brandName": "TWYNSTA",
-    "status": "active_confirmed",
-    "din": "02371049",
-    "strength": "80MG\r\n5MG",
-    "expectedBackInStockDate": "2026-12-14T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-13T17:11:40.000Z",
-    "updateDate": "2026-10-13T17:11:40.000Z",
-    "postedDate": "2026-09-17T17:58:57.000Z"
   },
   {
     "id": "shortage:272933",
@@ -6018,20 +6088,6 @@
     "updatedDate": "2026-09-02T17:38:34.000Z",
     "updateDate": "2026-09-02T17:38:34.000Z",
     "postedDate": "2025-11-28T03:31:50.000Z"
-  },
-  {
-    "id": "shortage:286626",
-    "reportId": 286626,
-    "type": "shortage",
-    "brandName": "SANDOZ ABIRATERONE",
-    "status": "active_confirmed",
-    "din": "02521644",
-    "strength": "500MG",
-    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-31T16:59:00.000Z",
-    "updateDate": "2026-08-31T16:59:00.000Z",
-    "postedDate": "2026-06-08T16:42:35.000Z"
   },
   {
     "id": "shortage:292286",

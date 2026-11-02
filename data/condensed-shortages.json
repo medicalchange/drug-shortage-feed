@@ -1,27 +1,81 @@
 {
-  "count": 327,
-  "refreshedAt": "2026-11-01T14:39:48.531Z",
+  "count": 330,
+  "refreshedAt": "2026-11-02T17:40:05.078Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "ACCEL-ONDANSETRON ODT",
-      "doses": [
-        "4MG",
-        "8MG"
-      ],
-      "expectedBackInStockDate": "2026-11-15T05:00:00.000Z"
-    },
-    {
-      "drug": "LOSARTAN-HCTZ",
+      "drug": "NRA-OLMESARTAN HCTZ",
       "doses": [
         "12.5MG",
-        "50MG"
+        "20MG",
+        "25MG",
+        "40MG"
       ],
-      "expectedBackInStockDate": "2027-06-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "0.5G",
+        "4G"
+      ],
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-02T17:40:05.078Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "NRA-OLMESARTAN HCTZ",
+          "doses": [
+            "12.5MG",
+            "20MG",
+            "25MG",
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+        },
+        {
+          "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
+        },
+        {
+          "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
+        },
+        {
+          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+          "doses": [
+            "0.5G",
+            "4G"
+          ],
+          "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-01T14:39:48.531Z",
       "addedDrugsCount": 2,
@@ -596,33 +650,6 @@
           "expectedBackInStockDate": "2026-12-16T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-19T15:11:47.193Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "ESTRADOT 25",
-          "doses": [
-            "25MCG"
-          ],
-          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-        },
-        {
-          "drug": "ESTRADOT 37.5",
-          "doses": [
-            "37.5MCG"
-          ],
-          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-        },
-        {
-          "drug": "ESTRADOT 75",
-          "doses": [
-            "75MCG"
-          ],
-          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -638,7 +665,7 @@
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
       "drug": "ACCEL-ONDANSETRON ODT",
@@ -730,8 +757,6 @@
         "200MG",
         "250MG",
         "28.5MG",
-        "400MG",
-        "57MG",
         "62.5MG"
       ],
       "expectedBackInStockDate": "2026-09-28T04:00:00.000Z"
@@ -1493,18 +1518,11 @@
       "expectedBackInStockDate": "2027-10-27T04:00:00.000Z"
     },
     {
-      "drug": "ESTRADOT 25",
-      "doses": [
-        "25MCG"
-      ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-    },
-    {
       "drug": "ESTRADOT 37.5",
       "doses": [
         "37.5MCG"
       ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     },
     {
       "drug": "ESTRADOT 75",
@@ -1962,7 +1980,7 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     },
     {
       "drug": "METHAZOLAMIDE",
@@ -2149,10 +2167,19 @@
       "drug": "NRA-CITALOPRAM",
       "doses": [
         "10MG",
-        "20MG",
-        "40MG"
+        "20MG"
       ],
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "NRA-OLMESARTAN HCTZ",
+      "doses": [
+        "12.5MG",
+        "20MG",
+        "25MG",
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
     },
     {
       "drug": "NUCYNTA EXTENDED-RELEASE",
@@ -2288,9 +2315,10 @@
     {
       "drug": "PANTOPRAZOLE",
       "doses": [
+        "20MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
       "drug": "PANTOPRAZOLE MAGNESIUM",
@@ -2305,6 +2333,20 @@
         "40MG"
       ],
       "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
     },
     {
       "drug": "PAXIL CR",
@@ -2348,6 +2390,14 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+    },
+    {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "0.5G",
+        "4G"
+      ],
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     },
     {
       "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE",
@@ -2974,10 +3024,11 @@
       "drug": "TWYNSTA",
       "doses": [
         "10MG",
+        "40MG",
         "5MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-04T05:00:00.000Z"
     },
     {
       "drug": "ULTRATAG RBC",

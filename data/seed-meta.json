@@ -1,26 +1,80 @@
 {
-  "refreshedAt": "2026-11-01T14:39:48.531Z",
-  "count": 530,
-  "addedDrugsCount": 2,
+  "refreshedAt": "2026-11-02T17:40:05.078Z",
+  "count": 534,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "ACCEL-ONDANSETRON ODT",
-      "doses": [
-        "4MG",
-        "8MG"
-      ],
-      "expectedBackInStockDate": "2026-11-15T05:00:00.000Z"
-    },
-    {
-      "drug": "LOSARTAN-HCTZ",
+      "drug": "NRA-OLMESARTAN HCTZ",
       "doses": [
         "12.5MG",
-        "50MG"
+        "20MG",
+        "25MG",
+        "40MG"
       ],
-      "expectedBackInStockDate": "2027-06-21T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+      "doses": [
+        "0.5G",
+        "4G"
+      ],
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-02T17:40:05.078Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "NRA-OLMESARTAN HCTZ",
+          "doses": [
+            "12.5MG",
+            "20MG",
+            "25MG",
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+        },
+        {
+          "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
+        },
+        {
+          "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
+        },
+        {
+          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
+          "doses": [
+            "0.5G",
+            "4G"
+          ],
+          "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-01T14:39:48.531Z",
       "addedDrugsCount": 2,
@@ -593,33 +647,6 @@
             "0.2MG"
           ],
           "expectedBackInStockDate": "2026-12-16T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-19T15:11:47.193Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "ESTRADOT 25",
-          "doses": [
-            "25MCG"
-          ],
-          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-        },
-        {
-          "drug": "ESTRADOT 37.5",
-          "doses": [
-            "37.5MCG"
-          ],
-          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-        },
-        {
-          "drug": "ESTRADOT 75",
-          "doses": [
-            "75MCG"
-          ],
-          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
         }
       ]
     }
