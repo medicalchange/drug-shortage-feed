@@ -1,43 +1,45 @@
 {
-  "count": 330,
-  "refreshedAt": "2026-11-02T17:40:05.078Z",
+  "count": 331,
+  "refreshedAt": "2026-11-03T15:42:10.098Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 4,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "NRA-OLMESARTAN HCTZ",
+      "drug": "DANTRIUM CAPSULES",
       "doses": [
-        "12.5MG",
-        "20MG",
-        "25MG",
-        "40MG"
+        "25MG"
       ],
-      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     },
     {
-      "drug": "PARIET, ENTERIC-COATED TABLET 10MG",
+      "drug": "PROPOFOL INJECTION",
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
-    },
-    {
-      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-      "doses": [
-        "0.5G",
-        "4G"
-      ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-03T15:42:10.098Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "DANTRIUM CAPSULES",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+        },
+        {
+          "drug": "PROPOFOL INJECTION",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-02T17:40:05.078Z",
       "addedDrugsCount": 4,
@@ -615,41 +617,6 @@
           "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-20T13:12:17.342Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "ANDROGEL",
-          "doses": [
-            "1%"
-          ],
-          "expectedBackInStockDate": "2026-04-13T04:00:00.000Z"
-        },
-        {
-          "drug": "ATENOLOL",
-          "doses": [
-            "100MG",
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
-        },
-        {
-          "drug": "DANTROLENE SODIUM FOR INJECTION, USP",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
-        },
-        {
-          "drug": "TRINIPATCH 0.2",
-          "doses": [
-            "0.2MG"
-          ],
-          "expectedBackInStockDate": "2026-12-16T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -933,7 +900,7 @@
         "0.2%",
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "BRIVARACETAM",
@@ -990,7 +957,7 @@
         "100MG",
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "CANDESARTAN",
@@ -1176,6 +1143,13 @@
       "expectedBackInStockDate": "2028-03-31T04:00:00.000Z"
     },
     {
+      "drug": "DANTRIUM CAPSULES",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+    },
+    {
       "drug": "DANTROLENE SODIUM FOR INJECTION, USP",
       "doses": [
         "20MG"
@@ -1281,7 +1255,7 @@
       "doses": [
         "0.1%"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
     },
     {
       "drug": "DIFLUCAN",
@@ -1314,7 +1288,7 @@
         "240MG",
         "300MG"
       ],
-      "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     },
     {
       "drug": "DILTIAZEM HYDROCHLORIDE INJECTION",
@@ -1773,9 +1747,10 @@
     {
       "drug": "KETOROLAC",
       "doses": [
-        "0.5%"
+        "0.5%",
+        "10MG"
       ],
-      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "KIT FOR THE PREPARATION OF TECHNETIUM (99MTC) PYROPHOSPHATE INJECTION",
@@ -1843,7 +1818,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
       "drug": "LEVETIRACETAM",
@@ -2065,13 +2040,6 @@
       "drug": "MOXIFLOXACIN",
       "doses": [
         "0.5%"
-      ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
-    },
-    {
-      "drug": "MYCOPHENOLATE",
-      "doses": [
-        "500MG"
       ],
       "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
     },
@@ -2523,6 +2491,13 @@
       "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
     },
     {
+      "drug": "PROPOFOL INJECTION",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+    },
+    {
       "drug": "PROPRANOLOL",
       "doses": [
         "10MG"
@@ -2579,7 +2554,7 @@
         "0.5MG",
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-10-02T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "REDDY-DASATINIB",
@@ -2707,7 +2682,7 @@
         "40MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-09-25T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
       "drug": "SITAGLIPTIN/METFORMIN XR",
