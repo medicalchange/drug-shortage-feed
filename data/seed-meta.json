@@ -1,24 +1,128 @@
 {
-  "refreshedAt": "2026-11-03T15:42:10.098Z",
-  "count": 536,
-  "addedDrugsCount": 2,
+  "refreshedAt": "2026-11-04T15:54:21.721Z",
+  "count": 543,
+  "addedDrugsCount": 8,
   "addedDrugs": [
     {
-      "drug": "DANTRIUM CAPSULES",
+      "drug": "ACUVAIL",
+      "doses": [
+        "0.45%"
+      ],
+      "expectedBackInStockDate": "2026-11-18T05:00:00.000Z"
+    },
+    {
+      "drug": "CLOXACILLIN",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+    },
+    {
+      "drug": "DARIFENACIN",
+      "doses": [
+        "15MG"
+      ],
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+    },
+    {
+      "drug": "METHOTREXATE INJECTION",
       "doses": [
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
-      "drug": "PROPOFOL INJECTION",
+      "drug": "TOPIRAMATE TABLETS",
       "doses": [
-        "10MG"
+        "50MG"
       ],
-      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+    },
+    {
+      "drug": "TOUJEO DOUBLESTAR",
+      "doses": [
+        "300UNIT"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+    },
+    {
+      "drug": "VALPROIC ACID ORAL SOLUTION",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "VITAMIN D",
+      "doses": [
+        "10000UNIT"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-04T15:54:21.721Z",
+      "addedDrugsCount": 8,
+      "addedDrugs": [
+        {
+          "drug": "ACUVAIL",
+          "doses": [
+            "0.45%"
+          ],
+          "expectedBackInStockDate": "2026-11-18T05:00:00.000Z"
+        },
+        {
+          "drug": "CLOXACILLIN",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+        },
+        {
+          "drug": "DARIFENACIN",
+          "doses": [
+            "15MG"
+          ],
+          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+        },
+        {
+          "drug": "METHOTREXATE INJECTION",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        },
+        {
+          "drug": "TOPIRAMATE TABLETS",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        },
+        {
+          "drug": "TOUJEO DOUBLESTAR",
+          "doses": [
+            "300UNIT"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        },
+        {
+          "drug": "VALPROIC ACID ORAL SOLUTION",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+        },
+        {
+          "drug": "VITAMIN D",
+          "doses": [
+            "10000UNIT"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-03T15:42:10.098Z",
       "addedDrugsCount": 2,
@@ -601,19 +705,6 @@
             "5MG"
           ],
           "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-21T13:21:47.999Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "NETSPOT",
-          "doses": [
-            "40MCG"
-          ],
-          "expectedBackInStockDate": "2026-10-16T04:00:00.000Z"
         }
       ]
     }
