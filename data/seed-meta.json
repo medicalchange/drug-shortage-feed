@@ -1,66 +1,78 @@
 {
-  "refreshedAt": "2026-11-04T15:54:21.721Z",
-  "count": 543,
-  "addedDrugsCount": 8,
+  "refreshedAt": "2026-11-05T15:59:29.406Z",
+  "count": 553,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "ACUVAIL",
+      "drug": "ABRILADA",
       "doses": [
-        "0.45%"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2026-11-18T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
     },
     {
-      "drug": "CLOXACILLIN",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-    },
-    {
-      "drug": "DARIFENACIN",
-      "doses": [
-        "15MG"
-      ],
-      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
-    },
-    {
-      "drug": "METHOTREXATE INJECTION",
-      "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-    },
-    {
-      "drug": "TOPIRAMATE TABLETS",
+      "drug": "CASPOFUNGIN FOR INJECTION",
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-10-30T04:00:00.000Z"
     },
     {
-      "drug": "TOUJEO DOUBLESTAR",
+      "drug": "MAXITROL",
       "doses": [
-        "300UNIT"
+        "0.1%",
+        "3.5MG",
+        "6000UNIT"
       ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-10T05:00:00.000Z"
     },
     {
-      "drug": "VALPROIC ACID ORAL SOLUTION",
+      "drug": "TOBRADEX",
       "doses": [
-        "250MG"
+        "0.1%",
+        "0.3%"
       ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "VITAMIN D",
-      "doses": [
-        "10000UNIT"
-      ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-09T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-05T15:59:29.406Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "ABRILADA",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
+        },
+        {
+          "drug": "CASPOFUNGIN FOR INJECTION",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2027-10-30T04:00:00.000Z"
+        },
+        {
+          "drug": "MAXITROL",
+          "doses": [
+            "0.1%",
+            "3.5MG",
+            "6000UNIT"
+          ],
+          "expectedBackInStockDate": "2026-12-10T05:00:00.000Z"
+        },
+        {
+          "drug": "TOBRADEX",
+          "doses": [
+            "0.1%",
+            "0.3%"
+          ],
+          "expectedBackInStockDate": "2026-12-09T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-04T15:54:21.721Z",
       "addedDrugsCount": 8,
@@ -692,19 +704,6 @@
             "4MG"
           ],
           "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-22T13:22:12.051Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "DIASTAT",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
         }
       ]
     }
