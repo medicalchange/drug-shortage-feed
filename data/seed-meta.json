@@ -1,41 +1,178 @@
 {
-  "refreshedAt": "2026-11-05T15:59:29.406Z",
-  "count": 553,
-  "addedDrugsCount": 4,
+  "refreshedAt": "2026-11-07T14:35:12.337Z",
+  "count": 550,
+  "addedDrugsCount": 11,
   "addedDrugs": [
     {
-      "drug": "ABRILADA",
+      "drug": "ACETAMINOPHEN CAPLETS 325 MG",
       "doses": [
-        "20MG"
+        "325MG"
       ],
-      "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
     },
     {
-      "drug": "CASPOFUNGIN FOR INJECTION",
+      "drug": "AMLODIPINE",
       "doses": [
-        "50MG"
+        "10MG"
       ],
-      "expectedBackInStockDate": "2027-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
-      "drug": "MAXITROL",
+      "drug": "DEFEROXAMINE MESYLATE FOR INJECTION",
       "doses": [
-        "0.1%",
-        "3.5MG",
-        "6000UNIT"
+        "2G"
       ],
-      "expectedBackInStockDate": "2026-12-10T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
     },
     {
-      "drug": "TOBRADEX",
+      "drug": "LENOLTEC NO. 3",
       "doses": [
-        "0.1%",
-        "0.3%"
+        "15MG",
+        "300MG",
+        "30MG"
       ],
-      "expectedBackInStockDate": "2026-12-09T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "LENOLTEC NO. 4",
+      "doses": [
+        "300MG",
+        "60MG"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "METHADONE",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "drug": "METHOPRAZINE",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+    },
+    {
+      "drug": "NAPROXEN",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+    },
+    {
+      "drug": "PENICILLIN G SODIUM FOR INJECTION, USP",
+      "doses": [
+        "10000000UNIT"
+      ],
+      "expectedBackInStockDate": "2027-09-30T04:00:00.000Z"
+    },
+    {
+      "drug": "PREGNYL",
+      "doses": [
+        "10000UNIT"
+      ],
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+    },
+    {
+      "drug": "ZAMINE 28",
+      "doses": [
+        "0.03MG",
+        "3MG"
+      ],
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-07T14:35:12.337Z",
+      "addedDrugsCount": 11,
+      "addedDrugs": [
+        {
+          "drug": "ACETAMINOPHEN CAPLETS 325 MG",
+          "doses": [
+            "325MG"
+          ],
+          "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
+        },
+        {
+          "drug": "AMLODIPINE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+        },
+        {
+          "drug": "DEFEROXAMINE MESYLATE FOR INJECTION",
+          "doses": [
+            "2G"
+          ],
+          "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
+        },
+        {
+          "drug": "LENOLTEC NO. 3",
+          "doses": [
+            "15MG",
+            "300MG",
+            "30MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "LENOLTEC NO. 4",
+          "doses": [
+            "300MG",
+            "60MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "METHADONE",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+        },
+        {
+          "drug": "METHOPRAZINE",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+        },
+        {
+          "drug": "NAPROXEN",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+        },
+        {
+          "drug": "PENICILLIN G SODIUM FOR INJECTION, USP",
+          "doses": [
+            "10000000UNIT"
+          ],
+          "expectedBackInStockDate": "2027-09-30T04:00:00.000Z"
+        },
+        {
+          "drug": "PREGNYL",
+          "doses": [
+            "10000UNIT"
+          ],
+          "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+        },
+        {
+          "drug": "ZAMINE 28",
+          "doses": [
+            "0.03MG",
+            "3MG"
+          ],
+          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-05T15:59:29.406Z",
       "addedDrugsCount": 4,
@@ -691,19 +828,6 @@
             "125MG"
           ],
           "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-23T13:00:39.613Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "COVERSYL",
-          "doses": [
-            "4MG"
-          ],
-          "expectedBackInStockDate": "2026-10-23T04:00:00.000Z"
         }
       ]
     }
