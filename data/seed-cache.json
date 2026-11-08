@@ -1,5 +1,33 @@
 [
   {
+    "id": "shortage:295764",
+    "reportId": 295764,
+    "type": "shortage",
+    "brandName": "VIAGRA",
+    "status": "active_confirmed",
+    "din": "02239768",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-11-24T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-08T11:00:10.000Z",
+    "updateDate": "2026-11-08T11:00:10.000Z",
+    "postedDate": "2026-10-14T19:00:34.000Z"
+  },
+  {
+    "id": "shortage:294747",
+    "reportId": 294747,
+    "type": "shortage",
+    "brandName": "CADUET",
+    "status": "active_confirmed",
+    "din": "02273306",
+    "strength": "10MG\n40MG",
+    "expectedBackInStockDate": "2026-12-08T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-08T11:00:04.000Z",
+    "updateDate": "2026-11-08T11:00:04.000Z",
+    "postedDate": "2026-09-29T21:39:00.000Z"
+  },
+  {
     "id": "shortage:290498",
     "reportId": 290498,
     "type": "shortage",
@@ -1862,20 +1890,6 @@
     "postedDate": "2026-10-05T16:29:37.000Z"
   },
   {
-    "id": "shortage:296420",
-    "reportId": 296420,
-    "type": "shortage",
-    "brandName": "ACCEL-ONDANSETRON ODT",
-    "status": "active_confirmed",
-    "din": "02535327",
-    "strength": "8MG",
-    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-01T10:00:02.000Z",
-    "updateDate": "2026-11-01T10:00:02.000Z",
-    "postedDate": "2026-10-26T18:00:02.000Z"
-  },
-  {
     "id": "shortage:296417",
     "reportId": 296417,
     "type": "shortage",
@@ -1888,6 +1902,20 @@
     "updatedDate": "2026-11-01T10:00:02.000Z",
     "updateDate": "2026-11-01T10:00:02.000Z",
     "postedDate": "2026-10-26T17:58:16.000Z"
+  },
+  {
+    "id": "shortage:296420",
+    "reportId": 296420,
+    "type": "shortage",
+    "brandName": "ACCEL-ONDANSETRON ODT",
+    "status": "active_confirmed",
+    "din": "02535327",
+    "strength": "8MG",
+    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-01T10:00:02.000Z",
+    "updateDate": "2026-11-01T10:00:02.000Z",
+    "postedDate": "2026-10-26T18:00:02.000Z"
   },
   {
     "id": "shortage:297361",

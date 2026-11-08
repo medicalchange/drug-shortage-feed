@@ -1,91 +1,46 @@
 {
-  "refreshedAt": "2026-11-07T14:35:12.337Z",
-  "count": 550,
-  "addedDrugsCount": 11,
+  "refreshedAt": "2026-11-08T14:41:25.366Z",
+  "count": 552,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "ACETAMINOPHEN CAPLETS 325 MG",
+      "drug": "CADUET",
       "doses": [
-        "325MG"
+        "10MG",
+        "40MG"
       ],
-      "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
     },
     {
-      "drug": "AMLODIPINE",
+      "drug": "VIAGRA",
       "doses": [
-        "10MG"
+        "100MG"
       ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    },
-    {
-      "drug": "DEFEROXAMINE MESYLATE FOR INJECTION",
-      "doses": [
-        "2G"
-      ],
-      "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "drug": "LENOLTEC NO. 3",
-      "doses": [
-        "15MG",
-        "300MG",
-        "30MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "LENOLTEC NO. 4",
-      "doses": [
-        "300MG",
-        "60MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
-      "drug": "METHADONE",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-    },
-    {
-      "drug": "METHOPRAZINE",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    },
-    {
-      "drug": "NAPROXEN",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-    },
-    {
-      "drug": "PENICILLIN G SODIUM FOR INJECTION, USP",
-      "doses": [
-        "10000000UNIT"
-      ],
-      "expectedBackInStockDate": "2027-09-30T04:00:00.000Z"
-    },
-    {
-      "drug": "PREGNYL",
-      "doses": [
-        "10000UNIT"
-      ],
-      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
-    },
-    {
-      "drug": "ZAMINE 28",
-      "doses": [
-        "0.03MG",
-        "3MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-08T14:41:25.366Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "CADUET",
+          "doses": [
+            "10MG",
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+        },
+        {
+          "drug": "VIAGRA",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-07T14:35:12.337Z",
       "addedDrugsCount": 11,
@@ -789,47 +744,6 @@
       "refreshedAt": "2026-10-25T12:54:18.405Z",
       "addedDrugsCount": 0,
       "addedDrugs": []
-    },
-    {
-      "refreshedAt": "2026-10-24T12:23:57.244Z",
-      "addedDrugsCount": 5,
-      "addedDrugs": [
-        {
-          "drug": "ACETAZOLAMIDE",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-        },
-        {
-          "drug": "COLESEVELAM",
-          "doses": [
-            "625MG"
-          ],
-          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-        },
-        {
-          "drug": "HYDRALAZINE HYDROCHLORIDE INJECTION, USP",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-        },
-        {
-          "drug": "IMITREX",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-11-07T05:00:00.000Z"
-        },
-        {
-          "drug": "METHYLDOPA",
-          "doses": [
-            "125MG"
-          ],
-          "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
-        }
-      ]
     }
   ]
 }
