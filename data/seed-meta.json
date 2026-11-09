@@ -1,25 +1,88 @@
 {
-  "refreshedAt": "2026-11-08T14:41:25.366Z",
-  "count": 552,
-  "addedDrugsCount": 2,
+  "refreshedAt": "2026-11-09T18:06:12.304Z",
+  "count": 548,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "CADUET",
+      "drug": "BURINEX",
       "doses": [
-        "10MG",
-        "40MG"
+        "1MG"
       ],
-      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-07T05:00:00.000Z"
     },
     {
-      "drug": "VIAGRA",
+      "drug": "CANDESARTAN PLUS",
+      "doses": [
+        "25MG",
+        "32MG"
+      ],
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+    },
+    {
+      "drug": "ERELZI",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
+    },
+    {
+      "drug": "NEXVIAZYME",
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "drug": "VITAMIN B12",
+      "doses": [
+        "1000MCG"
+      ],
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-09T18:06:12.304Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "BURINEX",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2027-01-07T05:00:00.000Z"
+        },
+        {
+          "drug": "CANDESARTAN PLUS",
+          "doses": [
+            "25MG",
+            "32MG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        },
+        {
+          "drug": "ERELZI",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
+        },
+        {
+          "drug": "NEXVIAZYME",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
+        },
+        {
+          "drug": "VITAMIN B12",
+          "doses": [
+            "1000MCG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-08T14:41:25.366Z",
       "addedDrugsCount": 2,
@@ -739,11 +802,6 @@
           "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-25T12:54:18.405Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ]
 }

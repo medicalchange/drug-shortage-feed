@@ -1,26 +1,89 @@
 {
   "count": 338,
-  "refreshedAt": "2026-11-08T14:41:25.366Z",
+  "refreshedAt": "2026-11-09T18:06:12.304Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 2,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "CADUET",
+      "drug": "BURINEX",
       "doses": [
-        "10MG",
-        "40MG"
+        "1MG"
       ],
-      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-07T05:00:00.000Z"
     },
     {
-      "drug": "VIAGRA",
+      "drug": "CANDESARTAN PLUS",
+      "doses": [
+        "25MG",
+        "32MG"
+      ],
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+    },
+    {
+      "drug": "ERELZI",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
+    },
+    {
+      "drug": "NEXVIAZYME",
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
+    },
+    {
+      "drug": "VITAMIN B12",
+      "doses": [
+        "1000MCG"
+      ],
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-09T18:06:12.304Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "BURINEX",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2027-01-07T05:00:00.000Z"
+        },
+        {
+          "drug": "CANDESARTAN PLUS",
+          "doses": [
+            "25MG",
+            "32MG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        },
+        {
+          "drug": "ERELZI",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
+        },
+        {
+          "drug": "NEXVIAZYME",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
+        },
+        {
+          "drug": "VITAMIN B12",
+          "doses": [
+            "1000MCG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-08T14:41:25.366Z",
       "addedDrugsCount": 2,
@@ -740,11 +803,6 @@
           "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-25T12:54:18.405Z",
-      "addedDrugsCount": 0,
-      "addedDrugs": []
     }
   ],
   "results": [
@@ -1078,6 +1136,13 @@
       "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
     },
     {
+      "drug": "BURINEX",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2027-01-07T05:00:00.000Z"
+    },
+    {
       "drug": "BUSULFAN",
       "doses": [
         "6MG"
@@ -1115,11 +1180,12 @@
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
-      "drug": "CANDESARTAN",
+      "drug": "CANDESARTAN PLUS",
       "doses": [
-        "4MG"
+        "25MG",
+        "32MG"
       ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
       "drug": "CASPOFUNGIN FOR INJECTION",
@@ -1187,7 +1253,7 @@
         "0.1%",
         "0.3%"
       ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-29T05:00:00.000Z"
     },
     {
       "drug": "CITALOPRAM",
@@ -1201,7 +1267,7 @@
       "doses": [
         "0.05%"
       ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-26T05:00:00.000Z"
     },
     {
       "drug": "CLOTRIMADERM VAGINAL 6",
@@ -1252,7 +1318,7 @@
         "20MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "COTAZYM",
@@ -1466,14 +1532,6 @@
       "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
     },
     {
-      "drug": "DONEPEZIL",
-      "doses": [
-        "10MG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
-    },
-    {
       "drug": "DORMINAL",
       "doses": [
         "240MG"
@@ -1601,6 +1659,13 @@
       "expectedBackInStockDate": "2026-12-30T05:00:00.000Z"
     },
     {
+      "drug": "ERELZI",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
+    },
+    {
       "drug": "ERFA HYDROQUINONE",
       "doses": [
         "4%"
@@ -1652,13 +1717,6 @@
         "40MG"
       ],
       "expectedBackInStockDate": "2027-10-27T04:00:00.000Z"
-    },
-    {
-      "drug": "ESTRADOT 37.5",
-      "doses": [
-        "37.5MCG"
-      ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     },
     {
       "drug": "ESTRADOT 75",
@@ -1999,7 +2057,7 @@
         "500MG",
         "750MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "LEVOCARB",
@@ -2265,6 +2323,13 @@
       "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
     },
     {
+      "drug": "NEXVIAZYME",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
+    },
+    {
       "drug": "NIFEDIPINE EXTENDED RELEASE",
       "doses": [
         "30MG",
@@ -2395,7 +2460,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "ONDANSETRON",
@@ -2527,14 +2592,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
-    },
-    {
-      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-      "doses": [
-        "0.5G",
-        "4G"
-      ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     },
     {
       "drug": "POTASSIUM CHLORIDE FOR INJECTION CONCENTRATE",
@@ -2707,7 +2764,7 @@
         "15MG",
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
       "drug": "RAMIPRIL HCTZ",
@@ -2785,13 +2842,6 @@
         "10MG"
       ],
       "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
-    },
-    {
-      "drug": "RUPALL",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-11-09T05:00:00.000Z"
     },
     {
       "drug": "SANDOMIGRAN DS",
@@ -2933,7 +2983,7 @@
       "doses": [
         "0.4MG"
       ],
-      "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
       "drug": "TECNAL",
@@ -3248,6 +3298,13 @@
         "15MG"
       ],
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "VITAMIN B12",
+      "doses": [
+        "1000MCG"
+      ],
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "VITAMIN D",
