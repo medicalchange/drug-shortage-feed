@@ -1,5 +1,173 @@
 [
   {
+    "id": "shortage:293982",
+    "reportId": 293982,
+    "type": "shortage",
+    "brandName": "MIOSTAT OPHTHALMIC LIQ 0.01%",
+    "status": "active_confirmed",
+    "din": "00042544",
+    "strength": ".01%",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T21:30:27.000Z",
+    "updateDate": "2026-11-09T21:30:27.000Z",
+    "postedDate": "2026-09-22T00:13:21.000Z"
+  },
+  {
+    "id": "shortage:273731",
+    "reportId": 273731,
+    "type": "shortage",
+    "brandName": "TARO-RAMIPRIL",
+    "status": "active_confirmed",
+    "din": "02310546",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-11-29T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T20:15:25.000Z",
+    "updateDate": "2026-11-09T20:15:25.000Z",
+    "postedDate": "2025-12-08T22:03:14.000Z"
+  },
+  {
+    "id": "shortage:285469",
+    "reportId": 285469,
+    "type": "shortage",
+    "brandName": "TARO-CIPROFLOXACIN/DEXAMETHASONE",
+    "status": "active_confirmed",
+    "din": "02481901",
+    "strength": "0.3%\n0.1%",
+    "expectedBackInStockDate": "2026-11-29T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T20:11:38.000Z",
+    "updateDate": "2026-11-09T20:11:38.000Z",
+    "postedDate": "2026-05-19T23:05:58.000Z"
+  },
+  {
+    "id": "shortage:297957",
+    "reportId": 297957,
+    "type": "shortage",
+    "brandName": "VITAMIN B12",
+    "status": "active_confirmed",
+    "din": "00521515",
+    "strength": "1000MCG",
+    "expectedBackInStockDate": "2026-12-04T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T18:58:17.000Z",
+    "updateDate": "2026-11-09T18:58:17.000Z",
+    "postedDate": "2026-11-09T18:58:00.000Z"
+  },
+  {
+    "id": "shortage:297954",
+    "reportId": 297954,
+    "type": "shortage",
+    "brandName": "SANDOZ TAMSULOSIN",
+    "status": "active_confirmed",
+    "din": "02319217",
+    "strength": "0.4MG",
+    "expectedBackInStockDate": "2026-12-11T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T18:54:21.000Z",
+    "updateDate": "2026-11-09T18:54:21.000Z",
+    "postedDate": "2026-11-09T18:54:04.000Z"
+  },
+  {
+    "id": "shortage:297951",
+    "reportId": 297951,
+    "type": "shortage",
+    "brandName": "SANDOZ RABEPRAZOLE",
+    "status": "active_confirmed",
+    "din": "02314185",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2026-12-04T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T18:51:31.000Z",
+    "updateDate": "2026-11-09T18:51:31.000Z",
+    "postedDate": "2026-11-09T18:50:56.000Z"
+  },
+  {
+    "id": "shortage:297945",
+    "reportId": 297945,
+    "type": "shortage",
+    "brandName": "SANDOZ CANDESARTAN PLUS",
+    "status": "active_confirmed",
+    "din": "02420740",
+    "strength": "32MG\n25MG",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T18:47:53.000Z",
+    "updateDate": "2026-11-09T18:47:53.000Z",
+    "postedDate": "2026-11-09T18:47:33.000Z"
+  },
+  {
+    "id": "shortage:297942",
+    "reportId": 297942,
+    "type": "shortage",
+    "brandName": "SANDOZ AMLODIPINE",
+    "status": "active_confirmed",
+    "din": "02284391",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T18:46:06.000Z",
+    "updateDate": "2026-11-09T18:46:06.000Z",
+    "postedDate": "2026-11-09T18:45:43.000Z"
+  },
+  {
+    "id": "shortage:297927",
+    "reportId": 297927,
+    "type": "shortage",
+    "brandName": "COSOPT PRESERVATIVE-FREE",
+    "status": "active_confirmed",
+    "din": "02258692",
+    "strength": "5MG\n20MG",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T18:21:11.000Z",
+    "updateDate": "2026-11-09T18:21:11.000Z",
+    "postedDate": "2026-11-09T18:20:36.000Z"
+  },
+  {
+    "id": "shortage:297922",
+    "reportId": 297922,
+    "type": "shortage",
+    "brandName": "BURINEX",
+    "status": "active_confirmed",
+    "din": "00728284",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2027-01-07T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T14:31:48.000Z",
+    "updateDate": "2026-11-09T14:31:48.000Z",
+    "postedDate": "2026-11-09T14:31:23.000Z"
+  },
+  {
+    "id": "shortage:297008",
+    "reportId": 297008,
+    "type": "shortage",
+    "brandName": "NEXVIAZYME",
+    "status": "active_confirmed",
+    "din": "02522365",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-11-16T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T11:00:08.000Z",
+    "updateDate": "2026-11-09T11:00:08.000Z",
+    "postedDate": "2026-10-29T01:16:37.000Z"
+  },
+  {
+    "id": "shortage:295430",
+    "reportId": 295430,
+    "type": "shortage",
+    "brandName": "ERELZI",
+    "status": "active_confirmed",
+    "din": "02462877",
+    "strength": "25MG",
+    "expectedBackInStockDate": "2027-02-12T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-09T11:00:05.000Z",
+    "updateDate": "2026-11-09T11:00:05.000Z",
+    "postedDate": "2026-10-08T16:31:25.000Z"
+  },
+  {
     "id": "shortage:295764",
     "reportId": 295764,
     "type": "shortage",
@@ -1204,20 +1372,6 @@
     "postedDate": "2026-10-01T20:32:01.000Z"
   },
   {
-    "id": "shortage:293982",
-    "reportId": 293982,
-    "type": "shortage",
-    "brandName": "MIOSTAT OPHTHALMIC LIQ 0.01%",
-    "status": "active_confirmed",
-    "din": "00042544",
-    "strength": ".01%",
-    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-05T02:28:00.000Z",
-    "updateDate": "2026-11-05T02:28:00.000Z",
-    "postedDate": "2026-09-22T00:13:21.000Z"
-  },
-  {
     "id": "shortage:294292",
     "reportId": 294292,
     "type": "shortage",
@@ -1820,20 +1974,6 @@
     "postedDate": "2025-01-28T22:13:11.000Z"
   },
   {
-    "id": "shortage:295674",
-    "reportId": 295674,
-    "type": "shortage",
-    "brandName": "ESTRADOT 37.5",
-    "status": "active_confirmed",
-    "din": "02243999",
-    "strength": "37.5MCG",
-    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-02T18:37:19.000Z",
-    "updateDate": "2026-11-02T18:37:19.000Z",
-    "postedDate": "2026-10-13T17:12:11.000Z"
-  },
-  {
     "id": "shortage:286626",
     "reportId": 286626,
     "type": "shortage",
@@ -1846,20 +1986,6 @@
     "updatedDate": "2026-11-02T18:36:45.000Z",
     "updateDate": "2026-11-02T18:36:45.000Z",
     "postedDate": "2026-06-08T16:42:35.000Z"
-  },
-  {
-    "id": "shortage:297401",
-    "reportId": 297401,
-    "type": "shortage",
-    "brandName": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-    "status": "active_confirmed",
-    "din": "02299658",
-    "strength": "0.5G\n4G",
-    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-02T18:36:03.000Z",
-    "updateDate": "2026-11-02T18:36:03.000Z",
-    "postedDate": "2026-11-02T18:35:50.000Z"
   },
   {
     "id": "shortage:297398",
@@ -1890,20 +2016,6 @@
     "postedDate": "2026-10-05T16:29:37.000Z"
   },
   {
-    "id": "shortage:296417",
-    "reportId": 296417,
-    "type": "shortage",
-    "brandName": "ACCEL-ONDANSETRON ODT",
-    "status": "active_confirmed",
-    "din": "02535319",
-    "strength": "4MG",
-    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-01T10:00:02.000Z",
-    "updateDate": "2026-11-01T10:00:02.000Z",
-    "postedDate": "2026-10-26T17:58:16.000Z"
-  },
-  {
     "id": "shortage:296420",
     "reportId": 296420,
     "type": "shortage",
@@ -1918,6 +2030,20 @@
     "postedDate": "2026-10-26T18:00:02.000Z"
   },
   {
+    "id": "shortage:296417",
+    "reportId": 296417,
+    "type": "shortage",
+    "brandName": "ACCEL-ONDANSETRON ODT",
+    "status": "active_confirmed",
+    "din": "02535319",
+    "strength": "4MG",
+    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-01T10:00:02.000Z",
+    "updateDate": "2026-11-01T10:00:02.000Z",
+    "postedDate": "2026-10-26T17:58:16.000Z"
+  },
+  {
     "id": "shortage:297361",
     "reportId": 297361,
     "type": "shortage",
@@ -1930,20 +2056,6 @@
     "updatedDate": "2026-10-31T00:36:53.000Z",
     "updateDate": "2026-10-31T00:36:53.000Z",
     "postedDate": "2026-10-31T00:35:44.000Z"
-  },
-  {
-    "id": "shortage:293328",
-    "reportId": 293328,
-    "type": "shortage",
-    "brandName": "RUPALL",
-    "status": "active_confirmed",
-    "din": "02456478",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-11-09T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-30T21:37:25.000Z",
-    "updateDate": "2026-10-30T21:37:25.000Z",
-    "postedDate": "2026-09-14T21:11:49.000Z"
   },
   {
     "id": "shortage:294005",
@@ -2534,20 +2646,6 @@
     "postedDate": "2026-06-17T23:03:41.000Z"
   },
   {
-    "id": "shortage:273731",
-    "reportId": 273731,
-    "type": "shortage",
-    "brandName": "TARO-RAMIPRIL",
-    "status": "active_confirmed",
-    "din": "02310546",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-29T23:44:44.000Z",
-    "updateDate": "2026-10-29T23:44:44.000Z",
-    "postedDate": "2025-12-08T22:03:14.000Z"
-  },
-  {
     "id": "shortage:297092",
     "reportId": 297092,
     "type": "shortage",
@@ -2588,20 +2686,6 @@
     "updatedDate": "2026-10-29T23:40:23.000Z",
     "updateDate": "2026-10-29T23:40:23.000Z",
     "postedDate": "2026-02-24T02:58:19.000Z"
-  },
-  {
-    "id": "shortage:292677",
-    "reportId": 292677,
-    "type": "shortage",
-    "brandName": "TARO-CANDESARTAN",
-    "status": "active_confirmed",
-    "din": "02380684",
-    "strength": "4MG",
-    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-29T23:39:02.000Z",
-    "updateDate": "2026-10-29T23:39:02.000Z",
-    "postedDate": "2026-09-04T21:49:56.000Z"
   },
   {
     "id": "shortage:292700",
@@ -2728,20 +2812,6 @@
     "updatedDate": "2026-10-29T22:59:11.000Z",
     "updateDate": "2026-10-29T22:59:11.000Z",
     "postedDate": "2025-11-13T19:01:21.000Z"
-  },
-  {
-    "id": "shortage:285469",
-    "reportId": 285469,
-    "type": "shortage",
-    "brandName": "TARO-CIPROFLOXACIN/DEXAMETHASONE",
-    "status": "active_confirmed",
-    "din": "02481901",
-    "strength": "0.3%\n0.1%",
-    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-29T22:56:21.000Z",
-    "updateDate": "2026-10-29T22:56:21.000Z",
-    "postedDate": "2026-05-19T23:05:58.000Z"
   },
   {
     "id": "shortage:292973",
@@ -3024,20 +3094,6 @@
     "postedDate": "2026-07-13T18:20:53.000Z"
   },
   {
-    "id": "shortage:294156",
-    "reportId": 294156,
-    "type": "shortage",
-    "brandName": "TADALAFIL",
-    "status": "active_confirmed",
-    "din": "02457024",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2027-01-29T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:21.000Z",
-    "updateDate": "2026-10-27T22:16:21.000Z",
-    "postedDate": "2026-09-23T17:08:13.000Z"
-  },
-  {
     "id": "shortage:294506",
     "reportId": 294506,
     "type": "shortage",
@@ -3050,6 +3106,20 @@
     "updatedDate": "2026-10-27T22:16:21.000Z",
     "updateDate": "2026-10-27T22:16:21.000Z",
     "postedDate": "2026-09-25T22:48:57.000Z"
+  },
+  {
+    "id": "shortage:294156",
+    "reportId": 294156,
+    "type": "shortage",
+    "brandName": "TADALAFIL",
+    "status": "active_confirmed",
+    "din": "02457024",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2027-01-29T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:16:21.000Z",
+    "updateDate": "2026-10-27T22:16:21.000Z",
+    "postedDate": "2026-09-23T17:08:13.000Z"
   },
   {
     "id": "shortage:296433",
@@ -3248,20 +3318,6 @@
     "postedDate": "2026-07-28T21:57:08.000Z"
   },
   {
-    "id": "shortage:290037",
-    "reportId": 290037,
-    "type": "shortage",
-    "brandName": "MINT-ENTACAPONE",
-    "status": "active_confirmed",
-    "din": "02535939",
-    "strength": "200MG",
-    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:50.000Z",
-    "updateDate": "2026-10-27T22:15:50.000Z",
-    "postedDate": "2026-07-28T21:51:43.000Z"
-  },
-  {
     "id": "shortage:290040",
     "reportId": 290040,
     "type": "shortage",
@@ -3274,6 +3330,20 @@
     "updatedDate": "2026-10-27T22:15:50.000Z",
     "updateDate": "2026-10-27T22:15:50.000Z",
     "postedDate": "2026-07-28T21:53:29.000Z"
+  },
+  {
+    "id": "shortage:290037",
+    "reportId": 290037,
+    "type": "shortage",
+    "brandName": "MINT-ENTACAPONE",
+    "status": "active_confirmed",
+    "din": "02535939",
+    "strength": "200MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:50.000Z",
+    "updateDate": "2026-10-27T22:15:50.000Z",
+    "postedDate": "2026-07-28T21:51:43.000Z"
   },
   {
     "id": "shortage:289967",
@@ -3346,20 +3416,6 @@
     "postedDate": "2026-09-03T00:09:36.000Z"
   },
   {
-    "id": "shortage:296044",
-    "reportId": 296044,
-    "type": "shortage",
-    "brandName": "FINACEA",
-    "status": "active_confirmed",
-    "din": "02270811",
-    "strength": "15%",
-    "expectedBackInStockDate": "2027-01-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:28.000Z",
-    "updateDate": "2026-10-27T22:15:28.000Z",
-    "postedDate": "2026-10-19T17:43:31.000Z"
-  },
-  {
     "id": "shortage:295205",
     "reportId": 295205,
     "type": "shortage",
@@ -3372,6 +3428,20 @@
     "updatedDate": "2026-10-27T22:15:28.000Z",
     "updateDate": "2026-10-27T22:15:28.000Z",
     "postedDate": "2026-10-05T18:18:06.000Z"
+  },
+  {
+    "id": "shortage:296044",
+    "reportId": 296044,
+    "type": "shortage",
+    "brandName": "FINACEA",
+    "status": "active_confirmed",
+    "din": "02270811",
+    "strength": "15%",
+    "expectedBackInStockDate": "2027-01-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:28.000Z",
+    "updateDate": "2026-10-27T22:15:28.000Z",
+    "postedDate": "2026-10-19T17:43:31.000Z"
   },
   {
     "id": "shortage:296115",
@@ -4704,20 +4774,6 @@
     "postedDate": "2026-09-26T00:07:25.000Z"
   },
   {
-    "id": "shortage:295615",
-    "reportId": 295615,
-    "type": "shortage",
-    "brandName": "COSOPT PRESERVATIVE-FREE",
-    "status": "active_confirmed",
-    "din": "02258692",
-    "strength": "20MG\r\n5MG",
-    "expectedBackInStockDate": "2026-10-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-09T23:10:14.000Z",
-    "updateDate": "2026-10-09T23:10:14.000Z",
-    "postedDate": "2026-10-09T23:09:34.000Z"
-  },
-  {
     "id": "shortage:295602",
     "reportId": 295602,
     "type": "shortage",
@@ -6032,20 +6088,6 @@
     "updatedDate": "2026-09-18T17:49:55.000Z",
     "updateDate": "2026-09-18T17:49:55.000Z",
     "postedDate": "2026-05-19T23:59:09.000Z"
-  },
-  {
-    "id": "shortage:278816",
-    "reportId": 278816,
-    "type": "shortage",
-    "brandName": "TARO-CLOBETASOL SPRAY",
-    "status": "active_confirmed",
-    "din": "02489619",
-    "strength": "0.05%",
-    "expectedBackInStockDate": "2026-11-06T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-18T17:37:35.000Z",
-    "updateDate": "2026-09-18T17:37:35.000Z",
-    "postedDate": "2026-02-24T03:35:59.000Z"
   },
   {
     "id": "shortage:282428",
@@ -7518,90 +7560,6 @@
     "postedDate": "2025-08-09T22:28:49.000Z"
   },
   {
-    "id": "shortage:226585",
-    "reportId": 226585,
-    "type": "shortage",
-    "brandName": "NAT-DONEPEZIL",
-    "status": "active_confirmed",
-    "din": "02439557",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-07-03T21:18:40.000Z",
-    "updateDate": "2025-07-03T21:18:40.000Z",
-    "postedDate": "2024-04-30T00:12:06.000Z"
-  },
-  {
-    "id": "shortage:254178",
-    "reportId": 254178,
-    "type": "shortage",
-    "brandName": "NAT-DONEPEZIL",
-    "status": "active_confirmed",
-    "din": "02439565",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-07-03T21:17:03.000Z",
-    "updateDate": "2025-07-03T21:17:03.000Z",
-    "postedDate": "2025-04-04T22:22:58.000Z"
-  },
-  {
-    "id": "shortage:230400",
-    "reportId": 230400,
-    "type": "shortage",
-    "brandName": "NAT-OMEPRAZOLE DR",
-    "status": "active_confirmed",
-    "din": "02439549",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-07-03T21:16:37.000Z",
-    "updateDate": "2025-07-03T21:16:37.000Z",
-    "postedDate": "2024-06-13T21:03:28.000Z"
-  },
-  {
-    "id": "shortage:261129",
-    "reportId": 261129,
-    "type": "shortage",
-    "brandName": "NAT-LEVETIRACETAM",
-    "status": "active_confirmed",
-    "din": "02440210",
-    "strength": "500MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-07-03T21:16:21.000Z",
-    "updateDate": "2025-07-03T21:16:21.000Z",
-    "postedDate": "2025-06-26T00:38:57.000Z"
-  },
-  {
-    "id": "shortage:261126",
-    "reportId": 261126,
-    "type": "shortage",
-    "brandName": "NAT-LEVETIRACETAM",
-    "status": "active_confirmed",
-    "din": "02440202",
-    "strength": "250MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-07-03T21:15:39.000Z",
-    "updateDate": "2025-07-03T21:15:39.000Z",
-    "postedDate": "2025-06-26T00:37:26.000Z"
-  },
-  {
-    "id": "shortage:254205",
-    "reportId": 254205,
-    "type": "shortage",
-    "brandName": "NAT-LEVETIRACETAM",
-    "status": "active_confirmed",
-    "din": "02440229",
-    "strength": "750MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-07-03T21:15:12.000Z",
-    "updateDate": "2025-07-03T21:15:12.000Z",
-    "postedDate": "2025-04-04T22:34:55.000Z"
-  },
-  {
     "id": "shortage:254185",
     "reportId": 254185,
     "type": "shortage",
@@ -7642,20 +7600,6 @@
     "updatedDate": "2025-07-03T21:11:44.000Z",
     "updateDate": "2025-07-03T21:11:44.000Z",
     "postedDate": "2025-04-04T22:30:41.000Z"
-  },
-  {
-    "id": "shortage:230392",
-    "reportId": 230392,
-    "type": "shortage",
-    "brandName": "NAT-DONEPEZIL",
-    "status": "active_confirmed",
-    "din": "02439557",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-06-30T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2025-07-03T21:10:55.000Z",
-    "updateDate": "2025-07-03T21:10:55.000Z",
-    "postedDate": "2024-06-13T20:33:36.000Z"
   },
   {
     "id": "shortage:243471",
