@@ -1,47 +1,61 @@
 {
-  "count": 338,
-  "refreshedAt": "2026-11-09T18:06:12.304Z",
+  "count": 340,
+  "refreshedAt": "2026-11-10T15:59:35.371Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 5,
+  "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "BURINEX",
+      "drug": "ADMELOG",
       "doses": [
-        "1MG"
+        "100UNIT"
       ],
-      "expectedBackInStockDate": "2027-01-07T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
-      "drug": "CANDESARTAN PLUS",
+      "drug": "NEORAL",
       "doses": [
-        "25MG",
-        "32MG"
-      ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-    },
-    {
-      "drug": "ERELZI",
-      "doses": [
+        "10MG",
         "25MG"
       ],
-      "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
     },
     {
-      "drug": "NEXVIAZYME",
+      "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
-    },
-    {
-      "drug": "VITAMIN B12",
-      "doses": [
-        "1000MCG"
-      ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-10T15:59:35.371Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "ADMELOG",
+          "doses": [
+            "100UNIT"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        },
+        {
+          "drug": "NEORAL",
+          "doses": [
+            "10MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
+        },
+        {
+          "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-09T18:06:12.304Z",
       "addedDrugsCount": 5,
@@ -789,20 +803,6 @@
           "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-26T14:45:09.167Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-          "doses": [
-            "36G",
-            "4.5G"
-          ],
-          "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -886,6 +886,13 @@
       "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
     },
     {
+      "drug": "ADMELOG",
+      "doses": [
+        "100UNIT"
+      ],
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+    },
+    {
       "drug": "AFATINIB",
       "doses": [
         "20MG",
@@ -952,7 +959,7 @@
       "doses": [
         "12.5MG"
       ],
-      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     },
     {
       "drug": "ARICEPT",
@@ -1627,7 +1634,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
     },
     {
       "drug": "EMTRICITABINE-TENOFOVIR",
@@ -2143,7 +2150,7 @@
         "1MG",
         "2MG"
       ],
-      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-19T05:00:00.000Z"
     },
     {
       "drug": "MAXITROL",
@@ -2315,12 +2322,20 @@
       "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
     },
     {
+      "drug": "NEORAL",
+      "doses": [
+        "10MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
+    },
+    {
       "drug": "NEURONTIN",
       "doses": [
         "400MG",
         "800MG"
       ],
-      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-19T05:00:00.000Z"
     },
     {
       "drug": "NEXVIAZYME",
@@ -2731,6 +2746,13 @@
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
+      "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+    },
+    {
       "drug": "QUETIAPINE XR",
       "doses": [
         "150MG",
@@ -2794,7 +2816,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-12T05:00:00.000Z"
     },
     {
       "drug": "RILUZOLE",
@@ -2958,9 +2980,9 @@
     {
       "drug": "SYNTHROID",
       "doses": [
-        "100MCG"
+        "112MCG"
       ],
-      "expectedBackInStockDate": "2026-11-03T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
     },
     {
       "drug": "TADALAFIL",
@@ -3286,13 +3308,6 @@
       "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     },
     {
-      "drug": "VIAGRA",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
-    },
-    {
       "drug": "VISUDYNE",
       "doses": [
         "15MG"
@@ -3356,7 +3371,7 @@
         "60MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-19T05:00:00.000Z"
     },
     {
       "drug": "ZOLMITRIPTAN",
@@ -3378,7 +3393,7 @@
         "100MG",
         "25MG"
       ],
-      "expectedBackInStockDate": "2027-01-05T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-19T05:00:00.000Z"
     },
     {
       "drug": "ZOLPIDEM ODT",
