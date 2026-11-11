@@ -1,33 +1,75 @@
 {
-  "count": 340,
-  "refreshedAt": "2026-11-10T15:59:35.371Z",
+  "count": 341,
+  "refreshedAt": "2026-11-11T15:45:59.130Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 3,
+  "addedDrugsCount": 4,
   "addedDrugs": [
     {
-      "drug": "ADMELOG",
+      "drug": "APIDRA",
       "doses": [
         "100UNIT"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     },
     {
-      "drug": "NEORAL",
+      "drug": "FOSAVANCE",
       "doses": [
-        "10MG",
-        "25MG"
+        "5600UNIT",
+        "70MG"
+      ],
+      "expectedBackInStockDate": "2027-05-21T04:00:00.000Z"
+    },
+    {
+      "drug": "GLYCOPYRROLATE INJECTION",
+      "doses": [
+        "0.2MG"
+      ],
+      "expectedBackInStockDate": "2027-01-13T05:00:00.000Z"
+    },
+    {
+      "drug": "GRANISETRON HYDROCHLORIDE INJECTION",
+      "doses": [
+        "1MG"
       ],
       "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
-    },
-    {
-      "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-11T15:45:59.130Z",
+      "addedDrugsCount": 4,
+      "addedDrugs": [
+        {
+          "drug": "APIDRA",
+          "doses": [
+            "100UNIT"
+          ],
+          "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+        },
+        {
+          "drug": "FOSAVANCE",
+          "doses": [
+            "5600UNIT",
+            "70MG"
+          ],
+          "expectedBackInStockDate": "2027-05-21T04:00:00.000Z"
+        },
+        {
+          "drug": "GLYCOPYRROLATE INJECTION",
+          "doses": [
+            "0.2MG"
+          ],
+          "expectedBackInStockDate": "2027-01-13T05:00:00.000Z"
+        },
+        {
+          "drug": "GRANISETRON HYDROCHLORIDE INJECTION",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-10T15:59:35.371Z",
       "addedDrugsCount": 3,
@@ -766,43 +808,6 @@
           "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-27T13:51:45.571Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "CIPRO ORAL SUSPENSION",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2027-03-01T05:00:00.000Z"
-        },
-        {
-          "drug": "EFAVIRENZ",
-          "doses": [
-            "600MG"
-          ],
-          "expectedBackInStockDate": "2027-07-13T04:00:00.000Z"
-        },
-        {
-          "drug": "NAPROXEN/ESOMEPRAZOLE MR",
-          "doses": [
-            "20MG",
-            "375MG",
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
-        },
-        {
-          "drug": "PROCYTOX",
-          "doses": [
-            "1000MG",
-            "2000MG"
-          ],
-          "expectedBackInStockDate": "2026-10-26T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -890,7 +895,7 @@
       "doses": [
         "100UNIT"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     },
     {
       "drug": "AFATINIB",
@@ -960,6 +965,13 @@
         "12.5MG"
       ],
       "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+    },
+    {
+      "drug": "APIDRA",
+      "doses": [
+        "100UNIT"
+      ],
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     },
     {
       "drug": "ARICEPT",
@@ -1200,13 +1212,6 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2027-10-30T04:00:00.000Z"
-    },
-    {
-      "drug": "CELECOXIB",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
     },
     {
       "drug": "CEPHALEXIN",
@@ -1464,13 +1469,6 @@
       "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
     },
     {
-      "drug": "DEXTROSE INJECTION",
-      "doses": [
-        "50%"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
       "drug": "DEXTROSE INJECTION USP",
       "doses": [
         "500MG"
@@ -1619,15 +1617,6 @@
         "600MG"
       ],
       "expectedBackInStockDate": "2027-07-13T04:00:00.000Z"
-    },
-    {
-      "drug": "EFAVIRENZ/EMTRICITABINE/TENOFOVIR DISOPROXIL FUMARATE",
-      "doses": [
-        "200MG",
-        "300MG",
-        "600MG"
-      ],
-      "expectedBackInStockDate": "2028-01-01T05:00:00.000Z"
     },
     {
       "drug": "ELETRIPTAN",
@@ -1836,6 +1825,14 @@
       "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
+      "drug": "FOSAVANCE",
+      "doses": [
+        "5600UNIT",
+        "70MG"
+      ],
+      "expectedBackInStockDate": "2027-05-21T04:00:00.000Z"
+    },
+    {
       "drug": "FUROSEMIDE INJECTION USP",
       "doses": [
         "20MG"
@@ -1878,6 +1875,20 @@
         "5.3MG"
       ],
       "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
+    },
+    {
+      "drug": "GLYCOPYRROLATE INJECTION",
+      "doses": [
+        "0.2MG"
+      ],
+      "expectedBackInStockDate": "2027-01-13T05:00:00.000Z"
+    },
+    {
+      "drug": "GRANISETRON HYDROCHLORIDE INJECTION",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
     },
     {
       "drug": "HALOPERIDOL",
@@ -2425,7 +2436,7 @@
         "100MCG",
         "500MCG"
       ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
       "drug": "OCUFLOX",
@@ -2884,7 +2895,7 @@
       "doses": [
         "0.4MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
       "drug": "SILENOR",
@@ -2901,7 +2912,7 @@
         "40MG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     },
     {
       "drug": "SITAGLIPTIN/METFORMIN XR",
@@ -3089,7 +3100,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
     },
     {
       "drug": "TIMOLOL",
