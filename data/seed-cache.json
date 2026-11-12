@@ -1,5 +1,89 @@
 [
   {
+    "id": "shortage:298199",
+    "reportId": 298199,
+    "type": "shortage",
+    "brandName": "PMS-METHOTREXATE INJECTION",
+    "status": "active_confirmed",
+    "din": "02539608",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-12-11T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-12T19:09:16.000Z",
+    "updateDate": "2026-11-12T19:09:16.000Z",
+    "postedDate": "2026-11-12T19:08:56.000Z"
+  },
+  {
+    "id": "shortage:298196",
+    "reportId": 298196,
+    "type": "shortage",
+    "brandName": "PMS-CYCLOBENZAPRINE - TAB 10MG",
+    "status": "active_confirmed",
+    "din": "02212048",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2027-02-13T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-12T19:04:15.000Z",
+    "updateDate": "2026-11-12T19:04:15.000Z",
+    "postedDate": "2026-11-12T18:55:50.000Z"
+  },
+  {
+    "id": "shortage:298058",
+    "reportId": 298058,
+    "type": "shortage",
+    "brandName": "SYNTHROID",
+    "status": "active_confirmed",
+    "din": "02172089",
+    "strength": "75MCG",
+    "expectedBackInStockDate": "2026-12-01T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-12T11:00:09.000Z",
+    "updateDate": "2026-11-12T11:00:09.000Z",
+    "postedDate": "2026-11-10T00:18:04.000Z"
+  },
+  {
+    "id": "shortage:298190",
+    "reportId": 298190,
+    "type": "shortage",
+    "brandName": "COVERSYL PLUS HD",
+    "status": "active_confirmed",
+    "din": "02321653",
+    "strength": "8MG\n2.5MG",
+    "expectedBackInStockDate": "2026-11-17T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-12T04:33:43.000Z",
+    "updateDate": "2026-11-12T04:33:43.000Z",
+    "postedDate": "2026-11-12T04:31:21.000Z"
+  },
+  {
+    "id": "shortage:298095",
+    "reportId": 298095,
+    "type": "shortage",
+    "brandName": "FOSAVANCE",
+    "status": "active_confirmed",
+    "din": "02276429",
+    "strength": "70MG\n2800UNIT",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-12T02:41:22.000Z",
+    "updateDate": "2026-11-12T02:41:22.000Z",
+    "postedDate": "2026-11-11T01:14:47.000Z"
+  },
+  {
+    "id": "shortage:298177",
+    "reportId": 298177,
+    "type": "shortage",
+    "brandName": "ENGERIX-B",
+    "status": "active_confirmed",
+    "din": "02487039",
+    "strength": "20MCG",
+    "expectedBackInStockDate": "2026-12-11T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-11T23:52:33.000Z",
+    "updateDate": "2026-11-11T23:52:33.000Z",
+    "postedDate": "2026-11-11T23:44:24.000Z"
+  },
+  {
     "id": "shortage:289721",
     "reportId": 289721,
     "type": "shortage",
@@ -670,20 +754,6 @@
     "updatedDate": "2026-11-07T02:34:10.000Z",
     "updateDate": "2026-11-07T02:34:10.000Z",
     "postedDate": "2026-08-01T00:10:49.000Z"
-  },
-  {
-    "id": "shortage:294615",
-    "reportId": 294615,
-    "type": "shortage",
-    "brandName": "FEMYSO",
-    "status": "active_confirmed",
-    "din": "02560569",
-    "strength": "200MCG\n200MG",
-    "expectedBackInStockDate": "2026-11-12T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-07T02:23:56.000Z",
-    "updateDate": "2026-11-07T02:23:56.000Z",
-    "postedDate": "2026-09-28T19:47:31.000Z"
   },
   {
     "id": "shortage:294253",
@@ -1778,20 +1848,6 @@
     "postedDate": "2026-10-14T18:40:51.000Z"
   },
   {
-    "id": "shortage:297371",
-    "reportId": 297371,
-    "type": "shortage",
-    "brandName": "MAXITROL",
-    "status": "active_confirmed",
-    "din": "00358177",
-    "strength": "3.5MG\n0.1%\n6000UNIT",
-    "expectedBackInStockDate": "2026-12-10T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-05T11:00:07.000Z",
-    "updateDate": "2026-11-05T11:00:07.000Z",
-    "postedDate": "2026-10-31T01:38:05.000Z"
-  },
-  {
     "id": "shortage:294875",
     "reportId": 294875,
     "type": "shortage",
@@ -2338,20 +2394,6 @@
     "postedDate": "2026-09-21T19:18:38.000Z"
   },
   {
-    "id": "shortage:297446",
-    "reportId": 297446,
-    "type": "shortage",
-    "brandName": "PARIET, ENTERIC-COATED TABLET 20MG",
-    "status": "active_confirmed",
-    "din": "02243797",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-11-16T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-02T20:58:00.000Z",
-    "updateDate": "2026-11-02T20:58:00.000Z",
-    "postedDate": "2026-11-02T20:57:31.000Z"
-  },
-  {
     "id": "shortage:297443",
     "reportId": 297443,
     "type": "shortage",
@@ -2450,20 +2492,6 @@
     "postedDate": "2026-10-05T16:29:37.000Z"
   },
   {
-    "id": "shortage:296420",
-    "reportId": 296420,
-    "type": "shortage",
-    "brandName": "ACCEL-ONDANSETRON ODT",
-    "status": "active_confirmed",
-    "din": "02535327",
-    "strength": "8MG",
-    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-01T10:00:02.000Z",
-    "updateDate": "2026-11-01T10:00:02.000Z",
-    "postedDate": "2026-10-26T18:00:02.000Z"
-  },
-  {
     "id": "shortage:296417",
     "reportId": 296417,
     "type": "shortage",
@@ -2476,6 +2504,20 @@
     "updatedDate": "2026-11-01T10:00:02.000Z",
     "updateDate": "2026-11-01T10:00:02.000Z",
     "postedDate": "2026-10-26T17:58:16.000Z"
+  },
+  {
+    "id": "shortage:296420",
+    "reportId": 296420,
+    "type": "shortage",
+    "brandName": "ACCEL-ONDANSETRON ODT",
+    "status": "active_confirmed",
+    "din": "02535327",
+    "strength": "8MG",
+    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-01T10:00:02.000Z",
+    "updateDate": "2026-11-01T10:00:02.000Z",
+    "postedDate": "2026-10-26T18:00:02.000Z"
   },
   {
     "id": "shortage:297361",
@@ -3430,20 +3472,6 @@
     "postedDate": "2026-09-25T18:29:16.000Z"
   },
   {
-    "id": "shortage:289077",
-    "reportId": 289077,
-    "type": "shortage",
-    "brandName": "TOPIRAMATE",
-    "status": "active_confirmed",
-    "din": "02356864",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:48.000Z",
-    "updateDate": "2026-10-27T22:16:48.000Z",
-    "postedDate": "2026-07-13T18:22:28.000Z"
-  },
-  {
     "id": "shortage:289080",
     "reportId": 289080,
     "type": "shortage",
@@ -3456,6 +3484,20 @@
     "updatedDate": "2026-10-27T22:16:48.000Z",
     "updateDate": "2026-10-27T22:16:48.000Z",
     "postedDate": "2026-07-13T18:23:34.000Z"
+  },
+  {
+    "id": "shortage:289077",
+    "reportId": 289077,
+    "type": "shortage",
+    "brandName": "TOPIRAMATE",
+    "status": "active_confirmed",
+    "din": "02356864",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:16:48.000Z",
+    "updateDate": "2026-10-27T22:16:48.000Z",
+    "postedDate": "2026-07-13T18:22:28.000Z"
   },
   {
     "id": "shortage:295211",
@@ -3486,18 +3528,18 @@
     "postedDate": "2026-10-15T05:21:00.000Z"
   },
   {
-    "id": "shortage:294156",
-    "reportId": 294156,
+    "id": "shortage:289074",
+    "reportId": 289074,
     "type": "shortage",
     "brandName": "TADALAFIL",
     "status": "active_confirmed",
-    "din": "02457024",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2027-01-29T05:00:00.000Z",
+    "din": "02457016",
+    "strength": "5MG",
+    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
     "resolved": false,
     "updatedDate": "2026-10-27T22:16:21.000Z",
     "updateDate": "2026-10-27T22:16:21.000Z",
-    "postedDate": "2026-09-23T17:08:13.000Z"
+    "postedDate": "2026-07-13T18:20:53.000Z"
   },
   {
     "id": "shortage:294506",
@@ -3514,18 +3556,18 @@
     "postedDate": "2026-09-25T22:48:57.000Z"
   },
   {
-    "id": "shortage:289074",
-    "reportId": 289074,
+    "id": "shortage:294156",
+    "reportId": 294156,
     "type": "shortage",
     "brandName": "TADALAFIL",
     "status": "active_confirmed",
-    "din": "02457016",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
+    "din": "02457024",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2027-01-29T05:00:00.000Z",
     "resolved": false,
     "updatedDate": "2026-10-27T22:16:21.000Z",
     "updateDate": "2026-10-27T22:16:21.000Z",
-    "postedDate": "2026-07-13T18:20:53.000Z"
+    "postedDate": "2026-09-23T17:08:13.000Z"
   },
   {
     "id": "shortage:295683",
@@ -3794,20 +3836,6 @@
     "postedDate": "2026-09-03T00:09:36.000Z"
   },
   {
-    "id": "shortage:295205",
-    "reportId": 295205,
-    "type": "shortage",
-    "brandName": "FLUCONAZOLE",
-    "status": "active_confirmed",
-    "din": "02517418",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2027-01-29T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:28.000Z",
-    "updateDate": "2026-10-27T22:15:28.000Z",
-    "postedDate": "2026-10-05T18:18:06.000Z"
-  },
-  {
     "id": "shortage:296044",
     "reportId": 296044,
     "type": "shortage",
@@ -3820,6 +3848,20 @@
     "updatedDate": "2026-10-27T22:15:28.000Z",
     "updateDate": "2026-10-27T22:15:28.000Z",
     "postedDate": "2026-10-19T17:43:31.000Z"
+  },
+  {
+    "id": "shortage:295205",
+    "reportId": 295205,
+    "type": "shortage",
+    "brandName": "FLUCONAZOLE",
+    "status": "active_confirmed",
+    "din": "02517418",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2027-01-29T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:28.000Z",
+    "updateDate": "2026-10-27T22:15:28.000Z",
+    "postedDate": "2026-10-05T18:18:06.000Z"
   },
   {
     "id": "shortage:296115",
@@ -3864,20 +3906,6 @@
     "postedDate": "2026-08-10T23:37:16.000Z"
   },
   {
-    "id": "shortage:285007",
-    "reportId": 285007,
-    "type": "shortage",
-    "brandName": "DEXTROSE INJECTION USP",
-    "status": "active_confirmed",
-    "din": "02468514",
-    "strength": "500MG",
-    "expectedBackInStockDate": "2027-02-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:22.000Z",
-    "updateDate": "2026-10-27T22:15:22.000Z",
-    "postedDate": "2026-05-12T00:32:01.000Z"
-  },
-  {
     "id": "shortage:295528",
     "reportId": 295528,
     "type": "shortage",
@@ -3890,6 +3918,20 @@
     "updatedDate": "2026-10-27T22:15:22.000Z",
     "updateDate": "2026-10-27T22:15:22.000Z",
     "postedDate": "2026-10-09T19:37:51.000Z"
+  },
+  {
+    "id": "shortage:285007",
+    "reportId": 285007,
+    "type": "shortage",
+    "brandName": "DEXTROSE INJECTION USP",
+    "status": "active_confirmed",
+    "din": "02468514",
+    "strength": "500MG",
+    "expectedBackInStockDate": "2027-02-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:22.000Z",
+    "updateDate": "2026-10-27T22:15:22.000Z",
+    "postedDate": "2026-05-12T00:32:01.000Z"
   },
   {
     "id": "shortage:296398",
@@ -4606,20 +4648,6 @@
     "postedDate": "2026-09-16T18:45:53.000Z"
   },
   {
-    "id": "shortage:283892",
-    "reportId": 283892,
-    "type": "shortage",
-    "brandName": "ARICEPT",
-    "status": "active_confirmed",
-    "din": "02232043",
-    "strength": "5MG",
-    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-16T22:58:13.000Z",
-    "updateDate": "2026-10-16T22:58:13.000Z",
-    "postedDate": "2026-04-28T23:48:13.000Z"
-  },
-  {
     "id": "shortage:284326",
     "reportId": 284326,
     "type": "shortage",
@@ -5332,20 +5360,6 @@
     "updatedDate": "2026-10-05T16:36:47.000Z",
     "updateDate": "2026-10-05T16:36:47.000Z",
     "postedDate": "2023-04-06T16:31:02.000Z"
-  },
-  {
-    "id": "shortage:280215",
-    "reportId": 280215,
-    "type": "shortage",
-    "brandName": "PMS-DEFERASIROX (TYPE J)",
-    "status": "active_confirmed",
-    "din": "02528312",
-    "strength": "360MG",
-    "expectedBackInStockDate": "2026-11-12T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-05T16:35:09.000Z",
-    "updateDate": "2026-10-05T16:35:09.000Z",
-    "postedDate": "2026-03-11T16:30:15.000Z"
   },
   {
     "id": "shortage:246210",
@@ -6592,20 +6606,6 @@
     "updatedDate": "2026-09-04T20:04:17.000Z",
     "updateDate": "2026-09-04T20:04:17.000Z",
     "postedDate": "2025-10-30T15:58:04.000Z"
-  },
-  {
-    "id": "shortage:288212",
-    "reportId": 288212,
-    "type": "shortage",
-    "brandName": "PMS-BUSULFAN",
-    "status": "active_confirmed",
-    "din": "02477343",
-    "strength": "6MG",
-    "expectedBackInStockDate": "2026-10-23T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-04T20:03:44.000Z",
-    "updateDate": "2026-09-04T20:03:44.000Z",
-    "postedDate": "2026-06-29T16:50:28.000Z"
   },
   {
     "id": "shortage:290505",
