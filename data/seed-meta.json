@@ -1,32 +1,160 @@
 {
-  "refreshedAt": "2026-11-12T16:29:27.388Z",
-  "count": 556,
-  "addedDrugsCount": 3,
+  "refreshedAt": "2026-11-13T15:50:42.698Z",
+  "count": 558,
+  "addedDrugsCount": 10,
   "addedDrugs": [
     {
-      "drug": "COVERSYL PLUS HD",
+      "drug": "AMLODIPINE-ATORVASTATIN",
       "doses": [
-        "2.5MG",
-        "8MG"
+        "10MG",
+        "80MG"
       ],
-      "expectedBackInStockDate": "2026-11-17T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
-      "drug": "CYCLOBENZAPRINE - TAB 10MG",
+      "drug": "CESAMET",
+      "doses": [
+        "0.5MG"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+    },
+    {
+      "drug": "DOXY-TABS",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+    },
+    {
+      "drug": "ENALAPRIL",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+    },
+    {
+      "drug": "ENZALUTAMIDE",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+    },
+    {
+      "drug": "LEVOCARB CR",
+      "doses": [
+        "200MG",
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+    },
+    {
+      "drug": "MEGESTROL",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+    },
+    {
+      "drug": "NAPROXEN EC",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+    },
+    {
+      "drug": "RIZATRIPTAN",
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2027-02-13T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
     },
     {
-      "drug": "ENGERIX-B",
+      "drug": "TICAGRELOR",
       "doses": [
-        "20MCG"
+        "60MG"
       ],
-      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-13T15:50:42.698Z",
+      "addedDrugsCount": 10,
+      "addedDrugs": [
+        {
+          "drug": "AMLODIPINE-ATORVASTATIN",
+          "doses": [
+            "10MG",
+            "80MG"
+          ],
+          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+        },
+        {
+          "drug": "CESAMET",
+          "doses": [
+            "0.5MG"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        },
+        {
+          "drug": "DOXY-TABS",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        },
+        {
+          "drug": "ENALAPRIL",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        },
+        {
+          "drug": "ENZALUTAMIDE",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+        },
+        {
+          "drug": "LEVOCARB CR",
+          "doses": [
+            "200MG",
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+        },
+        {
+          "drug": "MEGESTROL",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        },
+        {
+          "drug": "NAPROXEN EC",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+        },
+        {
+          "drug": "RIZATRIPTAN",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
+        },
+        {
+          "drug": "TICAGRELOR",
+          "doses": [
+            "60MG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-12T16:29:27.388Z",
       "addedDrugsCount": 3,
@@ -542,27 +670,6 @@
             "1MG"
           ],
           "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-29T14:52:45.423Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "OLMESARTAN",
-          "doses": [
-            "40MG"
-          ],
-          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
-        },
-        {
-          "drug": "OLMESARTAN HCTZ",
-          "doses": [
-            "12.5MG",
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
         }
       ]
     }
