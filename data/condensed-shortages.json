@@ -1,83 +1,93 @@
 {
-  "count": 338,
-  "refreshedAt": "2026-11-13T15:50:42.698Z",
+  "count": 343,
+  "refreshedAt": "2026-11-14T14:41:34.423Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 10,
+  "addedDrugsCount": 5,
   "addedDrugs": [
     {
-      "drug": "AMLODIPINE-ATORVASTATIN",
+      "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
       "doses": [
-        "10MG",
-        "80MG"
-      ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
-    },
-    {
-      "drug": "CESAMET",
-      "doses": [
-        "0.5MG"
-      ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
-    },
-    {
-      "drug": "DOXY-TABS",
-      "doses": [
-        "100MG"
-      ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-    },
-    {
-      "drug": "ENALAPRIL",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-    },
-    {
-      "drug": "ENZALUTAMIDE",
-      "doses": [
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
-    },
-    {
-      "drug": "LEVOCARB CR",
-      "doses": [
-        "200MG",
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
-    },
-    {
-      "drug": "MEGESTROL",
-      "doses": [
-        "40MG"
-      ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-    },
-    {
-      "drug": "NAPROXEN EC",
-      "doses": [
-        "500MG"
+        "1%",
+        "5%"
       ],
       "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
     },
     {
-      "drug": "RIZATRIPTAN",
+      "drug": "CLIMARA 75",
       "doses": [
-        "10MG"
+        "75MCG"
       ],
-      "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
     },
     {
-      "drug": "TICAGRELOR",
+      "drug": "OXYCODONE/ACET",
       "doses": [
-        "60MG"
+        "325MG",
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+    },
+    {
+      "drug": "XARELTO",
+      "doses": [
+        "103.4MG"
+      ],
+      "expectedBackInStockDate": "2027-01-18T05:00:00.000Z"
+    },
+    {
+      "drug": "ZENHALE",
+      "doses": [
+        "200MCG",
+        "5MCG"
+      ],
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-14T14:41:34.423Z",
+      "addedDrugsCount": 5,
+      "addedDrugs": [
+        {
+          "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
+          "doses": [
+            "1%",
+            "5%"
+          ],
+          "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+        },
+        {
+          "drug": "CLIMARA 75",
+          "doses": [
+            "75MCG"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        },
+        {
+          "drug": "OXYCODONE/ACET",
+          "doses": [
+            "325MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        },
+        {
+          "drug": "XARELTO",
+          "doses": [
+            "103.4MG"
+          ],
+          "expectedBackInStockDate": "2027-01-18T05:00:00.000Z"
+        },
+        {
+          "drug": "ZENHALE",
+          "doses": [
+            "200MCG",
+            "5MCG"
+          ],
+          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-13T15:50:42.698Z",
       "addedDrugsCount": 10,
@@ -589,90 +599,6 @@
           "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-10-30T14:45:00.109Z",
-      "addedDrugsCount": 11,
-      "addedDrugs": [
-        {
-          "drug": "CITALOPRAM",
-          "doses": [
-            "40MG"
-          ],
-          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-        },
-        {
-          "drug": "HALOPERIDOL",
-          "doses": [
-            "1MG",
-            "2MG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        },
-        {
-          "drug": "METHAZOLAMIDE",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-        },
-        {
-          "drug": "MYCOPHENOLIC ACID",
-          "doses": [
-            "360MG"
-          ],
-          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-        },
-        {
-          "drug": "NOVO-GESIC",
-          "doses": [
-            "325MG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        },
-        {
-          "drug": "NOVO-GESIC FORTE",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        },
-        {
-          "drug": "PROPRANOLOL",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        },
-        {
-          "drug": "RUPATADINE",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-        },
-        {
-          "drug": "SAXAGLIPTIN",
-          "doses": [
-            "2.5MG"
-          ],
-          "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
-        },
-        {
-          "drug": "ULTRATAG RBC",
-          "doses": [
-            "20MCI"
-          ],
-          "expectedBackInStockDate": "2026-12-16T05:00:00.000Z"
-        },
-        {
-          "drug": "ZADITEN",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -903,6 +829,14 @@
       "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
+      "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
+      "doses": [
+        "1%",
+        "5%"
+      ],
+      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+    },
+    {
       "drug": "BENZTROPINE OMEGA",
       "doses": [
         "1MG"
@@ -1125,7 +1059,7 @@
         "0.1%",
         "0.3%"
       ],
-      "expectedBackInStockDate": "2026-11-29T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "CITALOPRAM",
@@ -1133,6 +1067,13 @@
         "40MG"
       ],
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+    },
+    {
+      "drug": "CLIMARA 75",
+      "doses": [
+        "75MCG"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
     },
     {
       "drug": "CLOBETASOL SPRAY",
@@ -2385,6 +2326,14 @@
       "expectedBackInStockDate": "2026-12-20T05:00:00.000Z"
     },
     {
+      "drug": "OXYCODONE/ACET",
+      "doses": [
+        "325MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+    },
+    {
       "drug": "PANTOPRAZOLE",
       "doses": [
         "20MG",
@@ -3199,6 +3148,13 @@
       "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
     },
     {
+      "drug": "XARELTO",
+      "doses": [
+        "103.4MG"
+      ],
+      "expectedBackInStockDate": "2027-01-18T05:00:00.000Z"
+    },
+    {
       "drug": "ZADITEN",
       "doses": [
         "1MG"
@@ -3227,6 +3183,14 @@
         "80MG"
       ],
       "expectedBackInStockDate": "2027-01-19T05:00:00.000Z"
+    },
+    {
+      "drug": "ZENHALE",
+      "doses": [
+        "200MCG",
+        "5MCG"
+      ],
+      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
     },
     {
       "drug": "ZOLMITRIPTAN",
