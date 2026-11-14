@@ -1,5 +1,117 @@
 [
   {
+    "id": "shortage:285469",
+    "reportId": 285469,
+    "type": "shortage",
+    "brandName": "TARO-CIPROFLOXACIN/DEXAMETHASONE",
+    "status": "active_confirmed",
+    "din": "02481901",
+    "strength": "0.3%\n0.1%",
+    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-14T00:31:05.000Z",
+    "updateDate": "2026-11-14T00:31:05.000Z",
+    "postedDate": "2026-05-19T23:05:58.000Z"
+  },
+  {
+    "id": "shortage:298403",
+    "reportId": 298403,
+    "type": "shortage",
+    "brandName": "TARO-BENZOYL PEROXIDE / CLINDAMYCIN KIT",
+    "status": "active_confirmed",
+    "din": "02464519",
+    "strength": "5%\n1%",
+    "expectedBackInStockDate": "2027-01-22T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-14T00:22:00.000Z",
+    "updateDate": "2026-11-14T00:22:00.000Z",
+    "postedDate": "2026-11-14T00:21:36.000Z"
+  },
+  {
+    "id": "shortage:298396",
+    "reportId": 298396,
+    "type": "shortage",
+    "brandName": "APO-OXYCODONE/ACET",
+    "status": "active_confirmed",
+    "din": "02324628",
+    "strength": "325MG\n5MG",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-14T00:00:11.000Z",
+    "updateDate": "2026-11-14T00:00:11.000Z",
+    "postedDate": "2026-11-13T23:59:53.000Z"
+  },
+  {
+    "id": "shortage:298393",
+    "reportId": 298393,
+    "type": "shortage",
+    "brandName": "APO-OXYCODONE/ACET",
+    "status": "active_confirmed",
+    "din": "02324628",
+    "strength": "325MG\n5MG",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-13T23:58:58.000Z",
+    "updateDate": "2026-11-13T23:58:58.000Z",
+    "postedDate": "2026-11-13T23:58:32.000Z"
+  },
+  {
+    "id": "shortage:298092",
+    "reportId": 298092,
+    "type": "shortage",
+    "brandName": "FOSAVANCE",
+    "status": "active_confirmed",
+    "din": "02314940",
+    "strength": "70MG\n5600UNIT",
+    "expectedBackInStockDate": "2027-02-05T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-13T23:25:57.000Z",
+    "updateDate": "2026-11-13T23:25:57.000Z",
+    "postedDate": "2026-11-11T01:07:40.000Z"
+  },
+  {
+    "id": "shortage:298388",
+    "reportId": 298388,
+    "type": "shortage",
+    "brandName": "XARELTO",
+    "status": "active_confirmed",
+    "din": "02510170",
+    "strength": "103.4MG",
+    "expectedBackInStockDate": "2027-01-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-13T23:17:13.000Z",
+    "updateDate": "2026-11-13T23:17:13.000Z",
+    "postedDate": "2026-11-13T23:16:08.000Z"
+  },
+  {
+    "id": "shortage:298385",
+    "reportId": 298385,
+    "type": "shortage",
+    "brandName": "CLIMARA 75",
+    "status": "active_confirmed",
+    "din": "02247500",
+    "strength": "75MCG",
+    "expectedBackInStockDate": "2027-01-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-13T23:13:43.000Z",
+    "updateDate": "2026-11-13T23:13:43.000Z",
+    "postedDate": "2026-11-13T23:12:54.000Z"
+  },
+  {
+    "id": "shortage:298102",
+    "reportId": 298102,
+    "type": "shortage",
+    "brandName": "ZENHALE",
+    "status": "active_confirmed",
+    "din": "02361760",
+    "strength": "200MCG\n5MCG",
+    "expectedBackInStockDate": "2026-11-20T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-13T21:47:40.000Z",
+    "updateDate": "2026-11-13T21:47:40.000Z",
+    "postedDate": "2026-11-11T02:16:32.000Z"
+  },
+  {
     "id": "shortage:292320",
     "reportId": 292320,
     "type": "shortage",
@@ -1120,20 +1232,6 @@
     "postedDate": "2026-11-04T02:05:33.000Z"
   },
   {
-    "id": "shortage:298092",
-    "reportId": 298092,
-    "type": "shortage",
-    "brandName": "FOSAVANCE",
-    "status": "active_confirmed",
-    "din": "02314940",
-    "strength": "70MG\n5600UNIT",
-    "expectedBackInStockDate": "2027-05-21T04:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-11T01:09:36.000Z",
-    "updateDate": "2026-11-11T01:09:36.000Z",
-    "postedDate": "2026-11-11T01:07:40.000Z"
-  },
-  {
     "id": "shortage:297893",
     "reportId": 297893,
     "type": "shortage",
@@ -1384,20 +1482,6 @@
     "updatedDate": "2026-11-09T20:15:25.000Z",
     "updateDate": "2026-11-09T20:15:25.000Z",
     "postedDate": "2025-12-08T22:03:14.000Z"
-  },
-  {
-    "id": "shortage:285469",
-    "reportId": 285469,
-    "type": "shortage",
-    "brandName": "TARO-CIPROFLOXACIN/DEXAMETHASONE",
-    "status": "active_confirmed",
-    "din": "02481901",
-    "strength": "0.3%\n0.1%",
-    "expectedBackInStockDate": "2026-11-29T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-09T20:11:38.000Z",
-    "updateDate": "2026-11-09T20:11:38.000Z",
-    "postedDate": "2026-05-19T23:05:58.000Z"
   },
   {
     "id": "shortage:297957",
@@ -3794,20 +3878,6 @@
     "postedDate": "2026-07-13T18:20:53.000Z"
   },
   {
-    "id": "shortage:294506",
-    "reportId": 294506,
-    "type": "shortage",
-    "brandName": "TAMIFLU",
-    "status": "active_confirmed",
-    "din": "02381842",
-    "strength": "6MG",
-    "expectedBackInStockDate": "2026-12-01T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:21.000Z",
-    "updateDate": "2026-10-27T22:16:21.000Z",
-    "postedDate": "2026-09-25T22:48:57.000Z"
-  },
-  {
     "id": "shortage:294156",
     "reportId": 294156,
     "type": "shortage",
@@ -3820,6 +3890,20 @@
     "updatedDate": "2026-10-27T22:16:21.000Z",
     "updateDate": "2026-10-27T22:16:21.000Z",
     "postedDate": "2026-09-23T17:08:13.000Z"
+  },
+  {
+    "id": "shortage:294506",
+    "reportId": 294506,
+    "type": "shortage",
+    "brandName": "TAMIFLU",
+    "status": "active_confirmed",
+    "din": "02381842",
+    "strength": "6MG",
+    "expectedBackInStockDate": "2026-12-01T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:16:21.000Z",
+    "updateDate": "2026-10-27T22:16:21.000Z",
+    "postedDate": "2026-09-25T22:48:57.000Z"
   },
   {
     "id": "shortage:295683",
@@ -3990,20 +4074,6 @@
     "postedDate": "2026-07-28T21:57:08.000Z"
   },
   {
-    "id": "shortage:290037",
-    "reportId": 290037,
-    "type": "shortage",
-    "brandName": "MINT-ENTACAPONE",
-    "status": "active_confirmed",
-    "din": "02535939",
-    "strength": "200MG",
-    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:50.000Z",
-    "updateDate": "2026-10-27T22:15:50.000Z",
-    "postedDate": "2026-07-28T21:51:43.000Z"
-  },
-  {
     "id": "shortage:290040",
     "reportId": 290040,
     "type": "shortage",
@@ -4016,6 +4086,20 @@
     "updatedDate": "2026-10-27T22:15:50.000Z",
     "updateDate": "2026-10-27T22:15:50.000Z",
     "postedDate": "2026-07-28T21:53:29.000Z"
+  },
+  {
+    "id": "shortage:290037",
+    "reportId": 290037,
+    "type": "shortage",
+    "brandName": "MINT-ENTACAPONE",
+    "status": "active_confirmed",
+    "din": "02535939",
+    "strength": "200MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:50.000Z",
+    "updateDate": "2026-10-27T22:15:50.000Z",
+    "postedDate": "2026-07-28T21:51:43.000Z"
   },
   {
     "id": "shortage:289967",
