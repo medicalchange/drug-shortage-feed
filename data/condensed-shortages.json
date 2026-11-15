@@ -1,49 +1,45 @@
 {
-  "count": 343,
-  "refreshedAt": "2026-11-14T14:41:34.423Z",
+  "count": 345,
+  "refreshedAt": "2026-11-15T15:11:08.205Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 5,
+  "addedDrugsCount": 2,
   "addedDrugs": [
     {
-      "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
+      "drug": "DIPHENIST",
       "doses": [
-        "1%",
-        "5%"
+        "50MG"
       ],
-      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
-      "drug": "CLIMARA 75",
+      "drug": "OCTASA",
       "doses": [
-        "75MCG"
+        "800MG"
       ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
-    },
-    {
-      "drug": "OXYCODONE/ACET",
-      "doses": [
-        "325MG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-    },
-    {
-      "drug": "XARELTO",
-      "doses": [
-        "103.4MG"
-      ],
-      "expectedBackInStockDate": "2027-01-18T05:00:00.000Z"
-    },
-    {
-      "drug": "ZENHALE",
-      "doses": [
-        "200MCG",
-        "5MCG"
-      ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-15T15:11:08.205Z",
+      "addedDrugsCount": 2,
+      "addedDrugs": [
+        {
+          "drug": "DIPHENIST",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
+        },
+        {
+          "drug": "OCTASA",
+          "doses": [
+            "800MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-14T14:41:34.423Z",
       "addedDrugsCount": 5,
@@ -583,20 +579,6 @@
             "50MG"
           ],
           "expectedBackInStockDate": "2027-06-21T04:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-10-31T14:10:16.885Z",
-      "addedDrugsCount": 1,
-      "addedDrugs": [
-        {
-          "drug": "AVALIDE",
-          "doses": [
-            "12.5MG",
-            "150MG"
-          ],
-          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
         }
       ]
     }
@@ -1336,6 +1318,13 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+    },
+    {
+      "drug": "DIPHENIST",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
       "drug": "DORMINAL",
@@ -2221,6 +2210,13 @@
         "100000UNIT"
       ],
       "expectedBackInStockDate": "2027-03-26T04:00:00.000Z"
+    },
+    {
+      "drug": "OCTASA",
+      "doses": [
+        "800MG"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "OCTREOTIDE ACETATE OMEGA",

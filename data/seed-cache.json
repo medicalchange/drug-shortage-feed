@@ -1,5 +1,33 @@
 [
   {
+    "id": "shortage:298076",
+    "reportId": 298076,
+    "type": "shortage",
+    "brandName": "OCTASA",
+    "status": "active_confirmed",
+    "din": "02465752",
+    "strength": "800MG",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-15T11:00:08.000Z",
+    "updateDate": "2026-11-15T11:00:08.000Z",
+    "postedDate": "2026-11-10T15:33:56.000Z"
+  },
+  {
+    "id": "shortage:292048",
+    "reportId": 292048,
+    "type": "shortage",
+    "brandName": "DIPHENIST",
+    "status": "active_confirmed",
+    "din": "02219336",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-15T11:00:05.000Z",
+    "updateDate": "2026-11-15T11:00:05.000Z",
+    "postedDate": "2026-08-26T05:57:19.000Z"
+  },
+  {
     "id": "shortage:285469",
     "reportId": 285469,
     "type": "shortage",
@@ -3052,20 +3080,6 @@
     "postedDate": "2026-10-05T16:29:37.000Z"
   },
   {
-    "id": "shortage:296420",
-    "reportId": 296420,
-    "type": "shortage",
-    "brandName": "ACCEL-ONDANSETRON ODT",
-    "status": "active_confirmed",
-    "din": "02535327",
-    "strength": "8MG",
-    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-01T10:00:02.000Z",
-    "updateDate": "2026-11-01T10:00:02.000Z",
-    "postedDate": "2026-10-26T18:00:02.000Z"
-  },
-  {
     "id": "shortage:296417",
     "reportId": 296417,
     "type": "shortage",
@@ -3078,6 +3092,20 @@
     "updatedDate": "2026-11-01T10:00:02.000Z",
     "updateDate": "2026-11-01T10:00:02.000Z",
     "postedDate": "2026-10-26T17:58:16.000Z"
+  },
+  {
+    "id": "shortage:296420",
+    "reportId": 296420,
+    "type": "shortage",
+    "brandName": "ACCEL-ONDANSETRON ODT",
+    "status": "active_confirmed",
+    "din": "02535327",
+    "strength": "8MG",
+    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-01T10:00:02.000Z",
+    "updateDate": "2026-11-01T10:00:02.000Z",
+    "postedDate": "2026-10-26T18:00:02.000Z"
   },
   {
     "id": "shortage:297361",
@@ -3808,20 +3836,6 @@
     "postedDate": "2026-09-25T18:29:16.000Z"
   },
   {
-    "id": "shortage:289077",
-    "reportId": 289077,
-    "type": "shortage",
-    "brandName": "TOPIRAMATE",
-    "status": "active_confirmed",
-    "din": "02356864",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:48.000Z",
-    "updateDate": "2026-10-27T22:16:48.000Z",
-    "postedDate": "2026-07-13T18:22:28.000Z"
-  },
-  {
     "id": "shortage:289080",
     "reportId": 289080,
     "type": "shortage",
@@ -3834,6 +3848,20 @@
     "updatedDate": "2026-10-27T22:16:48.000Z",
     "updateDate": "2026-10-27T22:16:48.000Z",
     "postedDate": "2026-07-13T18:23:34.000Z"
+  },
+  {
+    "id": "shortage:289077",
+    "reportId": 289077,
+    "type": "shortage",
+    "brandName": "TOPIRAMATE",
+    "status": "active_confirmed",
+    "din": "02356864",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:16:48.000Z",
+    "updateDate": "2026-10-27T22:16:48.000Z",
+    "postedDate": "2026-07-13T18:22:28.000Z"
   },
   {
     "id": "shortage:295211",
@@ -4032,20 +4060,6 @@
     "postedDate": "2026-09-29T17:13:44.000Z"
   },
   {
-    "id": "shortage:290046",
-    "reportId": 290046,
-    "type": "shortage",
-    "brandName": "MINT-VENLAFAXINE XR",
-    "status": "active_confirmed",
-    "din": "02522985",
-    "strength": "75MG",
-    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:52.000Z",
-    "updateDate": "2026-10-27T22:15:52.000Z",
-    "postedDate": "2026-07-28T21:59:05.000Z"
-  },
-  {
     "id": "shortage:290049",
     "reportId": 290049,
     "type": "shortage",
@@ -4058,6 +4072,20 @@
     "updatedDate": "2026-10-27T22:15:52.000Z",
     "updateDate": "2026-10-27T22:15:52.000Z",
     "postedDate": "2026-07-28T22:00:20.000Z"
+  },
+  {
+    "id": "shortage:290046",
+    "reportId": 290046,
+    "type": "shortage",
+    "brandName": "MINT-VENLAFAXINE XR",
+    "status": "active_confirmed",
+    "din": "02522985",
+    "strength": "75MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:52.000Z",
+    "updateDate": "2026-10-27T22:15:52.000Z",
+    "postedDate": "2026-07-28T21:59:05.000Z"
   },
   {
     "id": "shortage:290043",
@@ -4242,20 +4270,6 @@
     "postedDate": "2026-08-10T23:37:16.000Z"
   },
   {
-    "id": "shortage:285007",
-    "reportId": 285007,
-    "type": "shortage",
-    "brandName": "DEXTROSE INJECTION USP",
-    "status": "active_confirmed",
-    "din": "02468514",
-    "strength": "500MG",
-    "expectedBackInStockDate": "2027-02-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:22.000Z",
-    "updateDate": "2026-10-27T22:15:22.000Z",
-    "postedDate": "2026-05-12T00:32:01.000Z"
-  },
-  {
     "id": "shortage:295528",
     "reportId": 295528,
     "type": "shortage",
@@ -4268,6 +4282,20 @@
     "updatedDate": "2026-10-27T22:15:22.000Z",
     "updateDate": "2026-10-27T22:15:22.000Z",
     "postedDate": "2026-10-09T19:37:51.000Z"
+  },
+  {
+    "id": "shortage:285007",
+    "reportId": 285007,
+    "type": "shortage",
+    "brandName": "DEXTROSE INJECTION USP",
+    "status": "active_confirmed",
+    "din": "02468514",
+    "strength": "500MG",
+    "expectedBackInStockDate": "2027-02-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:22.000Z",
+    "updateDate": "2026-10-27T22:15:22.000Z",
+    "postedDate": "2026-05-12T00:32:01.000Z"
   },
   {
     "id": "shortage:296398",
