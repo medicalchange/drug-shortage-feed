@@ -1,24 +1,206 @@
 {
-  "refreshedAt": "2026-11-15T15:11:08.205Z",
-  "count": 566,
-  "addedDrugsCount": 2,
+  "refreshedAt": "2026-11-16T17:46:00.557Z",
+  "count": 595,
+  "addedDrugsCount": 13,
   "addedDrugs": [
     {
-      "drug": "DIPHENIST",
+      "drug": "CHLORPROMAZINE",
       "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
-    },
-    {
-      "drug": "OCTASA",
-      "doses": [
-        "800MG"
+        "100MG"
       ],
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "CISATRACURIUM BESYLATE INJECTION USP MULTIDOSE",
+      "doses": [
+        "2MG"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+    },
+    {
+      "drug": "DOXYCYCLINE",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "LENOLTEC NO. 1",
+      "doses": [
+        "15MG",
+        "300MG",
+        "8MG"
+      ],
+      "expectedBackInStockDate": "2026-12-10T05:00:00.000Z"
+    },
+    {
+      "drug": "NABILONE",
+      "doses": [
+        "0.5MG"
+      ],
+      "expectedBackInStockDate": "2026-12-10T05:00:00.000Z"
+    },
+    {
+      "drug": "OLANZAPINE",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-12-20T05:00:00.000Z"
+    },
+    {
+      "drug": "PRAZOSIN",
+      "doses": [
+        "1MG"
+      ],
+      "expectedBackInStockDate": "2026-12-20T05:00:00.000Z"
+    },
+    {
+      "drug": "QUETIAPINE",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2026-12-20T05:00:00.000Z"
+    },
+    {
+      "drug": "SPIRONOLACTONE",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "SUMATRIPTAN DF",
+      "doses": [
+        "100MG",
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "TOUJEO SOLOSTAR",
+      "doses": [
+        "300UNIT"
+      ],
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+    },
+    {
+      "drug": "TRAZODONE",
+      "doses": [
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-12-10T05:00:00.000Z"
+    },
+    {
+      "drug": "TRURAPI",
+      "doses": [
+        "100UNIT"
+      ],
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-16T17:46:00.557Z",
+      "addedDrugsCount": 13,
+      "addedDrugs": [
+        {
+          "drug": "CHLORPROMAZINE",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "CISATRACURIUM BESYLATE INJECTION USP MULTIDOSE",
+          "doses": [
+            "2MG"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        },
+        {
+          "drug": "DOXYCYCLINE",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "LENOLTEC NO. 1",
+          "doses": [
+            "15MG",
+            "300MG",
+            "8MG"
+          ],
+          "expectedBackInStockDate": "2026-12-10T05:00:00.000Z"
+        },
+        {
+          "drug": "NABILONE",
+          "doses": [
+            "0.5MG"
+          ],
+          "expectedBackInStockDate": "2026-12-10T05:00:00.000Z"
+        },
+        {
+          "drug": "OLANZAPINE",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-12-20T05:00:00.000Z"
+        },
+        {
+          "drug": "PRAZOSIN",
+          "doses": [
+            "1MG"
+          ],
+          "expectedBackInStockDate": "2026-12-20T05:00:00.000Z"
+        },
+        {
+          "drug": "QUETIAPINE",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2026-12-20T05:00:00.000Z"
+        },
+        {
+          "drug": "SPIRONOLACTONE",
+          "doses": [
+            "100MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "SUMATRIPTAN DF",
+          "doses": [
+            "100MG",
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+        },
+        {
+          "drug": "TOUJEO SOLOSTAR",
+          "doses": [
+            "300UNIT"
+          ],
+          "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+        },
+        {
+          "drug": "TRAZODONE",
+          "doses": [
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-12-10T05:00:00.000Z"
+        },
+        {
+          "drug": "TRURAPI",
+          "doses": [
+            "100UNIT"
+          ],
+          "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-15T15:11:08.205Z",
       "addedDrugsCount": 2,
@@ -556,28 +738,6 @@
             "4G"
           ],
           "expectedBackInStockDate": "2026-11-06T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-11-01T14:39:48.531Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "ACCEL-ONDANSETRON ODT",
-          "doses": [
-            "4MG",
-            "8MG"
-          ],
-          "expectedBackInStockDate": "2026-11-15T05:00:00.000Z"
-        },
-        {
-          "drug": "LOSARTAN-HCTZ",
-          "doses": [
-            "12.5MG",
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2027-06-21T04:00:00.000Z"
         }
       ]
     }
