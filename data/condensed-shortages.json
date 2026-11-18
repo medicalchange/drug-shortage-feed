@@ -1,47 +1,133 @@
 {
-  "count": 355,
-  "refreshedAt": "2026-11-17T17:16:56.799Z",
+  "count": 358,
+  "refreshedAt": "2026-11-18T16:52:22.557Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 5,
+  "addedDrugsCount": 8,
   "addedDrugs": [
     {
-      "drug": "CANDESARTAN",
+      "drug": "ADMELOG SOLOSTAR",
       "doses": [
-        "4MG"
+        "100UNIT"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     },
     {
-      "drug": "CANDESARTAN/HCTZ",
+      "drug": "AZITHROMYCIN Z",
       "doses": [
-        "12.5MG",
-        "32MG"
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+    },
+    {
+      "drug": "BENDAMUSTINE",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2027-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "DIVALPROEX",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+    },
+    {
+      "drug": "DORZO-TIMOP",
+      "doses": [
+        "20MG",
+        "5MG"
       ],
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
-      "drug": "INDAPAMIDE",
+      "drug": "GLICLAZIDE MR",
       "doses": [
-        "1.25MG"
+        "60MG"
       ],
-      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
     },
     {
-      "drug": "METFORMIN FC",
+      "drug": "LUVOX",
       "doses": [
-        "500MG"
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
-      "drug": "VIAGRA",
+      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
       "doses": [
-        "100MG"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2027-01-12T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-18T16:52:22.557Z",
+      "addedDrugsCount": 8,
+      "addedDrugs": [
+        {
+          "drug": "ADMELOG SOLOSTAR",
+          "doses": [
+            "100UNIT"
+          ],
+          "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+        },
+        {
+          "drug": "AZITHROMYCIN Z",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+        },
+        {
+          "drug": "BENDAMUSTINE",
+          "doses": [
+            "100MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2027-12-31T05:00:00.000Z"
+        },
+        {
+          "drug": "DIVALPROEX",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+        },
+        {
+          "drug": "DORZO-TIMOP",
+          "doses": [
+            "20MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        },
+        {
+          "drug": "GLICLAZIDE MR",
+          "doses": [
+            "60MG"
+          ],
+          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+        },
+        {
+          "drug": "LUVOX",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+        },
+        {
+          "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-17T17:16:56.799Z",
       "addedDrugsCount": 5,
@@ -666,26 +752,6 @@
           "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-11-03T15:42:10.098Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "DANTRIUM CAPSULES",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-        },
-        {
-          "drug": "PROPOFOL INJECTION",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -769,6 +835,13 @@
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
+      "drug": "ADMELOG SOLOSTAR",
+      "doses": [
+        "100UNIT"
+      ],
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+    },
+    {
       "drug": "AFATINIB",
       "doses": [
         "20MG",
@@ -813,7 +886,7 @@
         "10MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "AMLODIPINE/ATORVASTATIN",
@@ -845,7 +918,7 @@
       "doses": [
         "12.5MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-16T05:00:00.000Z"
     },
     {
       "drug": "APIDRA",
@@ -886,12 +959,11 @@
       "drug": "ATOMOXETINE",
       "doses": [
         "100MG",
-        "10MG",
         "18MG",
-        "25MG",
+        "60MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
     },
     {
       "drug": "ATORVASTATIN",
@@ -909,6 +981,21 @@
         "150MG"
       ],
       "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+    },
+    {
+      "drug": "AZITHROMYCIN Z",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+    },
+    {
+      "drug": "BENDAMUSTINE",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2027-12-31T05:00:00.000Z"
     },
     {
       "drug": "BENZOYL PEROXIDE / CLINDAMYCIN KIT",
@@ -1005,7 +1092,8 @@
     {
       "drug": "BRIVARACETAM",
       "doses": [
-        "50MG"
+        "50MG",
+        "75MG"
       ],
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
@@ -1257,15 +1345,6 @@
       "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     },
     {
-      "drug": "CREON MINIMICROSPHERES 35",
-      "doses": [
-        "2240UNIT",
-        "35000UNIT",
-        "35700UNIT"
-      ],
-      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
-    },
-    {
       "drug": "CYCLOBENZAPRINE - TAB 10MG",
       "doses": [
         "10MG"
@@ -1328,7 +1407,7 @@
       "doses": [
         "2G"
       ],
-      "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-21T05:00:00.000Z"
     },
     {
       "drug": "DESONIDE",
@@ -1378,7 +1457,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "DICLOFENAC",
@@ -1435,11 +1514,26 @@
       "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
+      "drug": "DIVALPROEX",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+    },
+    {
       "drug": "DORMINAL",
       "doses": [
         "240MG"
       ],
       "expectedBackInStockDate": "2027-06-01T04:00:00.000Z"
+    },
+    {
+      "drug": "DORZO-TIMOP",
+      "doses": [
+        "20MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "DOXAZOSIN",
@@ -1455,7 +1549,7 @@
       "doses": [
         "100MG"
       ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
     },
     {
       "drug": "DOXYCYCLINE",
@@ -1623,7 +1717,7 @@
         "20MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
     },
     {
       "drug": "ESOMEPRAZOLE DR",
@@ -1788,6 +1882,13 @@
       "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
     },
     {
+      "drug": "GLICLAZIDE MR",
+      "doses": [
+        "60MG"
+      ],
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+    },
+    {
       "drug": "GLYCOPYRROLATE INJECTION",
       "doses": [
         "0.2MG"
@@ -1845,7 +1946,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
     },
     {
       "drug": "INDAPAMIDE",
@@ -2063,6 +2164,13 @@
       "expectedBackInStockDate": "2026-12-24T05:00:00.000Z"
     },
     {
+      "drug": "LUVOX",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+    },
+    {
       "drug": "MAR-DILTIAZEM CD",
       "doses": [
         "240MG",
@@ -2090,11 +2198,12 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "MEGESTROL",
       "doses": [
+        "160MG",
         "40MG"
       ],
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
@@ -2128,13 +2237,6 @@
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
-      "drug": "METHOPRAZINE",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-    },
-    {
       "drug": "METHOTREXATE INJECTION",
       "doses": [
         "10MG",
@@ -2143,18 +2245,11 @@
       "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
-      "drug": "METHYLDOPA",
-      "doses": [
-        "125MG"
-      ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-    },
-    {
       "drug": "METHYLPHENIDATE",
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "MINOCYCLINE",
@@ -2377,7 +2472,7 @@
       "doses": [
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-12T05:00:00.000Z"
     },
     {
       "drug": "OLMESARTAN HCTZ",
@@ -2385,7 +2480,7 @@
         "12.5MG",
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-26T05:00:00.000Z"
     },
     {
       "drug": "OLOPATADINE",
@@ -2393,13 +2488,6 @@
         "0.1%"
       ],
       "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
-    },
-    {
-      "drug": "OMEPRAZOLE",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "OMEPRAZOLE DR",
@@ -2467,7 +2555,7 @@
         "20MG",
         "40MG"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
       "drug": "PANTOPRAZOLE MAGNESIUM",
@@ -2489,6 +2577,13 @@
         "10MG"
       ],
       "expectedBackInStockDate": "2027-01-11T05:00:00.000Z"
+    },
+    {
+      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
     },
     {
       "drug": "PAXIL CR",
@@ -2651,13 +2746,6 @@
       "expectedBackInStockDate": "2027-01-27T05:00:00.000Z"
     },
     {
-      "drug": "PROCHLORAZINE",
-      "doses": [
-        "10MG"
-      ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-    },
-    {
       "drug": "PROCTOFOAM HC",
       "doses": [
         "1%"
@@ -2734,7 +2822,7 @@
         "15MG",
         "2.5MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "RASAGILINE",
@@ -2945,10 +3033,10 @@
       "drug": "SYNTHROID",
       "doses": [
         "112MCG",
-        "50MCG",
+        "200MCG",
         "75MCG"
       ],
-      "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
     },
     {
       "drug": "TADALAFIL",
@@ -3360,6 +3448,7 @@
     {
       "drug": "ZELDOX",
       "doses": [
+        "20MG",
         "40MG",
         "60MG",
         "80MG"
