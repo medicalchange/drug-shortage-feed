@@ -1,46 +1,132 @@
 {
-  "refreshedAt": "2026-11-17T17:16:56.799Z",
-  "count": 598,
-  "addedDrugsCount": 5,
+  "refreshedAt": "2026-11-18T16:52:22.557Z",
+  "count": 609,
+  "addedDrugsCount": 8,
   "addedDrugs": [
     {
-      "drug": "CANDESARTAN",
+      "drug": "ADMELOG SOLOSTAR",
       "doses": [
-        "4MG"
+        "100UNIT"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     },
     {
-      "drug": "CANDESARTAN/HCTZ",
+      "drug": "AZITHROMYCIN Z",
       "doses": [
-        "12.5MG",
-        "32MG"
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+    },
+    {
+      "drug": "BENDAMUSTINE",
+      "doses": [
+        "100MG",
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2027-12-31T05:00:00.000Z"
+    },
+    {
+      "drug": "DIVALPROEX",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+    },
+    {
+      "drug": "DORZO-TIMOP",
+      "doses": [
+        "20MG",
+        "5MG"
       ],
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
-      "drug": "INDAPAMIDE",
+      "drug": "GLICLAZIDE MR",
       "doses": [
-        "1.25MG"
+        "60MG"
       ],
-      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
     },
     {
-      "drug": "METFORMIN FC",
+      "drug": "LUVOX",
       "doses": [
-        "500MG"
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
-      "drug": "VIAGRA",
+      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
       "doses": [
-        "100MG"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2027-01-12T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-18T16:52:22.557Z",
+      "addedDrugsCount": 8,
+      "addedDrugs": [
+        {
+          "drug": "ADMELOG SOLOSTAR",
+          "doses": [
+            "100UNIT"
+          ],
+          "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+        },
+        {
+          "drug": "AZITHROMYCIN Z",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+        },
+        {
+          "drug": "BENDAMUSTINE",
+          "doses": [
+            "100MG",
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2027-12-31T05:00:00.000Z"
+        },
+        {
+          "drug": "DIVALPROEX",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+        },
+        {
+          "drug": "DORZO-TIMOP",
+          "doses": [
+            "20MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        },
+        {
+          "drug": "GLICLAZIDE MR",
+          "doses": [
+            "60MG"
+          ],
+          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+        },
+        {
+          "drug": "LUVOX",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+        },
+        {
+          "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-17T17:16:56.799Z",
       "addedDrugsCount": 5,
@@ -663,26 +749,6 @@
             "10000UNIT"
           ],
           "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-11-03T15:42:10.098Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "DANTRIUM CAPSULES",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-        },
-        {
-          "drug": "PROPOFOL INJECTION",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
         }
       ]
     }
