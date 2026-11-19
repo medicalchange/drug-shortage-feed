@@ -1,5 +1,145 @@
 [
   {
+    "id": "shortage:298161",
+    "reportId": 298161,
+    "type": "shortage",
+    "brandName": "GLYCOPYRROLATE INJECTION",
+    "status": "active_confirmed",
+    "din": "02382857",
+    "strength": "0.2MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-19T19:08:07.000Z",
+    "updateDate": "2026-11-19T19:08:07.000Z",
+    "postedDate": "2026-11-11T19:51:41.000Z"
+  },
+  {
+    "id": "shortage:272781",
+    "reportId": 272781,
+    "type": "shortage",
+    "brandName": "DEXAMETHASONE-OMEGA",
+    "status": "active_confirmed",
+    "din": "02204266",
+    "strength": "4MG",
+    "expectedBackInStockDate": "2027-04-30T04:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-19T19:05:14.000Z",
+    "updateDate": "2026-11-19T19:05:14.000Z",
+    "postedDate": "2025-11-28T03:31:50.000Z"
+  },
+  {
+    "id": "shortage:289686",
+    "reportId": 289686,
+    "type": "shortage",
+    "brandName": "BENZTROPINE OMEGA",
+    "status": "active_confirmed",
+    "din": "02238903",
+    "strength": "1MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-19T19:03:19.000Z",
+    "updateDate": "2026-11-19T19:03:19.000Z",
+    "postedDate": "2026-07-22T21:34:22.000Z"
+  },
+  {
+    "id": "shortage:295880",
+    "reportId": 295880,
+    "type": "shortage",
+    "brandName": "INSPRA",
+    "status": "active_confirmed",
+    "din": "02323052",
+    "strength": "25MG",
+    "expectedBackInStockDate": "2027-02-09T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-19T11:00:05.000Z",
+    "updateDate": "2026-11-19T11:00:05.000Z",
+    "postedDate": "2026-10-16T17:00:25.000Z"
+  },
+  {
+    "id": "shortage:298856",
+    "reportId": 298856,
+    "type": "shortage",
+    "brandName": "COVERSYL",
+    "status": "active_confirmed",
+    "din": "02123282",
+    "strength": "4MG",
+    "expectedBackInStockDate": "2026-12-02T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-19T02:04:22.000Z",
+    "updateDate": "2026-11-19T02:04:22.000Z",
+    "postedDate": "2026-11-19T01:55:22.000Z"
+  },
+  {
+    "id": "shortage:297890",
+    "reportId": 297890,
+    "type": "shortage",
+    "brandName": "NEORAL",
+    "status": "active_confirmed",
+    "din": "02237671",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-19T00:11:14.000Z",
+    "updateDate": "2026-11-19T00:11:14.000Z",
+    "postedDate": "2026-11-06T19:48:57.000Z"
+  },
+  {
+    "id": "shortage:295101",
+    "reportId": 295101,
+    "type": "shortage",
+    "brandName": "PMS-MOXIFLOXACIN",
+    "status": "active_confirmed",
+    "din": "02432218",
+    "strength": "0.5%",
+    "expectedBackInStockDate": "2026-12-23T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-18T23:50:20.000Z",
+    "updateDate": "2026-11-18T23:50:20.000Z",
+    "postedDate": "2026-10-05T16:31:29.000Z"
+  },
+  {
+    "id": "shortage:298839",
+    "reportId": 298839,
+    "type": "shortage",
+    "brandName": "PMS-AMIODARONE",
+    "status": "active_confirmed",
+    "din": "02242472",
+    "strength": "200MG",
+    "expectedBackInStockDate": "2026-12-03T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-18T23:47:46.000Z",
+    "updateDate": "2026-11-18T23:47:46.000Z",
+    "postedDate": "2026-11-18T23:47:27.000Z"
+  },
+  {
+    "id": "shortage:293465",
+    "reportId": 293465,
+    "type": "shortage",
+    "brandName": "SILENOR",
+    "status": "active_confirmed",
+    "din": "02398257",
+    "strength": "3MG",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-18T23:13:42.000Z",
+    "updateDate": "2026-11-18T23:13:42.000Z",
+    "postedDate": "2026-09-16T18:28:22.000Z"
+  },
+  {
+    "id": "shortage:297456",
+    "reportId": 297456,
+    "type": "shortage",
+    "brandName": "DANTRIUM CAPSULES",
+    "status": "active_confirmed",
+    "din": "01997602",
+    "strength": "25MG",
+    "expectedBackInStockDate": "2026-12-11T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-18T23:12:33.000Z",
+    "updateDate": "2026-11-18T23:12:33.000Z",
+    "postedDate": "2026-11-02T23:51:44.000Z"
+  },
+  {
     "id": "shortage:298830",
     "reportId": 298830,
     "type": "shortage",
@@ -600,20 +740,6 @@
     "updatedDate": "2026-11-17T21:36:49.000Z",
     "updateDate": "2026-11-17T21:36:49.000Z",
     "postedDate": "2026-10-20T16:17:49.000Z"
-  },
-  {
-    "id": "shortage:297893",
-    "reportId": 297893,
-    "type": "shortage",
-    "brandName": "NEORAL",
-    "status": "active_confirmed",
-    "din": "02150689",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-11-20T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-17T21:22:57.000Z",
-    "updateDate": "2026-11-17T21:22:57.000Z",
-    "postedDate": "2026-11-06T19:51:55.000Z"
   },
   {
     "id": "shortage:297948",
@@ -2310,34 +2436,6 @@
     "postedDate": "2026-07-22T23:12:51.000Z"
   },
   {
-    "id": "shortage:298164",
-    "reportId": 298164,
-    "type": "shortage",
-    "brandName": "GRANISETRON HYDROCHLORIDE INJECTION",
-    "status": "active_confirmed",
-    "din": "02322765",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-11-23T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-11T19:56:19.000Z",
-    "updateDate": "2026-11-11T19:56:19.000Z",
-    "postedDate": "2026-11-11T19:55:26.000Z"
-  },
-  {
-    "id": "shortage:298161",
-    "reportId": 298161,
-    "type": "shortage",
-    "brandName": "GLYCOPYRROLATE INJECTION",
-    "status": "active_confirmed",
-    "din": "02382857",
-    "strength": "0.2MG",
-    "expectedBackInStockDate": "2027-01-13T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-11T19:52:23.000Z",
-    "updateDate": "2026-11-11T19:52:23.000Z",
-    "postedDate": "2026-11-11T19:51:41.000Z"
-  },
-  {
     "id": "shortage:298151",
     "reportId": 298151,
     "type": "shortage",
@@ -2476,20 +2574,6 @@
     "updatedDate": "2026-11-11T03:15:44.000Z",
     "updateDate": "2026-11-11T03:15:44.000Z",
     "postedDate": "2026-11-04T02:05:33.000Z"
-  },
-  {
-    "id": "shortage:297890",
-    "reportId": 297890,
-    "type": "shortage",
-    "brandName": "NEORAL",
-    "status": "active_confirmed",
-    "din": "02237671",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-10T11:00:07.000Z",
-    "updateDate": "2026-11-10T11:00:07.000Z",
-    "postedDate": "2026-11-06T19:48:57.000Z"
   },
   {
     "id": "shortage:287555",
@@ -3948,20 +4032,6 @@
     "postedDate": "2026-08-07T20:29:39.000Z"
   },
   {
-    "id": "shortage:297456",
-    "reportId": 297456,
-    "type": "shortage",
-    "brandName": "DANTRIUM CAPSULES",
-    "status": "active_confirmed",
-    "din": "01997602",
-    "strength": "25MG",
-    "expectedBackInStockDate": "2026-11-20T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-02T23:53:23.000Z",
-    "updateDate": "2026-11-02T23:53:23.000Z",
-    "postedDate": "2026-11-02T23:51:44.000Z"
-  },
-  {
     "id": "shortage:293905",
     "reportId": 293905,
     "type": "shortage",
@@ -4074,20 +4144,6 @@
     "postedDate": "2026-10-05T16:29:37.000Z"
   },
   {
-    "id": "shortage:296417",
-    "reportId": 296417,
-    "type": "shortage",
-    "brandName": "ACCEL-ONDANSETRON ODT",
-    "status": "active_confirmed",
-    "din": "02535319",
-    "strength": "4MG",
-    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-01T10:00:02.000Z",
-    "updateDate": "2026-11-01T10:00:02.000Z",
-    "postedDate": "2026-10-26T17:58:16.000Z"
-  },
-  {
     "id": "shortage:296420",
     "reportId": 296420,
     "type": "shortage",
@@ -4100,6 +4156,20 @@
     "updatedDate": "2026-11-01T10:00:02.000Z",
     "updateDate": "2026-11-01T10:00:02.000Z",
     "postedDate": "2026-10-26T18:00:02.000Z"
+  },
+  {
+    "id": "shortage:296417",
+    "reportId": 296417,
+    "type": "shortage",
+    "brandName": "ACCEL-ONDANSETRON ODT",
+    "status": "active_confirmed",
+    "din": "02535319",
+    "strength": "4MG",
+    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-01T10:00:02.000Z",
+    "updateDate": "2026-11-01T10:00:02.000Z",
+    "postedDate": "2026-10-26T17:58:16.000Z"
   },
   {
     "id": "shortage:297361",
@@ -4970,20 +5040,6 @@
     "postedDate": "2026-10-06T00:05:56.000Z"
   },
   {
-    "id": "shortage:290049",
-    "reportId": 290049,
-    "type": "shortage",
-    "brandName": "MINT-VENLAFAXINE XR",
-    "status": "active_confirmed",
-    "din": "02522993",
-    "strength": "150MG",
-    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:52.000Z",
-    "updateDate": "2026-10-27T22:15:52.000Z",
-    "postedDate": "2026-07-28T22:00:20.000Z"
-  },
-  {
     "id": "shortage:290046",
     "reportId": 290046,
     "type": "shortage",
@@ -4996,6 +5052,20 @@
     "updatedDate": "2026-10-27T22:15:52.000Z",
     "updateDate": "2026-10-27T22:15:52.000Z",
     "postedDate": "2026-07-28T21:59:05.000Z"
+  },
+  {
+    "id": "shortage:290049",
+    "reportId": 290049,
+    "type": "shortage",
+    "brandName": "MINT-VENLAFAXINE XR",
+    "status": "active_confirmed",
+    "din": "02522993",
+    "strength": "150MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:52.000Z",
+    "updateDate": "2026-10-27T22:15:52.000Z",
+    "postedDate": "2026-07-28T22:00:20.000Z"
   },
   {
     "id": "shortage:290043",
@@ -5012,20 +5082,6 @@
     "postedDate": "2026-07-28T21:57:08.000Z"
   },
   {
-    "id": "shortage:290040",
-    "reportId": 290040,
-    "type": "shortage",
-    "brandName": "MINT-MEMANTINE",
-    "status": "active_confirmed",
-    "din": "02531887",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:50.000Z",
-    "updateDate": "2026-10-27T22:15:50.000Z",
-    "postedDate": "2026-07-28T21:53:29.000Z"
-  },
-  {
     "id": "shortage:290037",
     "reportId": 290037,
     "type": "shortage",
@@ -5038,6 +5094,20 @@
     "updatedDate": "2026-10-27T22:15:50.000Z",
     "updateDate": "2026-10-27T22:15:50.000Z",
     "postedDate": "2026-07-28T21:51:43.000Z"
+  },
+  {
+    "id": "shortage:290040",
+    "reportId": 290040,
+    "type": "shortage",
+    "brandName": "MINT-MEMANTINE",
+    "status": "active_confirmed",
+    "din": "02531887",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:50.000Z",
+    "updateDate": "2026-10-27T22:15:50.000Z",
+    "postedDate": "2026-07-28T21:53:29.000Z"
   },
   {
     "id": "shortage:289967",
@@ -5698,20 +5768,6 @@
     "postedDate": "2026-06-02T21:07:43.000Z"
   },
   {
-    "id": "shortage:293465",
-    "reportId": 293465,
-    "type": "shortage",
-    "brandName": "SILENOR",
-    "status": "active_confirmed",
-    "din": "02398257",
-    "strength": "3MG",
-    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-19T16:22:26.000Z",
-    "updateDate": "2026-10-19T16:22:26.000Z",
-    "postedDate": "2026-09-16T18:28:22.000Z"
-  },
-  {
     "id": "shortage:293470",
     "reportId": 293470,
     "type": "shortage",
@@ -6258,20 +6314,6 @@
     "postedDate": "2024-12-20T20:37:48.000Z"
   },
   {
-    "id": "shortage:295101",
-    "reportId": 295101,
-    "type": "shortage",
-    "brandName": "PMS-MOXIFLOXACIN",
-    "status": "active_confirmed",
-    "din": "02432218",
-    "strength": "0.5%",
-    "expectedBackInStockDate": "2026-12-07T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-05T16:31:41.000Z",
-    "updateDate": "2026-10-05T16:31:41.000Z",
-    "postedDate": "2026-10-05T16:31:29.000Z"
-  },
-  {
     "id": "shortage:285457",
     "reportId": 285457,
     "type": "shortage",
@@ -6438,20 +6480,6 @@
     "updatedDate": "2026-09-28T23:57:56.000Z",
     "updateDate": "2026-09-28T23:57:56.000Z",
     "postedDate": "2024-12-20T20:34:55.000Z"
-  },
-  {
-    "id": "shortage:294637",
-    "reportId": 294637,
-    "type": "shortage",
-    "brandName": "PMS-FLUCONAZOLE",
-    "status": "active_confirmed",
-    "din": "02245643",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-11-10T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-28T23:54:52.000Z",
-    "updateDate": "2026-09-28T23:54:52.000Z",
-    "postedDate": "2026-09-28T23:53:58.000Z"
   },
   {
     "id": "shortage:235814",
@@ -7434,20 +7462,6 @@
     "postedDate": "2026-08-05T19:40:10.000Z"
   },
   {
-    "id": "shortage:272781",
-    "reportId": 272781,
-    "type": "shortage",
-    "brandName": "DEXAMETHASONE-OMEGA",
-    "status": "active_confirmed",
-    "din": "02204266",
-    "strength": "4MG",
-    "expectedBackInStockDate": "2026-12-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-09-02T17:38:34.000Z",
-    "updateDate": "2026-09-02T17:38:34.000Z",
-    "postedDate": "2025-11-28T03:31:50.000Z"
-  },
-  {
     "id": "shortage:278912",
     "reportId": 278912,
     "type": "shortage",
@@ -7810,20 +7824,6 @@
     "updatedDate": "2026-07-29T22:54:04.000Z",
     "updateDate": "2026-07-29T22:54:04.000Z",
     "postedDate": "2026-03-04T01:20:12.000Z"
-  },
-  {
-    "id": "shortage:289686",
-    "reportId": 289686,
-    "type": "shortage",
-    "brandName": "BENZTROPINE OMEGA",
-    "status": "active_confirmed",
-    "din": "02238903",
-    "strength": "1MG",
-    "expectedBackInStockDate": "2026-12-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-07-29T21:25:15.000Z",
-    "updateDate": "2026-07-29T21:25:15.000Z",
-    "postedDate": "2026-07-22T21:34:22.000Z"
   },
   {
     "id": "shortage:281063",

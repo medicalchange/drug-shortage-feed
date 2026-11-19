@@ -1,69 +1,59 @@
 {
-  "count": 358,
-  "refreshedAt": "2026-11-18T16:52:22.557Z",
+  "count": 360,
+  "refreshedAt": "2026-11-19T16:59:10.831Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 8,
+  "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "ADMELOG SOLOSTAR",
+      "drug": "AMIODARONE",
       "doses": [
-        "100UNIT"
+        "200MG"
       ],
-      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-03T05:00:00.000Z"
     },
     {
-      "drug": "AZITHROMYCIN Z",
+      "drug": "COVERSYL",
       "doses": [
-        "250MG"
+        "4MG"
       ],
-      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-02T05:00:00.000Z"
     },
     {
-      "drug": "BENDAMUSTINE",
+      "drug": "INSPRA",
       "doses": [
-        "100MG",
         "25MG"
       ],
-      "expectedBackInStockDate": "2027-12-31T05:00:00.000Z"
-    },
-    {
-      "drug": "DIVALPROEX",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
-    },
-    {
-      "drug": "DORZO-TIMOP",
-      "doses": [
-        "20MG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-    },
-    {
-      "drug": "GLICLAZIDE MR",
-      "doses": [
-        "60MG"
-      ],
-      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
-    },
-    {
-      "drug": "LUVOX",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
-    },
-    {
-      "drug": "PARIET, ENTERIC-COATED TABLET 20MG",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-19T16:59:10.831Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "AMIODARONE",
+          "doses": [
+            "200MG"
+          ],
+          "expectedBackInStockDate": "2026-12-03T05:00:00.000Z"
+        },
+        {
+          "drug": "COVERSYL",
+          "doses": [
+            "4MG"
+          ],
+          "expectedBackInStockDate": "2026-12-02T05:00:00.000Z"
+        },
+        {
+          "drug": "INSPRA",
+          "doses": [
+            "25MG"
+          ],
+          "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-18T16:52:22.557Z",
       "addedDrugsCount": 8,
@@ -690,68 +680,6 @@
           "expectedBackInStockDate": "2026-12-09T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-11-04T15:54:21.721Z",
-      "addedDrugsCount": 8,
-      "addedDrugs": [
-        {
-          "drug": "ACUVAIL",
-          "doses": [
-            "0.45%"
-          ],
-          "expectedBackInStockDate": "2026-11-18T05:00:00.000Z"
-        },
-        {
-          "drug": "CLOXACILLIN",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-        },
-        {
-          "drug": "DARIFENACIN",
-          "doses": [
-            "15MG"
-          ],
-          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
-        },
-        {
-          "drug": "METHOTREXATE INJECTION",
-          "doses": [
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-        },
-        {
-          "drug": "TOPIRAMATE TABLETS",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-        },
-        {
-          "drug": "TOUJEO DOUBLESTAR",
-          "doses": [
-            "300UNIT"
-          ],
-          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
-        },
-        {
-          "drug": "VALPROIC ACID ORAL SOLUTION",
-          "doses": [
-            "250MG"
-          ],
-          "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
-        },
-        {
-          "drug": "VITAMIN D",
-          "doses": [
-            "10000UNIT"
-          ],
-          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -871,6 +799,13 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-06-30T04:00:00.000Z"
+    },
+    {
+      "drug": "AMIODARONE",
+      "doses": [
+        "200MG"
+      ],
+      "expectedBackInStockDate": "2026-12-03T05:00:00.000Z"
     },
     {
       "drug": "AMLODIPINE",
@@ -1010,7 +945,7 @@
       "doses": [
         "1MG"
       ],
-      "expectedBackInStockDate": "2026-12-31T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
       "drug": "BICILLIN L-A",
@@ -1345,6 +1280,13 @@
       "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     },
     {
+      "drug": "COVERSYL",
+      "doses": [
+        "4MG"
+      ],
+      "expectedBackInStockDate": "2026-12-02T05:00:00.000Z"
+    },
+    {
       "drug": "CYCLOBENZAPRINE - TAB 10MG",
       "doses": [
         "10MG"
@@ -1363,7 +1305,7 @@
       "doses": [
         "25MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
       "drug": "DANTROLENE SODIUM FOR INJECTION, USP",
@@ -1809,10 +1751,9 @@
     {
       "drug": "FLUCONAZOLE",
       "doses": [
-        "100MG",
-        "50MG"
+        "100MG"
       ],
-      "expectedBackInStockDate": "2026-11-10T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
     },
     {
       "drug": "FLUMIST",
@@ -1893,14 +1834,7 @@
       "doses": [
         "0.2MG"
       ],
-      "expectedBackInStockDate": "2027-01-13T05:00:00.000Z"
-    },
-    {
-      "drug": "GRANISETRON HYDROCHLORIDE INJECTION",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
       "drug": "HALOPERIDOL",
@@ -1962,6 +1896,13 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+    },
+    {
+      "drug": "INSPRA",
+      "doses": [
+        "25MG"
+      ],
+      "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
     },
     {
       "drug": "IRBESARTAN-HCTZ",
@@ -2337,10 +2278,9 @@
     {
       "drug": "NEORAL",
       "doses": [
-        "10MG",
-        "25MG"
+        "10MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "NEURONTIN",
