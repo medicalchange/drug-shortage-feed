@@ -1,5 +1,131 @@
 [
   {
+    "id": "shortage:298907",
+    "reportId": 298907,
+    "type": "shortage",
+    "brandName": "DEXTROSE INJECTION",
+    "status": "active_confirmed",
+    "din": "02517132",
+    "strength": "50%",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-20T21:31:34.000Z",
+    "updateDate": "2026-11-20T21:31:34.000Z",
+    "postedDate": "2026-11-20T21:30:02.000Z"
+  },
+  {
+    "id": "shortage:298902",
+    "reportId": 298902,
+    "type": "shortage",
+    "brandName": "MAR-DILTIAZEM CD",
+    "status": "active_confirmed",
+    "din": "02484072",
+    "strength": "180MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-20T21:26:00.000Z",
+    "updateDate": "2026-11-20T21:26:00.000Z",
+    "postedDate": "2026-11-20T21:25:06.000Z"
+  },
+  {
+    "id": "shortage:298897",
+    "reportId": 298897,
+    "type": "shortage",
+    "brandName": "KETAMINE INJECTION, BP",
+    "status": "active_confirmed",
+    "din": "02535645",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-20T18:56:33.000Z",
+    "updateDate": "2026-11-20T18:56:33.000Z",
+    "postedDate": "2026-11-20T18:55:11.000Z"
+  },
+  {
+    "id": "shortage:298848",
+    "reportId": 298848,
+    "type": "shortage",
+    "brandName": "DIACOMIT",
+    "status": "active_confirmed",
+    "din": "02398966",
+    "strength": "500MG",
+    "expectedBackInStockDate": "2026-12-23T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-20T17:16:07.000Z",
+    "updateDate": "2026-11-20T17:16:07.000Z",
+    "postedDate": "2026-11-19T01:03:19.000Z"
+  },
+  {
+    "id": "shortage:297373",
+    "reportId": 297373,
+    "type": "shortage",
+    "brandName": "CIPRODEX",
+    "status": "active_confirmed",
+    "din": "02252716",
+    "strength": "0.1%\n0.3%",
+    "expectedBackInStockDate": "2026-12-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-20T11:00:05.000Z",
+    "updateDate": "2026-11-20T11:00:05.000Z",
+    "postedDate": "2026-10-31T01:48:21.000Z"
+  },
+  {
+    "id": "shortage:272933",
+    "reportId": 272933,
+    "type": "shortage",
+    "brandName": "MIOCHOL-E",
+    "status": "active_confirmed",
+    "din": "02133326",
+    "strength": "20MG",
+    "expectedBackInStockDate": "2027-01-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-20T02:54:53.000Z",
+    "updateDate": "2026-11-20T02:54:53.000Z",
+    "postedDate": "2025-12-01T21:48:41.000Z"
+  },
+  {
+    "id": "shortage:298879",
+    "reportId": 298879,
+    "type": "shortage",
+    "brandName": "WAKIX",
+    "status": "active_confirmed",
+    "din": "02516241",
+    "strength": "5MG",
+    "expectedBackInStockDate": "2026-12-12T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-19T23:18:16.000Z",
+    "updateDate": "2026-11-19T23:18:16.000Z",
+    "postedDate": "2026-11-19T23:17:49.000Z"
+  },
+  {
+    "id": "shortage:298836",
+    "reportId": 298836,
+    "type": "shortage",
+    "brandName": "OMNIPAQUE 240",
+    "status": "active_confirmed",
+    "din": "02172739",
+    "strength": "518MG",
+    "expectedBackInStockDate": "2027-02-10T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-19T22:07:37.000Z",
+    "updateDate": "2026-11-19T22:07:37.000Z",
+    "postedDate": "2026-11-18T23:26:06.000Z"
+  },
+  {
+    "id": "shortage:298874",
+    "reportId": 298874,
+    "type": "shortage",
+    "brandName": "ICATIBANT INJECTION",
+    "status": "active_confirmed",
+    "din": "02547562",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2026-12-18T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-19T22:02:22.000Z",
+    "updateDate": "2026-11-19T22:02:22.000Z",
+    "postedDate": "2026-11-19T21:58:37.000Z"
+  },
+  {
     "id": "shortage:298161",
     "reportId": 298161,
     "type": "shortage",
@@ -4144,20 +4270,6 @@
     "postedDate": "2026-10-05T16:29:37.000Z"
   },
   {
-    "id": "shortage:296420",
-    "reportId": 296420,
-    "type": "shortage",
-    "brandName": "ACCEL-ONDANSETRON ODT",
-    "status": "active_confirmed",
-    "din": "02535327",
-    "strength": "8MG",
-    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-01T10:00:02.000Z",
-    "updateDate": "2026-11-01T10:00:02.000Z",
-    "postedDate": "2026-10-26T18:00:02.000Z"
-  },
-  {
     "id": "shortage:296417",
     "reportId": 296417,
     "type": "shortage",
@@ -4170,6 +4282,20 @@
     "updatedDate": "2026-11-01T10:00:02.000Z",
     "updateDate": "2026-11-01T10:00:02.000Z",
     "postedDate": "2026-10-26T17:58:16.000Z"
+  },
+  {
+    "id": "shortage:296420",
+    "reportId": 296420,
+    "type": "shortage",
+    "brandName": "ACCEL-ONDANSETRON ODT",
+    "status": "active_confirmed",
+    "din": "02535327",
+    "strength": "8MG",
+    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-01T10:00:02.000Z",
+    "updateDate": "2026-11-01T10:00:02.000Z",
+    "postedDate": "2026-10-26T18:00:02.000Z"
   },
   {
     "id": "shortage:297361",
@@ -4816,18 +4942,18 @@
     "postedDate": "2026-10-09T18:48:18.000Z"
   },
   {
-    "id": "shortage:294345",
-    "reportId": 294345,
+    "id": "shortage:289077",
+    "reportId": 289077,
     "type": "shortage",
-    "brandName": "TRAVATAN Z",
+    "brandName": "TOPIRAMATE",
     "status": "active_confirmed",
-    "din": "02318008",
-    "strength": "0.004%",
-    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "din": "02356864",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
     "resolved": false,
-    "updatedDate": "2026-10-27T22:16:49.000Z",
-    "updateDate": "2026-10-27T22:16:49.000Z",
-    "postedDate": "2026-09-25T18:29:16.000Z"
+    "updatedDate": "2026-10-27T22:16:48.000Z",
+    "updateDate": "2026-10-27T22:16:48.000Z",
+    "postedDate": "2026-07-13T18:22:28.000Z"
   },
   {
     "id": "shortage:289080",
@@ -4842,20 +4968,6 @@
     "updatedDate": "2026-10-27T22:16:48.000Z",
     "updateDate": "2026-10-27T22:16:48.000Z",
     "postedDate": "2026-07-13T18:23:34.000Z"
-  },
-  {
-    "id": "shortage:289077",
-    "reportId": 289077,
-    "type": "shortage",
-    "brandName": "TOPIRAMATE",
-    "status": "active_confirmed",
-    "din": "02356864",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:48.000Z",
-    "updateDate": "2026-10-27T22:16:48.000Z",
-    "postedDate": "2026-07-13T18:22:28.000Z"
   },
   {
     "id": "shortage:295211",
@@ -4886,6 +4998,20 @@
     "postedDate": "2026-10-15T05:21:00.000Z"
   },
   {
+    "id": "shortage:294506",
+    "reportId": 294506,
+    "type": "shortage",
+    "brandName": "TAMIFLU",
+    "status": "active_confirmed",
+    "din": "02381842",
+    "strength": "6MG",
+    "expectedBackInStockDate": "2026-12-01T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:16:21.000Z",
+    "updateDate": "2026-10-27T22:16:21.000Z",
+    "postedDate": "2026-09-25T22:48:57.000Z"
+  },
+  {
     "id": "shortage:289074",
     "reportId": 289074,
     "type": "shortage",
@@ -4912,20 +5038,6 @@
     "updatedDate": "2026-10-27T22:16:21.000Z",
     "updateDate": "2026-10-27T22:16:21.000Z",
     "postedDate": "2026-09-23T17:08:13.000Z"
-  },
-  {
-    "id": "shortage:294506",
-    "reportId": 294506,
-    "type": "shortage",
-    "brandName": "TAMIFLU",
-    "status": "active_confirmed",
-    "din": "02381842",
-    "strength": "6MG",
-    "expectedBackInStockDate": "2026-12-01T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:21.000Z",
-    "updateDate": "2026-10-27T22:16:21.000Z",
-    "postedDate": "2026-09-25T22:48:57.000Z"
   },
   {
     "id": "shortage:295683",
@@ -5040,20 +5152,6 @@
     "postedDate": "2026-10-06T00:05:56.000Z"
   },
   {
-    "id": "shortage:290046",
-    "reportId": 290046,
-    "type": "shortage",
-    "brandName": "MINT-VENLAFAXINE XR",
-    "status": "active_confirmed",
-    "din": "02522985",
-    "strength": "75MG",
-    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:52.000Z",
-    "updateDate": "2026-10-27T22:15:52.000Z",
-    "postedDate": "2026-07-28T21:59:05.000Z"
-  },
-  {
     "id": "shortage:290049",
     "reportId": 290049,
     "type": "shortage",
@@ -5066,6 +5164,20 @@
     "updatedDate": "2026-10-27T22:15:52.000Z",
     "updateDate": "2026-10-27T22:15:52.000Z",
     "postedDate": "2026-07-28T22:00:20.000Z"
+  },
+  {
+    "id": "shortage:290046",
+    "reportId": 290046,
+    "type": "shortage",
+    "brandName": "MINT-VENLAFAXINE XR",
+    "status": "active_confirmed",
+    "din": "02522985",
+    "strength": "75MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:52.000Z",
+    "updateDate": "2026-10-27T22:15:52.000Z",
+    "postedDate": "2026-07-28T21:59:05.000Z"
   },
   {
     "id": "shortage:290043",
@@ -5082,20 +5194,6 @@
     "postedDate": "2026-07-28T21:57:08.000Z"
   },
   {
-    "id": "shortage:290037",
-    "reportId": 290037,
-    "type": "shortage",
-    "brandName": "MINT-ENTACAPONE",
-    "status": "active_confirmed",
-    "din": "02535939",
-    "strength": "200MG",
-    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:50.000Z",
-    "updateDate": "2026-10-27T22:15:50.000Z",
-    "postedDate": "2026-07-28T21:51:43.000Z"
-  },
-  {
     "id": "shortage:290040",
     "reportId": 290040,
     "type": "shortage",
@@ -5108,6 +5206,20 @@
     "updatedDate": "2026-10-27T22:15:50.000Z",
     "updateDate": "2026-10-27T22:15:50.000Z",
     "postedDate": "2026-07-28T21:53:29.000Z"
+  },
+  {
+    "id": "shortage:290037",
+    "reportId": 290037,
+    "type": "shortage",
+    "brandName": "MINT-ENTACAPONE",
+    "status": "active_confirmed",
+    "din": "02535939",
+    "strength": "200MG",
+    "expectedBackInStockDate": "2027-01-31T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:50.000Z",
+    "updateDate": "2026-10-27T22:15:50.000Z",
+    "postedDate": "2026-07-28T21:51:43.000Z"
   },
   {
     "id": "shortage:289967",
@@ -5180,20 +5292,6 @@
     "postedDate": "2026-09-03T00:09:36.000Z"
   },
   {
-    "id": "shortage:296044",
-    "reportId": 296044,
-    "type": "shortage",
-    "brandName": "FINACEA",
-    "status": "active_confirmed",
-    "din": "02270811",
-    "strength": "15%",
-    "expectedBackInStockDate": "2027-01-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:28.000Z",
-    "updateDate": "2026-10-27T22:15:28.000Z",
-    "postedDate": "2026-10-19T17:43:31.000Z"
-  },
-  {
     "id": "shortage:295205",
     "reportId": 295205,
     "type": "shortage",
@@ -5206,6 +5304,20 @@
     "updatedDate": "2026-10-27T22:15:28.000Z",
     "updateDate": "2026-10-27T22:15:28.000Z",
     "postedDate": "2026-10-05T18:18:06.000Z"
+  },
+  {
+    "id": "shortage:296044",
+    "reportId": 296044,
+    "type": "shortage",
+    "brandName": "FINACEA",
+    "status": "active_confirmed",
+    "din": "02270811",
+    "strength": "15%",
+    "expectedBackInStockDate": "2027-01-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:28.000Z",
+    "updateDate": "2026-10-27T22:15:28.000Z",
+    "postedDate": "2026-10-19T17:43:31.000Z"
   },
   {
     "id": "shortage:296115",
@@ -5250,20 +5362,6 @@
     "postedDate": "2026-08-10T23:37:16.000Z"
   },
   {
-    "id": "shortage:295528",
-    "reportId": 295528,
-    "type": "shortage",
-    "brandName": "DIFLUCAN",
-    "status": "active_confirmed",
-    "din": "02024152",
-    "strength": "50MG",
-    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:15:22.000Z",
-    "updateDate": "2026-10-27T22:15:22.000Z",
-    "postedDate": "2026-10-09T19:37:51.000Z"
-  },
-  {
     "id": "shortage:285007",
     "reportId": 285007,
     "type": "shortage",
@@ -5276,6 +5374,20 @@
     "updatedDate": "2026-10-27T22:15:22.000Z",
     "updateDate": "2026-10-27T22:15:22.000Z",
     "postedDate": "2026-05-12T00:32:01.000Z"
+  },
+  {
+    "id": "shortage:295528",
+    "reportId": 295528,
+    "type": "shortage",
+    "brandName": "DIFLUCAN",
+    "status": "active_confirmed",
+    "din": "02024152",
+    "strength": "50MG",
+    "expectedBackInStockDate": "2026-11-30T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:15:22.000Z",
+    "updateDate": "2026-10-27T22:15:22.000Z",
+    "postedDate": "2026-10-09T19:37:51.000Z"
   },
   {
     "id": "shortage:295666",
@@ -5948,20 +6060,6 @@
     "updatedDate": "2026-10-15T00:07:57.000Z",
     "updateDate": "2026-10-15T00:07:57.000Z",
     "postedDate": "2026-10-15T00:07:47.000Z"
-  },
-  {
-    "id": "shortage:272933",
-    "reportId": 272933,
-    "type": "shortage",
-    "brandName": "MIOCHOL-E",
-    "status": "active_confirmed",
-    "din": "02133326",
-    "strength": "20MG",
-    "expectedBackInStockDate": "2026-12-20T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-13T15:45:20.000Z",
-    "updateDate": "2026-10-13T15:45:20.000Z",
-    "postedDate": "2025-12-01T21:48:41.000Z"
   },
   {
     "id": "shortage:295630",

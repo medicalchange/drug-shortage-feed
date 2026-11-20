@@ -1,31 +1,116 @@
 {
-  "refreshedAt": "2026-11-19T16:59:10.831Z",
-  "count": 609,
-  "addedDrugsCount": 3,
+  "refreshedAt": "2026-11-20T16:34:36.577Z",
+  "count": 616,
+  "addedDrugsCount": 7,
   "addedDrugs": [
     {
-      "drug": "AMIODARONE",
+      "drug": "CIPRODEX",
       "doses": [
-        "200MG"
+        "0.1%",
+        "0.3%"
       ],
-      "expectedBackInStockDate": "2026-12-03T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
     },
     {
-      "drug": "COVERSYL",
+      "drug": "DEXTROSE INJECTION",
       "doses": [
-        "4MG"
+        "50%"
       ],
-      "expectedBackInStockDate": "2026-12-02T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
-      "drug": "INSPRA",
+      "drug": "DIACOMIT",
       "doses": [
-        "25MG"
+        "500MG"
       ],
-      "expectedBackInStockDate": "2027-02-09T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-23T05:00:00.000Z"
+    },
+    {
+      "drug": "ICATIBANT INJECTION",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+    },
+    {
+      "drug": "KETAMINE INJECTION, BP",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
+    },
+    {
+      "drug": "OMNIPAQUE 240",
+      "doses": [
+        "518MG"
+      ],
+      "expectedBackInStockDate": "2027-02-10T05:00:00.000Z"
+    },
+    {
+      "drug": "WAKIX",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-12-12T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-20T16:34:36.577Z",
+      "addedDrugsCount": 7,
+      "addedDrugs": [
+        {
+          "drug": "CIPRODEX",
+          "doses": [
+            "0.1%",
+            "0.3%"
+          ],
+          "expectedBackInStockDate": "2026-12-15T05:00:00.000Z"
+        },
+        {
+          "drug": "DEXTROSE INJECTION",
+          "doses": [
+            "50%"
+          ],
+          "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
+        },
+        {
+          "drug": "DIACOMIT",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-12-23T05:00:00.000Z"
+        },
+        {
+          "drug": "ICATIBANT INJECTION",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        },
+        {
+          "drug": "KETAMINE INJECTION, BP",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
+        },
+        {
+          "drug": "OMNIPAQUE 240",
+          "doses": [
+            "518MG"
+          ],
+          "expectedBackInStockDate": "2027-02-10T05:00:00.000Z"
+        },
+        {
+          "drug": "WAKIX",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-12-12T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-19T16:59:10.831Z",
       "addedDrugsCount": 3,
@@ -640,43 +725,6 @@
             "3MG"
           ],
           "expectedBackInStockDate": "2026-11-13T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-11-05T15:59:29.406Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "ABRILADA",
-          "doses": [
-            "20MG"
-          ],
-          "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
-        },
-        {
-          "drug": "CASPOFUNGIN FOR INJECTION",
-          "doses": [
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2027-10-30T04:00:00.000Z"
-        },
-        {
-          "drug": "MAXITROL",
-          "doses": [
-            "0.1%",
-            "3.5MG",
-            "6000UNIT"
-          ],
-          "expectedBackInStockDate": "2026-12-10T05:00:00.000Z"
-        },
-        {
-          "drug": "TOBRADEX",
-          "doses": [
-            "0.1%",
-            "0.3%"
-          ],
-          "expectedBackInStockDate": "2026-12-09T05:00:00.000Z"
         }
       ]
     }
