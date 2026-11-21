@@ -1,5 +1,47 @@
 [
   {
+    "id": "shortage:295241",
+    "reportId": 295241,
+    "type": "shortage",
+    "brandName": "LONITEN 10MG",
+    "status": "active_confirmed",
+    "din": "00514500",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2027-02-26T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-21T01:30:17.000Z",
+    "updateDate": "2026-11-21T01:30:17.000Z",
+    "postedDate": "2026-10-05T22:27:29.000Z"
+  },
+  {
+    "id": "shortage:287418",
+    "reportId": 287418,
+    "type": "shortage",
+    "brandName": "LONITEN 2.5MG",
+    "status": "active_confirmed",
+    "din": "00514497",
+    "strength": "2.5MG",
+    "expectedBackInStockDate": "2027-02-17T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-21T01:29:29.000Z",
+    "updateDate": "2026-11-21T01:29:29.000Z",
+    "postedDate": "2026-06-17T14:49:25.000Z"
+  },
+  {
+    "id": "shortage:296216",
+    "reportId": 296216,
+    "type": "shortage",
+    "brandName": "TEMODAL",
+    "status": "active_confirmed",
+    "din": "02312794",
+    "strength": "140MG",
+    "expectedBackInStockDate": "2026-12-04T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-21T00:12:42.000Z",
+    "updateDate": "2026-11-21T00:12:42.000Z",
+    "postedDate": "2026-10-22T17:35:04.000Z"
+  },
+  {
     "id": "shortage:298907",
     "reportId": 298907,
     "type": "shortage",
@@ -1790,20 +1832,6 @@
     "updatedDate": "2026-11-13T23:25:57.000Z",
     "updateDate": "2026-11-13T23:25:57.000Z",
     "postedDate": "2026-11-11T01:07:40.000Z"
-  },
-  {
-    "id": "shortage:298102",
-    "reportId": 298102,
-    "type": "shortage",
-    "brandName": "ZENHALE",
-    "status": "active_confirmed",
-    "din": "02361760",
-    "strength": "200MCG\n5MCG",
-    "expectedBackInStockDate": "2026-11-20T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-13T21:47:40.000Z",
-    "updateDate": "2026-11-13T21:47:40.000Z",
-    "postedDate": "2026-11-11T02:16:32.000Z"
   },
   {
     "id": "shortage:292686",
@@ -4270,20 +4298,6 @@
     "postedDate": "2026-10-05T16:29:37.000Z"
   },
   {
-    "id": "shortage:296417",
-    "reportId": 296417,
-    "type": "shortage",
-    "brandName": "ACCEL-ONDANSETRON ODT",
-    "status": "active_confirmed",
-    "din": "02535319",
-    "strength": "4MG",
-    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-01T10:00:02.000Z",
-    "updateDate": "2026-11-01T10:00:02.000Z",
-    "postedDate": "2026-10-26T17:58:16.000Z"
-  },
-  {
     "id": "shortage:296420",
     "reportId": 296420,
     "type": "shortage",
@@ -4296,6 +4310,20 @@
     "updatedDate": "2026-11-01T10:00:02.000Z",
     "updateDate": "2026-11-01T10:00:02.000Z",
     "postedDate": "2026-10-26T18:00:02.000Z"
+  },
+  {
+    "id": "shortage:296417",
+    "reportId": 296417,
+    "type": "shortage",
+    "brandName": "ACCEL-ONDANSETRON ODT",
+    "status": "active_confirmed",
+    "din": "02535319",
+    "strength": "4MG",
+    "expectedBackInStockDate": "2026-11-15T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-01T10:00:02.000Z",
+    "updateDate": "2026-11-01T10:00:02.000Z",
+    "postedDate": "2026-10-26T17:58:16.000Z"
   },
   {
     "id": "shortage:297361",
@@ -4942,20 +4970,6 @@
     "postedDate": "2026-10-09T18:48:18.000Z"
   },
   {
-    "id": "shortage:289077",
-    "reportId": 289077,
-    "type": "shortage",
-    "brandName": "TOPIRAMATE",
-    "status": "active_confirmed",
-    "din": "02356864",
-    "strength": "100MG",
-    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-27T22:16:48.000Z",
-    "updateDate": "2026-10-27T22:16:48.000Z",
-    "postedDate": "2026-07-13T18:22:28.000Z"
-  },
-  {
     "id": "shortage:289080",
     "reportId": 289080,
     "type": "shortage",
@@ -4968,6 +4982,20 @@
     "updatedDate": "2026-10-27T22:16:48.000Z",
     "updateDate": "2026-10-27T22:16:48.000Z",
     "postedDate": "2026-07-13T18:23:34.000Z"
+  },
+  {
+    "id": "shortage:289077",
+    "reportId": 289077,
+    "type": "shortage",
+    "brandName": "TOPIRAMATE",
+    "status": "active_confirmed",
+    "din": "02356864",
+    "strength": "100MG",
+    "expectedBackInStockDate": "2026-11-27T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-10-27T22:16:48.000Z",
+    "updateDate": "2026-10-27T22:16:48.000Z",
+    "postedDate": "2026-07-13T18:22:28.000Z"
   },
   {
     "id": "shortage:295211",
@@ -4998,18 +5026,18 @@
     "postedDate": "2026-10-15T05:21:00.000Z"
   },
   {
-    "id": "shortage:294506",
-    "reportId": 294506,
+    "id": "shortage:294156",
+    "reportId": 294156,
     "type": "shortage",
-    "brandName": "TAMIFLU",
+    "brandName": "TADALAFIL",
     "status": "active_confirmed",
-    "din": "02381842",
-    "strength": "6MG",
-    "expectedBackInStockDate": "2026-12-01T05:00:00.000Z",
+    "din": "02457024",
+    "strength": "10MG",
+    "expectedBackInStockDate": "2027-01-29T05:00:00.000Z",
     "resolved": false,
     "updatedDate": "2026-10-27T22:16:21.000Z",
     "updateDate": "2026-10-27T22:16:21.000Z",
-    "postedDate": "2026-09-25T22:48:57.000Z"
+    "postedDate": "2026-09-23T17:08:13.000Z"
   },
   {
     "id": "shortage:289074",
@@ -5026,18 +5054,18 @@
     "postedDate": "2026-07-13T18:20:53.000Z"
   },
   {
-    "id": "shortage:294156",
-    "reportId": 294156,
+    "id": "shortage:294506",
+    "reportId": 294506,
     "type": "shortage",
-    "brandName": "TADALAFIL",
+    "brandName": "TAMIFLU",
     "status": "active_confirmed",
-    "din": "02457024",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2027-01-29T05:00:00.000Z",
+    "din": "02381842",
+    "strength": "6MG",
+    "expectedBackInStockDate": "2026-12-01T05:00:00.000Z",
     "resolved": false,
     "updatedDate": "2026-10-27T22:16:21.000Z",
     "updateDate": "2026-10-27T22:16:21.000Z",
-    "postedDate": "2026-09-23T17:08:13.000Z"
+    "postedDate": "2026-09-25T22:48:57.000Z"
   },
   {
     "id": "shortage:295683",
@@ -6270,20 +6298,6 @@
     "updatedDate": "2026-10-06T15:52:01.000Z",
     "updateDate": "2026-10-06T15:52:01.000Z",
     "postedDate": "2026-10-05T17:26:53.000Z"
-  },
-  {
-    "id": "shortage:295241",
-    "reportId": 295241,
-    "type": "shortage",
-    "brandName": "LONITEN 10MG",
-    "status": "active_confirmed",
-    "din": "00514500",
-    "strength": "10MG",
-    "expectedBackInStockDate": "2027-01-29T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-10-05T22:28:00.000Z",
-    "updateDate": "2026-10-05T22:28:00.000Z",
-    "postedDate": "2026-10-05T22:27:29.000Z"
   },
   {
     "id": "shortage:291124",
@@ -7656,20 +7670,6 @@
     "updatedDate": "2026-08-26T06:04:50.000Z",
     "updateDate": "2026-08-26T06:04:50.000Z",
     "postedDate": "2026-07-22T23:26:32.000Z"
-  },
-  {
-    "id": "shortage:287418",
-    "reportId": 287418,
-    "type": "shortage",
-    "brandName": "LONITEN 2.5MG",
-    "status": "active_confirmed",
-    "din": "00514497",
-    "strength": "2.5MG",
-    "expectedBackInStockDate": "2026-11-20T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-08-21T23:18:33.000Z",
-    "updateDate": "2026-08-21T23:18:33.000Z",
-    "postedDate": "2026-06-17T14:49:25.000Z"
   },
   {
     "id": "shortage:233582",
