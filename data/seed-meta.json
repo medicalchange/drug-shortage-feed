@@ -1,17 +1,14 @@
 {
-  "refreshedAt": "2026-11-21T15:51:18.604Z",
+  "refreshedAt": "2026-11-22T15:50:33.447Z",
   "count": 616,
-  "addedDrugsCount": 1,
-  "addedDrugs": [
-    {
-      "drug": "TEMODAL",
-      "doses": [
-        "140MG"
-      ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-    }
-  ],
+  "addedDrugsCount": 0,
+  "addedDrugs": [],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-22T15:50:33.447Z",
+      "addedDrugsCount": 0,
+      "addedDrugs": []
+    },
     {
       "refreshedAt": "2026-11-21T15:51:18.604Z",
       "addedDrugsCount": 1,
@@ -587,27 +584,6 @@
             "1000MCG"
           ],
           "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-11-08T14:41:25.366Z",
-      "addedDrugsCount": 2,
-      "addedDrugs": [
-        {
-          "drug": "CADUET",
-          "doses": [
-            "10MG",
-            "40MG"
-          ],
-          "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
-        },
-        {
-          "drug": "VIAGRA",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-11-24T05:00:00.000Z"
         }
       ]
     }

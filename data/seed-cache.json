@@ -1,5 +1,19 @@
 [
   {
+    "id": "shortage:282788",
+    "reportId": 282788,
+    "type": "shortage",
+    "brandName": "NAT-SUNITINIB",
+    "status": "active_confirmed",
+    "din": "02552892",
+    "strength": "12.5MG",
+    "expectedBackInStockDate": "2026-11-29T05:00:00.000Z",
+    "resolved": false,
+    "updatedDate": "2026-11-22T19:45:02.000Z",
+    "updateDate": "2026-11-22T19:45:02.000Z",
+    "postedDate": "2026-04-13T23:52:03.000Z"
+  },
+  {
     "id": "shortage:295241",
     "reportId": 295241,
     "type": "shortage",
@@ -2434,20 +2448,6 @@
     "updatedDate": "2026-11-13T02:14:08.000Z",
     "updateDate": "2026-11-13T02:14:08.000Z",
     "postedDate": "2026-09-11T19:22:22.000Z"
-  },
-  {
-    "id": "shortage:282788",
-    "reportId": 282788,
-    "type": "shortage",
-    "brandName": "NAT-SUNITINIB",
-    "status": "active_confirmed",
-    "din": "02552892",
-    "strength": "12.5MG",
-    "expectedBackInStockDate": "2026-11-22T05:00:00.000Z",
-    "resolved": false,
-    "updatedDate": "2026-11-13T01:45:44.000Z",
-    "updateDate": "2026-11-13T01:45:44.000Z",
-    "postedDate": "2026-04-13T23:52:03.000Z"
   },
   {
     "id": "shortage:298217",
