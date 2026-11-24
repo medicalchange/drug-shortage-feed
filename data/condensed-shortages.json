@@ -1,68 +1,189 @@
 {
-  "count": 367,
-  "refreshedAt": "2026-11-23T19:43:31.607Z",
+  "count": 379,
+  "refreshedAt": "2026-11-24T19:16:04.299Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 8,
+  "addedDrugsCount": 12,
   "addedDrugs": [
     {
-      "drug": "ACETYLCYSTEINE SOLUTION",
+      "drug": "DIPHENHYDRAMINE HYDROCHLORIDE INJECTION, USP",
       "doses": [
-        "200MG"
+        "50MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
     },
     {
-      "drug": "ERELZI",
+      "drug": "DORZOLAMIDE-TIMOLOL",
       "doses": [
-        "25MG"
-      ],
-      "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
-    },
-    {
-      "drug": "FENTANYL CITRATE INJECTION SDZ",
-      "doses": [
-        "50MCG"
+        "20MG",
+        "5MG"
       ],
       "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
-      "drug": "PERINDOPRIL ERBUMINE",
+      "drug": "FULVESTRANT INJECTABLE",
       "doses": [
-        "4MG"
-      ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
-    },
-    {
-      "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
-      "doses": [
-        "0.5G",
-        "4G"
-      ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-    },
-    {
-      "drug": "RUPALL",
-      "doses": [
-        "1MG"
-      ],
-      "expectedBackInStockDate": "2026-12-03T05:00:00.000Z"
-    },
-    {
-      "drug": "SOLIFENACIN",
-      "doses": [
-        "10MG"
+        "250MG"
       ],
       "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
-      "drug": "URSODIOL",
+      "drug": "KETOTIFEN OPHTHALMIC",
+      "doses": [
+        "0.25MG"
+      ],
+      "expectedBackInStockDate": "2027-02-26T05:00:00.000Z"
+    },
+    {
+      "drug": "OLANZAPINE FC",
+      "doses": [
+        "7.5MG"
+      ],
+      "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
+    },
+    {
+      "drug": "OXCARBAZEPINE",
+      "doses": [
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+    },
+    {
+      "drug": "PANTOPRAZOLE SODIUM",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+    },
+    {
+      "drug": "PROTAMINE SULFATE INJECTION, USP",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+    },
+    {
+      "drug": "RIVASTIGMINE CAPSULES",
+      "doses": [
+        "6MG"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+    },
+    {
+      "drug": "SOLIFENACIN SUCCINATE",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-12-28T05:00:00.000Z"
+    },
+    {
+      "drug": "SULFASALAZINE",
       "doses": [
         "500MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
+    },
+    {
+      "drug": "XALACOM",
+      "doses": [
+        "50MCG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-24T19:16:04.299Z",
+      "addedDrugsCount": 12,
+      "addedDrugs": [
+        {
+          "drug": "DIPHENHYDRAMINE HYDROCHLORIDE INJECTION, USP",
+          "doses": [
+            "50MG"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        },
+        {
+          "drug": "DORZOLAMIDE-TIMOLOL",
+          "doses": [
+            "20MG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        },
+        {
+          "drug": "FULVESTRANT INJECTABLE",
+          "doses": [
+            "250MG"
+          ],
+          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+        },
+        {
+          "drug": "KETOTIFEN OPHTHALMIC",
+          "doses": [
+            "0.25MG"
+          ],
+          "expectedBackInStockDate": "2027-02-26T05:00:00.000Z"
+        },
+        {
+          "drug": "OLANZAPINE FC",
+          "doses": [
+            "7.5MG"
+          ],
+          "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
+        },
+        {
+          "drug": "OXCARBAZEPINE",
+          "doses": [
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        },
+        {
+          "drug": "PANTOPRAZOLE SODIUM",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+        },
+        {
+          "drug": "PROTAMINE SULFATE INJECTION, USP",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        },
+        {
+          "drug": "RIVASTIGMINE CAPSULES",
+          "doses": [
+            "6MG"
+          ],
+          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+        },
+        {
+          "drug": "SOLIFENACIN SUCCINATE",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-12-28T05:00:00.000Z"
+        },
+        {
+          "drug": "SULFASALAZINE",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
+        },
+        {
+          "drug": "XALACOM",
+          "doses": [
+            "50MCG",
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-23T19:43:31.607Z",
       "addedDrugsCount": 8,
@@ -638,34 +759,6 @@
           "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-11-10T15:59:35.371Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "ADMELOG",
-          "doses": [
-            "100UNIT"
-          ],
-          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-        },
-        {
-          "drug": "NEORAL",
-          "doses": [
-            "10MG",
-            "25MG"
-          ],
-          "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
-        },
-        {
-          "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -754,7 +847,7 @@
       "doses": [
         "100UNIT"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
     },
     {
       "drug": "ADMELOG SOLOSTAR",
@@ -1458,6 +1551,13 @@
       "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
     },
     {
+      "drug": "DIPHENHYDRAMINE HYDROCHLORIDE INJECTION, USP",
+      "doses": [
+        "50MG"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+    },
+    {
       "drug": "DIPHENIST",
       "doses": [
         "50MG"
@@ -1485,6 +1585,14 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+    },
+    {
+      "drug": "DORZOLAMIDE-TIMOLOL",
+      "doses": [
+        "20MG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
       "drug": "DOXAZOSIN",
@@ -1749,6 +1857,7 @@
     {
       "drug": "FLECAINIDE",
       "doses": [
+        "100MG",
         "50MG"
       ],
       "expectedBackInStockDate": "2027-04-30T04:00:00.000Z"
@@ -1782,6 +1891,13 @@
         "70MG"
       ],
       "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+    },
+    {
+      "drug": "FULVESTRANT INJECTABLE",
+      "doses": [
+        "250MG"
+      ],
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
       "drug": "FUROSEMIDE INJECTION USP",
@@ -1950,6 +2066,13 @@
       "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
+      "drug": "KETOTIFEN OPHTHALMIC",
+      "doses": [
+        "0.25MG"
+      ],
+      "expectedBackInStockDate": "2027-02-26T05:00:00.000Z"
+    },
+    {
       "drug": "KIT FOR THE PREPARATION OF TECHNETIUM (99MTC) PYROPHOSPHATE INJECTION",
       "doses": [
         "12MG"
@@ -1961,7 +2084,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2027-12-18T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
     },
     {
       "drug": "LANSOPRAZOLE",
@@ -1977,7 +2100,7 @@
         "50MCG",
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
     },
     {
       "drug": "LATANOPROST-TIMOLOL",
@@ -2254,7 +2377,7 @@
       "doses": [
         "0.5%"
       ],
-      "expectedBackInStockDate": "2026-03-31T04:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-23T05:00:00.000Z"
     },
     {
       "drug": "NABILONE",
@@ -2421,6 +2544,13 @@
       "expectedBackInStockDate": "2026-12-20T05:00:00.000Z"
     },
     {
+      "drug": "OLANZAPINE FC",
+      "doses": [
+        "7.5MG"
+      ],
+      "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
+    },
+    {
       "drug": "OLESTYR",
       "doses": [
         "4G"
@@ -2501,6 +2631,13 @@
       "expectedBackInStockDate": "2027-04-22T04:00:00.000Z"
     },
     {
+      "drug": "OXCARBAZEPINE",
+      "doses": [
+        "150MG"
+      ],
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+    },
+    {
       "drug": "OXYCOCET",
       "doses": [
         "325MG",
@@ -2530,6 +2667,13 @@
         "40MG"
       ],
       "expectedBackInStockDate": "2027-02-01T05:00:00.000Z"
+    },
+    {
+      "drug": "PANTOPRAZOLE SODIUM",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
       "drug": "PANTOPRAZOLE T",
@@ -2578,7 +2722,7 @@
       "doses": [
         "400MG"
       ],
-      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
     },
     {
       "drug": "PERINDOPRIL",
@@ -2757,6 +2901,13 @@
       "expectedBackInStockDate": "2026-12-20T05:00:00.000Z"
     },
     {
+      "drug": "PROTAMINE SULFATE INJECTION, USP",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+    },
+    {
       "drug": "PYRIDOXINE HYDROCHLORIDE INJECTION, USP",
       "doses": [
         "100MG"
@@ -2860,6 +3011,13 @@
       "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
+      "drug": "RIVASTIGMINE CAPSULES",
+      "doses": [
+        "6MG"
+      ],
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+    },
+    {
       "drug": "RIZATRIPTAN",
       "doses": [
         "10MG"
@@ -2879,7 +3037,7 @@
       "doses": [
         "10MG"
       ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-15T04:00:00.000Z"
     },
     {
       "drug": "RUPALL",
@@ -2925,14 +3083,14 @@
         "5MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "SODIUM POLYSTYRENE SULFONATE",
       "doses": [
         "1G"
       ],
-      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-05T05:00:00.000Z"
     },
     {
       "drug": "SOLIFENACIN",
@@ -2940,6 +3098,13 @@
         "10MG"
       ],
       "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+    },
+    {
+      "drug": "SOLIFENACIN SUCCINATE",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-12-28T05:00:00.000Z"
     },
     {
       "drug": "SOTALOL - 160 MG",
@@ -2990,6 +3155,13 @@
         "50MCG"
       ],
       "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+    },
+    {
+      "drug": "SULFASALAZINE",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
     },
     {
       "drug": "SUMATRIPTAN",
@@ -3070,7 +3242,7 @@
         "25MG",
         "80MG"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
       "drug": "TEMODAL",
@@ -3379,7 +3551,8 @@
     {
       "drug": "VITAMIN D",
       "doses": [
-        "10000UNIT"
+        "10000UNIT",
+        "50000UNIT"
       ],
       "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
     },
@@ -3396,6 +3569,14 @@
         "5MG"
       ],
       "expectedBackInStockDate": "2026-12-12T05:00:00.000Z"
+    },
+    {
+      "drug": "XALACOM",
+      "doses": [
+        "50MCG",
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
     },
     {
       "drug": "XARELTO",
@@ -3463,7 +3644,7 @@
       "doses": [
         "5MG"
       ],
-      "expectedBackInStockDate": "2026-12-30T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-12T05:00:00.000Z"
     }
   ]
 }
