@@ -1,96 +1,112 @@
 {
-  "refreshedAt": "2026-11-24T19:16:04.299Z",
-  "count": 622,
-  "addedDrugsCount": 12,
+  "refreshedAt": "2026-11-25T18:20:14.941Z",
+  "count": 625,
+  "addedDrugsCount": 6,
   "addedDrugs": [
     {
-      "drug": "DIPHENHYDRAMINE HYDROCHLORIDE INJECTION, USP",
-      "doses": [
-        "50MG"
-      ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
-    },
-    {
-      "drug": "DORZOLAMIDE-TIMOLOL",
-      "doses": [
-        "20MG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-    },
-    {
-      "drug": "FULVESTRANT INJECTABLE",
-      "doses": [
-        "250MG"
-      ],
-      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-    },
-    {
-      "drug": "KETOTIFEN OPHTHALMIC",
-      "doses": [
-        "0.25MG"
-      ],
-      "expectedBackInStockDate": "2027-02-26T05:00:00.000Z"
-    },
-    {
-      "drug": "OLANZAPINE FC",
-      "doses": [
-        "7.5MG"
-      ],
-      "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
-    },
-    {
-      "drug": "OXCARBAZEPINE",
+      "drug": "AXID",
       "doses": [
         "150MG"
       ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
     },
     {
-      "drug": "PANTOPRAZOLE SODIUM",
+      "drug": "CLOBETASOL SCALP APPLICATION",
       "doses": [
-        "40MG"
+        "0.05%"
+      ],
+      "expectedBackInStockDate": "2027-03-09T05:00:00.000Z"
+    },
+    {
+      "drug": "CREON MINIMICROSPHERES 25",
+      "doses": [
+        "1600UNIT",
+        "25000UNIT",
+        "25500UNIT"
+      ],
+      "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
+    },
+    {
+      "drug": "PYRAZINAMIDE",
+      "doses": [
+        "500MG"
+      ],
+      "expectedBackInStockDate": "2026-12-02T05:00:00.000Z"
+    },
+    {
+      "drug": "STERILE WATER FOR INJECTION USP",
+      "doses": [
+        "100%"
       ],
       "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
-      "drug": "PROTAMINE SULFATE INJECTION, USP",
+      "drug": "TPN ELECTROLYTES",
       "doses": [
-        "10MG"
+        "121MG",
+        "16.05MG",
+        "16.55MG",
+        "25.4MG",
+        "74.55MG"
       ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
-    },
-    {
-      "drug": "RIVASTIGMINE CAPSULES",
-      "doses": [
-        "6MG"
-      ],
-      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
-    },
-    {
-      "drug": "SOLIFENACIN SUCCINATE",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-12-28T05:00:00.000Z"
-    },
-    {
-      "drug": "SULFASALAZINE",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
-    },
-    {
-      "drug": "XALACOM",
-      "doses": [
-        "50MCG",
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-12-29T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-25T18:20:14.941Z",
+      "addedDrugsCount": 6,
+      "addedDrugs": [
+        {
+          "drug": "AXID",
+          "doses": [
+            "150MG"
+          ],
+          "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+        },
+        {
+          "drug": "CLOBETASOL SCALP APPLICATION",
+          "doses": [
+            "0.05%"
+          ],
+          "expectedBackInStockDate": "2027-03-09T05:00:00.000Z"
+        },
+        {
+          "drug": "CREON MINIMICROSPHERES 25",
+          "doses": [
+            "1600UNIT",
+            "25000UNIT",
+            "25500UNIT"
+          ],
+          "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
+        },
+        {
+          "drug": "PYRAZINAMIDE",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2026-12-02T05:00:00.000Z"
+        },
+        {
+          "drug": "STERILE WATER FOR INJECTION USP",
+          "doses": [
+            "100%"
+          ],
+          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
+        },
+        {
+          "drug": "TPN ELECTROLYTES",
+          "doses": [
+            "121MG",
+            "16.05MG",
+            "16.55MG",
+            "25.4MG",
+            "74.55MG"
+          ],
+          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-24T19:16:04.299Z",
       "addedDrugsCount": 12,
@@ -721,41 +737,6 @@
             "20MCG"
           ],
           "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-11-11T15:45:59.130Z",
-      "addedDrugsCount": 4,
-      "addedDrugs": [
-        {
-          "drug": "APIDRA",
-          "doses": [
-            "100UNIT"
-          ],
-          "expectedBackInStockDate": "2027-05-31T04:00:00.000Z"
-        },
-        {
-          "drug": "FOSAVANCE",
-          "doses": [
-            "5600UNIT",
-            "70MG"
-          ],
-          "expectedBackInStockDate": "2027-05-21T04:00:00.000Z"
-        },
-        {
-          "drug": "GLYCOPYRROLATE INJECTION",
-          "doses": [
-            "0.2MG"
-          ],
-          "expectedBackInStockDate": "2027-01-13T05:00:00.000Z"
-        },
-        {
-          "drug": "GRANISETRON HYDROCHLORIDE INJECTION",
-          "doses": [
-            "1MG"
-          ],
-          "expectedBackInStockDate": "2026-11-23T05:00:00.000Z"
         }
       ]
     }
