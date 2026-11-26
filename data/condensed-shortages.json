@@ -1,59 +1,59 @@
 {
-  "count": 384,
-  "refreshedAt": "2026-11-25T18:20:14.941Z",
+  "count": 383,
+  "refreshedAt": "2026-11-26T18:01:34.843Z",
   "source": "github-static-seed",
-  "addedDrugsCount": 6,
+  "addedDrugsCount": 3,
   "addedDrugs": [
     {
-      "drug": "AXID",
+      "drug": "LEVOFLOXACIN IN 5% DEXTROSE INJECTION",
       "doses": [
-        "150MG"
+        "5MG"
       ],
-      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
-      "drug": "CLOBETASOL SCALP APPLICATION",
+      "drug": "SUCCINYLCHOLINE CHLORIDE INJECTION USP",
       "doses": [
-        "0.05%"
+        "20MG"
       ],
-      "expectedBackInStockDate": "2027-03-09T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
     },
     {
-      "drug": "CREON MINIMICROSPHERES 25",
+      "drug": "VISIPAQUE 270",
       "doses": [
-        "1600UNIT",
-        "25000UNIT",
-        "25500UNIT"
+        "550MG"
       ],
-      "expectedBackInStockDate": "2026-12-22T05:00:00.000Z"
-    },
-    {
-      "drug": "PYRAZINAMIDE",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-12-02T05:00:00.000Z"
-    },
-    {
-      "drug": "STERILE WATER FOR INJECTION USP",
-      "doses": [
-        "100%"
-      ],
-      "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-    },
-    {
-      "drug": "TPN ELECTROLYTES",
-      "doses": [
-        "121MG",
-        "16.05MG",
-        "16.55MG",
-        "25.4MG",
-        "74.55MG"
-      ],
-      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-09T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-26T18:01:34.843Z",
+      "addedDrugsCount": 3,
+      "addedDrugs": [
+        {
+          "drug": "LEVOFLOXACIN IN 5% DEXTROSE INJECTION",
+          "doses": [
+            "5MG"
+          ],
+          "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
+        },
+        {
+          "drug": "SUCCINYLCHOLINE CHLORIDE INJECTION USP",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+        },
+        {
+          "drug": "VISIPAQUE 270",
+          "doses": [
+            "550MG"
+          ],
+          "expectedBackInStockDate": "2026-12-09T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-25T18:20:14.941Z",
       "addedDrugsCount": 6,
@@ -712,34 +712,6 @@
           "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
         }
       ]
-    },
-    {
-      "refreshedAt": "2026-11-12T16:29:27.388Z",
-      "addedDrugsCount": 3,
-      "addedDrugs": [
-        {
-          "drug": "COVERSYL PLUS HD",
-          "doses": [
-            "2.5MG",
-            "8MG"
-          ],
-          "expectedBackInStockDate": "2026-11-17T05:00:00.000Z"
-        },
-        {
-          "drug": "CYCLOBENZAPRINE - TAB 10MG",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2027-02-13T05:00:00.000Z"
-        },
-        {
-          "drug": "ENGERIX-B",
-          "doses": [
-            "20MCG"
-          ],
-          "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
-        }
-      ]
     }
   ],
   "results": [
@@ -757,13 +729,6 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-    },
-    {
-      "drug": "ABRILADA",
-      "doses": [
-        "20MG"
-      ],
-      "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
     },
     {
       "drug": "ACCEL-ONDANSETRON ODT",
@@ -1248,7 +1213,7 @@
         "250MG",
         "750MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
     },
     {
       "drug": "CIPROFLOXACIN/DEXAMETHASONE",
@@ -1256,7 +1221,7 @@
         "0.1%",
         "0.3%"
       ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
       "drug": "CISATRACURIUM BESYLATE INJECTION USP MULTIDOSE",
@@ -1292,13 +1257,6 @@
         "0.05%"
       ],
       "expectedBackInStockDate": "2027-02-26T05:00:00.000Z"
-    },
-    {
-      "drug": "CLOTRIMADERM VAGINAL 6",
-      "doses": [
-        "1%"
-      ],
-      "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
     },
     {
       "drug": "CLOXACILLIN",
@@ -1412,7 +1370,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-28T05:00:00.000Z"
     },
     {
       "drug": "DAPAGLIFLOZIN-METFORMIN",
@@ -1457,7 +1415,7 @@
         "100MG",
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "DEXAMETHASONE OMEGA UNIDOSE",
@@ -1493,13 +1451,6 @@
         "500MG"
       ],
       "expectedBackInStockDate": "2026-12-23T05:00:00.000Z"
-    },
-    {
-      "drug": "DIASTAT",
-      "doses": [
-        "5MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
     },
     {
       "drug": "DIAZEPAM",
@@ -1909,7 +1860,7 @@
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2026-10-30T04:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
     },
     {
       "drug": "GABAPENTIN",
@@ -2188,6 +2139,13 @@
         "50MG"
       ],
       "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+    },
+    {
+      "drug": "LEVOFLOXACIN IN 5% DEXTROSE INJECTION",
+      "doses": [
+        "5MG"
+      ],
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
       "drug": "LIDOCAINE HYDROCHLORIDE AND EPINEPHRINE INJECTION USP",
@@ -2747,7 +2705,7 @@
       "doses": [
         "50MG"
       ],
-      "expectedBackInStockDate": "2026-12-01T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
     },
     {
       "drug": "PIPERACILLIN AND TAZOBACTAM FOR INJECTION",
@@ -2795,7 +2753,7 @@
         "50MG",
         "75MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
     },
     {
       "drug": "PREGNANCY MULTIVITAMIN",
@@ -3160,6 +3118,13 @@
       "expectedBackInStockDate": "2026-12-11T05:00:00.000Z"
     },
     {
+      "drug": "SUCCINYLCHOLINE CHLORIDE INJECTION USP",
+      "doses": [
+        "20MG"
+      ],
+      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
+    },
+    {
       "drug": "SUFENTANIL CITRATE INJECTION USP",
       "doses": [
         "50MCG"
@@ -3305,7 +3270,7 @@
       "doses": [
         "1%"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
     },
     {
       "drug": "THIAMIJECT INJECTION - LIQ IM IV 100MG/ML",
@@ -3492,13 +3457,6 @@
       "expectedBackInStockDate": "2026-10-31T04:00:00.000Z"
     },
     {
-      "drug": "URSODIOL",
-      "doses": [
-        "500MG"
-      ],
-      "expectedBackInStockDate": "2026-11-30T05:00:00.000Z"
-    },
-    {
       "drug": "VALACYCLOVIR",
       "doses": [
         "1000MG",
@@ -3553,7 +3511,7 @@
         "37.5MG",
         "75MG"
       ],
-      "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     },
     {
       "drug": "VIAGRA",
@@ -3561,6 +3519,13 @@
         "100MG"
       ],
       "expectedBackInStockDate": "2027-01-12T05:00:00.000Z"
+    },
+    {
+      "drug": "VISIPAQUE 270",
+      "doses": [
+        "550MG"
+      ],
+      "expectedBackInStockDate": "2026-12-09T05:00:00.000Z"
     },
     {
       "drug": "VISUDYNE",
