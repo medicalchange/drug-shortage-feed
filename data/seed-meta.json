@@ -1,31 +1,142 @@
 {
-  "refreshedAt": "2026-11-26T18:01:34.843Z",
-  "count": 624,
-  "addedDrugsCount": 3,
+  "refreshedAt": "2026-11-27T17:46:31.076Z",
+  "count": 622,
+  "addedDrugsCount": 9,
   "addedDrugs": [
     {
-      "drug": "LEVOFLOXACIN IN 5% DEXTROSE INJECTION",
+      "drug": "ACETAMINOPHEN EXTRA STRENGTH",
       "doses": [
-        "5MG"
+        "500MG"
       ],
-      "expectedBackInStockDate": "2027-01-31T05:00:00.000Z"
+      "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
     },
     {
-      "drug": "SUCCINYLCHOLINE CHLORIDE INJECTION USP",
+      "drug": "DAPAGLIFLOZIN",
+      "doses": [
+        "10MG"
+      ],
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+    },
+    {
+      "drug": "DEPO-MEDROL",
+      "doses": [
+        "40MG"
+      ],
+      "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
+    },
+    {
+      "drug": "FENO-SUPER",
+      "doses": [
+        "100MG"
+      ],
+      "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+    },
+    {
+      "drug": "FLOVENT HFA",
+      "doses": [
+        "125MCG"
+      ],
+      "expectedBackInStockDate": "2026-12-09T05:00:00.000Z"
+    },
+    {
+      "drug": "ISOVUE 300 INJECTION",
+      "doses": [
+        "61%"
+      ],
+      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+    },
+    {
+      "drug": "PROHANCE",
+      "doses": [
+        "279.3MG"
+      ],
+      "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+    },
+    {
+      "drug": "RIVASTIGMINE",
+      "doses": [
+        "6MG"
+      ],
+      "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+    },
+    {
+      "drug": "ZIAGEN",
       "doses": [
         "20MG"
       ],
-      "expectedBackInStockDate": "2027-03-31T04:00:00.000Z"
-    },
-    {
-      "drug": "VISIPAQUE 270",
-      "doses": [
-        "550MG"
-      ],
-      "expectedBackInStockDate": "2026-12-09T05:00:00.000Z"
+      "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
     }
   ],
   "addedHistory": [
+    {
+      "refreshedAt": "2026-11-27T17:46:31.076Z",
+      "addedDrugsCount": 9,
+      "addedDrugs": [
+        {
+          "drug": "ACETAMINOPHEN EXTRA STRENGTH",
+          "doses": [
+            "500MG"
+          ],
+          "expectedBackInStockDate": "2027-02-05T05:00:00.000Z"
+        },
+        {
+          "drug": "DAPAGLIFLOZIN",
+          "doses": [
+            "10MG"
+          ],
+          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+        },
+        {
+          "drug": "DEPO-MEDROL",
+          "doses": [
+            "40MG"
+          ],
+          "expectedBackInStockDate": "2026-12-14T05:00:00.000Z"
+        },
+        {
+          "drug": "FENO-SUPER",
+          "doses": [
+            "100MG"
+          ],
+          "expectedBackInStockDate": "2027-01-29T05:00:00.000Z"
+        },
+        {
+          "drug": "FLOVENT HFA",
+          "doses": [
+            "125MCG"
+          ],
+          "expectedBackInStockDate": "2026-12-09T05:00:00.000Z"
+        },
+        {
+          "drug": "ISOVUE 300 INJECTION",
+          "doses": [
+            "61%"
+          ],
+          "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+        },
+        {
+          "drug": "PROHANCE",
+          "doses": [
+            "279.3MG"
+          ],
+          "expectedBackInStockDate": "2026-12-08T05:00:00.000Z"
+        },
+        {
+          "drug": "RIVASTIGMINE",
+          "doses": [
+            "6MG"
+          ],
+          "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
+        },
+        {
+          "drug": "ZIAGEN",
+          "doses": [
+            "20MG"
+          ],
+          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
+        }
+      ]
+    },
     {
       "refreshedAt": "2026-11-26T18:01:34.843Z",
       "addedDrugsCount": 3,
@@ -631,84 +742,6 @@
             "5MCG"
           ],
           "expectedBackInStockDate": "2026-11-20T05:00:00.000Z"
-        }
-      ]
-    },
-    {
-      "refreshedAt": "2026-11-13T15:50:42.698Z",
-      "addedDrugsCount": 10,
-      "addedDrugs": [
-        {
-          "drug": "AMLODIPINE-ATORVASTATIN",
-          "doses": [
-            "10MG",
-            "80MG"
-          ],
-          "expectedBackInStockDate": "2026-11-27T05:00:00.000Z"
-        },
-        {
-          "drug": "CESAMET",
-          "doses": [
-            "0.5MG"
-          ],
-          "expectedBackInStockDate": "2027-01-15T05:00:00.000Z"
-        },
-        {
-          "drug": "DOXY-TABS",
-          "doses": [
-            "100MG"
-          ],
-          "expectedBackInStockDate": "2026-12-18T05:00:00.000Z"
-        },
-        {
-          "drug": "ENALAPRIL",
-          "doses": [
-            "5MG"
-          ],
-          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-        },
-        {
-          "drug": "ENZALUTAMIDE",
-          "doses": [
-            "40MG"
-          ],
-          "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
-        },
-        {
-          "drug": "LEVOCARB CR",
-          "doses": [
-            "200MG",
-            "50MG"
-          ],
-          "expectedBackInStockDate": "2027-01-08T05:00:00.000Z"
-        },
-        {
-          "drug": "MEGESTROL",
-          "doses": [
-            "40MG"
-          ],
-          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
-        },
-        {
-          "drug": "NAPROXEN EC",
-          "doses": [
-            "500MG"
-          ],
-          "expectedBackInStockDate": "2027-01-22T05:00:00.000Z"
-        },
-        {
-          "drug": "RIZATRIPTAN",
-          "doses": [
-            "10MG"
-          ],
-          "expectedBackInStockDate": "2027-03-19T04:00:00.000Z"
-        },
-        {
-          "drug": "TICAGRELOR",
-          "doses": [
-            "60MG"
-          ],
-          "expectedBackInStockDate": "2026-12-04T05:00:00.000Z"
         }
       ]
     }
